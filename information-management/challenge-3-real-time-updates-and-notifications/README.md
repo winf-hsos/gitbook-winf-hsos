@@ -4,5 +4,5 @@ description: >-
   complete this challenge.
 ---
 
-# Scenario C: Real-Time Data
+# Case C: Real-Time Data
 

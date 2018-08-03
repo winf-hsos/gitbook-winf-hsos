@@ -4,5 +4,5 @@ description: >-
   complete this challenge.
 ---
 
-# Scenario B: Sales Data
+# Case B: Sales Data
 

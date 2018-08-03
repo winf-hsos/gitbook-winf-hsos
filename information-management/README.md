@@ -32,15 +32,23 @@ After completing this course, you will be able to:
 
 ## Concept
 
-The course centers around key use cases for information management. These key use cases are presented as challenges, which must be solved in small groups throughout the semester.
+The course centers around today's key use cases for information management. These key use cases are presented as challenges, which must be solved in small groups throughout the semester.
 
-The information needed to solve theses challenges can be obtained during the course. Therefore, the two weekly sessions are divided into two parts: one for the introduction of new concepts, and the second for  supervised work on the challenges. However, most of the challenge work will be done within the group outside of class.
+The **first case** describes a very common situation: You are getting a new and unknown data set in some file format. Sometime you asked for it, sometimes you didn't. In either case, you want to find out what the data holds for you. But how do you most efficiently do that?
 
 {% page-ref page="challenge-1-explore-new-dataset/" %}
 
+The **second case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
+
 {% page-ref page="challenge-1-sales-data-analysis/" %}
 
+The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is  created with high but unknown frequency.
+
 {% page-ref page="challenge-3-real-time-updates-and-notifications/" %}
+
+The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data such from social media or product reviews. Sounds like a challenge to me!
+
+{% page-ref page="scenario-d-big-data-analysis/" %}
 
 ## Examination
 

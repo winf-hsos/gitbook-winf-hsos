@@ -4,5 +4,5 @@ description: >-
   complete this challenge.
 ---
 
-# Scenario A: Data Sets
+# Case A: Data Sets
 
