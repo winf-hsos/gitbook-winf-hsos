@@ -1,0 +1,39 @@
+---
+description: >-
+  This page contains links to software, books I recommend, data sets, videos and
+  other resources related to the modules.
+---
+
+# Links
+
+## Software
+
+| **Name** | **Link** |
+| :--- | :--- |
+| Azure ML Studio | [https://studio.azureml.net/Home/](https://studio.azureml.net/Home/) |
+| Cloud9 IDE | [https://c9.io](https://c9.io) |
+| Databricks Community Edition | [https://community.cloud.databricks.com/](https://community.cloud.databricks.com/) |
+| Tableau | [https://www.tableau.com/de-de](https://www.tableau.com/de-de) |
+| Tinkerforge Software | [https://www.tinkerforge.com/de/doc/Downloads.html](https://www.tinkerforge.com/de/doc/Downloads.html) |
+| Visual Studio Code | [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download) |
+| VNC Viewer | [https://www.realvnc.com/de/connect/download/viewer/](https://www.realvnc.com/de/connect/download/viewer/) |
+
+## Books
+
+Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): [Prediction machines. The simple economics of artificial intelligence](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FPrediction-Machines-Economics-Artificial-Intelligence-ebook%2Fdp%2FB075GXJPFS&sa=D&sntz=1&usg=AFQjCNEnHzQxas-w5rGGCZZ4z8B1fUJ8_g). Boston, Massachusetts: Harvard Business Review Press.
+
+Brynjolfsson, Erik; McAfee, Andrew \(2016\): [The second machine age. Work, progress, and prosperity in a time of brilliant technologies](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FSecond-Machine-Age-Prosperity-Technologies-ebook%2Fdp%2FB00D97HPQI&sa=D&sntz=1&usg=AFQjCNHaN0yHG8tW0q6bBpWsTnm_4vkx1Q). New York, London: W.W. Norton & Company.
+
+Tegmark, Max \(2017\): [Life 3.0. Being human in the age of artificial intelligence](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FLife-3-0-Being-Artificial-Intelligence%2Fdp%2F024123719X&sa=D&sntz=1&usg=AFQjCNH2liFgVpbCIoVfE0PP88wgtbnffw).
+
+Wadwha, Vivek; Salkever, Alex \(2017\): [The driver in the driverless car. How our technology choices will create the future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fproduct%2FB01N4GGCUS&sa=D&sntz=1&usg=AFQjCNFqcLSeFqRWJoVUeaYKeVm6QyWsbQ). Oakland, CA: BK Berrett-Koehler Publishers Inc \(BK business book\).
+
+Yang, Andrew \(2018\): [The war on normal people. The truth about America's disappearing jobs and why universal basic income is our future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FWar-Normal-People-Disappearing-Universal-ebook%2Fdp%2FB075D8DQMY&sa=D&sntz=1&usg=AFQjCNEsmIKuLjQ1KmkrVTq0PwW6zSJ3Dw). First edition. New York: Hachette Books.
+
+## Data Sets
+
+| **Name** | **Link** |
+| :--- | :--- |
+| "Yelp Data Set" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) |
+| "What's On The Menu" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/nypl/whats-on-the-menu) |
+
