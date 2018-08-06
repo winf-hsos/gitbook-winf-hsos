@@ -36,5 +36,7 @@ Yang, Andrew \(2018\): [The war on normal people. The truth about America's disa
 | :--- | :--- |
 | "Yelp Data Set" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) |
 | "What's On The Menu" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/nypl/whats-on-the-menu) |
-| "Wine Reviews" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/zynicide/wine-reviews/version/4#) |
+| "Wine Reviews" from Kaggle.com | [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) |
+
+
 

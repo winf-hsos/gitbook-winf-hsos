@@ -1,4 +1,10 @@
-# 05 - First SQL
+---
+description: >-
+  In this lesson, you'll write your first SQL statements and start querying some
+  data.
+---
+
+# 06 - First SQL
 
 ## De facto standard for querying databases
 

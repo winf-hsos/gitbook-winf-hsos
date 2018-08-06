@@ -1,3 +1,7 @@
+---
+description: This lesson introduces data sets and what we mean by that.
+---
+
 # 03 - Data Sets
 
 ## Data Formats

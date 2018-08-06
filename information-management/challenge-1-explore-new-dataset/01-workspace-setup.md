@@ -1,3 +1,7 @@
+---
+description: 'In this lesson, you''ll prepare everything you need to get started working.'
+---
+
 # 01 - Workspace Setup
 
 ## Register with Databricks Community Edition
@@ -5,13 +9,13 @@
 For this course, you need a Databricks account, which gives you access to a cloud-based environment that lets you work with data in various ways.
 
 {% hint style="success" %}
-**TASK 1:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the **Community Edtion**, **not** the free trial version!
+**TASK 1:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the Community Edtion, **not** the free trial version!
 {% endhint %}
 
 ## Download the data set
 
 {% hint style="success" %}
-**TASK 2:** [Download](https://www.kaggle.com/zynicide/wine-reviews/version/4#) the data set and save the ZIP file to your computer!
+**TASK 2:** [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) the data set and save the ZIP file to your computer!
 {% endhint %}
 
 ## Open the data set with your favorite editor
