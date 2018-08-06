@@ -2,6 +2,8 @@
 
 ## Data Formats
 
+### Comma Separated Values \(CSV\)
+
 ## Data Types
 
 
