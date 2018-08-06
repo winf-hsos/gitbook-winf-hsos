@@ -18,10 +18,6 @@ However, to use Databricks you need to create a free account. Use your universit
 On the [sign-up page](https://databricks.com/try-databricks), make sure you click on the **Community Edition** on the right side! You do not want the free trial of the Databricks Platform.
 {% endhint %}
 
-{% hint style="success" %}
-**TODO**: Create a free account with Databricks Community Edition! Register [here](https://databricks.com/try-databricks)!
-{% endhint %}
-
 ## Workspace
 
 When you log into Databricks you are right in your workspace. More precisely, you are presented with the landing page of your workspace. From there, you can perform many important actions right away:
