@@ -14,13 +14,17 @@ We can upload new files by navigating to the "Data" tab in our menu on the left.
 
 In this new dialog, we have several options to create a new table from data \(we'll create a table later on\). Although the dialog is for creating tables, we can skip that and only upload new data. To do that, select the "Upload Files"  button as shown below.
 
-![](../../.gitbook/assets/create_new_table.png)
+![Several options to add new data](../../.gitbook/assets/create_new_table.png)
 
 Now you can either drag & drop your file from your Window \(or Mac\) explorer to the gray box, or you can clock "browse" to select the file from your hard drive.
 
 Once the upload starts, you see a small green progress bar, and when it is finished, you see a bold green check mark as shown in the screenshot below.
 
-![](../../.gitbook/assets/upload_data.png)
+![The green checkmark indicates successful upload of the file.](../../.gitbook/assets/upload_data.png)
 
+When the upload completes, a small text appears right underneath the gray box that prints the destination path of the uploaded file. Make sure you copy this path, as we'll need this when we want to access this file from a notebook.
 
+{% hint style="info" %}
+Make sure you copy the path where data is stored in DBFS! You will need this information later on. In the image above, the path is `/FileStore/tables/winemag_data_130k_v2-246fd.csv`
+{% endhint %}
 
