@@ -2,13 +2,13 @@
 description: This lesson gives an introduction to Databricks.
 ---
 
-# 02 - Databricks
+# 02 - Databricks Intro
 
 ## What you'll learn
 
 In this lesson you'll get to know the Databricks cloud platform. We'll cover the basic elements of Databricks, such as the workspace, notebooks, and clusters. Knowing these elements is essential to start working with Databricks.
 
-## What you need
+## What is Databricks?
 
 Databricks runs in the cloud and you can interface with Databricks using any modern web browser. I personally recommend [Chrome](https://www.google.de/chrome/). There is no need to install any desktop application. This is nice, since you can access Databricks from any computer.
 
