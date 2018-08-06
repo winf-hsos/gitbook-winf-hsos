@@ -12,10 +12,14 @@ In this lesson you'll get to know the Databricks web application. We'll cover th
 
 Databricks runs in the cloud and you can interface with Databricks using any modern web browser. I personally recommend [Chrome](https://www.google.de/chrome/). There is no need to install any desktop application. This is nice, since you can access Databricks from any computer.
 
-Howevery, to use Databricks you need to create a free account. Use your university's e-mail address and sign-up [here](https://databricks.com/try-databricks).
+However, to use Databricks you need to create a free account. Use your university's e-mail address and sign-up here.
 
 {% hint style="info" %}
 On the [sign-up page](https://databricks.com/try-databricks), make sure you click on the **Community Edition** on the right side! You do not want the free trial of the Databricks Platform.
+{% endhint %}
+
+{% hint style="success" %}
+**TODO**: Create a free account with Databricks Community Edition! Register [here](https://databricks.com/try-databricks)!
 {% endhint %}
 
 ## Workspace
