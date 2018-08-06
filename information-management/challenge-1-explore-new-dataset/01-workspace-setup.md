@@ -5,10 +5,14 @@
 For this course, you need a Databricks account, which gives you access to a cloud-based environment that lets you work with data in various ways.
 
 {% hint style="success" %}
-**TODO:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the **Community Edtion**, **not** the free trial version!
+**TASK 1:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the **Community Edtion**, **not** the free trial version!
 {% endhint %}
 
 ## Download the data set
+
+{% hint style="success" %}
+**TASK 2:** Download the data set and save the ZIP file to your computer!
+{% endhint %}
 
 ## Open the data set with your favorite editor
 
