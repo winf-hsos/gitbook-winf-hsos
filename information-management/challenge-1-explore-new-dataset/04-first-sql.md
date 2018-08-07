@@ -16,12 +16,12 @@ If a database does not rely on the relational model, this doesn't mean the data 
 
 ## Date and time
 
-Data and time values are important in many analytic scenarios. We often want to know when something happened, or how often something happened during a particular time window. Examples:
+Data and time values are important in many analytic scenarios. We often want to know when something happened, or how often an event occured happened during a particular time window. Some examples:
 
-* How many item have we sold today?
-* How many yesterday? Or the same day the year before?
-* How many mentions on Twitter did we get in the last hour?
-* How long since we last sold this product?
+* How many item have we sold **today**?
+* How many **yesterday**? Or the **same day the year before**?
+* How many mentions on Twitter did we get in the **last hour**?
+* **How long** since we last sold this product?
 
 ```sql
 %sql
