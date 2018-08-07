@@ -38,12 +38,39 @@ Make sure you copy the path where data is stored in DBFS! You will need this inf
 Should you forget or lose the path, you can browse through the files when you click on "DBFS" instead of "Upload File". When you click on a file, the path is shown as text.
 {% endhint %}
 
-## Import a data aet from Amazon S3
+## Import a data set from Amazon S3
 
 When you have a relatively small data set \( &lt; 100 MB\), uploading it to DBFS as described above is the fastest way. If you have larger data sets, you can store them cheaply in Amazon S3, which is the cloud-storage offering by Amazon Web Services. From there, Databricks can directly read the data over a super-fast connection.
 
 With S3 \(= Simple Storage Service\) and Databricks, you actually have 2 options:
 
-1. Host the file publicy on S3, and from a Databricks notebook, copy the file into the DBFS. This is the way I provide you with files, as I have an Amazon S3 account and I already have the files we use in the courses uploaded there. With a small chunk of code, you can simply copy the file from my S3 drive to your Databricks account. This makes it faster, since you don't have to use your own internet connection to upload the file. Plus, it completely automates the task for you!
-2. Host the file securely on your own S3 account, and then authorize Databricks to read the file with your  Amazon credentials directly from S3, no copy to DBFS necessary.
+1. Host the file publicy on S3, and from a Databricks notebook, copy the file into the DBFS. This is the way I provide you with files, as I have an Amazon S3 account and I already have the files we use in the courses uploaded there. With a small chunk of code, you can simply copy the file from my S3 drive to your Databricks account. This makes it faster, since you don't have to use your own internet connection to upload the file. Plus, it completely automates the task for you! \(**This is the relevant option**\)
+2. Host the file securely on your own S3 account, and then authorize Databricks to read the file with your  Amazon credentials directly from S3, no copy to DBFS necessary. \(**This is not relevant for our purposes**\)
+
+In the following, the first option is described, which we'll use in our modules.
+
+```scala
+import scala.sys.process._
+val tableName = "crimes"
+val fileName = "Chicago_Crimes_2012_to_2017.csv.gz"
+
+val localpath = "file:/tmp/" + fileName
+dbutils.fs.rm(localpath)
+
+sqlContext.sql("drop table if exists " + tableName)
+
+"wget -P /tmp https://s3.amazonaws.com/nicolas.meseth/data+sets/" + fileName !!
+
+dbutils.fs.rm("dbfs:/datasets/" + fileName)
+dbutils.fs.mkdirs("dbfs:/datasets/")
+dbutils.fs.cp(localpath, "dbfs:/datasets/")
+display(dbutils.fs.ls("dbfs:/datasets/" + fileName))
+
+val df = spark.read.option("header", "true") 
+                        .option("inferSchema", "true")
+                        .csv("/datasets/" + fileName)
+df.unpersist()
+df.cache()
+df.write.saveAsTable(tableName); 
+```
 
