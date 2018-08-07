@@ -13,7 +13,7 @@ description: >-
 
 ## Recommended Path
 
-If you want to maximize your knowledge in digitalization & IT, you should enrol in all courses. For that, I recommend the following paths.
+If you want to maximize your skills and knowledge in digitalization & IT, you should enrol in all my courses. For that, I recommend the following paths.
 
 ### Bachelor
 
