@@ -30,6 +30,7 @@
     * [04 - Upload Data](information-management/challenge-1-explore-new-dataset/03-upload-data.md)
     * [05 - Create Tables](information-management/challenge-1-explore-new-dataset/05-create-tables.md)
     * [06 - First SQL](information-management/challenge-1-explore-new-dataset/04-first-sql.md)
+    * [07 - Mappings](information-management/challenge-1-explore-new-dataset/07-mappings.md)
   * [Case B: Sales Data](information-management/challenge-1-sales-data-analysis/README.md)
     * [10 - Relational Model](information-management/challenge-1-sales-data-analysis/10-relational-model.md)
     * [11 - Databases](information-management/challenge-1-sales-data-analysis/10-databases.md)

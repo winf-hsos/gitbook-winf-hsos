@@ -32,11 +32,14 @@ Yang, Andrew \(2018\): [The war on normal people. The truth about America's disa
 
 ## Data Sets
 
+I used the following data set in my courses.
+
 | **Name** | **Link** |
 | :--- | :--- |
 | "Yelp Data Set" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) |
 | "What's On The Menu" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/nypl/whats-on-the-menu) |
 | "Wine Reviews" from Kaggle.com | [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) |
+| "Crimes in Chicago" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/currie32/crimes-in-chicago) |
 
 
 
