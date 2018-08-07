@@ -49,28 +49,60 @@ With S3 \(= Simple Storage Service\) and Databricks, you actually have 2 options
 
 In the following, the first option is described, which we'll use in our modules.
 
+{% code-tabs %}
+{% code-tabs-item title="load\_crime\_data.scala" %}
 ```scala
 import scala.sys.process._
+
+/* Declare some helper variables */
 val tableName = "crimes"
 val fileName = "Chicago_Crimes_2012_to_2017.csv.gz"
-
 val localpath = "file:/tmp/" + fileName
+
+/* Remove an old file if exists */
 dbutils.fs.rm(localpath)
 
+/* Drop the table if already there */
 sqlContext.sql("drop table if exists " + tableName)
 
+/* Copy the public file from Amazon S3 bucket */
 "wget -P /tmp https://s3.amazonaws.com/nicolas.meseth/data+sets/" + fileName !!
 
+/* Remove a possibly old file from the datasets folder */
 dbutils.fs.rm("dbfs:/datasets/" + fileName)
+
+/* Make sure the folder exists (does nothing if already there) */
 dbutils.fs.mkdirs("dbfs:/datasets/")
+
+/* Copy the file from temp folder to datasets */
 dbutils.fs.cp(localpath, "dbfs:/datasets/")
+
+/* List the file to make sure it worked */
 display(dbutils.fs.ls("dbfs:/datasets/" + fileName))
 
-val df = spark.read.option("header", "true") 
+/* Create a new dataframe from the file */
+var df = spark.read.option("header", "true") 
                         .option("inferSchema", "true")
                         .csv("/datasets/" + fileName)
+
+/* Rename columns with spaces in their name */
+df = df.withColumnRenamed("_c0", "Number")
+df = df.withColumnRenamed("Case Number", "CaseNumber")
+df = df.withColumnRenamed("Primary Type", "PrimaryType")
+df = df.withColumnRenamed("FBI Code", "FBICode")
+df = df.withColumnRenamed("Updated On", "UpdatedOn")
+df = df.withColumnRenamed("Location Description", "LocationDescription")
+df = df.withColumnRenamed("Community Area", "CommunityArea")
+df = df.withColumnRenamed("X Coordinate", "XCoordinate")
+df = df.withColumnRenamed("Y Coordinate", "YCoordinate")
+
+/* Cache dataframe for faster processing */
 df.unpersist()
 df.cache()
+
+/* Save dataframe as table, thus make the data permanent */
 df.write.saveAsTable(tableName); 
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 

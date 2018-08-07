@@ -14,6 +14,25 @@ With the arrival of new types of databases, such as document oriented databases,
 
 If a database does not rely on the relational model, this doesn't mean the data isn't in some way structured. In fact, there is no way to query unstructured data - what would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. \(This is called [schema-on-read](../scenario-d-big-data-analysis/31-semi-structured-data.md)\). And once we a schema, we can use SQL.
 
+## Date and time
+
+Data and time values are important in many analytic scenarios. We often want to know when something happened, or how often something happened during a particular time window. Examples:
+
+* How many item have we sold today?
+* How many yesterday? Or the same day the year before?
+* How many mentions on Twitter did we get in the last hour?
+* How long since we last sold this product?
+
+```sql
+%sql
+select 
+    date
+   ,to_date(CAST(UNIX_TIMESTAMP(date, 'MM/dd/yyyy hh:mm:ss a') AS TIMESTAMP))
+   ,year(TO_DATE(CAST(UNIX_TIMESTAMP(date, 'MM/dd/yyyy hh:mm:ss a') AS TIMESTAMP)))
+   ,hour(CAST(UNIX_TIMESTAMP(date, 'MM/dd/yyyy hh:mm:ss a') AS TIMESTAMP))
+from crimes
+```
+
 ## Quiz
 
 Take the following quiz to check if you understand the basics of this lesson.
