@@ -9,13 +9,13 @@ description: 'In this lesson, you''ll prepare everything you need to get started
 For this course, you need a Databricks account, which gives you access to a cloud-based environment that lets you work with data in various ways.
 
 {% hint style="success" %}
-**TASK 1:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the Community Edtion, **not** the free trial version!
+**TASK:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for free for the Databricks Community Edition! Make sure to choose the Community Edtion, **not** the free trial version!
 {% endhint %}
 
 ## Download the data set
 
 {% hint style="success" %}
-**TASK 2:** [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) the data set and save the ZIP file to your computer!
+**TASK:** [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) the data set and save the ZIP file to your computer!
 {% endhint %}
 
 ## Open the data set with your favorite editor
@@ -25,7 +25,7 @@ One nice thing about text files is you can open them with almost any editor. Win
 Once installed, start Notepad++ and open the file containing the data set.
 
 {% hint style="warning" %}
-Depending on the file size, opening a large file in Notepad++ might take a short moment. Be aware that opening files &gt; 1 GB can be a problem, depending on how  much RAM your computer has. You can try to open files of any size, if Notepad++ cannot open them it'll notify you.
+Depending on the file size, opening a large file in Notepad++ might take a short moment. Be aware that opening files &gt; 1 GB can be a problem, depending on how much RAM your computer has. You can try to open files of any size, if Notepad++ cannot open them it'll notify you.
 {% endhint %}
 
 When done loading, the editor content should look like this:
