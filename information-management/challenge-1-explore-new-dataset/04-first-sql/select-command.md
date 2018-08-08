@@ -32,7 +32,7 @@ Note that the example above is oversimplified, but serves the purpose of showing
 
 ## General syntax
 
-In the example above, we learned about the most important part of every select statement: Which columns to select and from which table. We have seen this for the example of the person table. More general, the select statement can be written as:
+In the example above, we learned about the most important part of every select statement: Which columns to select and from which table. We have seen this for the example of the person table. More general, the select statement as we know it so far can be written as:
 
 ```sql
 SELECT <columns> FROM <table>
