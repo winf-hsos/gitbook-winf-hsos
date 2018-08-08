@@ -10,7 +10,7 @@ This page is under construction.
 
 ## Learning Objectives
 
-In this course you are going to acquire knowledge and skills on how to handle data and information and how to derive value from data. 
+In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information. 
 
 ### What you'll know
 
