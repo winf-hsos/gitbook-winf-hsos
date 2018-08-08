@@ -30,3 +30,13 @@ That was easy, right? And so far quite intuitive and close to how we naturally s
 Note that the example above is oversimplified, but serves the purpose of showing the concepts of the select statement. The exercise of selecting 2 out of 3 columns may seem pointless in this scenario. But keep in mind that in a real world data set, the number of columns can span between 10 - 100 or even more. Here, selecting only what you need becomes essential.
 {% endhint %}
 
+## General syntax
+
+In the example above, we learned about the most important part of every select statement: Which columns to select and from which table. We have seen this for the example of the person table. More general, the select statement can be written as:
+
+```sql
+SELECT <columns> FROM <table>
+```
+
+Here, there are two placeholders `<columns>` and `<table>` that can simply be replaced with the correct values and the statement becomes applicable to any table.
+
