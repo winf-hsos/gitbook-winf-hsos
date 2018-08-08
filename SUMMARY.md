@@ -30,7 +30,7 @@
       * [Overview](information-management/challenge-1-explore-new-dataset/02-upload-data/overview.md)
       * [Apache Spark](information-management/challenge-1-explore-new-dataset/02-upload-data/05-create-tables.md)
       * [Upload Data](information-management/challenge-1-explore-new-dataset/02-upload-data/03-upload-data.md)
-    * [Query the Data Set](information-management/challenge-1-explore-new-dataset/04-first-sql/README.md)
+    * [Simple Queries](information-management/challenge-1-explore-new-dataset/04-first-sql/README.md)
       * [SQL](information-management/challenge-1-explore-new-dataset/04-first-sql/sql.md)
       * [Select](information-management/challenge-1-explore-new-dataset/04-first-sql/select-command.md)
       * [Filter](information-management/challenge-1-explore-new-dataset/04-first-sql/filtering.md)

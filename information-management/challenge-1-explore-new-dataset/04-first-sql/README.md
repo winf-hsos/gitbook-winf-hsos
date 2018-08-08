@@ -4,5 +4,5 @@ description: >-
   data.
 ---
 
-# Query the Data Set
+# Simple Queries
 

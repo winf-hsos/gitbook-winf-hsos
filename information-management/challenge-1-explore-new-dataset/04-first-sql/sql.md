@@ -22,7 +22,7 @@ SQL is most strongly associated with realtional databases. This what is was orin
 
 ### Query data
 
-SQL is most famous for its ability to _query_ strucutred data. The means to do that is the popular select command. Selecting data with this commandis at the core of what we do with SQL. For most of our scenarios, we assume the structure and content of the data is given. We only want to _get_ the data we need from the given data set. This can be tricky, but it requires only the select command.
+SQL is most famous for its power to _query_ strucutred data. The means to do that is the popular _select_ command. Selecting data with this command is at the core of what we do with SQL in our courses. For most scenarios, we assume the structure and content of the data is given. We only want to _get_ the data we need from the given data set. This can be tricky, but it requires only the select command.
 
 ### Manipulate data
 
@@ -33,4 +33,22 @@ To change a data set's content, we can use a specific set of SQL's commands. Thi
 * Add new data records
 
 ### Define data
+
+Before we can do anything useful with data, we must define a structure for it. That is especially true for relational databases, where the upfront definition of a static schema is a requirement. A typical description of the data structure includes the tables, the relationships among them, the table's columns as well as the column's data types. SQL's _Data Definition Language \(DDL\)_ allows us to do that. With DDL, we can \(among other operations\):
+
+* Define and create databases
+* Create tables
+* Define a table's columns \(name, key constraints, data type\)
+* Manifest relationships between tables
+* Invoke constraints, such as _non-null_ or a maximum length of strings
+
+### Procedures
+
+We do not consider this part of the core SQL standard, but in most databases, it is possible to write procedures that can be executed either manually or based on triggers. For the definition of such procedures, the SQL language is usually extended to the functionality of a full programming language. Popular examples include [Microsoft's T-SQL](https://docs.microsoft.com/de-de/sql/t-sql/language-reference) or [Oracle's PL/SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html).
+
+{% hint style="info" %}
+Note that **SQL is not a programming language**, despite the fact that many database vendors have extended SQL to include the functionality of a programming language \(e.g. T-SQL, PL/SQL\)
+{% endhint %}
+
+
 
