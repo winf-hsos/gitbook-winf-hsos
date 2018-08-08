@@ -4,7 +4,7 @@ description: >-
   data.
 ---
 
-# First SQL
+# Query the Data Set
 
 ## De facto standard for querying databases
 
