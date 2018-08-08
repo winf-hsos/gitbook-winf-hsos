@@ -10,20 +10,14 @@ If you could talk to a database and ask for specific data, how would you formula
 
 One idea behind the select statement is that users should write queries similar to how they would formulate the query in the English language. Consider we have a data set \(or table\) called _person_ with 3 columns and 5 rows:
 
-![](../../../.gitbook/assets/person_table.png)
+![](../../../.gitbook/assets/person_table%20%281%29.png)
 
-**PERSON**
+Given this simple table, how would you formulate a request to get only the name and height of each person \(not the weight\)? You would probably say something like _"_**Give me only the name and height of each person, please"**_,_ right?
 
-| name | height | weight |
-| :--- | :--- | :--- |
-| Hans | 188 | 92 |
-| Horst | 175 | 74 |
-| Franz | 191 | 100 |
-| Sonja | 162 | 55 |
-| Lisa | 170 | 60 |
+Let's consider the table more as set with elements \(rows\) and properties which we can choose _from_. We could then formulate it as "**I'd like to choose the name and the height from the person set**". That's very close to what it would look like in SQL. We only have to replace the verb "choose" with "select" and remove some fill words: "~~I'd like to~~ **select** ~~the~~ **name** ~~and the~~ **height from** ~~the~~ **person** ~~set~~". Instead of "and" we put a comma, and we have our first working select statement:
 
 ```sql
-SELECT name FROM person
+SELECT name, height FROM person
 ```
 
 
