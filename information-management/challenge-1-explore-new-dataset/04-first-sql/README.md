@@ -6,9 +6,3 @@ description: >-
 
 # Query the Data Set
 
-## Quiz
-
-Take the following quiz to check if you understand the basics of this lesson.
-
-* [SQL Introduction Quiz](https://goo.gl/forms/xM9FjAZPkTaYiFLp2)
-

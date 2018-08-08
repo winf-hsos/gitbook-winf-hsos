@@ -1,3 +1,7 @@
+---
+description: This lesson gives a brief background on SQL.
+---
+
 # SQL
 
 ## Why SQL?
