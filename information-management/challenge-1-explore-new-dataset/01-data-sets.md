@@ -1,5 +1,7 @@
 ---
-description: This lesson introduces data sets and what we mean by that.
+description: >-
+  This lesson introduces data sets, properties of data, and what we mean by all
+  that.
 ---
 
 # Data Sets
