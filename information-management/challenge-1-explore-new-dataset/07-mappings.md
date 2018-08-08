@@ -1,2 +1,2 @@
-# 07 - Mappings
+# Mappings
 

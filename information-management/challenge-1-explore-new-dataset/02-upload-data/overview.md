@@ -1,12 +1,4 @@
----
-description: This lesson gives an introduction to Databricks.
----
-
-# 02 - Databricks Intro
-
-## What you'll learn
-
-In this lesson you'll get to know the Databricks cloud platform. We'll cover the basic elements of Databricks, such as the workspace, notebooks, and clusters. Knowing these elements is essential to start working with Databricks.
+# Overview
 
 ## What is Databricks?
 
@@ -26,7 +18,7 @@ When you log into Databricks you are right in your workspace. More precisely, yo
 * Start a new cluster
 * Upload data
 
-![Landing page of Databricks Community Edition](../../.gitbook/assets/databricks_ui.png)
+![Landing page of Databricks Community Edition](../../../.gitbook/assets/databricks_ui.png)
 
 On the left of the Databricks UI \(= User Interface\), you see the main navigation menu to access the different sections of the UI. The most important sections for use are _Home_ and _Workspace_, which are actually identical. Additionally, we need the _Data_ and _Cluster_ sections once in while to upload new data and start new clusters.
 

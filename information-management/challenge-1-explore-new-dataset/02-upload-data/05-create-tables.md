@@ -4,5 +4,5 @@ description: >-
   learn how to create a table from a data file.
 ---
 
-# 05 - Create Tables
+# Create Tables
 

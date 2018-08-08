@@ -2,7 +2,7 @@
 description: 'In this lesson, you''ll learn how to upload a file to Databricks DBFS.'
 ---
 
-# 04 - Upload Data
+# Upload Data
 
 ## The DBFS
 
@@ -18,17 +18,17 @@ For more information on the DBFS, check out the [official documentation](https:/
 
 We can upload a new file if we if naviagte to the "Data" tab in our menu on the left. Once we click on "Data", we see a list of existing databases and the contained tables \(if any tables exist\). In the upper-right corner, we see a button "Add Data", which takes us to a new dialog.
 
-![List of databases and contained tables.](../../.gitbook/assets/add_data.png)
+![List of databases and contained tables.](../../../.gitbook/assets/add_data.png)
 
 In this new dialog, we have several options to create a new table from data. Although the dialog is for creating tables, we can skip that and only upload new data \(we'll create a table later on\). To upload a new file, select the "Upload Files"  button as shown below.
 
-![Several options to add new data.](../../.gitbook/assets/create_new_table.png)
+![Several options to add new data.](../../../.gitbook/assets/create_new_table.png)
 
 Now you can either drag & drop your file from your Window \(or Mac\) explorer to the gray box, or you can click "browse" to select the file from your hard drive.
 
 Once the upload starts, you see a small green progress bar, and when it is finished, you see a bold green check mark as shown in the screenshot below.
 
-![The green checkmark indicates successful upload of the file.](../../.gitbook/assets/upload_data.png)
+![The green checkmark indicates successful upload of the file.](../../../.gitbook/assets/upload_data.png)
 
 When the upload completes, a small text appears right underneath the gray box that prints the destination path of the uploaded file. Make sure you copy this path, as we'll need this when we want to access this file from a notebook.
 
