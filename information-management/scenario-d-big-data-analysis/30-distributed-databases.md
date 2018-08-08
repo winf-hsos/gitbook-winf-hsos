@@ -1,2 +1,2 @@
-# 30 - Distribution
+# Distribution
 

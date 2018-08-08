@@ -4,7 +4,7 @@ description: >-
   presentations with the MINTO pyramid.
 ---
 
-# 50 - MINTO Pyramid
+# MINTO Pyramid
 
 ## Must Reads
 

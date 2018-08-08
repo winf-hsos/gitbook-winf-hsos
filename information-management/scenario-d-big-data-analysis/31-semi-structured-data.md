@@ -1,2 +1,2 @@
-# 31 - Missing Structure
+# Missing Structure
 

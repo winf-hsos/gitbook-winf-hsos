@@ -1,2 +1,2 @@
-# 21 - Publish / Subscribe
+# Publish / Subscribe
 

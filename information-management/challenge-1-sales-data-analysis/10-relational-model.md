@@ -1,2 +1,2 @@
-# 10 - Relational Model
+# Relational Model
 
