@@ -2,17 +2,19 @@
 
 ## What is Databricks?
 
-Databricks runs in the cloud and you can interface with Databricks using any modern web browser. I personally recommend [Chrome](https://www.google.de/chrome/). There is no need to install any desktop application. This is nice, since you can access Databricks from any computer.
+Because it runs in the cloud, you can use Databricks with all modern web browsers. I recommend [Chrome](https://www.google.de/chrome/). There is no need to install any desktop application. This is nice, as it means you can access Databricks from any computer.
 
-However, to use Databricks you need to create a free account. Use your university's e-mail address and sign-up here.
+To use Databricks you only need to create a free account. Use your university's e-mail address and sign-up here.
 
 {% hint style="info" %}
 On the [sign-up page](https://databricks.com/try-databricks), make sure you click on the **Community Edition** on the right side! You do not want the free trial of the Databricks Platform.
 {% endhint %}
 
+## Apache Spark
+
 ## Workspace
 
-When you log into Databricks you are right in your workspace. More precisely, you are presented with the landing page of your workspace. From there, you can perform many important actions right away:
+When you log into Databricks, you are taken directly to your workspace. More precisely, you'll see the landing page of your workspace. From there, you can perform many important actions right away:
 
 * Create a new notebook
 * Start a new cluster

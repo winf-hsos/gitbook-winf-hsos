@@ -47,7 +47,11 @@ With S3 \(= Simple Storage Service\) and Databricks, you actually have 2 options
 1. Host the file publicy on S3, and from a Databricks notebook, copy the file into the DBFS. This is the way I provide you with files, as I have an Amazon S3 account and I already have the files we use in the courses uploaded there. With a small chunk of code, you can simply copy the file from my S3 drive to your Databricks account. This makes it faster, since you don't have to use your own internet connection to upload the file. Plus, it completely automates the task for you! \(**This is the relevant option**\)
 2. Host the file securely on your own S3 account, and then authorize Databricks to read the file with your  Amazon credentials directly from S3, no copy to DBFS necessary. \(**This is not relevant for our purposes**\)
 
-In the following, the first option is described, which we'll use in our modules.
+In the following, I'll explain the first option, because we use this option in our modules.
+
+### Copy a file from a public URL to databricks
+
+The code below copies a file from a public URL into your Databrick's DBFS and stores it in the folder `/datasets`. The code looks complicated, but the good news is you don't have to understand every bit of it. You just have to execute the code once and never touch it again. If you are interested to learn how it actually works, I'll briefly explain the code.
 
 {% code-tabs %}
 {% code-tabs-item title="load\_crime\_data.scala" %}
@@ -61,9 +65,6 @@ val localpath = "file:/tmp/" + fileName
 
 /* Remove an old file if exists */
 dbutils.fs.rm(localpath)
-
-/* Drop the table if already there */
-sqlContext.sql("drop table if exists " + tableName)
 
 /* Copy the public file from Amazon S3 bucket */
 "wget -P /tmp https://s3.amazonaws.com/nicolas.meseth/data+sets/" + fileName !!
@@ -100,9 +101,48 @@ df = df.withColumnRenamed("Y Coordinate", "YCoordinate")
 df.unpersist()
 df.cache()
 
-/* Save dataframe as table, thus make the data permanent */
+/* Drop the table if already there */
+sqlContext.sql("drop table if exists " + tableName)
+
+/* Save dataframe as a table, thus make the data permanent */
 df.write.saveAsTable(tableName); 
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+#### Copy the file
+
+The first line imports a library that enables us to run the `wget` command in line 15. If we didn't import the `scala.sys.process._ library`, line 15 would fail.
+
+In lines 4-6, we declare some helpful variables \(actually constants\) that we refer to later in the code. For example, we define a variable for the name of the file we are going to import. This is useful, because we need this file name in many susequent lines. With the f`ileName` variable, adapting the script for a new file name becomes as simple as changing as single value in line 5.
+
+In line 9, we use the `dbutils` library from Databricks to delete a potential file with exactly the same name as the one we're about to copy. This is the case if you are re-importing the file and you run the script for the second time. If we didn't delete the file, we would receive an error in line 12, saying the file cannot be overwritten.
+
+Line 12 does the main work. Here, we call the `wget` command, a linux command that lets you download files from the internet to your local machine. We invoke the command with 3 parameters \(or flags\). The flag `-P` indicates that we want to specify the location where to save the file. The location is the second parameter, and in this case we tell it to save the file to the default temporary folder `/tmp`. The third parameter is the URL from where to fetch the file. In this case, the URL points toa folder in my personal Amazon S3 bucket, which I made publicly available. It is important that the URL is publicly accessible, since we would receive an error otherwise.
+
+After the `wget` command completes its work, we now have a local copy of the file in our `/tmp` folder. But this is not where we want the file to stay, because we want to keep the file longer and everyone knows that temporary folders may be deleted at any time. So we copy the file to its destination, which is the `/datasets` folder in our DBFS. This is what the lines 15, 18, 21, and 24 are about.
+
+In line 15, we remove a potential file with the same name that we copied before. Again, this may be because we have run this script before. By the way, if the file does not exist, this command does nothing at all. 
+
+In line 18, we make sure that the destination folder exists. This is important, because otherwise we cannot copy the file there in line 21. If the folder exists, the command does nothing at all. Line 24 lists the file we just copied, and the result gives us an indication whether everything before worked properly.
+
+That's it for the first part! We now have a copy of the file in our `/datasets` folder. Let's see how we can make the data in the file accesible.
+
+#### Create a dataframe from the file 
+
+Once we have the file with the data in our Databricks file system \(DBFS\), we can access this file and create a data frame that contains the data from the file. Creating a data frame is simple:
+
+```scala
+var df = spark.read.option("header", "true") 
+          .option("inferSchema", "true")
+          .csv("/datasets/" + fileName)
+```
+
+A data frame is a type of object that [Apache Spark](https://winf-hsos.gitbook.io/module/~/drafts/-LJNRAhUNytf0xgugkpq/primary/information-management/challenge-1-explore-new-dataset/02-upload-data/overview#apache-spark) uses to work with structured data. \(Remember, Apache Spark is the underlying framework of Databricks\).
+
+{% hint style="info" %}
+Note that we can only create a data frame from the file because the data in the file is structured. It is in [CSV format](https://winf-hsos.gitbook.io/module/~/drafts/-LJNRAhUNytf0xgugkpq/primary/information-management/challenge-1-explore-new-dataset/01-data-sets#comma-separated-values-csv), which means that a line corresponds to a record, and the columns are separated by commas.
+
+If the data wasn't that clearly structured, we could still read the data with Databricks. We would then need to create an RDD \(resilient distributed dataset\), which assumes no structure of the data. An RDD contains the raw data and we can access it line by line.
+{% endhint %}
 
