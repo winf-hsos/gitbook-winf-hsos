@@ -1,4 +1,4 @@
-# 20 - Machine Learning
+# Machine Learning
 
 ## Resources
 

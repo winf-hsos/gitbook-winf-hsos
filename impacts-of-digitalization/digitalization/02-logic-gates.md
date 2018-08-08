@@ -1,2 +1,2 @@
-# 02 - Logic Gates
+# Logic Gates
 

@@ -1,2 +1,2 @@
-# 01 - Binary System
+# Binary System
 

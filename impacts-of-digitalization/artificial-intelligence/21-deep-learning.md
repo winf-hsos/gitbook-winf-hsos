@@ -1,4 +1,4 @@
-# 21 -  Deep Learning
+# Deep Learning
 
 ## Must Reads
 

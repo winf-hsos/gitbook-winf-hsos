@@ -1,2 +1,2 @@
-# 03 - Computer Parts
+# Computer Parts
 

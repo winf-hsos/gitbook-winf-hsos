@@ -40,6 +40,14 @@ I used the following data set in my courses.
 | "What's On The Menu" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/nypl/whats-on-the-menu) |
 | "Wine Reviews" from Kaggle.com | [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) |
 | "Crimes in Chicago" on Kaggle.com | [Link to Kaggle](https://www.kaggle.com/currie32/crimes-in-chicago) |
+| Open Data by the city of Los Angeles | [https://data.lacity.org](https://data.lacity.org/browse) |
+| Open Data by the city of Chicago | [https://data.cityofchicago.org](https://data.cityofchicago.org) |
+| Open Data by the city of New York | [https://data.cityofnewyork.us](https://data.cityofnewyork.us/browse) |
+| [Chicago Police Stations](https://data.cityofchicago.org/Public-Safety/Police-Stations/z8bn-74gv) | - |
+| [Sex Offenders in Chicago](https://data.cityofchicago.org/Public-Safety/Sex-Offenders/vc9r-bqvy) | - |
+| [Chicago Food Inspections](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5) | - |
+| [Taxi Trips in Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) \(112.000.000 records\) | - |
+| [Strategic Subject List Chicago](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List/4aki-r3np) | - |
 
 
 
