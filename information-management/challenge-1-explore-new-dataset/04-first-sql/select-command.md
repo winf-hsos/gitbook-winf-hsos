@@ -20,5 +20,9 @@ Let's consider the table more as set with elements \(rows\) and properties which
 SELECT name, height FROM person
 ```
 
+If we execute this statement against the database, the result looks like this:
 
+![](../../../.gitbook/assets/result_simple_select.png)
+
+That was easy, right? And so far quite intuitive and close to how we naturally speak. The good news is: The rest of the select statement's vocabulary follows the same rule of staying close to how we speak. That makes small and less complex queries very easy to read. The bad news: Once we arrive at certain complexity, SQL statements can become large and very hard to read, despite the fact that it is at its core close to how we naturally speak. We'll find ways to deal with that later when we get there.
 
