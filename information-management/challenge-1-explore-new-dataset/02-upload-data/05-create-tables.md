@@ -1,8 +1,14 @@
 ---
 description: >-
-  Tables are the best way to work with structured data in Databricks. You'll
-  learn how to create a table from a data file.
+  Apache Spark is a popular framework for big data processing. It is at the core
+  of the Databricks platform.
 ---
 
-# Create Tables
+# Apache Spark
+
+## Data frames
+
+On their [blog](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html), Databricks offers a good definition of a Spark DataFrame:
+
+> In Spark, a DataFrame is a distributed collection of data organized into named columns. It is conceptually equivalent to a table in a relational database or a data frame in R/Python, but with richer optimizations under the hood. DataFrames can be constructed from a wide array of sources such as: structured data files, tables in Hive, external databases, or existing RDDs.
 
