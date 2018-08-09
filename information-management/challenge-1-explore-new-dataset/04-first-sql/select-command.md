@@ -14,7 +14,7 @@ One idea behind the select statement is that users should write queries similar 
 
 Given this simple table, how would you formulate a request to get only the name and height of each person \(not the weight\)? You would probably say something like _"_**Give me only the name and height of each person, please"**_,_ right?
 
-Now, let's consider the table more as set with elements \(rows\) and properties \(columns\) which we can choose _from_. We could then formulate it as "**I'd like to choose the name and the height from the person set**". That's very close to what it would look like in SQL. We only have to replace the verb "choose" with "select" and remove some fill words: "~~I'd like to~~ **select** ~~the~~ **name** ~~and the~~ **height from** ~~the~~ **person** ~~set~~". Instead of "and" we put a comma, and we have our first working select statement:
+Now, let's consider the table more as set with elements \(rows\) and properties \(columns\) which we can choose from. We could then formulate it as "**I'd like to choose the name and the height from the person set**". That's very close to what it would look like in SQL. We only have to replace the verb "choose" with "select" and remove some fill words: "~~I'd like to~~ **select** ~~the~~ **name** ~~and the~~ **height from** ~~the~~ **person** ~~set~~". Instead of "and" we put a comma, and we have our first working select statement:
 
 ```sql
 SELECT name, height FROM person
@@ -102,7 +102,7 @@ We can also mix both literal values \(or expressions\) and column names as we li
 SELECT 2018 as year, name FROM person
 ```
 
-Imagine we want to save the result and we want to add the `year` column to remember the year this report was created. This is the result:
+Imagine we want to save the result, and we want to add the `year` column to remember the year this report was created. This is the result:
 
 ![](../../../.gitbook/assets/result_mixed.png)
 
