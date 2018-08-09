@@ -79,19 +79,27 @@ The explanation is simple: We get one "1" for every row in the table person. And
 In the example above, the new column does not have a name. We can assign a name easily:
 
 ```sql
-SELECT 1 AS newColFROM person
+SELECT 1 AS newCol FROM person
 ```
 
 Now, the new column in the result set will be named `newCol`.
 
 ![](../../../.gitbook/assets/result_with_new_colum.png)
 
+It doesn't have to be numbers, you can select literal values of any data type:
+
+```sql
+SELECT 'Hello World' as newStringCol FROM person;
+SELECT true as newBooleanCol FROM person;
+SELECT 0.5 as newDoubleCol FROM person;
+```
+
 {% hint style="success" %}
 You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/2)!
 {% endhint %}
 
 {% hint style="info" %}
-Note that the new column won't be created in the source table when we select it that way. The new column will only exist in the result set, which is effectively also a table. A select statement can neither change the structure of an existing table, nor can it change the data in it. 
+Note that the new columns won't be created in the source table when we select literal values. The new column will only exist in the result set, which is effectively also a table. A select statement can neither change the structure of an existing table, nor can it change the data in it. 
 {% endhint %}
 
 ### Literals values and columns mixed
