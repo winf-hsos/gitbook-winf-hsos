@@ -1,10 +1,17 @@
 # Expressions
 
-## More than column names
+The general syntax of the SQL statement suggests that we can only put in column names for the first, and table names for the second placeholder. This is not the whole truth. We can also use expressions, which is a very powerful concept that I'll explain in this section.
 
-The general syntax above suggests that we can only put in column names for the first and table names for the second placeholder. This is not the whole truth.
+An expression represents a value and can contain a combination of the following elements:
 
-### Literal values
+* Literal values
+* Operators \(arithmetic, boolean\)
+* Functions
+* Columns
+
+Moreover, an expression can also be a subquery that returns a \(single\) value. We'll cover subqueries [later](../../challenge-1-sales-data-analysis/advanced-queries/subqueries.md).
+
+## Literal values
 
 Instead of column names, we can select anything that represents a value. That means basically anything that we could fit into a column. Consider the example below:
 
@@ -58,7 +65,9 @@ Imagine we want to save the result, and we want to add the `year` column to reme
 You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/3)!
 {% endhint %}
 
-### Expressions
+## Operators
+
+### Arithmetic
 
 Another type of value we can select is an **expression**. An expression can be a function or a formula, anything that represents a value. A literal value is therefore a special case of an expression.
 
@@ -81,4 +90,23 @@ This is the result:
 {% hint style="success" %}
 You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/4)!
 {% endhint %}
+
+Accordingly, we can use any other arithmetic operator to perform calculations:
+
+```sql
+SELECT weight - 10 as reducedWeight FROM person;
+SELECT weight + 10 as increasedWeight FROM person;
+SELECT weight * 2 as doubledWeight FROM person;
+SELECT weight % 10 as moduloTenWeight FROM person;
+```
+
+### Boolean
+
+```sql
+SELECT 1 == 2 FROM person;
+```
+
+## Functions
+
+
 
