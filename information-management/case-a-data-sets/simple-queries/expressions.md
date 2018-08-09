@@ -122,7 +122,7 @@ Functions can be invoked by their name and perform different tasks. In the end, 
 * Aggregation functions
 * Window functions
 
-Functions play a huge role in SQL, that's why we date/time, aggregation and window functions in separate sections. In the following, we'll introduce functions with simple math and string operations.
+Functions play a huge role in SQL, that's why we devote a separate section to date/time, aggregation and window functions. In the following, we'll introduce functions with simple math and string operations.
 
 ### Math
 
