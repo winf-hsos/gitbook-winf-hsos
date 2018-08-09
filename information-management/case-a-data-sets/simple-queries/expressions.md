@@ -91,7 +91,7 @@ This is the result:
 You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/4)!
 {% endhint %}
 
-Accordingly, we can use any other arithmetic operator to perform calculations:
+Accordingly, we can use any other arithmetic operator to perform calculations. Try the following statements:
 
 ```sql
 SELECT weight - 10 as reducedWeight FROM person;
@@ -102,8 +102,14 @@ SELECT weight % 10 as moduloTenWeight FROM person;
 
 ### Boolean
 
+A booelan expression represents either `true` or `false`. Comparing two values \(or expressions\) is a typical scenario for a boolean expression. We can use the common operators:
+
 ```sql
-SELECT 1 == 2 FROM person;
+SELECT 1 == 2 as alwaysFalse FROM person;
+SELECT 1 == 1 as alwaysTrue FROM person;
+SELECT weight > 60 as weighsMoreThan60 FROM person;
+SELECT height <= 180 as isSmallerOrEqual180 FROM person;
+SELECT name <> 'Horst' as notHorst FROM person;
 ```
 
 ## Functions
