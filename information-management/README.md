@@ -36,7 +36,7 @@ The course centers around today's key use cases for information management. Thes
 
 The **first case** describes a very common situation: You are getting a new and unknown data set in some file format. Sometime you asked for it, sometimes you didn't. In either case, you want to find out what the data holds for you. But how do you most efficiently do that?
 
-{% page-ref page="challenge-1-explore-new-dataset/" %}
+{% page-ref page="case-a-data-sets/" %}
 
 The **second case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
 
