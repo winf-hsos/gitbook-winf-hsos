@@ -114,5 +114,21 @@ SELECT name <> 'Horst' as notHorst FROM person;
 
 ## Functions
 
+Functions can be invoked by their name and perform different tasks. In the end, every function represents a certain value. There are different types of functions in SQL, each type covers a set of scenarios:
 
+* Math functions
+* String functions
+* Date & time functions
+* Aggregation functions
+* Window functions
+
+Functions play a huge role in SQL, that's why we date/time, aggregation and window functions in separate sections. In the following, we'll introduce functions with simple math and string operations.
+
+### Math
+
+Much of the calculations we need are covered by the arithmetic operators. However, there are some math functions that we'll use quite often:
+
+
+
+### String
 
