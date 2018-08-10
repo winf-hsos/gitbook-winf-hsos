@@ -1,10 +1,3 @@
----
-description: >-
-  This page gives an overview of the modules on IT / Digitalization at the
-  Faculty for Agricultural Sciences and Landscape Architecture at the University
-  of Applied Sciences in Osnabrueck.
----
-
 # Welcome
 
 ## Overview

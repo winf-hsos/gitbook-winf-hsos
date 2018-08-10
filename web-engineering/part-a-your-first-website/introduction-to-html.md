@@ -1,7 +1,3 @@
----
-description: 'In this lesson, you''ll start writing your first website using pure HTML.'
----
-
 # 03 - First HTML
 
 ### Must Reads

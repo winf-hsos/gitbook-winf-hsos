@@ -1,7 +1,3 @@
----
-description: This lesson gives an introduction to Databricks.
----
-
 # Databricks
 
 ## What you'll learn

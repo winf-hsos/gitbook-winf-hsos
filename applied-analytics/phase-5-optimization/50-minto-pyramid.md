@@ -1,9 +1,3 @@
----
-description: >-
-  In this lesson, you'll learn how to improve your communication and
-  presentations with the MINTO pyramid.
----
-
 # MINTO Pyramid
 
 ## Must Reads

@@ -1,9 +1,3 @@
----
-description: >-
-  In this lesson, you'll learn what Firebase is and how you can use to build
-  your web app.
----
-
 # 11 - Google Firebase
 
 ## Overview

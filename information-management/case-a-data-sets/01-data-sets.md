@@ -1,9 +1,3 @@
----
-description: >-
-  This lesson introduces data sets, properties of data, and what we mean by all
-  that.
----
-
 # Data Sets
 
 ## Data formats

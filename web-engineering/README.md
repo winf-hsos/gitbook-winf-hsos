@@ -1,7 +1,3 @@
----
-description: This page is the entry to all material and information for the course.
----
-
 # Web Engineering
 
 {% hint style="info" %}

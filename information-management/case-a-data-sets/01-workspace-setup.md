@@ -1,7 +1,3 @@
----
-description: 'In this lesson, you''ll prepare everything you need to get started working.'
----
-
 # Workspace Setup
 
 ## Register with Databricks Community Edition

@@ -1,7 +1,3 @@
----
-description: 'In this lesson, you''ll learn how to sign in users to your app with Firebase.'
----
-
 # 14 - Authentication
 
 ## User Login

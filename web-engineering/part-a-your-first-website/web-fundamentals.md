@@ -1,9 +1,3 @@
----
-description: >-
-  Before building your website, it is good to have some understanding of how the
-  web works.
----
-
 # 02 - Web Fundamentals
 
 ### Must Reads {#must-reads}

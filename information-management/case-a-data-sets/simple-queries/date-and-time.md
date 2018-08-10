@@ -1,9 +1,3 @@
----
-description: >-
-  Data and time play an important role in almost any data set. Learn how to work
-  with those values using SQL.
----
-
 # Date and Time
 
 ## Date and time

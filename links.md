@@ -1,9 +1,3 @@
----
-description: >-
-  This page contains links to software, books I recommend, data sets, videos and
-  other resources related to the modules.
----
-
 # Links
 
 ## Software

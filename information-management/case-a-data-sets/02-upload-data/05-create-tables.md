@@ -1,9 +1,3 @@
----
-description: >-
-  Apache Spark is a popular framework for big data processing. It is at the core
-  of the Databricks platform.
----
-
 # Apache Spark
 
 ## Data frames

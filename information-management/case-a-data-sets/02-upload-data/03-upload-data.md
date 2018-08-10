@@ -1,7 +1,3 @@
----
-description: 'In this lesson, you''ll learn how to upload a file to Databricks DBFS.'
----
-
 # Upload Data
 
 ## The DBFS
