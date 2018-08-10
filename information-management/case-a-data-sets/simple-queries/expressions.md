@@ -1,5 +1,3 @@
-# Test 
-
 # Expressions
 
 The general syntax of the SQL statement suggests that we can only put in column names for the first, and table names for the second placeholder. This is not the whole truth. We can also use expressions, which is a very powerful concept that I'll explain in this section.
@@ -12,6 +10,8 @@ An expression represents a value and can contain a combination of the following 
 * Columns
 
 Moreover, an expression can also be a subquery that returns a \(single\) value. We'll cover subqueries [later](../../challenge-1-sales-data-analysis/advanced-queries/subqueries.md).
+
+## Test
 
 ## Literal values
 
