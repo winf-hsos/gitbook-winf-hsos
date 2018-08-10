@@ -4,7 +4,7 @@ description: This lesson introduces the select statement for querying data.
 
 # Select
 
-## Say it out loud
+## Your first query
 
 If you could talk to a database and ask for specific data, how would you formulate your reuqest? Engineers at IBM in the 1970s have probably asked themselves the very same question. As a result, they came up with the SQL select statement.
 
