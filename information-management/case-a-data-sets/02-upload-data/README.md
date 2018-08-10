@@ -6,5 +6,3 @@ In this lesson you'll get to know the Databricks cloud platform. We'll cover the
 
 Next, we'll add some data to our Databricks account and learn how we can access that from a notebook.
 
-
-

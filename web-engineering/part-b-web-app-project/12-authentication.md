@@ -12,5 +12,3 @@ You may be familiar with different registration processes, the most common one b
 
 ### Social Login
 
-
-

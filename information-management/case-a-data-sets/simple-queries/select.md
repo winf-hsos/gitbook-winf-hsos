@@ -56,7 +56,3 @@ Executing this statement returns the whole table:
 The asterisk is useful to quickly get an overview of what's in a table. Be careful to use the operator in queries where it matters which columns are in the result set. When a new column is added to the person table, the same SQL statement returns a result set with four columns instead of three. This may be unexpected, and can cause unintended side effects. It is therefore best practice to specify the list of columns and not use the asterisk in production environments.
 {% endhint %}
 
-## 
-
-
-

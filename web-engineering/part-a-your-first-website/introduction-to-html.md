@@ -1,6 +1,6 @@
 # 03 - First HTML
 
-### Must Reads
+## Must Reads
 
 The following table lists articles that give you a very good introduction to the basics of HTML.
 
@@ -10,7 +10,5 @@ The following table lists articles that give you a very good introduction to the
 |  |  |
 |  |  |
 
-### What is HTML?
-
-
+## What is HTML?
 

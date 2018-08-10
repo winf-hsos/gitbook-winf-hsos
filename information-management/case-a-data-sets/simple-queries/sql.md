@@ -46,5 +46,3 @@ We do not consider this part of the core SQL standard, but in most databases, it
 Note that **SQL is not a programming language**, despite the fact that many database vendors have extended SQL to include the functionality of a programming language \(e.g. T-SQL, PL/SQL\)
 {% endhint %}
 
-
-

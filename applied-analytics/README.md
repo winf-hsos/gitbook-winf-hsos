@@ -57,8 +57,6 @@ Register for free for the [Azure ML Studio](https://studio.azureml.net/Home). We
 
 ## Feedback
 
-{% tabs %}
-{% tab title="Appraisal" %}
 ## SS 2018
 
 > Einer der besten Dozenten!
@@ -66,26 +64,20 @@ Register for free for the [Azure ML Studio](https://studio.azureml.net/Home). We
 ## SS 2017
 
 > Ich habe die Veranstaltung gerne besucht
-{% endtab %}
 
-{% tab title="Improvement" %}
 ## SS 2018
 
 > Skript muss vorher vorhanden sein
-
+>
 > Skript ist schon sehr hilfreich, sollte auf jeden Fall für spätere Jahre vervollständigt werden
-
+>
 > Skript und bessere Anleitungen zu SQL und Azure
-
+>
 > Mehr Beispiele für verschiedene Aufgabentypen
-
+>
 > Mehr Informationen zu SQL, weniger voraussetzen
 
 {% hint style="success" %}
 Thanks for the feedback. In summer 2018 we just started having a script at all. I have since improved on that and hope that this becomes less of an issue.
 {% endhint %}
-{% endtab %}
-{% endtabs %}
-
-
 

@@ -6,11 +6,11 @@ This page is under construction.
 
 ## Learning Objectives
 
-In this course, you are going to learn how to build modern web applications. 
+In this course, you are going to learn how to build modern web applications.
 
-###  What you'll know
+### What you'll know
 
- After completing this course, you'll know about and understand the following concepts:
+After completing this course, you'll know about and understand the following concepts:
 
 * How modern websites and web applications work and how they are built
 * What HTML, CSS and Javascript is and the role they play in web applications
@@ -26,11 +26,11 @@ In this course, you are going to learn how to build modern web applications.
 
 The course is divided into three main parts.
 
-The course's primary focus is on your own web project, which you are going to plan and implement in a group of four fellow students. To be able to build a web app, you first need to learn the basics of websites. This what **part A** of this course is about. 
+The course's primary focus is on your own web project, which you are going to plan and implement in a group of four fellow students. To be able to build a web app, you first need to learn the basics of websites. This what **part A** of this course is about.
 
 {% page-ref page="part-a-your-first-website/" %}
 
-In **part B**, you start building your  own web app. We'll start with basic components every modern web app needs: hosting, user authentication, a database, and way to store user content. We'll use Google Firebase as our infrastructure.
+In **part B**, you start building your own web app. We'll start with basic components every modern web app needs: hosting, user authentication, a database, and way to store user content. We'll use Google Firebase as our infrastructure.
 
 {% page-ref page="part-b-web-app-project/" %}
 
@@ -85,20 +85,16 @@ We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascrip
 
 This is the written feedback from past semesters.
 
-{% tabs %}
-{% tab title="Appraisal" %}
 ## SS 2018
 
 > Klasse Lehrveranstaltung!
-
+>
 > Sehr gute Lehrveranstaltung! Kompetent vertreten!
 
 ## WS 2017/2018
 
 > Hervorragende Veranstaltung !!!
-{% endtab %}
 
-{% tab title="Improvement" %}
 ## SS 2018
 
 > Es wird zu viel vorausgesetzt
@@ -110,12 +106,10 @@ Thanks for the feedback, I am working on that :-\)
 ## WS 2017/2018
 
 > Am Anfang kompliziert, wo welche Dateien sind \(git, slack, webseite\)
-
+>
 > Am Anfang ein bisschen chaotisch
 
 {% hint style="success" %}
 Thanks for the feedback! Yes, I can fully understand the problems. It was the first time we ran this course, I am confident that I was able to simplify things since then.
 {% endhint %}
-{% endtab %}
-{% endtabs %}
 

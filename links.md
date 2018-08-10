@@ -43,5 +43,3 @@ I used the following data set in my courses.
 | [Taxi Trips in Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) \(112.000.000 records\) | - |
 | [Strategic Subject List Chicago](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List/4aki-r3np) | - |
 
-
-

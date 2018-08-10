@@ -6,7 +6,7 @@ This page is under construction.
 
 ## Learning Objectives
 
-In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information. 
+In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information.
 
 ### What you'll know
 
@@ -38,7 +38,7 @@ The **second case** is also quite common for a business of any size: You are giv
 
 {% page-ref page="challenge-1-sales-data-analysis/" %}
 
-The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is  created with high but unknown frequency.
+The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is created with high but unknown frequency.
 
 {% page-ref page="challenge-3-real-time-updates-and-notifications/" %}
 
@@ -75,8 +75,6 @@ Sign-up for a [student license](https://www.tableau.com/de-de/academic/students)
 
 ## Feedback
 
-{% tabs %}
-{% tab title="Appraisal" %}
 ## WS 2017/18
 
 > Hallo Nicolas,
@@ -84,10 +82,4 @@ Sign-up for a [student license](https://www.tableau.com/de-de/academic/students)
 > ich wollte dich nur Mal gerade Wissen lassen, dass ich im berufspratischen Projekt **sehr mit meinen Tableau-Können Punkten** kann. Vergleiche gerade auf Karten Tierbestände mit der Kundendatenbank.
 >
 > Vielen Dank für dein Modul!
-{% endtab %}
-
-{% tab title="Improvement" %}
-
-{% endtab %}
-{% endtabs %}
 

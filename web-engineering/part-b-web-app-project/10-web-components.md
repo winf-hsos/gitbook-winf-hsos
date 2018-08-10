@@ -6,5 +6,3 @@
 
 * [https://www.polymer-project.org/](https://www.polymer-project.org/)
 
-
-

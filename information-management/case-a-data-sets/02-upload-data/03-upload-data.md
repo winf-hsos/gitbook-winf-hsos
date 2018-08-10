@@ -16,7 +16,7 @@ We can upload a new file if we if naviagte to the "Data" tab in our menu on the 
 
 ![List of databases and contained tables.](../../../.gitbook/assets/add_data.png)
 
-In this new dialog, we have several options to create a new table from data. Although the dialog is for creating tables, we can skip that and only upload new data \(we'll create a table later on\). To upload a new file, select the "Upload Files"  button as shown below.
+In this new dialog, we have several options to create a new table from data. Although the dialog is for creating tables, we can skip that and only upload new data \(we'll create a table later on\). To upload a new file, select the "Upload Files" button as shown below.
 
 ![Several options to add new data.](../../../.gitbook/assets/create_new_table.png)
 
@@ -101,7 +101,7 @@ df.cache()
 sqlContext.sql("drop table if exists " + tableName)
 
 /* Save dataframe as a table, thus make the data permanent */
-df.write.saveAsTable(tableName); 
+df.write.saveAsTable(tableName);
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -118,13 +118,13 @@ Line 12 does the main work. Here, we call the `wget` command, a linux command th
 
 After the `wget` command completes its work, we now have a local copy of the file in our `/tmp` folder. But this is not where we want the file to stay, because we want to keep the file longer and everyone knows that temporary folders may be deleted at any time. So we copy the file to its destination, which is the `/datasets` folder in our DBFS. This is what the lines 15, 18, 21, and 24 are about.
 
-In line 15, we remove a potential file with the same name that we copied before. Again, this may be because we have run this script before. By the way, if the file does not exist, this command does nothing at all. 
+In line 15, we remove a potential file with the same name that we copied before. Again, this may be because we have run this script before. By the way, if the file does not exist, this command does nothing at all.
 
 In line 18, we make sure that the destination folder exists. This is important, because otherwise we cannot copy the file there in line 21. If the folder exists, the command does nothing at all. Line 24 lists the file we just copied, and the result gives us an indication whether everything before worked properly.
 
 That's it for the first part! We now have a copy of the file in our `/datasets` folder. Let's see how we can make the data in the file accesible.
 
-#### Create a dataframe from the file 
+#### Create a dataframe from the file
 
 Once we have the file with the data in our Databricks file system \(DBFS\), we can access this file and create a data frame that contains the data from the file. Creating a data frame is simple:
 
