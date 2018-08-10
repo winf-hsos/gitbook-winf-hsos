@@ -20,7 +20,7 @@ Moreover, an expression can also be a subquery that returns a \(single\) value. 
 ### Literal values
 
 <audio controls>
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="https://aphid.fireside.fm/d/1437767933/69da8ae3-a19e-41ed-a678-0e145a936a3f/801abed0-25f5-46e5-85ec-bb8d36c4b724.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
