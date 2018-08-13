@@ -4,7 +4,7 @@ description: >-
   personal workspace.
 ---
 
-# 01 - Workspace Setup
+# Workspace Setup
 
 
 

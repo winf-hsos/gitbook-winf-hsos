@@ -1,4 +1,4 @@
-# 11 - Google Firebase
+# Google Firebase
 
 ## Overview
 

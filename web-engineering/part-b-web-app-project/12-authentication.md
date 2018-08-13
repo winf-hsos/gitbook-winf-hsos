@@ -1,4 +1,4 @@
-# 14 - Authentication
+# Authentication
 
 ## User Login
 

@@ -4,7 +4,7 @@ description: >-
   ratings. Here, you'll learn how you can implement that with Firebase.
 ---
 
-# 25 - Rating Systems
+# \#06 - Rating Systems
 
 
 

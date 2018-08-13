@@ -2,6 +2,8 @@
 
 ## Why SQL?
 
+### SQL was designed to empower the normal user
+
 The following is an excerpt from the [Microsoft SQL Server Reference](https://docs.microsoft.com/en-us/sql/odbc/reference/structured-query-language-sql?view=sql-server-2017) and gives a great introduction to the topic:
 
 > A typical DBMS allows users to store, access, and modify data in an organized, efficient way. Originally, the users of DBMSs were programmers. Accessing the stored data required writing a program in a programming language such as COBOL. While these programs were often written to present a friendly interface to a nontechnical user, access to the data itself required the services of a knowledgeable programmer. Casual access to the data was not practical.
@@ -10,7 +12,9 @@ The following is an excerpt from the [Microsoft SQL Server Reference](https://do
 >
 > Allowing users to access data on an ad hoc basis required giving them **a language in which to express their requests**. A single request to a database is defined as a query; such a language is called a query language. Many query languages were developed for this purpose, **but one of these became the most popular: Structured Query Language**, invented at IBM in the 1970s. It is more commonly known by its acronym, SQL, and is pronounced both as "ess-cue-ell" and as "sequel". SQL became an ANSI standard in 1986 and an ISO standard in 1987; it is used today in a great many database management systems.
 
-There are many key points made in the excerpt. An important one is that SQL is designed for the normal _users_, and not the programmers. Its original goal was to enable users to satisfy their information requirements more easily, without the need for the IT department's resources.
+There are many key points made in the excerpt. An important one is that SQL is designed for the normal _users_, and not the programmers. Its original goal was to enable users to access databases and thereby satisfy their information requirements more easily, without the need for the IT department's resources.
+
+### SQL requires structured data
 
 SQL is most strongly associated with realtional databases. This what is was orinally developed for. In fact, SQL requires structured data, and the relational database is the best example for a highly structured database. However, if a database does not rely on the relational model, it doesn't mean the data in it isn't structured. In fact, there is no way at all to query unstructured data. What would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. And once we have a schema, we can use SQL again.
 
@@ -38,7 +42,7 @@ Before we can do anything useful with data, we must define a structure for it. T
 * Manifest relationships between tables
 * Invoke constraints, such as _non-null_ or a maximum length of strings
 
-### Procedures
+### Run procedures
 
 We do not consider this part of the core SQL standard, but in most databases, it is possible to write procedures that can be executed either manually or based on triggers. For the definition of such procedures, the SQL language is usually extended to the functionality of a full programming language. Popular examples include [Microsoft's T-SQL](https://docs.microsoft.com/de-de/sql/t-sql/language-reference) or [Oracle's PL/SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html).
 

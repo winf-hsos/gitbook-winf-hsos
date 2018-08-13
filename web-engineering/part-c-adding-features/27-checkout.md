@@ -4,7 +4,7 @@ description: >-
   to create a simple checkout process in this lesson.
 ---
 
-# 27 - Checkout
+# \#08 - Checkout
 
 
 

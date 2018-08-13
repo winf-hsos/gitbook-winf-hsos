@@ -1,4 +1,4 @@
-# 03 - First HTML
+# First HTML
 
 ## Must Reads
 

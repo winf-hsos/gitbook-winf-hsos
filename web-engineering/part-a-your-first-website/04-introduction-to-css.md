@@ -4,7 +4,7 @@ description: >-
   prettier.
 ---
 
-# 04 - First CSS
+# First CSS
 
 
 

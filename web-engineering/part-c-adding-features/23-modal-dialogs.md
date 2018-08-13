@@ -2,7 +2,7 @@
 description: 'In this lesson, you''ll learn how to create modal dialogs (pop-ups).'
 ---
 
-# 23 - Modal Dialogs
+# \#04 - Modal Dialogs
 
 
 

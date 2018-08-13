@@ -1,4 +1,4 @@
-# 10 - Web Components
+# Web Components
 
 ## Web Components
 

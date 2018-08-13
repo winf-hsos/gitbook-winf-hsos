@@ -1,4 +1,4 @@
-# 09 - Web Apps
+# Web Apps
 
 ## Progressive Web Apps
 

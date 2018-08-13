@@ -1,4 +1,4 @@
-# 02 - Web Fundamentals
+# Web Fundamentals
 
 ## Must Reads {#must-reads}
 

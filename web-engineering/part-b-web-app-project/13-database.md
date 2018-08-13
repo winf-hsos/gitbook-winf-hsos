@@ -1,4 +1,4 @@
-# 13 - Database
+# Database
 
 ## CRUD Operations
 
