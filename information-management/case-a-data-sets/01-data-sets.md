@@ -45,7 +45,7 @@ The following table gives some typical examples of numbers and their data types:
 
 **Truth values**
 
-Consider another scenario: You are at your physician's waiting room. In order make a good diagnosis, the physician requested you to fill out a short survery about your diet and habits. One question is "Do you smoke?". There are only two possible answers to this question, "Yes" or "No". You either smoke, or you don't. The statement "Mr. XYZ smokes!" is either **true** or **false.** A value that can either be true or false is called a boolean value. We can store theses kinds of values using the data type `boolean`.
+Consider another scenario: You are at your physician's waiting room. In order make a good diagnosis, the physician requested you to fill out a short survery about your diet and habits. One question is: "Do you smoke?". There are only two possible answers to this question: "Yes" or "No". You either smoke, or you don't. In other words, the statement "Mr. XYZ smokes!" is either **true** or **false.** A value that can either be true or false is called a **boolean value**. We can store theses kinds of values using the data type `boolean`.
 
 We can combine truth values with boolean operators. The result of such an operation is also a boolean value. For example, consider the statement "Mr. XYZ smokes **AND** drinks alcolhol at least once a day". Depending on the truth value of each single statement and the operator we apply, we get different results:
 
