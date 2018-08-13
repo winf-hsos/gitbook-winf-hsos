@@ -47,6 +47,6 @@ Before we can do anything useful with data, we must define a structure for it. T
 We do not consider this part of the core SQL standard, but in most databases, it is possible to write procedures that can be executed either manually or based on triggers. For the definition of such procedures, the SQL language is usually extended to the functionality of a full programming language. Popular examples include [Microsoft's T-SQL](https://docs.microsoft.com/de-de/sql/t-sql/language-reference) or [Oracle's PL/SQL](http://www.oracle.com/technetwork/database/features/plsql/index.html).
 
 {% hint style="info" %}
-Note that **SQL is not a programming language**, despite the fact that many database vendors have extended SQL to include the functionality of a programming language \(e.g. T-SQL, PL/SQL\)
+Note that **SQL is not a programming language**, despite the fact that many database vendors have extended SQL to include the functionality of a programming language \(e.g. T-SQL, PL/SQL\).
 {% endhint %}
 
