@@ -6,7 +6,11 @@ This page is under construction.
 
 ## Learning Objectives
 
-In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information.
+In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information. Consider the following quote by Clive Humby:
+
+> Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value.
+
+The goal of this module is to acquire the knowledge and tools to turn the raw material _data_ into a valuable asset.
 
 ### What you'll know
 
