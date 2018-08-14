@@ -17,6 +17,7 @@
     * [Logic Gates](impacts-of-digitalization/digitalization/02-logic-gates.md)
     * [Computer Parts](impacts-of-digitalization/digitalization/03-computer-parts.md)
   * [Coding](impacts-of-digitalization/coding/README.md)
+    * [Demystification](impacts-of-digitalization/coding/demystification.md)
     * [Variables](impacts-of-digitalization/coding/variables.md)
     * [Data Structures](impacts-of-digitalization/coding/data-structures.md)
   * [Internet of Things](impacts-of-digitalization/internet-of-things/README.md)
