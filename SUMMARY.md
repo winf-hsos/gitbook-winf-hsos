@@ -16,6 +16,8 @@
     * [Binary System](impacts-of-digitalization/digitalization/01-binary-system.md)
     * [Logic Gates](impacts-of-digitalization/digitalization/02-logic-gates.md)
     * [Computer Parts](impacts-of-digitalization/digitalization/03-computer-parts.md)
+  * [Coding](impacts-of-digitalization/coding/README.md)
+    * [Data Structures](impacts-of-digitalization/coding/data-structures.md)
   * [Internet of Things](impacts-of-digitalization/internet-of-things/README.md)
     * [Tinkerforge](impacts-of-digitalization/internet-of-things/11-tinkerforge.md)
   * [Artificial Intelligence](impacts-of-digitalization/artificial-intelligence/README.md)
