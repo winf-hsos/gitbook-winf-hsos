@@ -30,6 +30,8 @@ Yang, Andrew \(2018\): [The war on normal people. The truth about America's disa
 
 [Learn to build a Machine Learning application from top - best articles 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
 
+[Object Detection - An overview in the age of deep learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
+
 ## Data Sets
 
 I used the following data set in my courses.
