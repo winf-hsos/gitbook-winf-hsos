@@ -24,6 +24,12 @@ Wadwha, Vivek; Salkever, Alex \(2017\): [The driver in the driverless car. How o
 
 Yang, Andrew \(2018\): [The war on normal people. The truth about America's disappearing jobs and why universal basic income is our future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FWar-Normal-People-Disappearing-Universal-ebook%2Fdp%2FB075D8DQMY&sa=D&sntz=1&usg=AFQjCNEsmIKuLjQ1KmkrVTq0PwW6zSJ3Dw). First edition. New York: Hachette Books.
 
+## Articles
+
+[30 Machines Learning Projects for 2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7) 
+
+[Learn to build a Machine Learning application from top - best articles 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
+
 ## Data Sets
 
 I used the following data set in my courses.
@@ -42,4 +48,5 @@ I used the following data set in my courses.
 | [Chicago Food Inspections](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5) | - |
 | [Taxi Trips in Chicago](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew) \(112.000.000 records\) | - |
 | [Strategic Subject List Chicago](https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List/4aki-r3np) | - |
+| Fashion-MNIST | [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) |
 
