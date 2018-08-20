@@ -85,16 +85,20 @@ We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascrip
 
 This is the written feedback from past semesters.
 
+{% tabs %}
+{% tab title="Appraisal" %}
 ## SS 2018
 
 > Klasse Lehrveranstaltung!
->
+
 > Sehr gute Lehrveranstaltung! Kompetent vertreten!
 
 ## WS 2017/2018
 
-> Hervorragende Veranstaltung !!!
+> Hervorragende Veranstaltung!
+{% endtab %}
 
+{% tab title="Improvement" %}
 ## SS 2018
 
 > Es wird zu viel vorausgesetzt
@@ -105,11 +109,15 @@ Thanks for the feedback, I am working on that :-\)
 
 ## WS 2017/2018
 
-> Am Anfang kompliziert, wo welche Dateien sind \(git, slack, webseite\)
->
+> Am Anfang kompliziert, wo welche Daten sind \(git, Slack, Webseite\)
+
 > Am Anfang ein bisschen chaotisch
 
 {% hint style="success" %}
 Thanks for the feedback! Yes, I can fully understand the problems. It was the first time we ran this course, I am confident that I was able to simplify things since then.
 {% endhint %}
+{% endtab %}
+{% endtabs %}
+
+
 
