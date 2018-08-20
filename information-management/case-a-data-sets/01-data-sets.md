@@ -49,6 +49,8 @@ Aggregating data always results in less or an equal number of rows.
 
 ## Data types
 
+![](../../.gitbook/assets/puzzle%20%281%29.jpg)
+
 ### A standard format for dates
 
 Imagine the following situation: You are on the phone with your insurance company, and to make you sure you are actually who you claim to be, the clerk asks for your day of birth. Given you are in Germany, you wouldn't have to think long about what information the clerk expects to receive \(day, month, year\), and in which order. In Germany, we always write down the day of birth in this form: day of month as a two digit number, followed by a period, month of the year as a two digit number, followed by period, and finally, the year as a four digit number. For example: **13.09.1981**, which is my day of birth in this format. More general, we can describe the format as **dd.mm.yyyy.** If you were in the United States, you'd write the same date as **09/13/1981**, and the general format would be **mm/dd/yyyy**.
