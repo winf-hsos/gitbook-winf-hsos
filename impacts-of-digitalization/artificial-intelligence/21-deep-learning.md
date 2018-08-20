@@ -11,6 +11,7 @@
 | Name | Link |
 | :--- | :--- |
 | Deep Learning Book | [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/) |
+| Object Detection: A Guide in the Age of Deep Learning | [https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/) |
 
 
 
