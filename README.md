@@ -19,7 +19,7 @@ If you want to maximize your skills and knowledge in digitalization & IT, you sh
 
 ### Master
 
-If you susequently enrol in the master program, you get the chance to take another course:
+If you subsequently enrol in the master program, you get the chance to take another course:
 
 | **Semester** | **Module\(s\)** |
 | :--- | :--- |
