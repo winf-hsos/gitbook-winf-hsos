@@ -12,11 +12,15 @@ The following is an excerpt from the [Microsoft SQL Server Reference](https://do
 >
 > Allowing users to access data on an ad hoc basis required giving them **a language in which to express their requests**. A single request to a database is defined as a query; such a language is called a query language. Many query languages were developed for this purpose, **but one of these became the most popular: Structured Query Language**, invented at IBM in the 1970s. It is more commonly known by its acronym, SQL, and is pronounced both as "ess-cue-ell" and as "sequel". SQL became an ANSI standard in 1986 and an ISO standard in 1987; it is used today in a great many database management systems.
 
-There are many key points made in the excerpt. An important one is that SQL is designed for the normal _users_, and not the programmers. Its original goal was to enable users to access databases and thereby satisfy their information requirements more easily, without the need for the IT department's resources.
+There are many key points made in the excerpt. An important one is that SQL is designed for the normal _users_, and not the programmers. Its original goal was to enable users to access databases and thereby satisfy their information requirements more easily, without the need for the IT department's resources. 
+
+Donald Chamberlin underlines this view on SQL in his paper [Early History of SQL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6359709&tag=1):
+
+> \[..\] we believed that it should be possible to design a relational language that would be more accessible to users without formal training in mathematics or computer programming.
 
 ### SQL requires structured data
 
-SQL is most strongly associated with relational databases. It was originally developed for them. In fact, SQL requires structured data \([as does any data you want to analyze](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)\), and the relational database is the best example for a highly structured database. 
+SQL is most strongly associated with relational databases. Unsurprisingly, as it was originally developed for them. In fact, SQL requires structured data \([as does any data you want to analyze](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)\), and the relational database is the best example for a highly structured database. 
 
 However, if a database does not rely on the relational model, it doesn't mean the data in it isn't structured. In fact, there is no way at all to query unstructured data. What would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. And once we have a schema, we can use SQL again.
 
