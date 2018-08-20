@@ -58,6 +58,7 @@ Note that **SQL is not a programming language**, despite the fact that many data
 
 ## References
 
-* "[Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)" 
-* "[Early History of SQL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6359709&tag=1)" in  the IEEE Annals of the History of Computing 2012
+* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
+* [There is no unstructured data in analytics](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)
+* [Early History of SQL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6359709&tag=1) in  the IEEE Annals of the History of Computing 2012
 
