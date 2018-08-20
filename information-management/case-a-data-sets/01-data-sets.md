@@ -68,7 +68,7 @@ A date is _one_ of many data types. It is quite specific, and it is composed of 
 We could also choose this view on the structure of the date: It is composed of 3 numbers, connected by two periods. We know that the day, month and year cannot be any arbitrary sequence of characters, but it can only be a subset of it: integer numbers, i.e. numbers without a decimal place. There we have our next data type: `integer`. And in case we need decimal places, the right data types are `float` or `double`. 
 
 {% hint style="info" %}
-A `double` value is more precise, that is it, can store more decimal places. Read [here ](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)for a nice comparison between `float` and `double`.
+A `double` value is more precise, that is, it can store more decimal places. Read [here ](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)for a nice comparison between `float` and `double`.
 {% endhint %}
 
 The following table gives some typical examples of numbers and their data types:
@@ -102,4 +102,10 @@ The AND operator requires both sides to be true, otherwise the result is false \
 
 
 ## Representations of data
+
+## References
+
+* "[Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)"
+
+
 
