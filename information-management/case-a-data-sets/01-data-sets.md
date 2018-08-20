@@ -97,7 +97,7 @@ We can combine truth values with boolean operators. The result of such an operat
 
 The AND operator requires both sides to be true, otherwise the result is false \(lines 1 and 2\). The OR operator requires at least one side to be true, but both are also possible \(line 3\). In contrast, the XOR requires one, and only one, side to be true. When both are true, the result of an XOR operation is false \(last line\).
 
-### **Compatbility**
+### **Compatibility**
 
 
 
