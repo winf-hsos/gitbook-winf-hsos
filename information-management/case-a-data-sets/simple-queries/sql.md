@@ -16,7 +16,13 @@ There are many key points made in the excerpt. An important one is that SQL is d
 
 ### SQL requires structured data
 
-SQL is most strongly associated with relational databases. This what is was orinally developed for. In fact, SQL requires structured data \([as does any data you want to analyze](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)\), and the relational database is the best example for a highly structured database. However, if a database does not rely on the relational model, it doesn't mean the data in it isn't structured. In fact, there is no way at all to query unstructured data. What would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. And once we have a schema, we can use SQL again.
+SQL is most strongly associated with relational databases. It was originally developed for them. In fact, SQL requires structured data \([as does any data you want to analyze](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)\), and the relational database is the best example for a highly structured database. 
+
+However, if a database does not rely on the relational model, it doesn't mean the data in it isn't structured. In fact, there is no way at all to query unstructured data. What would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. And once we have a schema, we can use SQL again.
+
+### SQL's ubiquity
+
+> We believe that SQL has become the universal interface for data analysis. \([source](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)\)
 
 ## The power of SQL
 
