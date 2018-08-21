@@ -4,6 +4,28 @@
 
 ### Comma Separated Values \(CSV\)
 
+Punctuation matters. Omitting a comma here or there can completely change the meaning of what we are trying to say or write. There are many funny instances on the web, just search for "punctuation matters". The picture below shows one I find particularly funny.
+
+![Do you want to join this party?](../../.gitbook/assets/eat_the_pastor.png)
+
+The church is known for many unsettling acts, but usually they don't make it that public. Or was it just a punctuation error this time?
+
+The example illustrates the role punctuation marks play in separating words and sentences. Let's cut the church some slack and assume this is what they meant: "**Best sausage supper in St. Louis, come and eat. Pastor Thomas Ressler.**" That sounds better, and we don't have to subscribe to cannibalism to join this party. But what does it have to do with data sets?
+
+Consider a file with 3 lines of content:
+
+```text
+Hess Brewing Solis Double IPA 7.5 San Diego 75 Cryo Cascade Bobek, 3.99
+Crew Republic Drunken Sailor IPA 6.4 Munich 58 Herkules, Citra, Cascade, Simcoe, 1.95
+Propeller Aufwind Double IPA 6.5 50 unknown, 2.49
+```
+
+A quick glance tells us this data has something to do with beer. But what exactly does all this data mean? We can guess that the first words "**Hess Brewing Solis Double IPA**", "**Crew Republic Drunken Sailor IPA**", and "**Propeller Aufwind Double IPA**" are the names of each beer. After the name follows a number with a decimal point, this could be the alcohol concentration. Maybe. But the next information puzzles us: In the first two lines, we encounter "**San Diego**" and "**Munich**", but in the third we see a "**50**". And it gets worse after that.
+
+With only the information above, there is no way for us to figure out the extact meaning of each of the data fields, or where a data field even begins or ends.
+
+
+
 ## Data granularity
 
 ### What does a record represent?
@@ -53,9 +75,11 @@ Aggregating data always results in less or an equal number of rows.
 
 ### A standard format for dates
 
-Imagine the following situation: You are on the phone with your insurance company, and to make you sure you are actually who you claim to be, the clerk asks for your day of birth. Given you are in Germany, you wouldn't have to think long about what information the clerk expects to receive \(day, month, year\), and in which order. In Germany, we always write down the day of birth in this form: day of month as a two digit number, followed by a period, month of the year as a two digit number, followed by period, and finally, the year as a four digit number. For example: **13.09.1981**, which is my day of birth in this format. More general, we can describe the format as **dd.mm.yyyy.** If you were in the United States, you'd write the same date as **09/13/1981**, and the general format would be **mm/dd/yyyy**.
+Imagine the following situation: You are on the phone with your insurance company, and to make sure you are who you claim to be, the clerk asks for your day of birth. Given you are in Germany, you don't have to think long about what pieces of information the clerk expects to hear \(day, month, year\), and in which order. In Germany, we always write down the day of birth in this form: day of month as a two digit number, followed by a period, month of the year as a two digit number, followed by period, and finally, the year as a four digit number. For example: **13.09.1981**, which is my day of birth in this format. More general, we can describe the format as **dd.mm.yyyy.** 
 
-Your day of birth is actually a special case of a more general class of information: A date. We use this agreed upon format not only for birthdays, but for any date when we write it down. The same is true for the IT context, and especially for databases. Here, we store dates in an agreed upon format, and we assign it the data type `date`.
+This is not the case for all countries. If you were in the United States, you'd write the same date as **09/13/1981**, and the general format would be **mm/dd/yyyy**. Other countries may have even different formats.
+
+Your day of birth is actually a special case of a more general class of information: A date. We use this agreed upon format not only for birthdays, but for any date we write down. The same is true for the context of IT systems, and especially for databases. Here, we store dates in an agreed upon format, and we assign it the data type `date`.
 
 ### Less specific data types
 
@@ -65,7 +89,7 @@ A date is _one_ of many data types. It is quite specific, and it is composed of 
 
 #### Numbers
 
-We could also choose this view on the structure of the date: It is composed of 3 numbers, connected by two periods. We know that the day, month and year cannot be any arbitrary sequence of characters, but it can only be a subset of it: integer numbers, i.e. numbers without a decimal place. There we have our next data type: `integer`. And in case we need decimal places, the right data types are `float` or `double`. 
+We could also choose this view on the structure of the date: It is composed of 3 numbers, connected by two periods. We know that the day, month and year cannot be any arbitrary sequence of characters, but it can only be a subset of it: integer numbers, i.e. numbers without a decimal place. There we have our next data type: `integer`. And in case we need decimal places, the right data types are `float` or `double`.
 
 {% hint style="info" %}
 A `double` value is more precise, that is, it can store more decimal places. Read [here ](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)for a nice comparison between `float` and `double`.
@@ -99,13 +123,9 @@ The AND operator requires both sides to be true, otherwise the result is false \
 
 ### **Compatibility**
 
-
-
 ## Representations of data
 
 ## References
 
 * [Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)
-
-
 

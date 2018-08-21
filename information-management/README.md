@@ -46,7 +46,7 @@ The **third case** is becoming more relevant as more and more real time data is 
 
 {% page-ref page="case-c-real-time-data/" %}
 
-The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data such from social media or product reviews. Sounds like a challenge to me!
+The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data, such as from social media or product reviews. Sounds like a challenge to me!
 
 {% page-ref page="case-d-big-data/" %}
 
