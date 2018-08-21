@@ -33,7 +33,7 @@ If we look at both data sets, we can conclude the following:
 
 * A row per car provides us with more information than the one with the sum of cars per hour.
 * The data set with a row per car is much bigger than the one with the sum of cars per hour.
-* We can easily derive the sum of cars per hour from the data set with the rows per car  through **aggregation**. It does not work the other way around.
+* We can easily derive the sum of cars per hour from the data set with the rows per car through **aggregation**. It does not work the other way around.
 
 ### Aggregation
 
