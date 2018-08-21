@@ -22,9 +22,16 @@ Propeller Aufwind Double IPA 6.5 50 unknown, 2.49
 
 A quick glance tells us this data has something to do with beer. But what exactly does all this data mean? We can guess that the first words "**Hess Brewing Solis Double IPA**", "**Crew Republic Drunken Sailor IPA**", and "**Propeller Aufwind Double IPA**" are the names of each beer. After the name follows a number with a decimal point, this could be the alcohol concentration. Maybe. But the next information puzzles us: In the first two lines, we encounter "**San Diego**" and "**Munich**", but in the third we see a "**50**". And it gets worse after that.
 
-With only the information above, there is no way for us to figure out the extact meaning of each of the data fields, or where a data field even begins or ends.
+With only the information above, there is no way for us to figure out the extact meaning of each of the data fields, or where a data field even begins or ends. So let's ask for more:
 
+```text
+name,type,alcohol,location,ibu,hops,price
+Hess Brewing Solis Double IPA 7.5 San Diego 75 Cryo Cascade Bobek, 3.99
+Crew Republic Drunken Sailor IPA 6.4 Munich 58 Herkules, Citra, Cascade, Simcoe, 1.95
+Propeller Aufwind Double IPA 6.5 50 unknown, 2.49
+```
 
+We now have an extra line at the beginning of the file, which contains a comma separated list of words. We call this type of information **meta data.** Meta data is data _about_ the data itself. Thus, meta data _describes_ the data. In this case, it describes the names of the data fields for all the rows in the file.
 
 ## Data granularity
 
