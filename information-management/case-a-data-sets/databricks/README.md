@@ -1,6 +1,6 @@
 # Databricks
 
-## What you'll learn
+## Summary
 
 In this lesson you'll get to know the Databricks cloud platform. We'll cover the basic elements of Databricks, such as the workspace, notebooks, and clusters. Knowing these elements is essential to start working with Databricks.
 
