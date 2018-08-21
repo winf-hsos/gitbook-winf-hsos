@@ -16,7 +16,7 @@ The example illustrates the role punctuation marks play in separating words and 
 
 But what does it have to do with data sets? The answer is simple: When we store data in a file, separating the single parts of a data record is as crucial to understanding the data as proper punctuation is for understanding written prose.
 
-Consider this sample from a craft beer data set, where I removed the comma as the separator symbol \(the original data set is posted on [Kaggle](https://www.kaggle.com/nickhould/craft-cans#beers.csv)\):
+Consider this sample from a craft beer data set, where I removed the comma as the separator symbol, which we will call _delimiter_ \(the original data set is posted on [Kaggle](https://www.kaggle.com/nickhould/craft-cans#beers.csv)\):
 
 {% code-tabs %}
 {% code-tabs-item title="craftbeers.csv" %}
@@ -43,7 +43,7 @@ rownum,abv,ibu,id,name,style,brewery_id,ounces
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-We added an extra line at the beginning of the file, which contains a comma separated list of words. We call the type of information in the first line **meta data.** Meta data is data about the actual data. Thus, meta data describes the actual data. In this case, it describes the names of the data fields for all the rows in the file.
+We added an extra line at the beginning of the file, which contains a comma separated list of words. We call the type of information in the first line _meta data_**.** Meta data is data about the actual data, i.e. meta data describes the actual data. In this case, it describes the names of the data fields for all the rows in the file.
 
 We now know that each line contains 8 separate data fields, because there are 8 names provided in the first line. Is this enough information to fully understand the data set? Let's find out!
 
@@ -59,7 +59,7 @@ We'll start with the first record, which is now in line 2. With the meta data fr
 
 There are a lot of values that don't seem to fit their field name. Moreover, we are two values short: We can't assign values to the fields `brewery_id` and `ounces`. What's are we missing?
 
-The answer is _separators_. In the approach above, we implicitly applied separators. We _assumed_ that a space between two numbers indicates that these numbers belong to different fields. When we encountered a text value, we _assumed_ that the spaces belong to the text and that the whole text belongs to one data field. It looks like our assumptions were wrong. So let's re-introduce the original separator symbol, in this case the comma:
+The answer is _delimiters_. In the approach above, we implicitly applied delimiters. We _assumed_ that a space between two numbers indicates that these numbers belong to different fields. When we encountered a text value, we _assumed_ that the spaces belong to the text and that the whole text belongs to one data field. It looks like our assumptions were wrong after all. So let's re-introduce the original delimiter, in this case the comma:
 
 {% code-tabs %}
 {% code-tabs-item title="craftbeers.csv" %}
@@ -72,18 +72,18 @@ rownum,abv,ibu,id,name,style,brewery_id,ounces
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-We now see two problems with missing separators:
+We now see two problems with missing delimiters:
 
-* Empty values get lost. In the case of the first beer, the value for the field `ibu` is absent. This becomes apparent only if we have a designated separator.
-* The end of a text is not properly defined. What we assumed to be the name was actually more than that: The last part "**American Pale Ale \(APA\)**" belongs to the field `style`. Because we use spaces also to separate words in sentences, the space character is not a good choice for a separator symbol. Unless we put text in quotes.
+* Empty values get lost. In the case of the first beer, the value for the field `ibu` is absent. This becomes apparent only if we have a designated delimiter.
+* The end of a text is not properly defined. What we assumed to be the name was actually more than that: The last part "**American Pale Ale \(APA\)**" belongs to the field `style`. Because we use spaces also to separate words in sentences, the space character is not a good choice for a delimiter. Unless we put the text in quotes.
 
 {% hint style="info" %}
-CSV stands for comma separated values. Although the comma is often the first choice for a separator symbol, many other symbol are just as good. You'll often see a semicolon or a pipe instead of a comma. As long as we know which symbol separates two data fields, any symbol will do.
+CSV stands for comma separated values. Although the comma is often the first choice for a delimiter, other symbols are just as good. You'll often see a semicolon or a pipe instead of a comma. Invisible characters, such as TAB, are also quite popular. \(There is even a file extension `.tsv`\). As long as we know which symbol separates two data fields, any symbol will do.
 {% endhint %}
 
 ### Quotation marks
 
-Take the following line from a CSV file and see if you find a problem with it:
+Take the following line from a CSV file and see if you can spot the problem:
 
 {% code-tabs %}
 {% code-tabs-item title="wine.csv" %}
@@ -94,9 +94,9 @@ id,description,country
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-What happens when we tro to match the data fields in line 2 to the meta data in the first row? The `id` is 1, no problem here. But when we go on to the `description`, we would have interpret the comma after "**This is ripe an fruity**" as a separator symbol, which makes the `country` " **a wine that is smooth while still structured**". Obviously, the `country` should have been "**Portugal**".
+What happens when we tro to match the data fields in line 2 with the meta data in the first row? The `id` is 1, no problem here. But when we go on to the `description`, we would have interpret the comma after "**This is ripe an fruity**" as a delimiter, which makes the `country` " **a wine that is smooth while still structured**". Obviously, the `country` should have been "**Portugal**".
 
-The problem is clear: Sentences that contain one or more commas, as in the case of the description above, we need to use an extra marker to indicate the beginning and the end of the text. To solve this issue, we put double quotation marks around the text. Any symbols, including commas, are treated as part of the text. \(Except quotation marks\).
+The problem is clear: For sentences that contain one or more commas, as in the case of the description above, we need to use an extra marker to indicate the beginning and the end of the text. To solve this issue, we put double quotation marks around the text. Any symbols, including commas, are treated as part of the text. \(Except quotation marks\).
 
 {% code-tabs %}
 {% code-tabs-item title="wine.csv" %}
@@ -108,7 +108,7 @@ id,description,country
 {% endcode-tabs %}
 
 {% hint style="info" %}
-Some texts may contain quotation marks themselves, which breaks the solution to mark the beginning and end using quotation marks. To solve this, we must precede the quotation marks inside the text with another double quote \([RFC-4180](https://tools.ietf.org/html/rfc4180), paragraph 2.7\). We call this _escaping_ the double quote.
+Some texts may contain quotation marks themselves, which breaks the solution to mark the beginning and end using quotation marks. To solve this, we must precede the quotation marks inside the text with another quotation mark \([RFC-4180](https://tools.ietf.org/html/rfc4180), paragraph 2.7\). We call this _escaping_ the double quote.
 {% endhint %}
 
 ## Data granularity
