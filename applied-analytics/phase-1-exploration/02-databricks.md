@@ -2,7 +2,7 @@
 
 Fot the introduction to Databricks, follow the link below to the lesson from the module _Information Management_.
 
-{% page-ref page="../../information-management/case-a-data-sets/02-upload-data/" %}
+{% page-ref page="../../information-management/case-a-data-sets/databricks/" %}
 
 
 

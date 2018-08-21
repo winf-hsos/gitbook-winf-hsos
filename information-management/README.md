@@ -40,15 +40,15 @@ The **first case** describes a very common situation: You are getting a new and 
 
 The **second case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
 
-{% page-ref page="challenge-1-sales-data-analysis/" %}
+{% page-ref page="case-b-sales-data/" %}
 
 The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is created with high but unknown frequency.
 
-{% page-ref page="challenge-3-real-time-updates-and-notifications/" %}
+{% page-ref page="case-c-real-time-data/" %}
 
 The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data such from social media or product reviews. Sounds like a challenge to me!
 
-{% page-ref page="scenario-d-big-data-analysis/" %}
+{% page-ref page="case-d-big-data/" %}
 
 ## Examination
 
