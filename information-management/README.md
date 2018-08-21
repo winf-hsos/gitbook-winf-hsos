@@ -16,7 +16,7 @@ The goal of this module is to acquire the knowledge and tools to turn the raw ma
 
 After completing this course, you'll know about and understand the following concepts:
 
-* The difference between data, information, and knowledge
+* What data and meta data is, and how both can contain value
 * What structured and semi-structured data is
 * What a database is and which types of databases exist
 
@@ -24,8 +24,8 @@ After completing this course, you'll know about and understand the following con
 
 After completing this course, you will be able to:
 
-* Load data from an IT system's database to analyze it offline
 * Explore and analyze previosuly unknown data sets
+* Load data from an IT system's database to analyze it offline
 * Transform raw data for your needs
 * Connect to a real-time data source and analyze a stream of data
 * Apply tools and methods to work with semi-structured data \(Big Data\)
@@ -79,6 +79,8 @@ Sign-up for a [student license](https://www.tableau.com/de-de/academic/students)
 
 ## Feedback
 
+{% tabs %}
+{% tab title="Appraisal" %}
 ## WS 2017/18
 
 > Hallo Nicolas,
@@ -86,4 +88,10 @@ Sign-up for a [student license](https://www.tableau.com/de-de/academic/students)
 > ich wollte dich nur Mal gerade Wissen lassen, dass ich im berufspratischen Projekt **sehr mit meinen Tableau-Können Punkten** kann. Vergleiche gerade auf Karten Tierbestände mit der Kundendatenbank.
 >
 > Vielen Dank für dein Modul!
+{% endtab %}
+
+{% tab title="Improvement" %}
+Nothing here yet :-\)
+{% endtab %}
+{% endtabs %}
 
