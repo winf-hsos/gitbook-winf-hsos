@@ -1,7 +1,5 @@
 # Data Formats
 
-
-
 ## Comma Separated Values \(CSV\)
 
 ### A questionable offer
