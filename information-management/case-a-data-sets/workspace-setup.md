@@ -14,9 +14,9 @@ During case A, you'll be working with the following data sets:
 
 | \# | Data Set | Purpose | Notebook |
 | :--- | :--- | :--- | :--- |
-| 1 | Crimes in Chicago 2018 | Case Study | [Goto Notebook](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Crimes%20in%20Chicago%202018.html) |
-| 2 | Wine Reviews | Examples and Exercises |  |
-| 3 | Craft Beers | Examples and Exercises |  |
+| 1 | Crimes in Chicago 2018 | Case Study | [Template - Crimes in Chicago 2018](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Crimes%20in%20Chicago%202018.html) |
+| 2 | Wine Reviews | Examples and Exercises | [Template - Wine Reviews](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Wine%20Reviews.html) |
+| 3 | Craft Beers | Examples and Exercises | [Template - Craft Beers](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Craft%20Beer.html) |
 
 The first data set is part of the case study that you are going to solve in your group. All the other data sets serve as examples throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using another data set.
 
