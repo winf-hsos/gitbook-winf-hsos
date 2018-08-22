@@ -14,7 +14,7 @@ During case A, you'll be working with the following data sets:
 
 | \# | Data Set | Purpose | Notebook |
 | :--- | :--- | :--- | :--- |
-| 1 | Crimes in Chicago 2018 | Case Study |  |
+| 1 | Crimes in Chicago 2018 | Case Study | [Goto Notebook](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Crimes%20in%20Chicago%202018.html) |
 | 2 | Wine Reviews | Examples and Exercises |  |
 | 3 | Craft Beers | Examples and Exercises |  |
 

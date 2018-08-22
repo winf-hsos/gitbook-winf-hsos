@@ -19,3 +19,8 @@ select
 from crimes
 ```
 
+```sql
+select date_format(date, "y-MM-dd HH:mm") 
+from crimes
+```
+
