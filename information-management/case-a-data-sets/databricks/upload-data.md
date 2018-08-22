@@ -4,10 +4,10 @@
 
 DBFS is short for _Databricks File System_. With your free account, Databricks also grants you free storage for your data sets.
 
-The DBFS is structured just like your local Windows of Mac file system. It has folders and subfolders to store and organize files. When we upload new file using the Databricks UI, by default the data will be stored in the subfolder `FileStore/tables`. We can choose any subfolder underneath this path to store our data, but for our purposes, it is fine to simply store everything in this folder.
+The DBFS is structured just like your local Windows or Mac file system. It has folders and subfolders to organize files. When we upload new file with the Databricks UI, by default, the data will be stored in the subfolder `FileStore/tables`. We can choose to store our data in any subfolder underneath this path, but for our purposes it is fine to leave it as is.
 
 {% hint style="info" %}
-For more information on the DBFS, check out the [official documentation](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html#dbfs).
+At this point, we don't need any more details on the DBFS. For more information, check out the [official documentation](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html#dbfs).
 {% endhint %}
 
 ## Upload new data set to Databricks
