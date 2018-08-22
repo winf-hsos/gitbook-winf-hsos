@@ -16,7 +16,7 @@ On the [sign-up page](https://databricks.com/try-databricks), make sure you clic
 
 ## Workspace
 
-When you log into Databricks, you are taken directly to your workspace. More precisely, you'll see the landing page of your workspace. From there, you can perform many important actions right away:
+When you log into Databricks, you are taken directly to your workspace. More precisely, you'll see the landing page of your workspace. The landing page contains quick links to important actions:
 
 * Create a new notebook
 * Start a new cluster
