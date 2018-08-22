@@ -45,6 +45,10 @@ With S3 \(= Simple Storage Service\) and Databricks, you actually have 2 options
 
 In the following, I'll explain the first option, because we use this option in our modules.
 
+{% hint style="success" %}
+I prepared the necessary steps to automate the data upload for the data sets we use in our modules. For each data set, I published a template notebook that includes the code to copy and import the particular data set from Amazon S3 into your Databricks account.
+{% endhint %}
+
 ### Copy a file from a public URL to databricks
 
 The code below copies a file from a public URL into your Databrick's DBFS and stores it in the folder `/datasets`. The code looks complicated, but the good news is you don't have to understand every bit of it. You just have to execute the code once and never touch it again. If you are interested to learn how it actually works, I'll briefly explain the code.
