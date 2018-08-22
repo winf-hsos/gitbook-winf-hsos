@@ -40,7 +40,7 @@ In **part C**, you further enhance your web app individually \(still in groups, 
 
 ## Examination
 
-Unlike most courses, this course does **not** end in a 2 hour written exam. All necessary work to complete this course is performed during the semester:
+Unlike most courses, this course does **not** end in a 2 hour written exam. We do all all necessary work to complete this course during the semester:
 
 * Planning and building you own web application \(70%\)
 * Mastering 2 short multiple choice tests in the middle and at the end of the semester \(30%\)

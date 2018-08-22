@@ -12,6 +12,8 @@ This page is under construction.
 
 ## Examination {#examination}
 
+Unlike most courses, this course does **not** end in a 2 hour written exam. We do all all necessary work to complete this course during the semester.
+
 ## Software & Accounts {#software-and-accounts}
 
 ## Feedback
