@@ -2,7 +2,7 @@
 
 ## Why SQL?
 
-### SQL was designed to empower the normal user
+### Empower the normal user
 
 The following is an excerpt from the [Microsoft SQL Server Reference](https://docs.microsoft.com/en-us/sql/odbc/reference/structured-query-language-sql?view=sql-server-2017) and gives a great introduction to the topic:
 
@@ -18,13 +18,13 @@ Donald Chamberlin underlines this view on SQL in his paper [Early History of SQL
 
 > \[..\] we believed that it should be possible to design a relational language that would be more accessible to users without formal training in mathematics or computer programming.
 
-### SQL requires structured data
+### No structure, no query
 
 SQL is most strongly associated with relational databases. Unsurprisingly, as it was originally developed for them. In fact, SQL requires structured data \([as does any data you want to analyze](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)\), and the relational database is the best example for a highly structured database. 
 
 However, if a database does not rely on the relational model, it doesn't mean the data in it isn't structured. In fact, there is no way at all to query unstructured data. What would you even be querying for? Even for unstructured \(or semi-structured\) data such as images, we must project some structure \(or schema\) onto the data when we want to query it. And once we have a schema, we can use SQL again.
 
-### SQL's ubiquity
+### Lingua franca for data analysis
 
 > We believe that SQL has become the universal interface for data analysis. \([source](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)\)
 
