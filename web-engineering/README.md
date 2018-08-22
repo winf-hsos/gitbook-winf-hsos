@@ -67,6 +67,13 @@ We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascrip
 
 ## Links & Material
 
+### Docs & Tutorials
+
+| Name | URL |
+| :--- | :--- |
+| Javascript Info - Tutorials on JS | [http://javascript.info/](http://javascript.info/) |
+| MDN Web Docs | [https://developer.mozilla.org/de/](https://developer.mozilla.org/de/) |
+
 ### Tools
 
 | **Name** | **URL** |
