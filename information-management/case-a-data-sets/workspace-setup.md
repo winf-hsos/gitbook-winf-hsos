@@ -5,7 +5,7 @@
 For this course, you need a Databricks account, which gives you access to a cloud-based environment that lets you work with data in various ways.
 
 {% hint style="success" %}
-**TASK:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for the free Databricks Community Edition! Make sure to choose the Community Edtion, **not** the free trial version!
+**TASK:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for the free Databricks Community Edition! Choose the Community Edtion, **not** the free trial version!
 {% endhint %}
 
 ## Import data sets to your Databricks account
