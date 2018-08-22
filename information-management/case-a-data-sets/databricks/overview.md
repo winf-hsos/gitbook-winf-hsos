@@ -30,13 +30,13 @@ On the left of the Databricks UI \(= User Interface\), you see the main navigati
 
 ## Clusters
 
-## Must Reads
+## References
 
-| Name | Comment |
-| :--- | :--- |
-| [Databricks UI Orientation](https://docs.databricks.com/getting-started/quick-start.html#step-1-orient-yourself-to-the-databricks-ui) |  |
-| [Databricks User Guide - Workspace](https://docs.databricks.com/user-guide/workspace.html#workspace) |  |
-| [Databricks User Guide - Notebooks](https://docs.databricks.com/user-guide/notebooks/index.html#notebooks) | Read the sections on create, import, export, and use notebooks. |
+| Name & Link | Comment | Must |
+| :--- | :--- | :--- |
+| [Databricks UI Orientation](https://docs.databricks.com/getting-started/quick-start.html#step-1-orient-yourself-to-the-databricks-ui) |  | ✔ |
+| [Databricks User Guide - Workspace](https://docs.databricks.com/user-guide/workspace.html#workspace) |  | ✔ |
+| [Databricks User Guide - Notebooks](https://docs.databricks.com/user-guide/notebooks/index.html#notebooks) | Read the sections on create, import, export, and use notebooks. | ✔ |
 
 
 
