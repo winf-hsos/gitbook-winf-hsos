@@ -18,7 +18,7 @@ During case A, you'll be working with the following data sets:
 | 2 | Wine Reviews | Examples and Exercises |  |
 | 3 | Craft Beers | Examples and Exercises |  |
 
-The first data set is part of the case study that you are going to solve on your own in your group. All the other data sets serve as examples throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using another data set.
+The first data set is part of the case study that you are going to solve in your group. All the other data sets serve as examples throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using another data set.
 
 ## Open the data set with your favorite editor
 

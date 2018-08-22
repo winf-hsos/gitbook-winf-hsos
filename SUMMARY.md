@@ -70,6 +70,7 @@
     * [MapReduce](information-management/case-d-big-data/mapreduce.md)
     * [Structure on Read](information-management/case-d-big-data/structure-on-read.md)
     * [Data Lake](information-management/case-d-big-data/data-lake.md)
+  * [Case E: Spreadsheets](information-management/case-e-spreadsheets.md)
 * [Web Engineering](web-engineering/README.md)
   * [Part A: Your First Website](web-engineering/part-a-your-first-website/README.md)
     * [Workspace Setup](web-engineering/part-a-your-first-website/01-workspace-setup.md)
