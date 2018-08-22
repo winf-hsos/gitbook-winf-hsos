@@ -66,6 +66,8 @@
     * [Publish / Subscribe](information-management/case-c-real-time-data/publish-subscribe.md)
   * [Case D: Big Data](information-management/case-d-big-data/README.md)
     * [Data Redundancy](information-management/case-d-big-data/data-redundancy.md)
+    * [HDFS](information-management/case-d-big-data/hdfs.md)
+    * [MapReduce](information-management/case-d-big-data/mapreduce.md)
     * [Structure on Read](information-management/case-d-big-data/structure-on-read.md)
     * [Data Lake](information-management/case-d-big-data/data-lake.md)
 * [Web Engineering](web-engineering/README.md)
