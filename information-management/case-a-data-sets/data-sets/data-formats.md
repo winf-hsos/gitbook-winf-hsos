@@ -6,7 +6,7 @@
 
 ### A questionable offer
 
-Punctuation matters. Omitting a comma here or there can completely change the meaning of what we are trying to say or write. There are many funny instances on the web, simply [google](http://bfy.tw/JVRe) "punctuation matters". The picture below shows one I find particularly funny.
+Punctuation matters. Omitting a comma here or there can completely change the meaning of what we write. There are many funny instances on the web, simply [google](http://bfy.tw/JVRe) "punctuation matters". The picture below shows one I find particularly funny.
 
 ![Do you want to join this party?](../../../.gitbook/assets/eat_the_pastor.png)
 

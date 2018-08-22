@@ -8,11 +8,17 @@ For this course, you need a Databricks account, which gives you access to a clou
 **TASK:** If you don't already have an account, [sign up](https://databricks.com/try-databricks) for the free Databricks Community Edition! Make sure to choose the Community Edtion, **not** the free trial version!
 {% endhint %}
 
-## Download the data set
+## Import data sets to your Databricks account
 
-{% hint style="success" %}
-**TASK:** [Download](https://s3.amazonaws.com/nicolas.meseth/data+sets/winemag-data.zip) the data set and save the ZIP file to your computer!
-{% endhint %}
+During case A, you'll be working with the following data sets:
+
+| \# | Data Set | Purpose | Notebook |
+| :--- | :--- | :--- | :--- |
+| 1 | Crimes in Chicago 2018 | Case Study |  |
+| 2 | Wine Reviews | Examples and Exercises |  |
+| 3 | Craft Beers | Examples and Exercises |  |
+
+The first data set is part of the case study that you are going to solve on your own in your group. All the other data sets serve as examples throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using another data set.
 
 ## Open the data set with your favorite editor
 
