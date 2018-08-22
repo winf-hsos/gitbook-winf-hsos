@@ -115,5 +115,10 @@ Some texts may contain quotation marks themselves, which breaks the solution to 
 
 ## References
 
-* [Common Format and MIME Type for CSV Files \(RFC 4180\)](https://tools.ietf.org/html/rfc4180)
+| Title and Link | Type |
+| :--- | :--- |
+| [Common Format and MIME Type for CSV Files \(RFC 4180\)](https://tools.ietf.org/html/rfc4180) | Additional information |
+| [Introducing JSON](https://www.json.org/) | Additional information |
+
+
 

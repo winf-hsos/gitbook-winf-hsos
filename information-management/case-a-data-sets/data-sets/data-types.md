@@ -56,5 +56,7 @@ The AND operator requires both sides to be true, otherwise the result is false \
 
 ## References
 
-* [Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html)
+| Title and Link | Type |
+| :--- | :--- |
+| [Float or double?](http://www.ilikebigbits.com/2017_06_01_float_or_double.html) | Additional information |
 
