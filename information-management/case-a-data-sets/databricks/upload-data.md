@@ -137,7 +137,7 @@ var df = spark.read.option("header", "true")
 A data frame is a type of object that [Apache Spark](https://winf-hsos.gitbook.io/module/~/drafts/-LJNRAhUNytf0xgugkpq/primary/information-management/challenge-1-explore-new-dataset/02-upload-data/overview#apache-spark) uses to work with structured data. \(Remember, Apache Spark is the underlying software of Databricks\).
 
 {% hint style="info" %}
-Note that we can only create a data frame from the file because the data in the file is structured. It is in [CSV format](https://winf-hsos.gitbook.io/module/~/drafts/-LJNRAhUNytf0xgugkpq/primary/information-management/challenge-1-explore-new-dataset/01-data-sets#comma-separated-values-csv), which means that a line corresponds to a record, and the columns are separated by commas.
+Note that we can only create a data frame from the file because the data in the file is structured. It is in [CSV format](../data-sets/data-formats.md#comma-separated-values-csv), which means that a line corresponds to a record, and the columns are separated by commas.
 
 If the data wasn't that clearly structured, we could still read the data with Databricks. We would then need to create an RDD \(resilient distributed dataset\), which assumes no structure of the data. An RDD contains the raw data and we can access it line by line.
 {% endhint %}
