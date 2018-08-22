@@ -6,9 +6,9 @@ Having multiple copies on different media and keeping them in different physical
 
 Keeping three redundant copies that way is also a cumbersome task. You must keep all copies in sync, and for most phyiscal media, you will need to frequently check whether they are still working. If not, you need to revocer your data, and to prevent this in the future, you must come up with a strategy that replaces for example CDs before they loose data. This is time consuming.
 
-Fortunately, we no longer have to do all that work ourselves. We recently entered the cloud era, and cloud vendors nearly perfected data storage services in the past years. Most vendors guarantee you unlimited data retention. In other words they promise they'll never loose your data as long as you don't delete it. They can do this because of data redundancy.
+Fortunately, we no longer have to do all that work ourselves. We recently entered the cloud era, and cloud vendors nearly perfected data storage services in the past years. Most vendors guarantee you unlimited data retention. In other words, they promise they'll never loose your data as long as you don't delete it. They can promise this because they keep your data redundantly.
 
-Cloud vendors use a similar technique as Bob did with his photos. When you upload a photo to the cloud service, they store that photo not just on one server, but on three or more at the same time. To make your photo even safer, they store multiple copies on servers in different data centers around the world. And because the data centers are connected via a fast network, they can keep the data in sync in almost no time.
+Cloud vendors use a similar technique as Bob does with his photos. When you upload a photo to the cloud service, they store that photo not just on one server, but on three or more at the same time. To make your photo even safer, these servers sit in different data centers around the world. And because the data centers are connected via a fast network, they can keep the data in sync in almost no time.
 
 Data redundancy is not merely useful for photos, but for any kind of data that you want to store permanently.
 
