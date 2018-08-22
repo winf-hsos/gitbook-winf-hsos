@@ -79,6 +79,7 @@ We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascrip
 | **Name** | **URL** |
 | :--- | :--- |
 | Codepen, a tool to quickly try out HTML, CSS and Javascript interactively | [https://codepen.io](https://codepen.io) |
+| Codesandbox | [https://codesandbox.io](https://codesandbox.io) |
 | Coolors, simple color generator for website design | [https://coolors.co/app](https://coolors.co/app) |
 | Balsamiq Mockup, a tool to create drawings of website layouts. Licenses for class can be provided. | [https://balsamiq.com/download/](https://balsamiq.com/download/) |
 
