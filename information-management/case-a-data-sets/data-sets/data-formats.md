@@ -28,7 +28,7 @@ Consider this sample from a craft beer data set, where I removed the comma as th
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Even if we didn't know the name or anything about the data set, a quick glance tells us this data has something to do with beer. But what _exactly_ does all the information in one line mean? 
+Even if we didn't know the name or anything else about the data set, a quick glance tells us this data has something to do with beer. But what _exactly_ does all the information in one line mean? 
 
 We can guess that the words "**Devil's Cup American Pale Ale \(APA\)**", "**Monk's Blood Belgian Dark Ale**", and "**Dark Star American Stout**" are the names of each beer. But what about all the weird numbers before and after that? With only the information above, there is no way we can understand the meaning all the numbers. Luckily, the original file provides more information in its first row:
 
@@ -57,7 +57,7 @@ We'll start with the first record, which is now in line 2. With the meta data fr
 6. `style` is "**12.0**". \(_Ok, something is wrong!_\)
 7. `brewery_id` is .... _Ahhh, no more values!_
 
-There are a lot of values that don't seem to fit their field name. Moreover, we are two values short: We can't assign values to the fields `brewery_id` and `ounces`. What's are we missing?
+There are four values that don't seem to fit their field name. Moreover, we are two values short: We can't assign values to the fields `brewery_id` and `ounces`. What's are we missing?
 
 The answer is _delimiters_. In the approach above, we implicitly applied delimiters. We _assumed_ that a space between two numbers indicates that these numbers belong to different fields. When we encountered a text value, we _assumed_ that the spaces belong to the text and that the whole text belongs to one data field. It looks like our assumptions were wrong after all. So let's re-introduce the original delimiter, in this case the comma:
 
