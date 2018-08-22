@@ -10,7 +10,7 @@ We learned how we can control the result set in terms of columns when we introdu
 
 ### A first cut
 
-When we select columns and expressions fom a table, we asked the question: _What information \[about the records\] should the result set contain?_ 
+When we select columns and expressions fom a table, we answer the question: _What information \[about the records\] should the result set contain?_ 
 
 Let's imagine we want the columns `name` , `abv` and `style`, but not for all beers in the data set. Only for those, which contain more than 9% alcohol. In natural language, we could formulate this request as: "Give me the **name,** the **alcohol by volume** and ****the **style** of all beers **that contain more than 9% alcohol**". We have already learned how to express the first part in SQL: 
 
