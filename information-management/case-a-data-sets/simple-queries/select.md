@@ -2,9 +2,9 @@
 
 ## Your first query
 
-If you could talk to a database and ask for specific data, how would you formulate your reuqest? Engineers at IBM in the 1970s have probably asked themselves the very same question. As a result, they came up with the SQL select statement.
+If you could talk to a database and ask for specific data, how would you formulate your reuqest? Engineers at IBM in the 1970s have asked themselves the very same question. As a result, they came up with the SQL _select statement_.
 
-One idea behind the select statement is that users should write queries similar to how they would formulate the query in the English language. Consider we have a data set \(or table\) called _person_ with 3 columns and 3 rows:
+One idea behind the select statement is to write queries similar to how we formulate the same request in the English language. Consider we have a table `person` with 3 columns and 3 rows:
 
 ![](../../../.gitbook/assets/person_table%20%281%29.png)
 
@@ -27,7 +27,7 @@ Note that the example above is oversimplified, but serves the purpose to show th
 {% endhint %}
 
 {% hint style="info" %}
-A sidenote: SQL and relational databases are mathematically founded in the [**relational algebra**](https://en.wikipedia.org/wiki/Relational_algebra). The relational algebra contains a number of operations that can be performed on data sets. The one we just learned about, namely selecting a subset of columns, is called **projection.**
+A sidenote: SQL and relational databases are mathematically founded in the [**relational algebra**](https://en.wikipedia.org/wiki/Relational_algebra). The relational algebra is related to set theory and contains a number of operations that can be performed on data sets. The one we just learned about, namely selecting a subset of columns, is called **projection.**
 {% endhint %}
 
 ## General syntax

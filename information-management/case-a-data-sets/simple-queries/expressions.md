@@ -75,7 +75,7 @@ You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/3)
 
 ## Formulas
 
-A literal value is a special case of an expression. Besides literal values, an expression be \(or contain\) a formula or a function. Any mix of the 3 types is possible as well.
+A literal value is a special case of an expression. Besides literal values, an expression be \(or contain\) a formula or a function. A mix of the 3 types is possible as well.
 
 ### Arithmetic
 
@@ -85,7 +85,7 @@ Formulas are either arithmetic, i.e. they represent a number, or boolean, i.e. t
 SELECT weight / height as relativeWeight FROM person
 ```
 
-The expression `weight / height` calculates a mesaure that puts the two attributes into relation. The more you weigh, the bigger the number, the taller you are, the smaller the number. As with literal values, we can combine column names and expressions in a single statement:
+The expression `weight / height` calculates a mesaure that puts the two attributes in relation. The more you weigh, the bigger the result, the taller you are, the smaller the result. As with literal values, we can combine column names and expressions in a single statement:
 
 ```sql
 SELECT name, weight / height as relativeWeight FROM person
@@ -138,7 +138,7 @@ Functions play a huge role in SQL, that's why we devote a separate section to da
 
 ### Math
 
-Much of the calculations we need are covered by the arithmetic operators. However, there are some math functions that we'll use quite often:
+Much of the calculations we need are covered by the arithmetic operators. However, there are some math functions that you might need:
 
 ```sql
 SELECT sqrt(weight) as squareRootOfWeight FROM person;
