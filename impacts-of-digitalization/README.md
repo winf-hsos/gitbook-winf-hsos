@@ -16,19 +16,29 @@ Unlike most courses, this course does **not** end in a 2 hour written exam. We d
 
 ## Software & Accounts {#software-and-accounts}
 
+### Visual Studio Code
+
+### Tinkerforge
+
 ## Feedback
 
+{% tabs %}
+{% tab title="Appraisal" %}
 ## SS 2018
 
 > Sehr motivierter Professor mit neuen Lehrmethoden. So sollte es sein!
->
-> Sehr guter Dozent! Es macht Spaß im zuzuhören und seinen Vorlesungen zu folgen!
 
+> Sehr guter Dozent! Es macht Spaß im zuzuhören und seinen Vorlesungen zu folgen!
+{% endtab %}
+
+{% tab title="Improvement" %}
 ## SS 2018
 
 > Ohne Vorkenntnisse schwierig.
->
+
 > Bei Gruppenarbeit sollte auf eine Verteilung der Vorkenntnisse geachtet werden \(z.B. nach vorhandenen Programmierkenntnissen\).
->
+
 > Programmierkenntnisse wurden erwartet, sollte in die Modulbeschreibung aufgenommen werden.
+{% endtab %}
+{% endtabs %}
 
