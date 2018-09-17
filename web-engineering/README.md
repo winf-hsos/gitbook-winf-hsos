@@ -10,10 +10,10 @@ In this course, you are going to learn how to build modern web applications.
 
 ### What you'll know
 
-After completing this course, you'll know about and understand the following concepts:
+After completing this course, you'll understand the following concepts:
 
-* How modern websites and web applications work and how they are built
-* What HTML, CSS and Javascript is and the role they play in web applications
+* How modern websites and web applications work and how you can build one
+* What HTML, CSS and Javascript are and the role they play in modern web applications
 * Which tools and platforms simplify web development
 
 ### What you'll be able to do
