@@ -109,6 +109,8 @@
   * [Digitalization](wirtschaftsinformatik/set-3-cs-and-business.md)
 * [Appendix](appendix/README.md)
   * [Tutorials](appendix/tutorials.md)
-  * [Exercises](appendix/exercises.md)
+  * [Exercises](appendix/exercises/README.md)
+    * [Web Engineering](appendix/exercises/web-engineering.md)
+    * [\#01 - HTML](appendix/exercises/01-html.md)
   * [Links](appendix/links.md)
 
