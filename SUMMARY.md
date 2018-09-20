@@ -110,7 +110,7 @@
 * [Appendix](appendix/README.md)
   * [Tutorials](appendix/tutorials.md)
   * [Exercises](appendix/exercises/README.md)
-    * [Web Engineering](appendix/exercises/web-engineering.md)
-    * [\#01 - HTML](appendix/exercises/01-html.md)
+    * [Web Engineering](appendix/exercises/web-engineering/README.md)
+      * [\#01 - HTML](appendix/exercises/web-engineering/01-html.md)
   * [Links](appendix/links.md)
 
