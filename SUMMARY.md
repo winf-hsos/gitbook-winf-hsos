@@ -107,5 +107,8 @@
   * [Computer Science](wirtschaftsinformatik/set-1-computer-science.md)
   * [Information Systems](wirtschaftsinformatik/set-2-business.md)
   * [Digitalization](wirtschaftsinformatik/set-3-cs-and-business.md)
-* [Links](links.md)
+* [Appendix](appendix/README.md)
+  * [Tutorials](appendix/tutorials.md)
+  * [Exercises](appendix/exercises.md)
+  * [Links](appendix/links.md)
 
