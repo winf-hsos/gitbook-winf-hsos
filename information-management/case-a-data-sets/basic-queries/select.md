@@ -10,7 +10,7 @@ One idea behind the select statement is to write queries similar to how we formu
 
 Given this simple table, how would you formulate a request to get only the name and height of each person \(not the weight\)? You would probably say something like _"_**Give me only the name and height of each person, please"**_,_ right?
 
-Now, let's consider the table's columns more as a set from which we can choose. We could then formulate it as "**I'd like to choose the name and the height from the person set**". That's very close to what it would look like in SQL. We only have to replace the verb "choose" with "select" and remove some fill words: "~~I'd like to~~ **select** ~~the~~ **name** ~~and the~~ **height from** ~~the~~ **person** ~~set~~". Instead of "and" we put a comma, and we have our first working select statement:
+Now, let's consider the table's columns more as a set from which we can choose. We could then formulate it as "**I'd like to choose the name and the height from the person set**". That's very close to what it would look like in SQL. We only have to replace the verb "choose" with "select", and remove some fill words: "~~I'd like to~~ **select** ~~the~~ **name** ~~and the~~ **height from** ~~the~~ **person** ~~set~~". Instead of "and", we put a comma, and we have our first working select statement:
 
 ```sql
 SELECT name, height FROM person
