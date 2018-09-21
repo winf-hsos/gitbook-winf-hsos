@@ -117,7 +117,7 @@
     * [SQL](appendix/exercises/sql/README.md)
       * [\#01 - Simpsons Part I](appendix/exercises/sql/01-simpsons-part-i.md)
       * [\#02 - Simpsons Part II](appendix/exercises/sql/02-simpsons-part-ii.md)
-    * [Web Engineering](appendix/exercises/web-engineering/README.md)
+    * [HTML & CSS](appendix/exercises/web-engineering/README.md)
       * [\#01 - HTML](appendix/exercises/web-engineering/01-html.md)
   * [Links](appendix/links.md)
 
