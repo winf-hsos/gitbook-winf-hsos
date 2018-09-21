@@ -8,9 +8,9 @@
 4. Erstelle eine sortierte Liste mit den Redeanteilen aller Charaktere für die 2. Staffel!
 5. Erstelle eine Top 10 Liste mit den Charakteren, die am meisten schimpfen!
 
-Erstel**le eine Top 10 Liste der am meisten verwendeten Wörter!**
+**Erstelle eine Top 10 Liste der am meisten verwendeten Wörter!**
 
-1. Überlege zunächst, wie du an diese Aufgabe herangehen würdest und schreibe die Schritte Aufgabe
+1. Überlege zunächst, wie du an diese Aufgabe herangehen würdest und beschreibe die Schritte zur Lösung!
 2. Ist diese Aufgabe mit SQL lösbar? Ist SQL dafür geeignet?
 
 
