@@ -32,7 +32,7 @@ However, if a database does not rely on the relational model, it doesn't mean th
 
 ### Query data
 
-SQL is known for its power to _query_ structured data. The means to do that is the popular _select_ command. Selecting data with this command is at the core of what we do with SQL in our courses. For most scenarios, we assume the structure and content of the data is given. We only want to _get_ the data we need from the given data set \(or table\). This can be tricky, but it requires only the select command.
+SQL is popular for its power to _query_ structured data. The means to do that is the popular _select_ command. Selecting data with this command is at the core of what we do with SQL in our courses. For most scenarios, we assume the structure and content of the data is given. We only want to _get_ the data we need from the given data set \(or table\). This can be tricky, but it requires only the select command.
 
 ### Manipulate data
 
