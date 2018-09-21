@@ -23,5 +23,5 @@ If you subsequently enrol in the master program, you get the chance to take anot
 
 | **Semester** | **Module\(s\)** |
 | :--- | :--- |
-| 2. | [Big Data Analytics](big-data-analytics.md) |
+| 2. | [Big Data Analytics](big-data-analytics/) |
 
