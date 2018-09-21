@@ -23,7 +23,7 @@ If we execute this statement against the database, the result looks like this:
 That was easy, right? And so far quite intuitive and close to how we naturally speak. The good news is: The rest of the select statement's vocabulary follows the same rule of staying close to how we speak. That makes small and less complex queries very easy to read and write. The bad news: Once we arrive at a certain complexity, SQL statements can become large and very hard to read, despite the fact that it is at its core close to how we naturally speak. We'll find ways to deal with that later when we get there.
 
 {% hint style="info" %}
-Note that the example above is oversimplified, but serves the purpose to show the main concepts of the select statement. The exercise of selecting 2 out of 3 columns may seem pointless in this scenario. But keep in mind that, in a real world data set, the number of columns can span between 10 to 100 or even more. Here, selecting only what you need becomes essential.
+Note that the example above is oversimplified, but serves the purpose to show the main concepts of the select statement. The exercise of selecting 2 out of 3 columns may seem pointless in this scenario. But keep in mind that, in a real world data set, the number of columns can be large. I have seen tables with 200 and more columns. Here, selecting only what you need becomes essential.
 {% endhint %}
 
 {% hint style="info" %}
