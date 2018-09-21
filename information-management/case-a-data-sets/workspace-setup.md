@@ -15,11 +15,11 @@ During case A, you'll be working with the following data sets:
 | \# | Data Set | Notebook | Download |
 | :--- | :--- | :--- | :--- |
 | 1 | Crimes in Chicago 2018 | [Template - Crimes in Chicago 2018](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Crimes%20in%20Chicago%202018.html) |  |
-| 2 | Wine Reviews | [Template - Wine Reviews](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Wine%20Reviews.html) |  |
+| 2 | Wine Reviews | [Template - Wine Reviews](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Wine%20Reviews.html) | [wine-reviews](https://s3.amazonaws.com/nicolas.meseth/data+sets/wine-reviews.zip) \(16 MB\) |
 | 3 | Craft Beers | [Template - Craft Beers](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Craft%20Beer.html) |  |
-| 4 | Simpsons | [Template - Simpsons](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) | [simpsons.zip \(9 MB\)](https://s3.amazonaws.com/nicolas.meseth/data+sets/simpsons/simpsons.zip) |
+| 4 | Simpsons | [Template - Simpsons](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) | [simpsons.zip](https://s3.amazonaws.com/nicolas.meseth/data+sets/simpsons/simpsons.zip) \(9 MB\) |
 
-The first data set is part of the case study that you are going to solve in your group. All the other data sets serve as examples throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using another data set.
+The first data set is part of the case study that you are going to solve in your group. All the other data sets serve as examples or for exercises throughout the lessons. The goal is to illustrate methods and concepts using one data set, and then to transfer and extend upon that knowledge using other data sets.
 
 ## Install Notepad++
 
