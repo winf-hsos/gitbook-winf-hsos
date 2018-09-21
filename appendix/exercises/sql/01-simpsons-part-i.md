@@ -1,5 +1,9 @@
 # \#01 - Simpsons Part I
 
+{% hint style="info" %}
+For this exercise, use this [Databricks template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) to load the required data set and create the tables.
+{% endhint %}
+
 **Beantworte die folgenden Fragen, indem du geeignete SQL-Abfragen definierst und ausführst!**
 
 1. Wie viele Simpsons-Episoden gibt es?
