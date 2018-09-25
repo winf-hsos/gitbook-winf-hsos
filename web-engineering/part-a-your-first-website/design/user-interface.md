@@ -1,4 +1,7 @@
 # Guidelines
 
-[https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
+| Link |
+| :--- |
+| [Material Design](https://material.io/) |
+| [The World's Worst Website Ever](https://www.theworldsworstwebsiteever.com/) |
 
