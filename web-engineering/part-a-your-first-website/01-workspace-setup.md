@@ -8,7 +8,7 @@ description: >-
 
 ## Cloud9
 
-In this course we work with [Cloud9](https://c9.io/login), which is an online IDE running fully in your browser. \(IDE stands for _integrated development environment_\). You don't need to install any software on your computer.
+In this course we work with [Cloud9](https://c9.io/login), which is an online IDE running fully in your browser. \(IDE stands for _integrated development environment_\). You don't need to install any software on your computer to participate in this course.
 
 {% hint style="info" %}
 We have a team on Cloud9 to which I send you an invitation during the first week of class. Please wait for this invitation to sign up! If you didn't get an invitation, contact me via Slack.
