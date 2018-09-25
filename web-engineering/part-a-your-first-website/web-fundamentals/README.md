@@ -2,7 +2,7 @@
 
 ## Must Reads {#must-reads}
 
-The following table lists articles that give you a very good introduction to basics concepts of the web.
+The following table lists articles that give you a good introduction to basics concepts of the web.
 
 | **Link** | **What you'll learn** |
 | :--- | :--- |
