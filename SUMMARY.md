@@ -79,6 +79,7 @@
   * [Part A: Your First Website](web-engineering/part-a-your-first-website/README.md)
     * [Workspace Setup](web-engineering/part-a-your-first-website/01-workspace-setup.md)
     * [Web Fundamentals](web-engineering/part-a-your-first-website/web-fundamentals/README.md)
+      * [History](web-engineering/part-a-your-first-website/web-fundamentals/history.md)
       * [Types of Websites](web-engineering/part-a-your-first-website/web-fundamentals/types-of-websites.md)
       * [The User Interface](web-engineering/part-a-your-first-website/web-fundamentals/user-interface.md)
     * [First HTML](web-engineering/part-a-your-first-website/introduction-to-html.md)
