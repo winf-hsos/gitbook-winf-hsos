@@ -1,5 +1,11 @@
 # Slides
 
+## Information Management
+
+| Title | PDF |
+| :--- | :--- |
+| Information Management - Course Logistics |  |
+
 ## Web Engineering
 
 | Title | PDF |
