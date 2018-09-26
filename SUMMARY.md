@@ -119,7 +119,8 @@
   * [Information Systems](wirtschaftsinformatik/set-2-business.md)
   * [Digitalization](wirtschaftsinformatik/set-3-cs-and-business.md)
 * [Appendix](appendix/README.md)
-  * [Tutorials](appendix/tutorials.md)
+  * [Slides](appendix/slides.md)
+  * [CodePens](appendix/codepens.md)
   * [Exercises](appendix/exercises/README.md)
     * [SQL](appendix/exercises/sql/README.md)
       * [\#01 - Simpsons Part I](appendix/exercises/sql/01-simpsons-part-i.md)
@@ -127,5 +128,6 @@
     * [HTML & CSS](appendix/exercises/web-engineering/README.md)
       * [\#00 - Student Profile](appendix/exercises/web-engineering/00-student-profile.md)
       * [\#01 - HTML](appendix/exercises/web-engineering/01-html.md)
+  * [Tutorials](appendix/tutorials.md)
   * [Links](appendix/links.md)
 
