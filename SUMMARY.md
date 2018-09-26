@@ -32,6 +32,7 @@
   * [Economic Impacts](impacts-of-digitalization/economic-impacts.md)
 * [Information Management](information-management/README.md)
   * [Case A: Desktop](information-management/case-a-desktop/README.md)
+    * [Workspace Setup](information-management/case-a-desktop/workspace-setup.md)
     * [Tableau](information-management/case-a-desktop/tableau.md)
   * [Case A: Data Sets](information-management/case-a-data-sets/README.md)
     * [Workspace Setup](information-management/case-a-data-sets/workspace-setup.md)
