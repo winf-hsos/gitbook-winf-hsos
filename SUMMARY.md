@@ -124,6 +124,8 @@
   * [Slides](appendix/slides.md)
   * [CodePens](appendix/codepens.md)
   * [Exercises](appendix/exercises/README.md)
+    * [Tableau](appendix/exercises/tableau/README.md)
+      * [\#01 - Chicago Crimes](appendix/exercises/tableau/01-chicago-crimes.md)
     * [SQL](appendix/exercises/sql/README.md)
       * [\#01 - Simpsons Part I](appendix/exercises/sql/01-simpsons-part-i.md)
       * [\#02 - Simpsons Part II](appendix/exercises/sql/02-simpsons-part-ii.md)
