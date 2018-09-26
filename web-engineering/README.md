@@ -12,106 +12,106 @@ The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sur
 {% tab title="1" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 26.09.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 28.09.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 26.09.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 28.09.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="2" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| ~~Wednesday~~ | ~~03.10.2018~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |
-| Friday | 05.10.2018 | 15 - 16:30 | HD 0003 |
+| ~~Wednesday~~ | ~~03.10.2018~~ | ~~15 - 16:30~~ | ~~HR 0003~~ |
+| Friday | 05.10.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="3" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 10.10.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 12.10.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 10.10.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 12.10.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="4" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 17.10.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 19.10.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 17.10.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 19.10.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="5" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 24.10.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 27.10.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 24.10.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 27.10.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="6" %}
 | Weekday | Date | Time | Room | Comment |
 | :--- | :--- | :--- | :--- | :--- |
-| ~~Wednesday~~ | ~~31.10.2018~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |  |
-| Friday | 02.11.2018 | 15 - 16:30 | HD 0003 | Exam |
+| ~~Wednesday~~ | ~~31.10.2018~~ | ~~15 - 16:30~~ | ~~HR 0003~~ |  |
+| Friday | 02.11.2018 | 15 - 16:30 | HR 0003 | Exam |
 {% endtab %}
 
 {% tab title="7" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 07.11.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 09.11.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 07.11.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 09.11.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="8" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 14.11.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 16.11.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 14.11.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 16.11.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="9" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 21.11.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 23.11.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 21.11.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 23.11.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="10" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 28.11.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 30.11.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 28.11.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 30.11.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="11" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 05.12.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 07.12.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 05.12.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 07.12.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="12" %}
 | Weekday | Date | Time | Room | Comment |
 | :--- | :--- | :--- | :--- | :--- |
-| Wednesday | 12.12.2018 | 15 - 16:30 | HD 0003 |  |
-| Friday | 14.12.2018 | 15 - 16:30 | HD 0003 | Exam |
+| Wednesday | 12.12.2018 | 15 - 16:30 | HR 0003 |  |
+| Friday | 14.12.2018 | 15 - 16:30 | HR 0003 | Exam |
 {% endtab %}
 
 {% tab title="13" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 19.12.2018 | 15 - 16:30 | HD 0003 |
-| Friday | 21.12.2018 | 15 - 16:30 | HD 0003 |
+| Wednesday | 19.12.2018 | 15 - 16:30 | HR 0003 |
+| Friday | 21.12.2018 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="14" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 02.01.2019 | 15 - 16:30 | HD 0003 |
-| Friday | 04.01.2019 | 15 - 16:30 | HD 0003 |
+| Wednesday | 02.01.2019 | 15 - 16:30 | HR 0003 |
+| Friday | 04.01.2019 | 15 - 16:30 | HR 0003 |
 {% endtab %}
 
 {% tab title="15" %}
 | Weekday | Date | Time | Room |
 | :--- | :--- | :--- | :--- |
-| Wednesday | 09.01.2019 | 15 - 16:30 | HD 0003 |
-| ~~Friday~~ | ~~11.01.2019~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |
+| Wednesday | 09.01.2019 | 15 - 16:30 | HR 0003 |
+| ~~Friday~~ | ~~11.01.2019~~ | ~~15 - 16:30~~ | ~~HR 0003~~ |
 {% endtab %}
 {% endtabs %}
 
