@@ -10,7 +10,7 @@ description: >-
 
 [CodePen](https://codepen.io/) is an online environment for prototyping and testing HTML, CSS and JavaScript. Since we'll be using CodePen especially during the introduction to HTML & Co., you'll need to [create a free account](https://codepen.io/accounts/signup/user/free) with CodePen.
 
-![You can edit HTML, CSS and JavaScript directly and see the results on the right hand side.](../../.gitbook/assets/image%20%281%29.png)
+![You can edit HTML, CSS and JavaScript directly and see the results on the right hand side.](../../.gitbook/assets/image%20%283%29.png)
 
 For a introduction on how to use CodePen, watch the following video from one of the founders.
 
