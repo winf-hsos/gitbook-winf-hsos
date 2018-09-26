@@ -17,7 +17,7 @@ The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sur
 
 ### **Agenda**
 
-1. Course Logistics
+1. Course Logistics \([Slides](https://docs.google.com/presentation/d/1ymvB7ECe7JEWWW58lIUpq8uwDapbckSqcnResJXUmoM/edit?usp=sharing)\)
 2. Expectations
 3. Student Profiles
 
