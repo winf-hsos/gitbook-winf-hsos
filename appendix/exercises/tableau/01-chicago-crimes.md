@@ -15,6 +15,7 @@ For each task, create a appropriate visualization on a separate sheet:
 2. Create a visualization that shows the crimes on a map. Show all crimes that were handled by the same police station in the same color! Add a filter for the type of crime!
 3. Which crime type has the highest probability that the offender is being arrested?
 4. What percentage of battery incidents is domestic violence?
+5. Which streets have a prostitution problem? \(**HINT**: How do we get the street?\)
 
 ![Chicago crimes visualized on a map](../../../.gitbook/assets/image.png)
 
