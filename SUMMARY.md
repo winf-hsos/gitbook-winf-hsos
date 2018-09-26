@@ -50,7 +50,7 @@
       * [Sort](information-management/case-a-data-sets/basic-queries/sort.md)
       * [Aggregate](information-management/case-a-data-sets/basic-queries/aggregate.md)
       * [Date and Time](information-management/case-a-data-sets/basic-queries/date-and-time.md)
-    * [Tableau I](information-management/case-a-data-sets/tableau-1.md)
+    * [Tableau](information-management/case-a-data-sets/tableau.md)
     * [Multiple Data Sets](information-management/case-a-data-sets/multiple-data-sets/README.md)
       * [Join](information-management/case-a-data-sets/multiple-data-sets/join.md)
       * [Merge](information-management/case-a-data-sets/multiple-data-sets/merge.md)
