@@ -1,6 +1,8 @@
 # Web Engineering
 
-## Timetable for Winter 2018/19
+## Timetable
+
+Find the time schedule for the winter term 2918/19 below.
 
 {% hint style="info" %}
 The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sure you attend on these dates! Both will be 30 mintes long.
