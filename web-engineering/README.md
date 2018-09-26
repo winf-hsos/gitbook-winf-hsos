@@ -14,6 +14,8 @@ The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sur
 | :--- | :--- | :--- | :--- |
 | Wednesday | 26.09.2018 | 15 - 16:30 | HR 0003 |
 | Friday | 28.09.2018 | 15 - 16:30 | HR 0003 |
+
+**Wednesday:** Course Logistics / Expectations / Student Profiles
 {% endtab %}
 
 {% tab title="2" %}
