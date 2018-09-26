@@ -18,5 +18,5 @@ If your are already signed-up for Slack, you can easily use your Slack profile p
 
 When you're done, share your profile with your peers via Slack so they all get to know you a little better. To make it nicer to look at, change the view to "Full page", copy the link from your browser, and paste it into Slack.
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![Profile in full page view](../../../.gitbook/assets/image%20%285%29.png)
 
