@@ -6,6 +6,12 @@ description: >-
 
 # Workspace Setup
 
+## CodePen
+
+[CodePen](https://codepen.io/) is an online environment for prototyping and testing HTML, CSS and JavaScript. Since we'll be using CodePen especially during the introduction to HTML & Co., you'll need to [create a free account](https://codepen.io/accounts/signup/user/free) with CodePen.
+
+![You can edit HTML, CSS and JavaScript directly and see the results on the right hand side.](../../.gitbook/assets/image%20%281%29.png)
+
 ## Cloud9
 
 In this course we work with [Cloud9](https://c9.io/login), which is an online IDE running fully in your browser. \(IDE stands for _integrated development environment_\). You don't need to install any software on your computer to participate in this course.
