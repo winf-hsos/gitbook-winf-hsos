@@ -1,8 +1,117 @@
 # Web Engineering
 
+## Timetable for Winter 2018/19
+
 {% hint style="info" %}
-This page is under construction.
+The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sure you attend on these dates! Both will be 30 mintes long.
 {% endhint %}
+
+{% tabs %}
+{% tab title="1" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 26.09.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 28.09.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="2" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| ~~Wednesday~~ | ~~03.10.2018~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |
+| Friday | 05.10.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="3" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 10.10.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 12.10.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="4" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 17.10.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 19.10.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="5" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 24.10.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 27.10.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="6" %}
+| Weekday | Date | Time | Room | Comment |
+| :--- | :--- | :--- | :--- | :--- |
+| ~~Wednesday~~ | ~~31.10.2018~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |  |
+| Friday | 02.11.2018 | 15 - 16:30 | HD 0003 | Exam |
+{% endtab %}
+
+{% tab title="7" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 07.11.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 09.11.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="8" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 14.11.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 16.11.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="9" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 21.11.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 23.11.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="10" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 28.11.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 30.11.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="11" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 05.12.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 07.12.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="12" %}
+| Weekday | Date | Time | Room | Comment |
+| :--- | :--- | :--- | :--- | :--- |
+| Wednesday | 12.12.2018 | 15 - 16:30 | HD 0003 |  |
+| Friday | 14.12.2018 | 15 - 16:30 | HD 0003 | Exam |
+{% endtab %}
+
+{% tab title="13" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 19.12.2018 | 15 - 16:30 | HD 0003 |
+| Friday | 21.12.2018 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="14" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 02.01.2019 | 15 - 16:30 | HD 0003 |
+| Friday | 04.01.2019 | 15 - 16:30 | HD 0003 |
+{% endtab %}
+
+{% tab title="15" %}
+| Weekday | Date | Time | Room |
+| :--- | :--- | :--- | :--- |
+| Wednesday | 09.01.2019 | 15 - 16:30 | HD 0003 |
+| ~~Friday~~ | ~~11.01.2019~~ | ~~15 - 16:30~~ | ~~HD 0003~~ |
+{% endtab %}
+{% endtabs %}
 
 ## Learning Objectives
 
@@ -12,15 +121,16 @@ In this course, you are going to learn how to build modern web applications.
 
 After completing this course, you'll understand the following concepts:
 
-* How modern websites and web applications work and how you can build one
-* What HTML, CSS and Javascript are and the role they play in modern web applications
-* Which tools and platforms simplify web development
+* How modern websites and web applications work and how you can build one yourself.
+* What HTML, CSS and Javascript are and the role they play in modern web applications.
+* Which tools and platforms simplify web development.
 
 ### What you'll be able to do
 
+* Write basic websites with HTML, CSS and JavaScript
 * Plan and implement your own web application \(at least a prototype\)
 * Write Javascript code and use APIs to integrate cloud services like Google Maps into your web application
-* Understand what it takes to build a sophisticated web application and talk with IT people about it
+* Understand what it takes to build a sophisticated web application \(and talk with IT people about it\)
 
 ## Concept
 
@@ -30,7 +140,7 @@ The course's primary focus is on your own web project, which you are going to pl
 
 {% page-ref page="part-a-your-first-website/" %}
 
-In **part B**, you start building your own web app. We'll start with basic components every modern web app needs: hosting, user authentication, a database, and way to store user content. We'll use Google Firebase as our infrastructure.
+In **part B**, you start building your own web app in groups of 4. We'll start with basic components every modern web app needs: hosting, user authentication, a database, and way to store user content. We'll use Google Firebase as our infrastructure.
 
 {% page-ref page="part-b-web-app-project/" %}
 
@@ -43,7 +153,7 @@ In **part C**, you further enhance your web app individually \(still in groups, 
 Unlike most courses, this course does **not** end in a 2 hour written exam. We do all all necessary work to complete this course during the semester:
 
 * Planning and building you own web application \(70%\)
-* Mastering 2 short multiple choice tests in the middle and at the end of the semester \(30%\)
+* Mastering 2 short and mostly multiple choice tests after weel 6 and 12 \(30%\)
 
 ## Level
 
@@ -61,9 +171,9 @@ This is an introductory course, there are no prerequisites to enrol. You can cer
 
 Using Firebase for our purposes is free, as long as we don't exceed the generous free quotas.
 
-### Codepen
+### CodePen
 
-We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascript concepts and quickly try out things in the classroom. Although you don't have to sign-up to use Codepen, you can only save your work when you do.
+We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascript concepts and quickly try out things in the classroom. You can only save your work when you sign-up for CodePen, so it is required you create a free account.
 
 ## Links & Material
 
