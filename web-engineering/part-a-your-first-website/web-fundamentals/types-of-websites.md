@@ -8,5 +8,9 @@ When in 1994 the first companies started using the internet, in most cases the p
 
 ## Web 2.0
 
+Coming soon.
+
 ## Smartphones
+
+Coming soon.
 

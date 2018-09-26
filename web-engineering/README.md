@@ -163,6 +163,10 @@ This is an introductory course, there are no prerequisites to enrol. You can cer
 
 ## Software & Accounts
 
+### CodePen
+
+We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascript concepts and quickly try out things in the classroom. You can only save your work when you sign-up for CodePen, so it is required you create a free account.
+
 ### Cloud9 IDE
 
 [Cloud9](https://c9.io) an an online IDE \(integrated development environemt\), which is basically a code editor with some advanced features. One great thing about it is that you don't have to install any software on your own computer. All you need is a modern browser such as Chrome, Firefox or Safari. Another great features is that you can share a common workspace for all your team members and work simultaneously on your project. For this course, everyone needs their own free Cloud9 account.
@@ -172,10 +176,6 @@ This is an introductory course, there are no prerequisites to enrol. You can cer
 [Google Firebase](https://firebase.google.com/) is a cloud platform for web development. It offers a variety of functionality for our web projects. Among those is hosting, user authentication, storage and a document database. For this course, at least one group member must sign up and create a Firebase project. All other members can then join this project if they have a Google account.
 
 Using Firebase for our purposes is free, as long as we don't exceed the generous free quotas.
-
-### CodePen
-
-We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascript concepts and quickly try out things in the classroom. You can only save your work when you sign-up for CodePen, so it is required you create a free account.
 
 ## Links & Material
 
