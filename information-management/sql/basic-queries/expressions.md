@@ -75,7 +75,7 @@ You can try the example above on [SQL Fiddle](http://sqlfiddle.com/#!18/8c7c4/3)
 
 ## Formulas
 
-A literal value is a special case of an expression. Besides literal values, an expression be \(or contain\) a formula or a function. A mix of the 3 types is possible as well.
+A literal value is a special case of an expression. Besides literal values, an expression can be \(or contain\) a formula or a function. A mix of the 3 types is possible as well.
 
 ### Arithmetic
 
