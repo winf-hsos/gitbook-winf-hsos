@@ -6,7 +6,7 @@ This page is under construction.
 
 ## Learning Objectives
 
-In this course, you acquire knowledge and skills on how to handle data and how to derive value from data and turn it into information. Consider the following quote by Clive Humby:
+In this course, you acquire knowledge and skills on how to derive value from data and turn it into information. Consider the following quote by Clive Humby:
 
 > Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value.
 
@@ -36,19 +36,19 @@ The course centers around today's key use cases for information management. Thes
 
 The **first case** describes a very common situation: You are getting a new and unknown data set in some file format. Sometime you asked for it, sometimes you didn't. In either case, you want to find out what the data holds for you. But how do you most efficiently do that?
 
-{% page-ref page="case-a-data-sets/" %}
+{% page-ref page="sql/" %}
 
 The **second case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
 
-{% page-ref page="case-b-sales-data/" %}
+{% page-ref page="enterprise-data/" %}
 
 The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is created with high but unknown frequency.
 
-{% page-ref page="case-c-real-time-data/" %}
+{% page-ref page="real-time-data/" %}
 
 The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data, such as from social media or product reviews. Sounds like a challenge to me!
 
-{% page-ref page="case-d-big-data/" %}
+{% page-ref page="big-data/" %}
 
 ## Examination
 

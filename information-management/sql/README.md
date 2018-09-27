@@ -4,7 +4,7 @@ description: >-
   complete this challenge.
 ---
 
-# Case A: Data Sets
+# Case A: SQL
 
 ## Summary
 

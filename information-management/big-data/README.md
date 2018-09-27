@@ -1,4 +1,4 @@
-# Case D: Big Data
+# Case E: Big Data
 
 In case D, you can choose between two types of big data:
 
