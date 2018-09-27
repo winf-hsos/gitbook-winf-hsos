@@ -7,6 +7,8 @@ The following table lists articles that give you a good introduction to the basi
 | **Link** |
 | :--- |
 | [Getting Started with HTML \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) |
+| [Block-level Elements \(MDN\)](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) |
+| [Inline Elements \(MDN\)](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements) |
 
 ## What is HTML?
 
