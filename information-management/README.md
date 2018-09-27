@@ -12,6 +12,8 @@ In this course, you acquire knowledge and skills on how to derive value from dat
 
 The goal of this module is to acquire the knowledge and tools to turn the raw material _data_ into a valuable asset.
 
+The focus of this course is not on how data is created. We take the data as given, and we delve deeply into the data to find its hidden treasures.
+
 ### What you'll know
 
 After completing this course, you'll know about and understand the following concepts:

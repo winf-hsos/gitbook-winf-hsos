@@ -44,7 +44,9 @@ To change a data set's content, we can use a specific set of SQL's commands. Thi
 
 ### Define data
 
-Before we can do anything useful with data, we must define a structure for it. That is especially true for relational databases, where the upfront definition of a static schema is a requirement. A typical description of the data structure includes the tables, the relationships among them, the table's columns as well as the column's data types. SQL's _Data Definition Language \(DDL\)_ allows us to do that. With DDL, we can \(among other operations\):
+Before we can do anything useful with data, we must define a structure for it. That is especially true for relational databases, where the upfront definition of a static schema is a requirement. Here, we can only store records if we precisely defined what a records looks like in terms of columns and data types. 
+
+A typical description of the data structure includes the tables, the relationships among them, the table's columns as well as the column's data types. SQL's _Data Definition Language \(DDL\)_ allows us to do that. With DDL, we can \(among other operations\):
 
 * Define and create databases
 * Create tables

@@ -1,7 +1,7 @@
 # \#01 - Simpsons Part I
 
 {% hint style="info" %}
-For this exercise, use this [Databricks template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) to load the required data set and create the tables.
+For this exercise, use this [Databricks template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) to load the required data set and create the tables. If you don't have a Databricks account yet, [sign-up](https://databricks.com/try-databricks) for the **Community Edition** first.
 {% endhint %}
 
 **Beantworte die folgenden Fragen, indem du geeignete SQL-Abfragen definierst und ausführst!**

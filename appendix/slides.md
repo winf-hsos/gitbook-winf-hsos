@@ -4,7 +4,7 @@
 
 | Title | PDF |
 | :--- | :--- |
-| Information Management - Course Logistics | ⭳ Download |
+| [Information Management - Course Logistics](https://docs.google.com/presentation/d/1f50g8emsMCED837lartjZGWRLuT-5gmXOPoraxlKr5k/edit) | [⭳ Download](https://docs.google.com/presentation/d/1f50g8emsMCED837lartjZGWRLuT-5gmXOPoraxlKr5k/export/pdf) |
 
 ## Web Engineering
 
