@@ -4,16 +4,25 @@
 For this exercise, use this [Databricks template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) to load the required data set and create the tables. If you don't have a Databricks account yet, [sign-up](https://databricks.com/try-databricks) for the **Community Edition** first.
 {% endhint %}
 
-**Beantworte die folgenden Fragen, indem du geeignete SQL-Abfragen definierst und ausführst!**
+**Answer the following questions with an appropriate SQL statement!**
 
-1. Wie viele Simpsons-Episoden gibt es?
-2. Wie viele weibliche Charaktere gibt es in allen Simpsons-Episoden?
-3. Wie ist das Verhältnis zwischen männlichen und weiblichen Charakteren?
-4. Wie viele Episoden haben ein [IMDB](https://www.imdb.com/) Rating von höher als 9?
-5. Wie viele Episoden wurden 1995 zum ersten Mal im Fernsehen ausgestrahlt?
-6. Wie oft wird Obama in den Simpsons-Episoden erwähnt?
-7. Welcher Charakter spricht am meisten?
-8. Wie häufig sagen andere Charaktere außer Homer das Wort 'Donut'?
-9. Welcher Charakter erklärt Homer das Wort 'Schadenfreude'?
-10. Gibt es eine Folge, in der Lisa nicht spricht?
+{% hint style="success" %}
+Before building an SQL statement, think about the two questions:
+
+* How does a result look like that would answer the question?
+* Which table and columns contain the required information?
+{% endhint %}
+
+| **\#** | Question |  |
+| :--- | :--- | :--- |
+| 1 | How many Simpson's episodes are there? |  |
+| 2 | How many characters in all episodes are female? |  |
+| 3 | What is the numerical relation between female and male characters? |  |
+| 4 | How many episodes have an IMDB rating of 9 or higher? |  |
+| 5 | How many episodes first aired in 1995? |  |
+| 6 | How many times is Obama mentioned in all episodes? |  |
+| 7 | Which character speaks the most? |  |
+| 8 | How often do characters other than Homer say the word "Donut"? |  |
+| 9 | Who explains to Homer the word "Schadenfreude"? |  |
+| 10 | Is there an episode in which Lisa doesn't speak at all? |  |
 
