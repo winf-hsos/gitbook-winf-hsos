@@ -4,14 +4,14 @@
 For this exercise, use this [Databricks template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html) to load the required data set and create the tables. If you don't have a Databricks account yet, [sign-up](https://databricks.com/try-databricks) for the **Community Edition** first.
 {% endhint %}
 
-**Answer the following questions with an appropriate SQL statement!**
-
 {% hint style="success" %}
 Before building an SQL statement, think about the two questions:
 
 * How does a result look like that would answer the question?
 * Which table and columns contain the required information?
 {% endhint %}
+
+**Answer the following questions with an appropriate SQL statement!**
 
 | **\#** | Question |  |
 | :--- | :--- | :--- |

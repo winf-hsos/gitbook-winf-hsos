@@ -1,17 +1,22 @@
 # \#02 - Simpsons Part II
 
-**Beantworte die folgenden Fragen, indem du geeignete SQL-Abfragen definierst und ausführst!**
+{% hint style="info" %}
+**HINT**: The questions in this exercise require that you join tables together!
+{% endhint %}
 
-1. In welcher Location spricht Homer Simpson am häufigsten?
-2. Liste alle Dialoge mit Namen der Charaktere und des Orts für die 10. Folge der ersten Season in der Reihenfolge, wie sie tatsächlich gesprochen wurden.
-3. Wer ist neben Homer, Marge, Lisa, Bart und Maggie der häufigste Gast bei den Simpsons zuhause?
-4. Erstelle eine sortierte Liste mit den Redeanteilen aller Charaktere für die 2. Staffel!
-5. Erstelle eine Top 10 Liste mit den Charakteren, die am meisten schimpfen!
+ **Answer the following questions with an appropriate SQL statement!**
 
-**Erstelle eine Top 10 Liste der am meisten verwendeten Wörter!**
+| **\#** | Question | Hint |
+| :--- | :--- | :--- |
+| 11 | In which location does Homer speak the most? |  |
+| 12 | List all dialogues from the 10th episode of season 1 in the order they were spoken! List the actual line together with the character's name and the location! |  |
+| 13 | Who is the most frequent guest in the Simpson's home? |  |
+| 14 | Create a sorted list with the percentages of speech of all character in season 2! |  |
+| 15 | Create a top 10 list of the characters who curse the most! |  |
 
-1. Überlege zunächst, wie du an diese Aufgabe herangehen würdest und beschreibe die Schritte zur Lösung!
-2. Ist diese Aufgabe mit SQL lösbar? Ist SQL dafür geeignet?
+**BONUS: Create a top 10 list of the most frequently spoken words across all script lines!**
+
+How could you go about solving this question? Can you do it with SQL, or do we need something else?
 
 
 
