@@ -6,7 +6,7 @@ description: This lesson introduces the where clause to filter data sets.
 
 ## Less is sometimes more
 
-We learned how we can control the result set in terms of columns when we introduced the [select statement](select.md). To do that, we simply specify the columns or [expressions ](expressions.md)we want to result set to contain. But what if we want to narrow down the results in terms of rows? Let's look at how we can achieve that!
+We learned how we can control the result set in terms of columns when we introduced the [select statement](select.md). To do that, we simply specify the columns or [expressions ](expressions.md)we want in the result set. But what if we want to narrow down the results in terms of rows? Let's look at how we can achieve that!
 
 ### A first cut
 
@@ -54,15 +54,15 @@ AND style LIKE '%IPA%'
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-The first two lines are equal to the statement before, but we added a third line and thereby extended the WHERE clause's set of conditions. Because we used the AND keyword, both conditions `abv > 0.09` and `style LIKE '%IPA%'` must be true for any record in the result set. But what does this strange LIKE operator do?
+The first two lines are equal to the statement before, but we added a third line and thereby extended the WHERE clause's set of conditions. Because we used the `AND` keyword, both conditions `abv > 0.09` and `style LIKE '%IPA%'` must be true for any record in the result set. But what does this strange `LIKE` operator do?
 
-As the name suggest, it looks for string values that are _like_ a specific search term. Using the LIKE operator, we can look for strings:
+As the name suggest, it looks for string values that are _like_ a specific search term. Using the `LIKE` operator, we can look for strings...
 
-* At the beginning of a string
-* At the end of a string
-* Anywhere in a string
+* ...at the beginning of a string
+* ...at the end of a string
+* ...anywhere within a string
 
-In the example above, the LIKE condition looks for the word "IPA" anyhwere in the value of the `style` column. This is because we used the `%` symbol, which is a wildcard for any character. So in natural language, the condition would read: "**Look for the term 'IPA' within the style column. It doesn't matter what comes before or after the term 'IPA'**".
+In the example above, the `LIKE` condition looks for the word "IPA" anyhwere in the value of the `style` column. This is because we used the `%` symbol, which is a wildcard for any characters. So in natural language, the condition would read: "**Look for the term 'IPA' within the style column. It doesn't matter what comes before or after the term 'IPA'**".
 
 To contrast this, look at this slightly modified statement:
 
@@ -78,7 +78,7 @@ AND style LIKE '%IPA'
 
 It differs by one character, the `%` after the "IPA". This finds the term "IPA" only at the _end_ of the `style` column. Accordingly, removing the `%` before the "IPA" finds the term only at the _beginning_ of the `style` column.
 
-The LIKE operator in combination with the `%` wildcard character is a powerful tool for query filters based on string columns. You can combine search terms and wildcards as you need:
+The `LIKE` operator, in combination with the `%` wildcard character, is a powerful tool for query filters based on string columns. You can combine search terms and wildcards as you need:
 
 {% code-tabs %}
 {% code-tabs-item title="\#5" %}
