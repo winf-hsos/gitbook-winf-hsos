@@ -1,12 +1,14 @@
-# The Head
+# Head and Body
+
+## The head
 
 The head contains metadata about the website. Nothing that is placed in the head is visible on the website. Among other elements, the `<head>` tag contains the `<title>` tag and at least one `<meta>` tag.
 
-## The &lt;title&gt; tag
+### The &lt;title&gt; tag
 
 The value of the `<title>` tag defines the title of the website, which is displayed in the browser window bar \(or tab\).
 
-## The &lt;meta&gt; tag
+### The &lt;meta&gt; tag
 
 Usually, a `<meta>` tag has two attributes:
 
@@ -33,4 +35,10 @@ Read more about the head and its elements at the following links:
 {% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title\",\"type\":\"link\",\"title\":\"<title>: The Document Title element\",\"description\":\"The HTML Title element \(title\) defines the document\'s title that is shown in a browser\'s title bar or a page\'s tab.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
 
 {% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta\",\"type\":\"link\",\"title\":\"<meta>: The Document-level Metadata element\",\"description\":\"The HTML meta element represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+
+## The body
+
+The body is where the visible part of your website lives. The following sections cover tags and their attributes that allow you to describe the structure and the visible elements of your website.
+
+
 

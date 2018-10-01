@@ -37,3 +37,11 @@ There is a set of elements that make up the basic structure of every HTML docume
 
 As you can see, an HTML document contains two sections: The head and the body. Both serve a special purpose and contain different types of elements.
 
+## References
+
+Read the following article on MDN to get more information on the anatomy of an HTML document.
+
+| Link |
+| :--- |
+| [Anatomy of an HTML Document \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_a_HTML_document) |
+
