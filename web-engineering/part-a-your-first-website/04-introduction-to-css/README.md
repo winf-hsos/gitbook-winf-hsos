@@ -6,5 +6,7 @@ description: >-
 
 # First CSS
 
+## Videos
 
+Continue the course at Khan Academy with this short video on CSS:
 
