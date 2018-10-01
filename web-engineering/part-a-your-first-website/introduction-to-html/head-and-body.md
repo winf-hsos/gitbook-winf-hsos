@@ -35,7 +35,7 @@ There is a set of elements that make up the basic structure of every HTML docume
 
 ### The head
 
-The head contains metadata about the website. Nothing that is placed in the head is visible on the website. Among other things, the `<head>` tag contains the following elements.
+The head contains metadata about the website. Nothing that is placed in the head is visible on the website. Among other elements, the `<head>` tag contains the `<title>` tag and at least one `<meta>` tag.
 
 #### &lt;title&gt;
 
