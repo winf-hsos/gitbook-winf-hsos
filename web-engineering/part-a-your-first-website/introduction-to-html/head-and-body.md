@@ -33,15 +33,15 @@ There is a set of elements that make up the basic structure of every HTML docume
 </html>
 ```
 
-## The head
+### The head
 
 The head contains metadata about the website. Nothing that is placed in the head is visible on the website. Among other things, the `<head>` tag contains the following elements.
 
-### &lt;title&gt;
+#### &lt;title&gt;
 
 The value of the `<title>` tag defines the title of the website, which is displayed in the browser window bar \(or tab\).
 
-### &lt;meta&gt;
+#### &lt;meta&gt;
 
 Usually, a `<meta>` tag has two attributes:
 
@@ -69,7 +69,7 @@ Read more about the head and its elements at the following links:
 
 {% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta\",\"type\":\"link\",\"title\":\"<meta>: The Document-level Metadata element\",\"description\":\"The HTML meta element represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
 
-## The body
+### The body
 
 | Link |  |
 | :--- | :--- |
