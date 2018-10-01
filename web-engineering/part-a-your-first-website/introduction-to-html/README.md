@@ -8,9 +8,11 @@ In this section you'll learn the bascis of HTML, the markup language behind ever
 
 I recommend the following MDN tutorial to get a good introduction to the basics of HTML:
 
-| **Link** |
-| :--- |
-| [Introduction to HTML \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) |
+{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML\",\"type\":\"link\",\"title\":\"Introduction to HTML\",\"description\":\"At its heart, HTML is a fairly simple language made up of elements, which can be applied to pieces of text to give them different meaning in a document \(Is it a paragraph? Is it a bulleted list? Is it part of a table?\), structure a document into logical sections \(Does it have a header? Three columns of content? A navigation menu?\), and embed content such as images and videos into a page. This module will introduce the first two of these, and introduce fundamental concepts and syntax you need to know to understand HTML.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+
+Another good interactive tutorial:
+
+{% embed data="{\"url\":\"https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/\",\"type\":\"link\",\"title\":\"Basic HTML and HTML5 \| freeCodeCamp\",\"description\":\"Learn to code with free online courses, programming projects, and interview preparation for developer jobs.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://learn.freecodecamp.org/assets/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg\",\"width\":1400,\"height\":1400,\"aspectRatio\":1}}" %}
 
 ## Videos
 
