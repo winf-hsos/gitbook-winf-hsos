@@ -33,3 +33,5 @@ There is a set of elements that make up the basic structure of every HTML docume
 </html>
 ```
 
+As you can see, an HTML document contains two sections: The head and the body. Both serve a special purpose and contain different types of elements.
+
