@@ -85,6 +85,7 @@
       * [Elements and Attributes](web-engineering/part-a-your-first-website/introduction-to-html/elements-and-attributes.md)
       * [Text Structure and Format](web-engineering/part-a-your-first-website/introduction-to-html/text-structure-and-format.md)
       * [Hyperlinks](web-engineering/part-a-your-first-website/introduction-to-html/hyperlinks.md)
+      * [Images](web-engineering/part-a-your-first-website/introduction-to-html/images.md)
     * [First CSS](web-engineering/part-a-your-first-website/04-introduction-to-css/README.md)
       * [CSS Rules](web-engineering/part-a-your-first-website/04-introduction-to-css/css-rules.md)
       * [CSS Selectors](web-engineering/part-a-your-first-website/04-introduction-to-css/css-selectors.md)

@@ -8,6 +8,18 @@
 
 ## Attributes
 
+HTML elements can have one or more attributes. Attributes add more information to an element. For example, the hyperlink element `<a>` has an attribute to define the destination of the hyperlink:
+
+```markup
+<a href="https://google.com">This link takes you to Google</a>
+```
+
+Attribute values are not visible in the browser.
+
+## References
+
+Read the following articles to get more information about elements and attributes.
+
 | Link |  |
 | :--- | :--- |
 | [Anatomy of an HTML Element \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element) |  |

@@ -1,0 +1,6 @@
+# Images
+
+Read the following part of the MDN tutorial ["Multimedia and embedding"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) to learn how to enrich your website with images:
+
+{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia\_and\_embedding/Images\_in\_HTML\",\"type\":\"link\",\"title\":\"Images in HTML\",\"description\":\"In the beginning, the Web was just text, and it was really quite boring. Fortunately, it wasn\'t too long before the ability to embed images \(and other more interesting types of content\) inside web pages was added. There are other types of multimedia to consider, but it is logical to start with the humble img element, used to embed a simple image in a webpage. In this article we\'ll look at how to use it in depth, including the basics, annotating it with captions using figure, and detailing how it relates to CSS background images.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+
