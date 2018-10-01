@@ -1,6 +1,6 @@
 # Anatomy of HTML
 
-## Tags and elements
+## Tags, attributes, and elements
 
 A website is written in HTML, which is a so called markup language. A markup language differes from a programming language in an important way: You cannot write a program and run it, you can only _describe_ the elements and the structure of a document, in this case a website. A program requires commands, if-then-else structures, and loops. HTML has none of that.
 
@@ -15,6 +15,14 @@ In HTML, we use _tags_ to describe our website. A tag is a keyword enclosed by b
 ```
 
 We call a combination of opening and closing tag an HTML _element_.
+
+HTML elements can have one or more attributes. Attributes add more information to an element. For example, the hyperlink element `<a>` has an attribute to define the destination of the hyperlink:
+
+```markup
+<a href="https://google.com">This link takes you to Google</a>
+```
+
+Attribute values are not visible in the browser.
 
 ## HTML template
 
@@ -39,9 +47,11 @@ As you can see, an HTML document contains two sections: The head and the body. B
 
 ## References
 
-Read the following article on MDN to get more information on the anatomy of an HTML document.
+Read the following articles on MDN to get more information on elements, attributes, and the anatomy of an HTML document.
 
 | Link |
 | :--- |
+| [Anatomy of an HTML Element \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element) |
+| [HTML Attributes \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes) |
 | [Anatomy of an HTML Document \(MDN\)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_a_HTML_document) |
 
