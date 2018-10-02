@@ -47,7 +47,7 @@ As you can see, an HTML document contains two sections: The head and the body. B
 
 ## Tree structure
 
-You may have noticed that nesting elements in the way as we did above results in a structure that we call a _tree_. We can dran this tree \(upside down\), using the `<html>` element as the _root node_ of the tree. The root has two children, `<head>` and `<body>`, which in turn have children. In principle, the tree can any number of subtrees. We call the number of subtrees the _depth_ of the tree.
+You may have noticed that nesting elements in the way as we did above results in a structure that we call a _tree_. We can dran this tree \(upside down\), using the `<html>` element as the _root node_ of the tree. The root has two children, `<head>` and `<body>`, which in turn have children. In principle, the tree can have any number of subtrees. We call the number of subtrees the _depth_ of the tree.
 
 ![An HTML document resembles the structure of a tree.](../../../.gitbook/assets/html_tree.png)
 
