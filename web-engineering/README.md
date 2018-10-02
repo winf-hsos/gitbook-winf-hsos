@@ -5,7 +5,7 @@
 Find the curriculum for the current semester here: [Curriculum Winter 2018/2019](https://docs.google.com/spreadsheets/d/1-pEonccwQyW7-DdeLBrpRI5frvxEOHW1OYpij22_jaQ/edit?usp=sharing)
 
 {% hint style="info" %}
-The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sure you attend on these dates! Both will be 30 minutes long.
+The two partial exams take place on **02.011.2018** and **14.12.2018**. Make sure you attend on these dates! Both exams will be 30 minutes long.
 {% endhint %}
 
 ## Learning Objectives
