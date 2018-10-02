@@ -45,6 +45,12 @@ There is a set of elements that make up the basic structure of every HTML docume
 
 As you can see, an HTML document contains two sections: The head and the body. Both serve a special purpose and contain different types of elements.
 
+## Tree structure
+
+You may have noticed that nesting elements in the way as we did above results in a structure that we call a _tree_. We can dran this tree \(upside down\), using the `<html>` element as the _root node_ of the tree. The root has two children, `<head>` and `<body>`, which in turn have children. In principle, the tree can any number of subtrees. We call the number of subtrees the _depth_ of the tree.
+
+![An HTML document resembles the structure of a tree.](../../../.gitbook/assets/html_tree.png)
+
 ## References
 
 Read the following articles on MDN to get more information on elements, attributes, and the anatomy of an HTML document.
