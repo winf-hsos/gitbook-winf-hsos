@@ -1,4 +1,4 @@
-# Debugging the Web
+# Debugging HTML
 
 {% hint style="info" %}
 Although most of what I describe in this section works in any modern browser, I recommend using [Google Chrome](https://www.google.com/intl/de_ALL/chrome/).
