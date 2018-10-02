@@ -201,6 +201,7 @@ Using Firebase for our purposes is free, as long as we don't exceed the generous
 | **Name** | **URL** |
 | :--- | :--- |
 | Codepen, a tool to quickly try out HTML, CSS and Javascript interactively | [https://codepen.io](https://codepen.io) |
+| Glitch | [https://glitch.com](https://glitch.com) |
 | Codesandbox | [https://codesandbox.io](https://codesandbox.io) |
 | Coolors, simple color generator for website design | [https://coolors.co/app](https://coolors.co/app) |
 | Balsamiq Mockup, a tool to create drawings of website layouts. Licenses for class can be provided. | [https://balsamiq.com/download/](https://balsamiq.com/download/) |
