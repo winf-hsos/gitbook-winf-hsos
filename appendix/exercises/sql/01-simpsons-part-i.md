@@ -31,7 +31,7 @@ Answer the following questions with an appropriate SQL statement!
 
 | **\#** | Question |  |
 | :--- | :--- | :--- |
-| 1 | How many Simpson's episodes are there? |  |
+| 1 | How many Simpson's episodes are in the data set? |  |
 | 2 | How many characters in all episodes are female? |  |
 | 3 | What is the numerical relation between female and male characters? |  |
 | 4 | How many episodes have an IMDB rating of 9 or higher? |  |
