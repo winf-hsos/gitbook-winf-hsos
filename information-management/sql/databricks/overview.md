@@ -12,6 +12,10 @@ Because it runs in the cloud, you can use Databricks with all modern web browser
 On the [sign-up page](https://databricks.com/try-databricks), make sure you click on the **Community Edition** on the right side! You do not want the free trial of the Databricks Platform.
 {% endhint %}
 
+## Cloud Service
+
+![Databricks runs in the cloud on Amazon Web Services.](../../../.gitbook/assets/databricks_architecture.png)
+
 ## Workspace
 
 When you log into Databricks, you are taken directly to your workspace. More precisely, you'll see the landing page of your workspace. The landing page contains quick links to important actions:
