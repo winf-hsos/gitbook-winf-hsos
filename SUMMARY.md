@@ -128,6 +128,7 @@
   * [Information Systems](wirtschaftsinformatik/set-2-business.md)
   * [Digitalization](wirtschaftsinformatik/set-3-cs-and-business.md)
 * [Appendix](appendix/README.md)
+  * [Data Sets](appendix/data-sets.md)
   * [Slides](appendix/slides.md)
   * [CodePens](appendix/codepens.md)
   * [Exercises](appendix/exercises/README.md)
