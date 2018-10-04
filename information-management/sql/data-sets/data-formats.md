@@ -113,6 +113,8 @@ Some texts may contain quotation marks themselves, which breaks the solution to 
 
 ## JSON
 
+[JSON](http://www.json.org/) is another popular format for data exchange, and it is has gradually replaced XML as the standard format on the web. 
+
 ## References
 
 | Title and Link | Type |
