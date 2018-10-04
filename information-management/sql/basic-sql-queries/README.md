@@ -4,7 +4,7 @@ description: >-
   data.
 ---
 
-# Basic Queries
+# Basic SQL Queries
 
 ## Summary
 

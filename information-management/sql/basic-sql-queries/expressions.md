@@ -15,7 +15,7 @@ An expression represents a value and can contain a combination of the following 
 * Functions
 * Columns
 
-Moreover, an expression can also be a subquery that returns a \(single\) value. We'll cover subqueries [later](../../enterprise-data/advanced-queries/subqueries.md).
+Moreover, an expression can also be a subquery that returns a \(single\) value. We'll cover subqueries [later](../../enterprise-data/advanced-sql-queries/subqueries.md).
 
 ## Literal values
 
