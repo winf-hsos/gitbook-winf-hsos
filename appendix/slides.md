@@ -6,6 +6,7 @@
 | :--- | :--- |
 | [Information Management - Course Logistics](https://docs.google.com/presentation/d/1f50g8emsMCED837lartjZGWRLuT-5gmXOPoraxlKr5k/preview) | [⭳ Download](https://docs.google.com/presentation/d/1f50g8emsMCED837lartjZGWRLuT-5gmXOPoraxlKr5k/export/pdf) |
 | [Information Management - Databricks](https://docs.google.com/presentation/d/1Q1r0kMzALJPBoMvPlLgCykllL1kvLZVrWeELpMvXUhE/preview) | [⭳ Download](https://docs.google.com/presentation/d/1Q1r0kMzALJPBoMvPlLgCykllL1kvLZVrWeELpMvXUhE/export/pdf) |
+| [Information Management - SQL](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/preview) | [⭳ Download](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/export/pdf) |
 
 ## Web Engineering
 
