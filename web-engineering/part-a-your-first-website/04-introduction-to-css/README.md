@@ -6,6 +6,10 @@ description: >-
 
 # First CSS
 
+To get started with CSS, I recommend the MDN tutorial on CSS.
+
+{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction\_to\_CSS\",\"type\":\"link\",\"title\":\"Introduction to CSS\",\"description\":\"CSS \(Cascading Style Sheets\) is used to style and lay out web pages — for example, to alter the font, colour, size and spacing of your content, split it into multiple columns, or add animations and other decorative features. This module gets you started on the path to CSS mastery with the basics of how it works, including selectors and properties, writing CSS rules, applying CSS to HTML, how to specify length, colour, and other units in CSS, cascade and inheritance, and debugging CSS.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+
 ## Videos
 
 Continue the course at Khan Academy with this short video on CSS:
