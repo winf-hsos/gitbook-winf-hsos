@@ -140,6 +140,7 @@
     * [HTML & CSS](appendix/exercises/web-engineering/README.md)
       * [\#00 - Student Profile](appendix/exercises/web-engineering/00-student-profile.md)
       * [\#01 - HTML](appendix/exercises/web-engineering/01-html.md)
-  * [Tutorials](appendix/tutorials.md)
+  * [Tutorials](appendix/tutorials/README.md)
+    * [Connect to TinkerForge Devices](appendix/tutorials/connect-to-tinkerforge-devices.md)
   * [Links](appendix/links.md)
 
