@@ -12,6 +12,16 @@ To install the TDM, you'll need to have Node.js and npm installed. If you are on
 
 Next, create a new project in Cloud9 \(or a new folder if you are on your local computer\).
 
+### Initialize npm
+
+Navigate to your project's root folder and exeucte the following command to install the TDM:
+
+```bash
+npm install tinkerforge-device-manager --save
+```
+
+The node package manager will now automatically get the latest version of the TDM from npmjs.com and save it in your project.
+
 ```javascript
 var dm = require('tinkerforge-device-manager');
 dm.initialize();
