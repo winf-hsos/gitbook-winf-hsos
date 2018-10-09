@@ -91,7 +91,7 @@ Using Firebase for our purposes is free, as long as we don't exceed the generous
 
 ### MOOC Courses
 
-{% embed data="{\"url\":\"https://www.udemy.com/full-stack-firebase/\",\"type\":\"link\",\"title\":\"Full-Stack Firebase \| Udemy\",\"description\":\"Build serverless web apps with Firebase\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.udemy.com/staticx/udemy/images/v6/favicon-196x196.png\",\"width\":196,\"height\":196,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://udemy-images.udemy.com/course/480x270/1779912\_80c6.jpg\",\"width\":480,\"height\":270,\"aspectRatio\":0.5625}}" %}
+{% embed url="https://www.udemy.com/full-stack-firebase/" %}
 
 ## Feedback
 

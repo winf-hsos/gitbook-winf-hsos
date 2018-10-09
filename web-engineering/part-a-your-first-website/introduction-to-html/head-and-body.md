@@ -30,11 +30,11 @@ The metadata serves several purposes. For example, search engines like Google ca
 
 Read more about the head and its elements at the following links:
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML/The\_head\_metadata\_in\_HTML\",\"type\":\"link\",\"title\":\"What’s in the head? Metadata in HTML\",\"description\":\"That marks the end of our quickfire tour of the HTML head — there\'s a lot more you can do in here, but an exhaustive tour would be boring and confusing at this stage, and we just wanted to give you an idea of the most common things you\'ll find in there for now! In the next article we\'ll be looking at HTML text fundamentals.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+{% embed url="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML/The\_head\_metadata\_in\_HTML" %}
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title\",\"type\":\"link\",\"title\":\"<title>: The Document Title element\",\"description\":\"The HTML Title element \(title\) defines the document\'s title that is shown in a browser\'s title bar or a page\'s tab.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title" %}
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta\",\"type\":\"link\",\"title\":\"<meta>: The Document-level Metadata element\",\"description\":\"The HTML meta element represents metadata that cannot be represented by other HTML meta-related elements, like base, link, script, style or title.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta" %}
 
 ## The body
 
