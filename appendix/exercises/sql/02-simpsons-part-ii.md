@@ -16,7 +16,7 @@
 
 **BONUS: Create a top 10 list of the most frequently spoken words across all script lines!**
 
-How could you go about solving this question? Can you do it with SQL, or do we need something else?
+How could you go about solving this question? What functionality in SQL do you need to solve this puzzle?
 
 
 
