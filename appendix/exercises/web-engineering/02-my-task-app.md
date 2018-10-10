@@ -8,7 +8,7 @@ To get started, you can fork this [CodePen](https://codepen.io/winf-hsos/pen/VEp
 
 ## Add the structure with HTML
 
-Let's start with by adding the neccessary HTML to our template:
+Let's start by adding the neccessary HTML to our app:
 
 1. An a heading `<h1>` that gives your app an appropriate title.
 2. Add an **unordered list** with 2 items that should serve as our first example tasks
@@ -33,9 +33,9 @@ The list looks quite unattractive so far. Let's improve upon that:
 
 It's now time to make the whole thing work:
 
-1. Implement the logic of the "Clear List" button so that it removes all items from the list.
-2. Implement the logic of the "Add Task" button so that it prompts the user for a task name and then adds a new task with that name to end of the list.
-3. When the user clicks a task in the list, make the text appear striked through. Additionally, move the task to the end of the list.
+1. Implement the logic of the "Clear List" button, so that it removes all items from the list.
+2. Implement the logic of the "Add Task" button, so that it prompts the user for a task name, and then adds a new task with that name to end of the list.
+3. When the user clicks a task in the list, make the text appear ~~striked through~~. Additionally, move the task to the end of the list.
 
 
 
