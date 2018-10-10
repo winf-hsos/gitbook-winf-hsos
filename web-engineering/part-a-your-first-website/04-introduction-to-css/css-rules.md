@@ -2,7 +2,7 @@
 
 To style our website with CSS, we define so called _CSS rules_. A rule consists of a _CSS selector_ and a _declaration block_. 
 
-![](../../../.gitbook/assets/css_rule.png)
+![A hypothetical CSS rule with two declarations.](../../../.gitbook/assets/css_rule.png)
 
 A concrete CSS rule looks like this:
 
@@ -13,5 +13,7 @@ h1 {
 }
 ```
 
+To learn more about the syntax of CSS and CSS rules, refer to this MDN documentation:
 
+{% embed url="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction\_to\_CSS/Syntax" %}
 
