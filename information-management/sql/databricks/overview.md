@@ -51,7 +51,7 @@ The free community edition of Databricks lets us create a small one node cluster
 
 In the background, Databricks fires up a new server on Amazon Web Services \(AWS\). This takes a couple of minutes. When the cluster is ready, you'll see a green circle and the state _running_. Your cluster is now ready, and you can attach your notebook to it.
 
-![A running cluster is indicated by a green circle and the running state.](../../../.gitbook/assets/image%20%284%29.png)
+![A running cluster is indicated by a green circle and the running state.](../../../.gitbook/assets/image%20%286%29.png)
 
 ## References
 

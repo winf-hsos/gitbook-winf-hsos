@@ -12,11 +12,11 @@ Fork this [CodePen](https://codepen.io/winf-hsos/pen/dqxzrO?editors=1000) and fi
 If your are already signed-up for Slack, you can easily use your Slack profile picture. Open Slack in a browser, navigate to your profile and right-click on the profile picture. Now click "Examine" \(or "Untersuchen\). You'll see a new view on the right, showing the source code of the Slack application. If you click "Untersuchen" on your profile picture, the code should be highlighted. There you see the public URL. Copy it and paste it in your profile.
 {% endhint %}
 
-![Find the public URL of your Slack profile picture](../../../.gitbook/assets/image%20%283%29.png)
+![Find the public URL of your Slack profile picture](../../../.gitbook/assets/image%20%284%29.png)
 
 ### Share your profile link
 
 When you're done, share your profile with your peers via Slack so they all get to know you a little better. To make it nicer to look at, change the view to "Full page", copy the link from your browser, and paste it into Slack.
 
-![Profile in full page view](../../../.gitbook/assets/image%20%288%29.png)
+![Profile in full page view](../../../.gitbook/assets/image%20%2811%29.png)
 
