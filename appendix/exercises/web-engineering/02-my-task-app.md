@@ -1,6 +1,6 @@
-# \#02 - My Task App
+# \#02 - My Todo App
 
-In this exercise, you're going to build a simple task app with HTML, CSS and JavaScript.
+In this exercise, you're going to build a simple todo app with HTML, CSS and JavaScript.
 
 {% hint style="info" %}
 To get started, you can fork this [CodePen](https://codepen.io/winf-hsos/pen/VEpNrg)
