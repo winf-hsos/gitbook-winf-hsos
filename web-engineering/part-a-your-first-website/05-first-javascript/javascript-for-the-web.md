@@ -14,5 +14,7 @@ Get an introduction to what JavaScript can do in this MDN documentation:
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/What\_is\_JavaScript" %}
 
-
+{% hint style="success" %}
+Can you explain the term **client-side vs server-side?**
+{% endhint %}
 

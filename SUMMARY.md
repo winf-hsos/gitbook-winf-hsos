@@ -94,6 +94,7 @@
     * [The Box Model](web-engineering/part-a-your-first-website/the-box-model.md)
     * [First Javascript](web-engineering/part-a-your-first-website/05-first-javascript/README.md)
       * [JavaScript for the Web](web-engineering/part-a-your-first-website/05-first-javascript/javascript-for-the-web.md)
+      * [Dynamic Content](web-engineering/part-a-your-first-website/05-first-javascript/dynamic-content.md)
     * [Web Fundamentals](web-engineering/part-a-your-first-website/web-fundamentals/README.md)
       * [History](web-engineering/part-a-your-first-website/web-fundamentals/history.md)
       * [How it works](web-engineering/part-a-your-first-website/web-fundamentals/how-it-works.md)
