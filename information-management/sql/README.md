@@ -17,6 +17,7 @@ The table below lists the documents for part A of the case study. Please make su
 | Document |
 | :--- |
 | [Case Study Part A: SQL](https://docs.google.com/document/d/12ilgvUKi1ZJi8VBa0jDZ_DJ9AEnpja24eClL6OYgyBQ/export?format=pdf) |
+| [Case Study Part A - Databricks Template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20Case%20A%20Crimes%20in%20Chicago.html) |
 | [Case Study - Important Hints](https://docs.google.com/document/d/1oaloTCuwmYJiU0xulgN0XOkDsYYXzyOTFDx_lKS_RX4/export?format=pdf) |
 
 
