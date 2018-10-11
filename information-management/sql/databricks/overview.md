@@ -35,9 +35,10 @@ For more information about the Databricks workspace, read the official documenta
 
 ## Notebooks
 
-Read the section of the Databricks official documentation about notebooks:
+Read the section of the Databricks official documentation about notebooks and scan through the linked notebook:
 
- 🔗 [Databricks User Guide - Notebooks](https://docs.databricks.com/user-guide/notebooks/index.html#notebooks)
+ 🔗 [Databricks User Guide - Notebooks](https://docs.databricks.com/user-guide/notebooks/index.html#notebooks)  
+ 🔗 [Databricks Notebook on Notebooks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2019135542862542/584054368563718/5339565930708803/latest.html)
 
 {% hint style="info" %}
 **HINT:** You can use markdown syntax to improve your work's documentation in a Databricks notebook. If you are not familiar with markdown, refer to [this website](https://forums.databricks.com/static/markdown/help.html).
