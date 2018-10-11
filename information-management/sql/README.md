@@ -12,7 +12,7 @@ The center of this case study is large data set about committed crimes im Chicag
 
 ## Case Study
 
-The table below lists the documents of the case study. Please make sure you also read the important hints.
+The table below lists the documents for part A of the case study. Please make sure you also read the important hints.
 
 | Document |
 | :--- |
