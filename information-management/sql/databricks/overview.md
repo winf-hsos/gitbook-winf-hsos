@@ -39,6 +39,10 @@ Read the section of the Databricks official documentation about notebooks:
 
  🔗 [Databricks User Guide - Notebooks](https://docs.databricks.com/user-guide/notebooks/index.html#notebooks)
 
+{% hint style="info" %}
+**HINT:** You can use markdown syntax to improve your work's documentation in a Databricks notebook. If you are not familiar with markdown, refer to [this website](https://forums.databricks.com/static/markdown/help.html).
+{% endhint %}
+
 ## Clusters
 
 In the cluster section, we can create and start new clusters. A cluster is a connected set of one or more computers \(or nodes\). In Databricks, the cluster runs in the background, and we use it to execute our queries. All nodes in a Databricks cluster run Apache Spark on it.
