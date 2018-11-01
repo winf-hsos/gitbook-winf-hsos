@@ -13,6 +13,7 @@
 | Exercise | PDF |
 | :--- | :--- |
 | [Web - 01 - Student Profile](https://docs.google.com/document/d/1bhiq66iA2WqQaYc6qZ4ahofT8A8lmQhjgzRhG4uOAmU/preview) | [PDF](https://docs.google.com/document/d/1bhiq66iA2WqQaYc6qZ4ahofT8A8lmQhjgzRhG4uOAmU/export?format=pdf) |
+| [Web - 02 - My Todo App](https://docs.google.com/document/d/1QWXvzImXu9rQ4sz6DnXBkeBXloSJyrVEe8bFNbrIPVY/preview) | [PDF](https://docs.google.com/document/d/1QWXvzImXu9rQ4sz6DnXBkeBXloSJyrVEe8bFNbrIPVY/export?format=pdf) |
 
 
 
