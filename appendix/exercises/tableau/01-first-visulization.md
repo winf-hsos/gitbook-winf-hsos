@@ -38,7 +38,7 @@ Tableau is a leading visualization tool, but one great strength is how easy you 
 
 ## 4. Create a new field for the street
 
-We would like to know which streets are hot spots for prostitution. Unfortunately, we don't have the street as a field in our data. Howevery, the `block` field contains the street, and we can extract the street from there:
+We would like to know which streets are hot spots for prostitution. Unfortunately, we don't have the street as a field in our data. However, the `block` field contains the street, and we can extract the street from there:
 
 1. Create a new field `street` that contains the street name of the incident.
 2. Update the map to group the data by street \(and not by block as before\).
