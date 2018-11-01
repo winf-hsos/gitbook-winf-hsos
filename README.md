@@ -25,3 +25,5 @@ If you subsequently enrol in the master program, you get the chance to take anot
 | :--- | :--- |
 | 2. | [Big Data Analytics](big-data-analytics/) |
 
+I am also involved in the two modules _Empirisches Arbeiten_ and _Planung und Entscheidung_ in the first semester of the master program.
+
