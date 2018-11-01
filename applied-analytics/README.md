@@ -45,7 +45,7 @@ Unlike most courses, this course does **not** end in a 2 hour written exam. We d
 
 For this course, you'll need to create the following accounts and install the listed software below.
 
-### Databricks Community Edition {#databricks-community-edition}
+### Databricks Community Edition <a id="databricks-community-edition"></a>
 
 Register for free for the[ **community edition** of Databricks](https://community.cloud.databricks.com/). You don't have to install anything, it works 100% in the cloud. All you need is a modern browser such as Chrome, Firefox or Safari.
 
