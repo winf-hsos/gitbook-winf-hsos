@@ -148,5 +148,6 @@
       * [\#02 - My Todo App](appendix/exercises/web-engineering/02-my-task-app.md)
   * [Tutorials](appendix/tutorials/README.md)
     * [Connect to TinkerForge Devices](appendix/tutorials/connect-to-tinkerforge-devices.md)
+  * [Videos](appendix/videos.md)
   * [Links](appendix/links.md)
 

@@ -1,7 +1,7 @@
 # \#01 - First Visulization
 
 {% hint style="info" %}
-Before you start this exercise you need to download and install Tableau Desktop. You can download it [here](https://www.tableau.com/tft/activation), please ask me for a student license key. Alternatively, you can apply for your own free student key [here](https://www.tableau.com/de-de/academic/students).
+Before you start this exercise, you need to download and install Tableau Desktop. You can download it [here](https://www.tableau.com/tft/activation), please ask me for a student license key. Alternatively, you can apply for your own free student key [here](https://www.tableau.com/de-de/academic/students).
 {% endhint %}
 
 ## 1. Get the data
