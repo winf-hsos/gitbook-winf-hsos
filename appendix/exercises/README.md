@@ -1,2 +1,13 @@
 # Exercises
 
+## Information Management
+
+| Exercise | PDF |
+| :--- | :--- |
+| [SQL - 01 - Simpsons Part One](https://docs.google.com/document/d/1ycYIhgJP0bblPo5wk24NTsp5w711E_cXtzsv5K22pdI/preview) | [PDF](https://docs.google.com/document/d/1ycYIhgJP0bblPo5wk24NTsp5w711E_cXtzsv5K22pdI/export?format=pdf) |
+| [SQL - 02 - Simpsons Part Two](https://docs.google.com/document/d/1Oq-cJh3VzTNa_GzS8qdSFWuuLaMoLrxx6Z1gTdTsGoI/preview) | [PDF](https://docs.google.com/document/d/1Oq-cJh3VzTNa_GzS8qdSFWuuLaMoLrxx6Z1gTdTsGoI/export?format=pdf) |
+| [Tableau - 01 - First Visualizations](https://docs.google.com/document/d/1flbWjKlfBwHff-7QJbdBCI8NQirXB-G64bVbCDPxFdc/preview) | [PDF](https://docs.google.com/document/d/1flbWjKlfBwHff-7QJbdBCI8NQirXB-G64bVbCDPxFdc/export?format=pdf) |
+|  |  |
+
+
+
