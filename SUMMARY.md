@@ -139,7 +139,6 @@
   * [CodePens](appendix/codepens.md)
   * [Exercises](appendix/exercises/README.md)
     * [Web Engineering](appendix/exercises/web-engineering/README.md)
-      * [\#01 - Student Profile](appendix/exercises/web-engineering/00-student-profile.md)
       * [\#02 - My Todo App](appendix/exercises/web-engineering/02-my-task-app.md)
   * [Tutorials](appendix/tutorials/README.md)
     * [Connect to TinkerForge Devices](appendix/tutorials/connect-to-tinkerforge-devices.md)
