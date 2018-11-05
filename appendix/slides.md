@@ -8,6 +8,7 @@
 | [Information Management - Databricks](https://docs.google.com/presentation/d/1Q1r0kMzALJPBoMvPlLgCykllL1kvLZVrWeELpMvXUhE/preview) | [⭳ Download](https://docs.google.com/presentation/d/1Q1r0kMzALJPBoMvPlLgCykllL1kvLZVrWeELpMvXUhE/export/pdf) |
 | [Information Management - SQL](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/preview) | [⭳ Download](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/export/pdf) |
 | [Information Management - Case Study - Important Hints](https://docs.google.com/presentation/d/1S1s3UVZQV5XmStceK8U0b21uerJrBuOEZrLOOtw2Tog/preview) | [⭳ Download](https://docs.google.com/presentation/d/1S1s3UVZQV5XmStceK8U0b21uerJrBuOEZrLOOtw2Tog/export/pdf) |
+| [Information Management - Data Visualization](https://docs.google.com/presentation/d/1H1bS-S032m-vaZHlvtz7JzbS0cQDzjyLVP1XVcY4_oc/preview) | [PDF](https://docs.google.com/presentation/d/1H1bS-S032m-vaZHlvtz7JzbS0cQDzjyLVP1XVcY4_oc/export/pdf) |
 
 ## Web Engineering
 
