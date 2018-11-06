@@ -27,3 +27,11 @@ If you subsequently enrol in the master program, you get the chance to take anot
 
 I am also involved in the two modules _Empirisches Arbeiten_ and _Planung und Entscheidung_ in the first semester of the master program.
 
+In _Empirisches Arbeiten_, we cover the following topics in 3 sessions:
+
+1. Introduction to SQL
+2. Machine Learning
+3. Text Analytics
+
+
+
