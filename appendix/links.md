@@ -18,6 +18,8 @@ Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): [Prediction machines. The s
 
 Brynjolfsson, Erik; McAfee, Andrew \(2016\): [The second machine age. Work, progress, and prosperity in a time of brilliant technologies](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FSecond-Machine-Age-Prosperity-Technologies-ebook%2Fdp%2FB00D97HPQI&sa=D&sntz=1&usg=AFQjCNHaN0yHG8tW0q6bBpWsTnm_4vkx1Q). New York, London: W.W. Norton & Company.
 
+Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron \(2016\): Deep learning. Cambridge, Massachusetts, London, England: MIT Press. Online verfügbar unter [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/).
+
 Tegmark, Max \(2017\): [Life 3.0. Being human in the age of artificial intelligence](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FLife-3-0-Being-Artificial-Intelligence%2Fdp%2F024123719X&sa=D&sntz=1&usg=AFQjCNH2liFgVpbCIoVfE0PP88wgtbnffw).
 
 Wadwha, Vivek; Salkever, Alex \(2017\): [The driver in the driverless car. How our technology choices will create the future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fproduct%2FB01N4GGCUS&sa=D&sntz=1&usg=AFQjCNFqcLSeFqRWJoVUeaYKeVm6QyWsbQ). Oakland, CA: BK Berrett-Koehler Publishers Inc \(BK business book\).
