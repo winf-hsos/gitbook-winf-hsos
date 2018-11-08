@@ -7,6 +7,7 @@
 | Azure ML Studio | [https://studio.azureml.net/Home/](https://studio.azureml.net/Home/) |
 | Cloud9 IDE | [https://c9.io](https://c9.io) |
 | Databricks Community Edition | [https://community.cloud.databricks.com/](https://community.cloud.databricks.com/) |
+| Glitch | [https://glitch.com/](https://glitch.com/) |
 | Tableau | [https://www.tableau.com/de-de](https://www.tableau.com/de-de) |
 | Tinkerforge Software | [https://www.tinkerforge.com/de/doc/Downloads.html](https://www.tinkerforge.com/de/doc/Downloads.html) |
 | Visual Studio Code | [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download) |
