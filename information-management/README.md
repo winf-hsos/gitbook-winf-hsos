@@ -40,15 +40,19 @@ The **first case** describes a very common situation: You are getting a new and 
 
 {% page-ref page="sql/" %}
 
-The **second case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
+The second case deals with analysis and visualization of structured data on your desktop. Tableau is one of the market leading tools for that, and we'll therefore use it for this case.
 
-{% page-ref page="enterprise-data/" %}
+{% page-ref page="desktop/" %}
 
 The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is created with high but unknown frequency.
 
 {% page-ref page="real-time-data/" %}
 
-The **fourth case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data, such as from social media or product reviews. Sounds like a challenge to me!
+The **last case** is also quite common for a business of any size: You are given access to one of the information systems' databases \(or an interface to the data\) and you can use that data to your or the company's advantage. Nice, but how?
+
+{% page-ref page="enterprise-data/" %}
+
+The **optional third case** resolves some mysteries around the big buzz word _Big Data,_ and we'll look what it actually means. More and more data does not have the inherent structure of an Excel spreadsheet, but we still need to analyze it as it might hold important information for us. Examples include text data, such as from social media or product reviews. Sounds like a challenge to me!
 
 {% page-ref page="big-data/" %}
 
