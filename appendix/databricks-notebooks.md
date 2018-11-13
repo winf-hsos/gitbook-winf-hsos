@@ -8,5 +8,10 @@
 | [Case Study Part A - Databricks Template](https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20Case%20A%20Crimes%20in%20Chicago.html) | Imports the data for the part A of the case study. Contains the structure of the case study and must be used to submit results. |
 | [Subqueries and Window Functions](https://winf-hsos.github.io/databricks-notebooks/information-management/Subqueries%20and%20Window%20Functions.html) | Using the Chicago crime data from the case study part A, this notebook introduces examples for subqueries and window functions. |
 
+## Empirisches Arbeiten
 
+| Link | Description |
+| :--- | :--- |
+| [1 - Einführung SQL](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/1%20-%20Einf%C3%BChrung%20SQL.html) | Introduction to SQL using an orange limonade survey dataset. |
+| [2 - Machine Learning - Beispiele](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/2%20-%20Machine%20Learning%20-%20Beispiele.html) | ML examples from the session. |
 
