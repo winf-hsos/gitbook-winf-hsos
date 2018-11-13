@@ -22,5 +22,10 @@
 | [Web Engineering - Bootstrap](https://docs.google.com/presentation/d/1xxKzZFht8IzFXHwBWgtwHuQe8fZ5WC0WzhYdLNmGuPU/preview) | [PDF](https://docs.google.com/presentation/d/1xxKzZFht8IzFXHwBWgtwHuQe8fZ5WC0WzhYdLNmGuPU/export/pdf) |
 | [Web Engineering - Google Firebase Hosting](https://docs.google.com/presentation/d/1y3ANxJyGHnnr8dDOvM1QbijVmgSdj9WJXl9MRSFpNBs/preview) | [PDF](https://docs.google.com/presentation/d/1y3ANxJyGHnnr8dDOvM1QbijVmgSdj9WJXl9MRSFpNBs/export/pdf) |
 
+## Empirisches Arbeiten
 
+| Title | PDF |
+| :--- | :--- |
+| [Empirisches Arbeiten - Termin 1: Einführung SQL](https://docs.google.com/presentation/d/1rTclz3KB86Lh5AKuyxSmUWvtzsX2qkf1zn5-ZA7UrGw/preview) | [PDF](https://docs.google.com/presentation/d/1rTclz3KB86Lh5AKuyxSmUWvtzsX2qkf1zn5-ZA7UrGw/export/pdf) |
+| [Empirisches Arbeiten - Termin 2: Machine Learning](https://docs.google.com/presentation/d/1tOydUnBLQzIUXxEfSp0SRY-Wy80yezicFVqqn9Hw7-4/preview) | [PDF](https://docs.google.com/presentation/d/1tOydUnBLQzIUXxEfSp0SRY-Wy80yezicFVqqn9Hw7-4/export/pdf) |
 
