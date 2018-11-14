@@ -23,7 +23,7 @@ All my videos are on my YouTube channel under [this link](https://www.youtube.co
 
 | Title | Duration |
 | :--- | :--- |
-| SQL Einführung am Limonade-Datensatz - Teil 1 |  |
+| [SQL Einführung am Limonade-Datensatz - Teil 1](https://www.youtube.com/watch?v=4n7hlrT7XBQ) | 32:52 |
 
 I only accept the best sound quality for you :-\) So I hope you are happy with what you hear \(at least sound-quality wise\). It's all recorded in my home-grown recording studio:
 
