@@ -9,6 +9,7 @@
 | [Information Management - SQL](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/preview) | [PDF](https://docs.google.com/presentation/d/1Ga31SJKo6KTfMq0m2Z5T7eTmGqMPdBn5cLVnzWHWS4k/export/pdf) |
 | [Information Management - Case Study - Important Hints](https://docs.google.com/presentation/d/1S1s3UVZQV5XmStceK8U0b21uerJrBuOEZrLOOtw2Tog/preview) | [PDF](https://docs.google.com/presentation/d/1S1s3UVZQV5XmStceK8U0b21uerJrBuOEZrLOOtw2Tog/export/pdf) |
 | [Information Management - Data Visualization](https://docs.google.com/presentation/d/1H1bS-S032m-vaZHlvtz7JzbS0cQDzjyLVP1XVcY4_oc/preview) | [PDF](https://docs.google.com/presentation/d/1H1bS-S032m-vaZHlvtz7JzbS0cQDzjyLVP1XVcY4_oc/export/pdf) |
+| [Information Management - Desktop Analysis](https://docs.google.com/presentation/d/1WFdGQOktDzsZxBuMoa1K_hDYXZbxdNxmI3wFVvkg-5U/preview) | [PDF](https://docs.google.com/presentation/d/1WFdGQOktDzsZxBuMoa1K_hDYXZbxdNxmI3wFVvkg-5U/export/pdf) |
 
 ## Web Engineering
 
