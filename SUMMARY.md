@@ -135,6 +135,7 @@
   * [Case Studies](appendix/case-studies.md)
   * [Databricks Notebooks](appendix/databricks-notebooks.md)
   * [Data Sets](appendix/data-sets.md)
+  * [Glitches](appendix/glitches.md)
   * [Slides](appendix/slides.md)
   * [CodePens](appendix/codepens.md)
   * [Exercises](appendix/exercises.md)
