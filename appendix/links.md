@@ -15,6 +15,8 @@
 
 ## Books
 
+### Digital Technology and AI
+
 Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): [Prediction machines. The simple economics of artificial intelligence](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FPrediction-Machines-Economics-Artificial-Intelligence-ebook%2Fdp%2FB075GXJPFS&sa=D&sntz=1&usg=AFQjCNEnHzQxas-w5rGGCZZ4z8B1fUJ8_g). Boston, Massachusetts: Harvard Business Review Press.
 
 Brynjolfsson, Erik; McAfee, Andrew \(2016\): [The second machine age. Work, progress, and prosperity in a time of brilliant technologies](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FSecond-Machine-Age-Prosperity-Technologies-ebook%2Fdp%2FB00D97HPQI&sa=D&sntz=1&usg=AFQjCNHaN0yHG8tW0q6bBpWsTnm_4vkx1Q). New York, London: W.W. Norton & Company.
@@ -26,6 +28,10 @@ Tegmark, Max \(2017\): [Life 3.0. Being human in the age of artificial intellige
 Wadwha, Vivek; Salkever, Alex \(2017\): [The driver in the driverless car. How our technology choices will create the future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fproduct%2FB01N4GGCUS&sa=D&sntz=1&usg=AFQjCNFqcLSeFqRWJoVUeaYKeVm6QyWsbQ). Oakland, CA: BK Berrett-Koehler Publishers Inc \(BK business book\).
 
 Yang, Andrew \(2018\): [The war on normal people. The truth about America's disappearing jobs and why universal basic income is our future](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.de%2FWar-Normal-People-Disappearing-Universal-ebook%2Fdp%2FB075D8DQMY&sa=D&sntz=1&usg=AFQjCNEsmIKuLjQ1KmkrVTq0PwW6zSJ3Dw). First edition. New York: Hachette Books.
+
+### Data Visualization and Tableau
+
+Loth, Alexander \(2018\): Datenvisualisierung mit Tableau. 1st ed. Frechen: MITP \(mitp Professional\). Online verfügbar unter [https://ebookcentral.proquest.com/lib/gbv/detail.action?docID=5476761](https://ebookcentral.proquest.com/lib/gbv/detail.action?docID=5476761).
 
 ## Articles
 
