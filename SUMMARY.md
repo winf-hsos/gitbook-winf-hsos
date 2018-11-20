@@ -58,6 +58,7 @@
   * [Case B: Desktop](information-management/desktop/README.md)
     * [Workspace Setup](information-management/desktop/workspace-setup.md)
     * [Tableau](information-management/desktop/tableau/README.md)
+      * [Calculations](information-management/desktop/tableau/calculations.md)
       * [Customize](information-management/desktop/tableau/customize.md)
   * [Case C: Real-Time Data](information-management/real-time-data/README.md)
     * [Streaming Data](information-management/real-time-data/streaming-data.md)
