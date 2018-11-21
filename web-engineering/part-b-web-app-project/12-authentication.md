@@ -2,6 +2,8 @@
 
 ## User Login
 
+{% embed url="https://www.youtube.com/watch?v=mlgBPnm7tGs" %}
+
 ## User Registration
 
 Before a user can sign in, she needs to be registered with your application so the system knows who she is. This is called _user registration_.
