@@ -42,7 +42,7 @@ The **first case** describes a very common situation: You are getting a new and 
 
 The second case deals with analysis and visualization of structured data on your desktop. Tableau is one of the market leading tools for that, and we'll therefore use it for this case.
 
-{% page-ref page="desktop/" %}
+{% page-ref page="tableau/" %}
 
 The **third case** is becoming more relevant as more and more real time data is created and the time window to generate answers gets smaller. In this case, you need to make real-time analysis on data that is created with high but unknown frequency.
 
