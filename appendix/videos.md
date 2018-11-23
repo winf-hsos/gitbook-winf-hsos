@@ -20,6 +20,12 @@ All my videos are on my YouTube channel under [this link](https://www.youtube.co
 | [Aus Glitch nach Firebase deployen](https://www.youtube.com/watch?v=gmXkXvyXBfM) | 05:26 |
 | [User Authentication mit Firebase](https://www.youtube.com/watch?v=mlgBPnm7tGs) | 15:52 |
 
+## Information Management
+
+| Title | Duration |
+| :--- | :--- |
+| [Tableau - Previous Month Comparison](https://www.youtube.com/watch?v=aB5GZqCfoGk) | 22:10 |
+
 ## Empirisches Arbeiten
 
 | Title | Duration |
