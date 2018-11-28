@@ -14,4 +14,7 @@
 | :--- | :--- |
 | [1 - Einführung SQL](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/1%20-%20Einf%C3%BChrung%20SQL.html) | Introduction to SQL using an orange limonade survey dataset. |
 | [2 - Machine Learning - Beispiele](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/2%20-%20Machine%20Learning%20-%20Beispiele.html) | ML examples from the session. |
+| [3 - Text Analytics](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/3%20-%20Text%20Analytics.html) | Introduction to Text Analytics with SQL using the TED Talk dataset. |
+
+
 

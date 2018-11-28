@@ -30,4 +30,5 @@
 | :--- | :--- |
 | [Empirisches Arbeiten - Termin 1: Einführung SQL](https://docs.google.com/presentation/d/1rTclz3KB86Lh5AKuyxSmUWvtzsX2qkf1zn5-ZA7UrGw/preview) | [PDF](https://docs.google.com/presentation/d/1rTclz3KB86Lh5AKuyxSmUWvtzsX2qkf1zn5-ZA7UrGw/export/pdf) |
 | [Empirisches Arbeiten - Termin 2: Machine Learning](https://docs.google.com/presentation/d/1tOydUnBLQzIUXxEfSp0SRY-Wy80yezicFVqqn9Hw7-4/preview) | [PDF](https://docs.google.com/presentation/d/1tOydUnBLQzIUXxEfSp0SRY-Wy80yezicFVqqn9Hw7-4/export/pdf) |
+| [Empirisches Arbeiten - Termin 3: Text Analytics](https://docs.google.com/presentation/d/1JxUalKRsYWV3rVm3RhKYkDYMVM7eZZvqf_SxXMKH_wc/preview) | [PDF](https://docs.google.com/presentation/d/1JxUalKRsYWV3rVm3RhKYkDYMVM7eZZvqf_SxXMKH_wc/export/pdf) |
 
