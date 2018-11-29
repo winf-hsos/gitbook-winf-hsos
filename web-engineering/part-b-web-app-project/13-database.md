@@ -11,8 +11,6 @@ Die typischen Datenbankoperationen nennen wir auch CRUD-Operationen. Jede Buchst
 * U = Update Data
 * D = Delete Data
 
-## Firestore
-
 ## FOR-Schleifen
 
 Verschiedene Arten von Schleifen, und speziell auch die FOR-Schleife, wird in diesem Tutorial erklärt.
