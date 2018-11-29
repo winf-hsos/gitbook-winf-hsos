@@ -139,7 +139,7 @@
     * [Google Firebase](web-engineering/part-b-web-app-project/0x-google-firebase.md)
     * [Hosting](web-engineering/part-b-web-app-project/10-hosting.md)
     * [Authentication](web-engineering/part-b-web-app-project/12-authentication.md)
-    * [Database](web-engineering/part-b-web-app-project/13-database.md)
+    * [Databases](web-engineering/part-b-web-app-project/13-database.md)
     * [Storage](web-engineering/part-b-web-app-project/14-storage.md)
   * [Part C: Web App Features](web-engineering/part-c-adding-features/README.md)
     * [\#01 - Google Maps](web-engineering/part-c-adding-features/20-google-maps.md)
