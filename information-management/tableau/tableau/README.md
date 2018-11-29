@@ -4,6 +4,8 @@
 
 For documentation and help on Tableau, refer to their [online help section](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm).
 
+{% embed url="https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm" %}
+
 ## Video Tutorials
 
 Tableau offers a number of online videos. You must register for a free account, but then you can access all the content:
