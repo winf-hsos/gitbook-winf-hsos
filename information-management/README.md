@@ -1,5 +1,7 @@
 # Information Management
 
+{% embed url="https://docs.google.com/presentation/d/1uobp5yhdzDclUG-zBx356Dizk4eBH1945fLeRKWE0C8/edit?usp=sharing" %}
+
 {% hint style="info" %}
 This page is under construction.
 {% endhint %}
