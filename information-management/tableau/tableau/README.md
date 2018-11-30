@@ -1,5 +1,9 @@
 # Tableau
 
+##  
+
+![](../../../.gitbook/assets/course-navigator_tes.svg)
+
 ## Online Documentation
 
 For documentation and help on Tableau, refer to their [online help section](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm).
