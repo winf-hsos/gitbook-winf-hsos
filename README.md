@@ -1,9 +1,5 @@
 # Welcome
 
-## Overview
-
-![Overview of the modules](.gitbook/assets/module-wirtschaftsinformatik-at-aul.jpg)
-
 ## Recommended Path
 
 If you want to maximize your skills and knowledge in digitalization & IT, you should enrol in all my courses. For that, I recommend the following paths.

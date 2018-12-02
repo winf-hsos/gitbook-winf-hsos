@@ -10,6 +10,10 @@ Chapter 5 of the book ["Deep Learning"](https://www.deeplearningbook.org/) gives
 
 {% embed url="https://www.deeplearningbook.org/contents/ml.html" %}
 
+## Decision Trees
+
+{% embed url="https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956" %}
+
 ## Clustering
 
 {% embed url="https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6" %}
