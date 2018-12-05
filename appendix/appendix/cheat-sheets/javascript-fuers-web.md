@@ -1,9 +1,3 @@
----
-description: >-
-  Diese Seite listet die wichtigsten JavaScript-Funktionen für das Modul Web
-  Engineering.
----
-
 # JavaScript fürs Web
 
 ## HTML mit JavaScript verändern

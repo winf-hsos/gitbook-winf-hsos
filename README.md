@@ -9,9 +9,9 @@ If you want to maximize your skills and knowledge in digitalization & IT, you sh
 | **Semester** | **Module\(s\)** |
 | :--- | :--- |
 | 2. | [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/) |
-| 3. | [Information Management](information-management/) + [Web Engineering](bachelor/web-engineering/) |
-| 4. | [Impacts of Digitalization](impacts-of-digitalization/) |
-| 5. | [Applied Analytics](applied-analytics/) |
+| 3. | [Information Management]() + [Web Engineering](bachelor/web-engineering/) |
+| 4. | [Impacts of Digitalization]() |
+| 5. | ~~~~[~~Applied Analytics~~]()~~~~ |
 
 ### Master
 
@@ -19,7 +19,7 @@ If you subsequently enrol in the master program, you get the chance to take anot
 
 | **Semester** | **Module\(s\)** |
 | :--- | :--- |
-| 2. | [Big Data Analytics](big-data-analytics/) |
+| 2. | [Big Data Analytics](master/big-data-analytics/) |
 
 I am also involved in the two modules _Empirisches Arbeiten_ and _Planung und Entscheidung_ in the first semester of the master program.
 

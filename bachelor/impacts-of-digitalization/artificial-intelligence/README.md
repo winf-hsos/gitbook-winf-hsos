@@ -1,4 +1,2 @@
 # Artificial Intelligence
 
-
-

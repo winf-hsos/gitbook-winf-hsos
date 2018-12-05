@@ -1,7 +1,3 @@
----
-description: 'Glitches, mostly for Web Engineering'
----
-
 # Glitches
 
 | Title | Code | App |

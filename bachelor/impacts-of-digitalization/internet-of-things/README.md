@@ -1,4 +1,2 @@
 # Internet of Things
 
-
-

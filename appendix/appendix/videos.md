@@ -1,7 +1,3 @@
----
-description: List of all my videos for our modules.
----
-
 # Videos
 
 All my videos are on my YouTube channel under [this link](https://www.youtube.com/channel/UC4qYjwJaVh3uABOajAjUA0w/featured).
@@ -34,7 +30,7 @@ All my videos are on my YouTube channel under [this link](https://www.youtube.co
 
 I only accept the best sound quality for you :-\) So I hope you are happy with what you hear \(at least sound-quality wise\). It's all recorded in my home-grown recording studio:
 
-![My DYI recording studio with an echo-killing booth](../.gitbook/assets/recording_studio.jpg)
+![My DYI recording studio with an echo-killing booth](../../.gitbook/assets/recording_studio.jpg)
 
 
 

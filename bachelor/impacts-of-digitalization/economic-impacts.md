@@ -1,4 +1,2 @@
 # Economic Impacts
 
-
-
