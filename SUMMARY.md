@@ -150,8 +150,8 @@
     * [\#08 - Checkout](bachelor/web-engineering/part-c-adding-features/27-checkout.md)
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
   * [Computer Science](bachelor/wirtschaftsinformatik/set-1-computer-science.md)
-  * [Information Systems](bachelor/wirtschaftsinformatik/set-2-business.md)
   * [Digitalization](bachelor/wirtschaftsinformatik/set-3-cs-and-business.md)
+  * [Economics](bachelor/wirtschaftsinformatik/economics.md)
 
 ## Master
 
