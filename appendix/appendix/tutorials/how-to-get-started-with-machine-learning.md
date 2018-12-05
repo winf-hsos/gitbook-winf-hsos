@@ -28,3 +28,11 @@ Chapter 5 of the book ["Deep Learning"](https://www.deeplearningbook.org/) gives
 
 {% embed url="https://www.tensorflow.org/tutorials/" %}
 
+## Books
+
+{% embed url="http://www.gaussianprocess.org/gpml/chapters/" %}
+
+## Blackbox Optimization
+
+{% embed url="https://sheffieldml.github.io/GPyOpt/firststeps/index.html" %}
+

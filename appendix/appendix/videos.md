@@ -13,7 +13,7 @@ All my videos are on my YouTube channel under [this link](https://www.youtube.co
 | My Todo App - Teil 5 - JavaScript - Mark Tasks Done / Undone |  |
 | [My Todo App - Teil 6 - Bootstrap Layout](https://www.youtube.com/watch?v=WJSIZrQHdpU) | 09:18 |
 | My Todo App - Teil 7 - Layout Responsiveness |  |
-| [My Todo App - Teil 8 - Todos auf Firestore lesen](https://www.youtube.com/watch?v=xCroaLwuJKA) |  |
+| [My Todo App - Teil 8 - Todos auf Firestore lesen](https://youtu.be/7RmC2pbmZ-g) | 12:48 |
 | My Todo App - Teil 9 - Todos in Firestore schreiben |  |
 | [Aus Glitch nach Firebase deployen](https://www.youtube.com/watch?v=gmXkXvyXBfM) | 05:26 |
 | [User Authentication mit Firebase](https://www.youtube.com/watch?v=mlgBPnm7tGs) | 15:52 |
