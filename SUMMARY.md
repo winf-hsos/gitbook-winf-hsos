@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+
+## Bachelor
 * [Applied Analytics](applied-analytics/README.md)
   * [Phase 1: Exploration](applied-analytics/phase-1-exploration/README.md)
     * [01 - Workspace Setup](applied-analytics/phase-1-exploration/01-workspace-setup.md)
@@ -25,11 +27,6 @@
     * [Machine Learning](impacts-of-digitalization/artificial-intelligence/20-machine-learning.md)
     * [Deep Learning](impacts-of-digitalization/artificial-intelligence/21-deep-learning.md)
   * [Economic Impacts](impacts-of-digitalization/economic-impacts.md)
-* [Big Data Analytics](big-data-analytics/README.md)
-  * [Case Study Phase 1](big-data-analytics/case-study-phase-1.md)
-  * [Case Study Phase 2](big-data-analytics/case-study-phase-2.md)
-  * [Case Study Phase 3](big-data-analytics/case-study-phase-3.md)
-  * [Case Study Phase 4](big-data-analytics/case-study-phase-4.md)
 * [Information Management](information-management/README.md)
   * [Case A: SQL](information-management/sql/README.md)
     * [Workspace Setup](information-management/sql/workspace-setup.md)
@@ -100,24 +97,6 @@
     * [Structure on Read](information-management/big-data/structure-on-read.md)
     * [Data Lake](information-management/big-data/data-lake.md)
   * [Case F: Spreadsheets](information-management/spreadsheets.md)
-* [Appendix](appendix/README.md)
-  * [Cheat Sheets](appendix/cheat-sheets/README.md)
-    * [JavaScript fürs Web](appendix/cheat-sheets/javascript-fuers-web.md)
-  * [Case Studies](appendix/case-studies.md)
-  * [Databricks Notebooks](appendix/databricks-notebooks.md)
-  * [Data Sets](appendix/data-sets.md)
-  * [Glitches](appendix/glitches.md)
-  * [Slides](appendix/slides.md)
-  * [CodePens](appendix/codepens.md)
-  * [Exercises](appendix/exercises.md)
-  * [Tutorials](appendix/tutorials/README.md)
-    * [How to get started with Machine Learning](appendix/tutorials/how-to-get-started-with-machine-learning.md)
-    * [Connect to TinkerForge Devices](appendix/tutorials/connect-to-tinkerforge-devices.md)
-  * [Videos](appendix/videos.md)
-  * [Links](appendix/links.md)
-
-## Bachelor
-
 * [Web Engineering](bachelor/web-engineering/README.md)
   * [Part A: Your First Website](bachelor/web-engineering/part-a-your-first-website/README.md)
     * [Workspace Setup](bachelor/web-engineering/part-a-your-first-website/01-workspace-setup.md)
@@ -175,3 +154,23 @@
 
 ## Master
 
+* [Big Data Analytics](big-data-analytics/README.md)
+  * [Case Study Phase 1](big-data-analytics/case-study-phase-1.md)
+  * [Case Study Phase 2](big-data-analytics/case-study-phase-2.md)
+  * [Case Study Phase 3](big-data-analytics/case-study-phase-3.md)
+  * [Case Study Phase 4](big-data-analytics/case-study-phase-4.md)
+* [Appendix](appendix/README.md)
+  * [Cheat Sheets](appendix/cheat-sheets/README.md)
+    * [JavaScript fürs Web](appendix/cheat-sheets/javascript-fuers-web.md)
+  * [Case Studies](appendix/case-studies.md)
+  * [Databricks Notebooks](appendix/databricks-notebooks.md)
+  * [Data Sets](appendix/data-sets.md)
+  * [Glitches](appendix/glitches.md)
+  * [Slides](appendix/slides.md)
+  * [CodePens](appendix/codepens.md)
+  * [Exercises](appendix/exercises.md)
+  * [Tutorials](appendix/tutorials/README.md)
+    * [How to get started with Machine Learning](appendix/tutorials/how-to-get-started-with-machine-learning.md)
+    * [Connect to TinkerForge Devices](appendix/tutorials/connect-to-tinkerforge-devices.md)
+  * [Videos](appendix/videos.md)
+  * [Links](appendix/links.md)
