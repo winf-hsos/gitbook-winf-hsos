@@ -22,3 +22,9 @@ Chapter 5 of the book ["Deep Learning"](https://www.deeplearningbook.org/) gives
 
 {% embed url="https://www.deeplearningbook.org/" %}
 
+## Tutorials
+
+{% embed url="https://scikit-learn.org/stable/tutorial/index.html" %}
+
+{% embed url="https://www.tensorflow.org/tutorials/" %}
+
