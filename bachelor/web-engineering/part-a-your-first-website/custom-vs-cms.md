@@ -4,5 +4,5 @@
 
 There are different ways to develop a website or web application. 
 
-![We can increase complexity at the cost of flexibility](../../.gitbook/assets/web_flexibility_complexity.png)
+![We can increase complexity at the cost of flexibility](../../../.gitbook/assets/web_flexibility_complexity.png)
 

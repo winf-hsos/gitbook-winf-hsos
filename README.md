@@ -8,8 +8,8 @@ If you want to maximize your skills and knowledge in digitalization & IT, you sh
 
 | **Semester** | **Module\(s\)** |
 | :--- | :--- |
-| 2. | [Wirtschaftsinformatik](wirtschaftsinformatik/) |
-| 3. | [Information Management](information-management/) + [Web Engineering](web-engineering/) |
+| 2. | [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/) |
+| 3. | [Information Management](information-management/) + [Web Engineering](bachelor/web-engineering/) |
 | 4. | [Impacts of Digitalization](impacts-of-digitalization/) |
 | 5. | [Applied Analytics](applied-analytics/) |
 
