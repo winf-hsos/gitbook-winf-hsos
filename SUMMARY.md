@@ -160,6 +160,8 @@
   * [Case Study Phase 2](master/big-data-analytics/case-study-phase-2.md)
   * [Case Study Phase 3](master/big-data-analytics/case-study-phase-3.md)
   * [Case Study Phase 4](master/big-data-analytics/case-study-phase-4.md)
+* [Empirisches Arbeiten](master/empirisches-arbeiten.md)
+* [Planung und Entscheidung](master/planung-und-entscheidung.md)
 
 ## FORSCHUNG
 
