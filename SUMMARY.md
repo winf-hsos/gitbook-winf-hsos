@@ -165,7 +165,7 @@
 
 ## FORSCHUNG
 
-* [Themen](forschung/themen.md)
+* [Topics and Questions](forschung/themen.md)
 
 ## Appendix
 

@@ -1,4 +1,11 @@
-# Themen
+# Topics and Questions
 
-Hier veröffentliche ich in Kürze eine Liste meiner Forschungsthemen und Forschungsinteressen. Hier werden in diesem Zusammenhang auch die aktuellen Angebote für Bachelor bzw. Masterarbeiten beschrieben sein.
+The following list is a collection of my current research interests:
+
+* Digital platforms for food merchandise
+* Applications of machine learning in the food and agriculture industry
+* Using simulation and blackbox optimization to improve food production processes
+* Novel approaches to tackle the traveling salesman probelm
+
+
 
