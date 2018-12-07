@@ -6,6 +6,5 @@
 | Web Engineering Project Template | [Code Link](https://glitch.com/edit/#!/web-engineering-project-template) | [App Link](https://web-engineering-project-template.glitch.me) |
 | User Authencation Example | [Code Link](https://glitch.com/edit/#!/winf-hsos-web-examples?path=01_authentication/index.html:2:16) | [App Link](https://winf-hsos-web-examples.glitch.me/01_authentication/index.html) |
 | Read from Database Example | [Code Link](https://glitch.com/edit/#!/winf-hsos-web-examples?path=02_read_database/index.html:1:0) | [App Link](https://winf-hsos-web-examples.glitch.me/02_read_database/index.html) |
-
-
+| Real-time Chat Example with PubNub | [Code Link](https://glitch.com/edit/#!/real-time-chat-demo) | [App Link](https://real-time-chat-demo.glitch.me) |
 
