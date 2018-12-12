@@ -15,3 +15,7 @@ Es folgen Beispiele für die häufigsten DOM-Manipulationen, die ihr benötigen 
 
 {% embed url="https://codepen.io/winf-hsos/pen/zMyWJY/" %}
 
+## Data-Attribute
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTML/Global\_attributes/data-\*" %}
+
