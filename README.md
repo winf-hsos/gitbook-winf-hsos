@@ -6,12 +6,12 @@ If you want to maximize your skills and knowledge in digitalization & IT, you sh
 
 ### Bachelor
 
-| **Semester** | **Module\(s\)** |
-| :--- | :--- |
-| 2. | [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/) |
-| 3. | [Information Management]() + [Web Engineering](bachelor/web-engineering/) |
-| 4. | [Impacts of Digitalization]() |
-| 5. | ~~~~[~~Applied Analytics~~]()~~~~ |
+| **Semester** | **Modul 1** | Modul 2 |
+| :--- | :--- | :--- |
+| 2. | [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/) |  |
+| 3. | Information Management \(Englisch\) | [Web Engineering](bachelor/web-engineering/) |
+| 4. | Impacts of Digitalization \(Englisch\) |  |
+| 5. | Applied Analytics |  |
 
 ### Master
 
