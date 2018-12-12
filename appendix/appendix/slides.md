@@ -25,6 +25,7 @@
 | [Web Engineering - Google Firebase Hosting](https://docs.google.com/presentation/d/1y3ANxJyGHnnr8dDOvM1QbijVmgSdj9WJXl9MRSFpNBs/preview) | [PDF](https://docs.google.com/presentation/d/1y3ANxJyGHnnr8dDOvM1QbijVmgSdj9WJXl9MRSFpNBs/export/pdf) |
 | [Web Engineering - User Authentication](https://docs.google.com/presentation/d/11ovo03i0l2pNUNGqE3jVURft4rVwVzJkOIDBl4aJqsQ/preview) | [PDF](https://docs.google.com/presentation/d/11ovo03i0l2pNUNGqE3jVURft4rVwVzJkOIDBl4aJqsQ/export?format=pdf) |
 | [Web Engineering - Datenbanken](https://docs.google.com/presentation/d/121Z8nZLQ2UlEqnDVkXq9872QMnyMxzBSm37U4pkZUR4/preview) | [PDF](https://docs.google.com/presentation/d/121Z8nZLQ2UlEqnDVkXq9872QMnyMxzBSm37U4pkZUR4/export?format=pdf) |
+| [Web Engineering - CMS & Co.](https://docs.google.com/presentation/d/1q63Kg8tZXHhLrJpVBtzZuY_yPvOb3iCSHLENrtGKz_Q/preview) | [PDF](https://docs.google.com/presentation/d/1q63Kg8tZXHhLrJpVBtzZuY_yPvOb3iCSHLENrtGKz_Q/export?format=pdf) |
 
 ## Empirisches Arbeiten
 

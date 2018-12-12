@@ -13,7 +13,33 @@ Es folgen Beispiele für die häufigsten DOM-Manipulationen, die ihr benötigen 
 
 ### Textinhalt verändern
 
-{% embed url="https://codepen.io/winf-hsos/pen/zMyWJY/" %}
+#### HTML
+
+Vergebt im HTML eine ID für ein HTML Element, das ihr mit JavaScript manipulieren wollt.
+
+{% code-tabs %}
+{% code-tabs-item title="index.html" %}
+```markup
+<p id="one"></p>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### JavaScript
+
+Verwendet die Funktion `document.querySelector()`, um euch mit JavaScript Zugriff auf das Element zu verschaffen. Nutzt anschließend `textContent` oder `innerHTML`, um den Inhalt des Elements zu setzen.
+
+{% code-tabs %}
+{% code-tabs-item title="script.js" %}
+```javascript
+var pElement = document.querySelector("#one");
+pElement.textContent = "This text is set with JS";
+
+// Instead of text use HTML like this
+pElement.innerHTML = "This <tt>text</tt> is set with <b>JS</b>";
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ## Data-Attribute
 
