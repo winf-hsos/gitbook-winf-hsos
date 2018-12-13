@@ -41,6 +41,31 @@ pElement.innerHTML = "This <tt>text</tt> is set with <b>JS</b>";
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+## Arrays
+
+Sortierte Listen - oder Arrays - begegnen uns häufig im Zusammenhang mit dem Lesen von Daten aus der Firestore-Datenbank. Deshalb ist es wichtig, dass wir die gängigsten Operationen mit Arrays in JavaScript kennen und anwenden können.
+
+### Alle Elemente eines Arrays durchlaufen
+
+{% code-tabs %}
+{% code-tabs-item title="script.js" %}
+```javascript
+// Reading a Firestore collection like this results in an array with 
+// all documents.
+firebasetools.getContentItems("todos", todosReady);
+
+// This callback-function is called with the todos
+function todosReady(todosArray) {
+    
+    // We can use a FOR-loop to iterate all todos
+    for(var i = 0; i < todosArray.length; i++) {
+        console.dir(todosArray[i]);
+    }
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ## Data-Attribute
 
 #### HTML
