@@ -66,7 +66,24 @@ function todosReady(todosArray) {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-## Data-Attribute
+### Arrays sortieren
+
+{% code-tabs %}
+{% code-tabs-item title="script.js" %}
+```javascript
+// Suppose we have the array of todos from the example above
+// Each element in the array has a field "name"
+
+// Sort by the field "name" ascending
+firebasetools.sortArrayBy(todosArray, "name");
+
+// Sort by the field "name" descending
+firebasetools.sortArrayBy(todosArray, "name", true);
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+## Data Attribute
 
 #### HTML
 
