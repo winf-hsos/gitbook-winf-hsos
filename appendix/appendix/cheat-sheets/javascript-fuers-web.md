@@ -34,6 +34,52 @@ pElement.innerHTML = "This <tt>text</tt> is set with <b>JS</b>";
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+### CSS Klassen hinzufügen
+
+#### HTML
+
+Vergebt im HTML eine ID für ein HTML Element, das ihr mit JavaScript manipulieren wollt.
+
+{% code-tabs %}
+{% code-tabs-item title="index.html" %}
+```markup
+<p id="one"></p>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+#### JavaScript
+
+Die Eigenschaft `classList` gibt euch Zugriff auf die CSS-Klassen.
+
+{% code-tabs %}
+{% code-tabs-item title="script.js" %}
+```javascript
+var pElement = document.querySelector("#one");
+
+// Add a CSS class
+pElement.classList.add("green");
+
+// Remove a CSS class
+pElement.classList.remove("green");
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### Elemente anzeigen und verstecken
+
+{% code-tabs %}
+{% code-tabs-item title="script.js" %}
+```javascript
+// Hide the sign-up form
+document.querySelector('#signupForm').setAttribute("hidden", "");
+
+// Unhide (show) the signup-form
+document.querySelector('#signupForm').removeAttribute("hidden");
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ## Arrays
 
 Sortierte Listen - oder Arrays - begegnen uns häufig im Zusammenhang mit dem Lesen von Daten aus der Firestore-Datenbank. Deshalb ist es wichtig, dass wir die gängigsten Operationen mit Arrays in JavaScript kennen und anwenden können.
