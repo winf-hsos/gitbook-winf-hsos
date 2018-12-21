@@ -4,15 +4,17 @@
 This page is under construction.
 {% endhint %}
 
-## Learning Objectives <a id="learning-objectives"></a>
+## Lernziele <a id="learning-objectives"></a>
 
-## Concept <a id="concept"></a>
+## Konzept <a id="concept"></a>
 
 ## Level <a id="level"></a>
 
 Diese Veranstaltung ist eine Einführung in wichtige Konzepte der Digitalisierung und der Wirtschaftsinformatik. Es werden keine speziellen Vorkenntnisse benötigt.
 
-## Examination <a id="examination"></a>
+## Prüfungsleistung <a id="examination"></a>
+
+Die Prüfungsleistung ist eine 2-stündige Klausur am Ende des Semesters.
 
 ## Software & Accounts <a id="software-and-accounts"></a>
 
