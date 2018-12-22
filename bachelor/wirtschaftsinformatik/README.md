@@ -42,5 +42,9 @@ Scott, J. Clark \(2009\): But how do it know? The basic principles of computers 
 
 Hafner, Katie; Lyon, Matthew \(2006\): Where wizards stay up late. The origins of the Internet. 1. Simon & Schuster paperback ed. New York: Simon & Schuster Paperbacks.
 
+### Software Engineering
+
+Gutteridge, Lance \(2018\): Avoiding IT disasters. Fallacies about enterprise systems and how you can rise above them. \[Vancouver, Canada\]: Thinking Works.
+
 ### 
 
