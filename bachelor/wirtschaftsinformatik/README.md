@@ -26,6 +26,8 @@ Ihr benötigt für die Veranstaltung folgende Software und Accounts:
 
 ### Digitalisierung und Wirtschaft
 
+Leimeister, Jan Marco \(2015\): Einführung in die Wirtschaftsinformatik. 12., Berlin, Heidelberg: Springer Gabler \(Lehrbuch\).
+
 McAfee, Andrew; Brynjolfsson, Erik \(2018\): Machine, Platform, Crowd. Wie wir das Beste aus unserer digitalen Zukunft machen. Unter Mitarbeit von Philipp Seedorf. Kulmbach: Plassen Verlag.
 
 Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): Prediction machines. The simple economics of artificial intelligence. Boston, Massachusetts: Harvard Business Review Press.
