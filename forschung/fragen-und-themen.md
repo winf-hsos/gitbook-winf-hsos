@@ -9,7 +9,7 @@ The following list is a collection of my current research interests:
 **Machine Learning**
 
 * Applications of machine learning in food and agriculture
-* Analysis of online media \(online news, blogs, social media\) to identidy topics and trends over time
+* Analysis of online media \(online news, blogs, social media\) to identify topics and trends over time
 
 **Food Processing and Manufacturing**
 
@@ -18,6 +18,10 @@ The following list is a collection of my current research interests:
 **Other**
 
 * Novel approaches to tackle the traveling salesman probelm
+
+## Projects
+
+* _Digitalization of a cat room_, an IoT project in cooperation with Mars Petcare in Verden \(Germany\). 
 
 
 
