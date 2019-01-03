@@ -21,6 +21,7 @@ Die Prüfungsleistung ist eine 2-stündige Klausur am Ende des Semesters.
 Ihr benötigt für die Veranstaltung folgende Software und Accounts:
 
 * [Scratch](https://scratch.mit.edu/)
+* [Airtable](https://airtable.com/)
 
 ## Empfohlene Bücher
 
