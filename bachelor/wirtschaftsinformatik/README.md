@@ -8,6 +8,22 @@ This page is under construction.
 
 ## Konzept <a id="concept"></a>
 
+Diese Veranstaltung gliedert sich in insgesamt 7 Blöcke, in denen besonders die Themen aus dem Fach Wirtschaftsinformatik adressiert werden, die ich für Studierende eines Wirtschaftsingenieurstudiengangs als **wichtig** und **nützlich** erachte :
+
+{% page-ref page="digitalisierung.md" %}
+
+{% page-ref page="algorithmen.md" %}
+
+{% page-ref page="programmierung.md" %}
+
+{% page-ref page="daten.md" %}
+
+{% page-ref page="automatisierung.md" %}
+
+{% page-ref page="geschaeftsmodelle.md" %}
+
+{% page-ref page="zukunft.md" %}
+
 ## Level <a id="level"></a>
 
 Diese Veranstaltung ist eine Einführung in wichtige Konzepte der Digitalisierung und der Wirtschaftsinformatik. Es werden keine speziellen Vorkenntnisse benötigt.
