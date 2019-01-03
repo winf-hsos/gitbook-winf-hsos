@@ -12,6 +12,7 @@
 | [Information Management - Desktop Analysis](https://docs.google.com/presentation/d/1WFdGQOktDzsZxBuMoa1K_hDYXZbxdNxmI3wFVvkg-5U/preview) | [PDF](https://docs.google.com/presentation/d/1WFdGQOktDzsZxBuMoa1K_hDYXZbxdNxmI3wFVvkg-5U/export/pdf) |
 | [Information Management - Real-Time Data](https://docs.google.com/presentation/d/1q8upEyg2hksW_XeiTIJa348LIZpsKE-u40qKNmLWkOc/preview) | [PDF](https://docs.google.com/presentation/d/1q8upEyg2hksW_XeiTIJa348LIZpsKE-u40qKNmLWkOc/export/pdf) |
 | [Information Management - Data Architecture](https://docs.google.com/presentation/d/1gTFgQH4F5ytnMkGaLsQtPlMU0X7LnqgQ-4i4R7f9uLc/preview) | [PDF](https://docs.google.com/presentation/d/1gTFgQH4F5ytnMkGaLsQtPlMU0X7LnqgQ-4i4R7f9uLc/export/pdf) |
+| [Information Management - Text Analytics](https://docs.google.com/presentation/d/1ucTdKscyjA7QNfnbkXQZTDqtnTUkpntGbTWjeZVsv0A/preview) | [PDF](https://docs.google.com/presentation/d/1ucTdKscyjA7QNfnbkXQZTDqtnTUkpntGbTWjeZVsv0A/export/pdf) |
 
 ## Web Engineering
 
