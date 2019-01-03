@@ -149,9 +149,13 @@
     * [\#07 - Shopping Cart](bachelor/web-engineering/part-c-adding-features/26-shopping-cart.md)
     * [\#08 - Checkout](bachelor/web-engineering/part-c-adding-features/27-checkout.md)
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
-  * [Computer Science](bachelor/wirtschaftsinformatik/set-1-computer-science.md)
-  * [Digitalization](bachelor/wirtschaftsinformatik/set-3-cs-and-business.md)
-  * [Economics](bachelor/wirtschaftsinformatik/economics.md)
+  * [Digitalisierung](bachelor/wirtschaftsinformatik/digitalisierung.md)
+  * [Algorithmen](bachelor/wirtschaftsinformatik/algorithmen.md)
+  * [Programmierung](bachelor/wirtschaftsinformatik/programmierung.md)
+  * [Daten](bachelor/wirtschaftsinformatik/daten.md)
+  * [Automatisierung](bachelor/wirtschaftsinformatik/automatisierung.md)
+  * [Geschäftsmodelle](bachelor/wirtschaftsinformatik/geschaeftsmodelle.md)
+  * [Zukunft](bachelor/wirtschaftsinformatik/zukunft.md)
 
 ## Master
 

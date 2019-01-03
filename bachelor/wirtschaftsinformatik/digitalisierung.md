@@ -1,4 +1,4 @@
-# Digitalization
+# Digitalisierung
 
 In diesem Teil geht es um die Grundlagen der Digitalisierung. Folgende Fragen versuchen wir zu beantworten:
 
