@@ -153,6 +153,7 @@
   * [Algorithmen](bachelor/wirtschaftsinformatik/algorithmen.md)
   * [Programmierung](bachelor/wirtschaftsinformatik/programmierung.md)
   * [Daten](bachelor/wirtschaftsinformatik/daten.md)
+  * [Cloud](bachelor/wirtschaftsinformatik/cloud.md)
   * [Automatisierung](bachelor/wirtschaftsinformatik/automatisierung.md)
   * [Geschäftsmodelle](bachelor/wirtschaftsinformatik/geschaeftsmodelle.md)
   * [Zukunft](bachelor/wirtschaftsinformatik/zukunft.md)
