@@ -1,6 +1,6 @@
 # Algorithmen
 
-## Two types of algorithms: Rule-based vs Machine Learning
+## Zwei unterschiedliche Arten von Algorithmen: Codierte Regeln und maschinelles Lernen
 
 
 
