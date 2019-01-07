@@ -26,7 +26,7 @@ Diese Veranstaltung gliedert sich in insgesamt 7 Blöcke, in denen besonders die
 
 ## Level <a id="level"></a>
 
-Diese Veranstaltung ist eine Einführung in wichtige Konzepte der Digitalisierung und der Wirtschaftsinformatik. Es werden keine speziellen Vorkenntnisse benötigt.
+Diese Veranstaltung ist eine _Einführung_ in wichtige Konzepte der Digitalisierung und der Wirtschaftsinformatik. Es werden keine speziellen Vorkenntnisse benötigt.
 
 ## Prüfungsleistung <a id="examination"></a>
 
