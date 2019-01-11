@@ -191,4 +191,9 @@
 * [1 - Bits](script/1-bits.md)
 * [2 - Algorithms](script/2-algorithms.md)
 * [3 - Coding](script/3-coding.md)
+* [4 - Data](script/4-data.md)
+* [5 - Web](script/5-web.md)
+* [6 - Artificial Intelligence](script/6-artificial-intelligence.md)
+* [7 - Automation](script/7-automation.md)
+* [8 - Platforms](script/8-platforms.md)
 
