@@ -188,4 +188,7 @@
 ## SCRIPT
 
 * [Index](script/index.md)
+* [1 - Bits](script/1-bits.md)
+* [2 - Algorithms](script/2-algorithms.md)
+* [3 - Coding](script/3-coding.md)
 
