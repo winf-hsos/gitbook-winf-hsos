@@ -140,7 +140,6 @@
     * [Databases](bachelor/web-engineering/part-b-web-app-project/13-database.md)
     * [Storage](bachelor/web-engineering/part-b-web-app-project/14-storage.md)
   * [Part C: Web App Features](bachelor/web-engineering/part-c-adding-features/README.md)
-    * [\#01 - Google Maps](bachelor/web-engineering/part-c-adding-features/20-google-maps.md)
     * [\#02 - File Upload](bachelor/web-engineering/part-c-adding-features/21-file-upload.md)
     * [\#03 - Social Login](bachelor/web-engineering/part-c-adding-features/22-social-login.md)
     * [\#04 - Modal Dialogs](bachelor/web-engineering/part-c-adding-features/23-modal-dialogs.md)
@@ -160,11 +159,7 @@
 
 ## Master
 
-* [Big Data Analytics](master/big-data-analytics/README.md)
-  * [Case Study Phase 1](master/big-data-analytics/case-study-phase-1.md)
-  * [Case Study Phase 2](master/big-data-analytics/case-study-phase-2.md)
-  * [Case Study Phase 3](master/big-data-analytics/case-study-phase-3.md)
-  * [Case Study Phase 4](master/big-data-analytics/case-study-phase-4.md)
+* [Big Data Analytics](master/big-data-analytics.md)
 * [Empirisches Arbeiten](master/empirisches-arbeiten.md)
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
 
