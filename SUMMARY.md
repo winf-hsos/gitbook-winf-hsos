@@ -191,12 +191,14 @@
 ## SCRIPT
 
 * [Index](script/index.md)
-* [1 - Bits](script/1-bits.md)
-* [2 - Algorithms](script/2-algorithms.md)
-* [3 - Coding](script/3-coding.md)
-* [4 - Data](script/4-data.md)
-* [5 - Web](script/5-web.md)
-* [6 - Artificial Intelligence](script/6-artificial-intelligence.md)
-* [7 - Automation](script/7-automation.md)
-* [8 - Platforms](script/8-platforms.md)
+* [1 - The WHY](script/the-why.md)
+* [2 - Bits](script/1-bits.md)
+* [3 - Digitalization](script/3-digitalization.md)
+* [4 - Algorithms](script/2-algorithms.md)
+* [5 - Coding](script/3-coding.md)
+* [6 - Data](script/4-data.md)
+* [7 - Web](script/5-web.md)
+* [8 - Artificial Intelligence](script/6-artificial-intelligence.md)
+* [9 - Improvement](script/7-automation.md)
+* [10 - Platforms](script/8-platforms.md)
 
