@@ -147,16 +147,7 @@
     * [\#06 - Rating Systems](bachelor/web-engineering/part-c-adding-features/25-rating-systems.md)
     * [\#07 - Shopping Cart](bachelor/web-engineering/part-c-adding-features/26-shopping-cart.md)
     * [\#08 - Checkout](bachelor/web-engineering/part-c-adding-features/27-checkout.md)
-* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
-  * [Bits](bachelor/wirtschaftsinformatik/bits.md)
-  * [Digitalization](bachelor/wirtschaftsinformatik/digitalization.md)
-  * [Algorithms](bachelor/wirtschaftsinformatik/algorithms.md)
-  * [Coding](bachelor/wirtschaftsinformatik/coding.md)
-  * [Data](bachelor/wirtschaftsinformatik/data.md)
-  * [Web](bachelor/wirtschaftsinformatik/web.md)
-  * [Artificial Intelligence](bachelor/wirtschaftsinformatik/artificial-intelligence.md)
-  * [Improvement](bachelor/wirtschaftsinformatik/improvement.md)
-  * [Platforms](bachelor/wirtschaftsinformatik/platforms.md)
+* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik.md)
 
 ## Master
 

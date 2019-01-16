@@ -12,24 +12,6 @@ This means this course is not a standard introduction on _Wirtschaftsinformatik_
 
 To summarize, the focus of this course is on the things that help **you** understand, apply and improve the tools of the digital world.
 
-{% page-ref page="bits.md" %}
-
-{% page-ref page="digitalization.md" %}
-
-{% page-ref page="algorithms.md" %}
-
-{% page-ref page="coding.md" %}
-
-{% page-ref page="data.md" %}
-
-{% page-ref page="web.md" %}
-
-{% page-ref page="artificial-intelligence.md" %}
-
-{% page-ref page="improvement.md" %}
-
-{% page-ref page="platforms.md" %}
-
 ## Level <a id="level"></a>
 
 This is an introductory course, there are no prerequisites to enrol.
