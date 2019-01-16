@@ -148,14 +148,15 @@
     * [\#07 - Shopping Cart](bachelor/web-engineering/part-c-adding-features/26-shopping-cart.md)
     * [\#08 - Checkout](bachelor/web-engineering/part-c-adding-features/27-checkout.md)
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
-  * [Digitalisierung](bachelor/wirtschaftsinformatik/digitalisierung.md)
-  * [Algorithmen](bachelor/wirtschaftsinformatik/algorithmen.md)
-  * [Programmierung](bachelor/wirtschaftsinformatik/programmierung.md)
-  * [Daten](bachelor/wirtschaftsinformatik/daten.md)
-  * [Cloud](bachelor/wirtschaftsinformatik/cloud.md)
-  * [Automatisierung](bachelor/wirtschaftsinformatik/automatisierung.md)
-  * [Geschäftsmodelle](bachelor/wirtschaftsinformatik/geschaeftsmodelle.md)
-  * [Zukunft](bachelor/wirtschaftsinformatik/zukunft.md)
+  * [Bits](bachelor/wirtschaftsinformatik/bits.md)
+  * [Digitalization](bachelor/wirtschaftsinformatik/digitalization.md)
+  * [Algorithms](bachelor/wirtschaftsinformatik/algorithms.md)
+  * [Coding](bachelor/wirtschaftsinformatik/coding.md)
+  * [Data](bachelor/wirtschaftsinformatik/data.md)
+  * [Web](bachelor/wirtschaftsinformatik/web.md)
+  * [Artificial Intelligence](bachelor/wirtschaftsinformatik/artificial-intelligence.md)
+  * [Improvement](bachelor/wirtschaftsinformatik/improvement.md)
+  * [Platforms](bachelor/wirtschaftsinformatik/platforms.md)
 
 ## Master
 

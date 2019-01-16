@@ -1,4 +1,4 @@
-# Daten
+# Data
 
 ## What can companies do with data?
 

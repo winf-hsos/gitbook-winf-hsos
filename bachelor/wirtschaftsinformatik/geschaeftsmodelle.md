@@ -1,2 +1,0 @@
-# Geschäftsmodelle
-
