@@ -10,5 +10,5 @@ The following figure shows a so called _half adder_. It consists of two logic ga
 
 {% embed url="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading02.htm" %}
 
-
+![](../.gitbook/assets/half-adder-input-0-1-output-1-0.svg)
 
