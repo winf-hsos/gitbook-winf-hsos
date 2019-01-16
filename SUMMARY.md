@@ -161,24 +161,6 @@
 * [Questions and Topics](forschung/questions-and-topics.md)
 * [Thesis](forschung/thesis.md)
 
-## Appendix
-
-* [Appendix](appendix/appendix/README.md)
-  * [Cheat Sheets](appendix/appendix/cheat-sheets/README.md)
-    * [JavaScript fürs Web](appendix/appendix/cheat-sheets/javascript-fuers-web.md)
-  * [Case Studies](appendix/appendix/case-studies.md)
-  * [Databricks Notebooks](appendix/appendix/databricks-notebooks.md)
-  * [Data Sets](appendix/appendix/data-sets.md)
-  * [Glitches](appendix/appendix/glitches.md)
-  * [Slides](appendix/appendix/slides.md)
-  * [CodePens](appendix/appendix/codepens.md)
-  * [Exercises](appendix/appendix/exercises.md)
-  * [Tutorials](appendix/appendix/tutorials/README.md)
-    * [How to get started with Machine Learning](appendix/appendix/tutorials/how-to-get-started-with-machine-learning.md)
-    * [Connect to TinkerForge Devices](appendix/appendix/tutorials/connect-to-tinkerforge-devices.md)
-  * [Videos](appendix/appendix/videos.md)
-  * [Links](appendix/appendix/links.md)
-
 ## SCRIPT
 
 * [Index](script/index.md)
@@ -192,4 +174,19 @@
 * [8 - Artificial Intelligence](script/6-artificial-intelligence.md)
 * [9 - Improvement](script/7-automation.md)
 * [10 - Platforms](script/8-platforms.md)
+* [Appendix](script/appendix/README.md)
+  * [Cheat Sheets](script/appendix/cheat-sheets/README.md)
+    * [JavaScript fürs Web](script/appendix/cheat-sheets/javascript-fuers-web.md)
+  * [Case Studies](script/appendix/case-studies.md)
+  * [Databricks Notebooks](script/appendix/databricks-notebooks.md)
+  * [Data Sets](script/appendix/data-sets.md)
+  * [Glitches](script/appendix/glitches.md)
+  * [Slides](script/appendix/slides.md)
+  * [CodePens](script/appendix/codepens.md)
+  * [Exercises](script/appendix/exercises.md)
+  * [Tutorials](script/appendix/tutorials/README.md)
+    * [How to get started with Machine Learning](script/appendix/tutorials/how-to-get-started-with-machine-learning.md)
+    * [Connect to TinkerForge Devices](script/appendix/tutorials/connect-to-tinkerforge-devices.md)
+  * [Videos](script/appendix/videos.md)
+  * [Links](script/appendix/links.md)
 
