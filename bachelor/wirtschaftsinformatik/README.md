@@ -8,7 +8,7 @@ tbd.
 
 We divide this course into 9 + 1 blocks, in each of which we address topics that I find relevant for you to learn. I selected the content of this course so that you learn those things that are **relevant** and **important** for you as a future employee in the agri and food industry, or as a self-employed business owner. 
 
-This means this course is not a standard introduction on _Wirtschaftsinformatik_ in the way you can find in many textbooks on the subject_._ I believe many aspects of such a curriculum are only relevant for graduates of an IT focused study program. For example, you would likely not benefit from learning about strategic IT management or application life cycle management. What will more likely help you is to understand how you can use tools to organize and analyze data around you, so that you can create value for you and the company you work for. 
+This means this course is not a standard introduction on _Wirtschaftsinformatik_ in the way you can find in many textbooks on the subject_._ I believe many aspects of such a curriculum are only relevant for graduates of an IT focused study program. For example, it is likely useless for you to learn about strategic IT management or application life cycle management. What will more likely help you is to understand how you can use tools to organize and analyze data around you, so that you can create immediate value for you and your company. 
 
 To summarize, the focus of this course is on the things that help **you** understand, apply and improve the tools of the digital world.
 

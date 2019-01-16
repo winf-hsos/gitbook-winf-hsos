@@ -1,4 +1,4 @@
-# Forschungsfragen und -themen
+# Questions and Topics
 
 The following list is a collection of my current research interests:
 

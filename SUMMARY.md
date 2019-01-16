@@ -163,10 +163,12 @@
 * [Big Data Analytics](master/big-data-analytics.md)
 * [Empirisches Arbeiten](master/empirisches-arbeiten.md)
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
+* [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)
 
-## FORSCHUNG
+## RESEARCH
 
-* [Forschungsfragen und -themen](forschung/fragen-und-themen.md)
+* [Questions and Topics](forschung/questions-and-topics.md)
+* [Thesis](forschung/thesis.md)
 
 ## Appendix
 
