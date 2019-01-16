@@ -2,7 +2,7 @@
 
 ## Adding Bits
 
-![](../.gitbook/assets/addition-example-step-1%20%281%29.png)
+![](../.gitbook/assets/addition-example-step-1.png)
 
 The following figure shows a so called _half adder_. It consists of two logic gates connected to two input and two output bits.
 
