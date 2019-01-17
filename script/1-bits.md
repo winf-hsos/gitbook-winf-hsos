@@ -2,10 +2,10 @@
 
 ## Adding Bits
 
-|  | 4th Digit | 3rd Digit  | 2nd Digit  |  1st Digit |
+| 4th Digit | 3rd Digit  | 2nd Digit  | 2nd Digit |  1st Digit |
 | :--- | :--- | :--- | :--- | :--- |
-| $$+$$  | 16 | 8 | 4 | 2 |
-| \*\*\*\* | $$2^4$$  | $$2^3$$  | **1** | **0** |
+| 16 | 8 | 4 | 2 | 1 |
+| $$2^4$$  | $$2^3$$  | $$2^2$$  | $$2^1$$  | $$2^0$$  |
 
 ### The same procedure as in decimal
 
