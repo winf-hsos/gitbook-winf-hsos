@@ -20,5 +20,7 @@ The best way to learn about databases is to create one yourself.
 
 {% embed url="https://registry.opendata.aws/" %}
 
+{% embed url="https://opendatamonitor.eu" %}
+
 
 
