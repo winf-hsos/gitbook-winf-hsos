@@ -8,5 +8,7 @@
   * Bubble Sort
   * Merge Sort
 
+{% embed url="https://medium.com/brandons-computer-science-notes/divide-and-conquer-algorithms-4e83d9999ffa" %}
+
 
 
