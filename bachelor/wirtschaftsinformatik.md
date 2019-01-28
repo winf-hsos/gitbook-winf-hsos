@@ -1,33 +1,33 @@
 # Wirtschaftsinformatik
 
-## Learning Objectives <a id="learning-objectives"></a>
+## Lernziele <a id="learning-objectives"></a>
 
 tbd.
 
-## Concept <a id="concept"></a>
+## Konzept <a id="concept"></a>
 
-We divide this course into 9 + 1 blocks, in each of which we address topics that I find relevant for you to learn. I selected the content of this course so that you learn those things that are **relevant** and **important** for you as a future employee in the agri and food industry, or as a self-employed business owner. 
+Diese Modul ist in fünf Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
 
-This means this course is not a standard introduction on _Wirtschaftsinformatik_ in the way you can find in many textbooks on the subject_._ I believe many aspects of such a curriculum are only relevant for graduates of an IT focused study program. For example, it is likely useless for you to learn about strategic IT management or application life cycle management. What will more likely help you is to understand how you can use tools to organize and analyze data around you, so that you can create immediate value for you and your company. 
+Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht der fachliche Kern eures Studiums. Deshalb sind viele der Themen des klassischen Kanon der Wirtschaftsinformatik für euch nicht relevant. Zum Beispiel werdet ihr mit sehr hoher Wahrscheinlichkeit nicht im IT-Management einer Firma arbeiten und somit wäre es sinnlos, wenn wir über Themen wie IT-Strategie oder Software Lifecycle Management sprechen. Vielmehr wird es euch wahrscheinlich weiterhelfen, mit geeigneten Methoden und Tools die größer werdende Datenvielfalt für euch und euren späteren Arbeitgeber gewinnbringend zu nutzen.
 
-To summarize, the focus of this course is on the things that help **you** understand, apply and improve the tools of the digital world.
+Kurz gesagt: Der Fokus der Veranstaltung liegt auf den Dingen, die **euch** dabei helfen die digitale Welt besser zu verstehen, zu verbessern und für euch nutzbar zu gestalten.
 
 ## Level <a id="level"></a>
 
-This is an introductory course, there are no prerequisites to enrol.
+Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig.
 
-## Examination <a id="examination"></a>
+## Prüfungsleistung <a id="examination"></a>
 
-At the end of the semester we'll have a 2 hour written examination.
+Die Prüfungsleistung besteht aus einer 2-stündigen Klausur am Ende des Semesters.
 
 ## Software & Accounts <a id="software-and-accounts"></a>
 
-You'll need the following software and accounts:
+Ihr benötigt die folgenden Tools und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
 * [Scratch](https://scratch.mit.edu/)
 * [Airtable](https://airtable.com/)
 
-## Recommended Books
+## Empfohlene Literatur
 
 ### Bits
 
