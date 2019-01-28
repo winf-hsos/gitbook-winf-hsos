@@ -1,10 +1,11 @@
-# Computer
+# Wie funktionier ein Computer?
 
 ## ❓ Fragen 
 
-* ❓ Wie funktioniert ein Computer? 💻 
+* ❓ Was sind die elementaren Bauteile 🧱 eines Computers💻? 
+* ❓ Wie funktionieren die elementaren Bauteile zusammen? 💪 
 * ❓ Was können Computer, und was können sie nicht? 🤔
-* ❓ Warum sind Computer so universell einsetzbar? 🌎 
+* ❓ Warum sind Computer so universell einsetzbar? 🦸♂ 
 
 ## 🏷 Begriffe und Konzepte
 

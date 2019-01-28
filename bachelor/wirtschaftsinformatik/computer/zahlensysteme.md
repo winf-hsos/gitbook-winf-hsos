@@ -1,4 +1,4 @@
-# Zahlensysteme
+# Das Binärsystem
 
 ## 🎯 Lernziele
 
