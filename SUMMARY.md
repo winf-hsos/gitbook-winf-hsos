@@ -4,7 +4,12 @@
 
 ## Bachelor
 
-* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik.md)
+* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
+  * [Computer](bachelor/wirtschaftsinformatik/computer.md)
+  * [Digitalisierung](bachelor/wirtschaftsinformatik/digitalisierung.md)
+  * [Daten](bachelor/wirtschaftsinformatik/daten.md)
+  * [Automatisierung](bachelor/wirtschaftsinformatik/automatisierung.md)
+  * [Vernetzung](bachelor/wirtschaftsinformatik/vernetzung.md)
 * [Impacts of Digitalization](bachelor/impacts-of-digitalization/README.md)
   * [Digitalization](bachelor/impacts-of-digitalization/digitalization/README.md)
     * [Binary System](bachelor/impacts-of-digitalization/digitalization/binary-system.md)

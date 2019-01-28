@@ -4,7 +4,7 @@
 
 ### Bachelor
 
-{% page-ref page="bachelor/wirtschaftsinformatik.md" %}
+{% page-ref page="bachelor/wirtschaftsinformatik/" %}
 
 {% page-ref page="bachelor/impacts-of-digitalization/" %}
 
