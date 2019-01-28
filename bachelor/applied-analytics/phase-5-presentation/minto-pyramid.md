@@ -1,2 +1,0 @@
-# MINTO Pyramid
-
