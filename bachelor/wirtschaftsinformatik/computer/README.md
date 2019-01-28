@@ -30,7 +30,7 @@
 
 {% page-ref page="speicher.md" %}
 
-## Key Points
+## Key Points 🔑 
 
 |  |  |
 | :--- | :--- |
