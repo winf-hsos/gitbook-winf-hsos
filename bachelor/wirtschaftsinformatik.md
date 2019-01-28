@@ -2,7 +2,7 @@
 
 ## Lernziele <a id="learning-objectives"></a>
 
-tbd.
+Folgt bald.
 
 ## Konzept <a id="concept"></a>
 
