@@ -7,7 +7,7 @@
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
   * [Wie funktionier ein Computer?](bachelor/wirtschaftsinformatik/computer/README.md)
     * [Das Binärsystem](bachelor/wirtschaftsinformatik/computer/zahlensysteme.md)
-    * [Codes](bachelor/wirtschaftsinformatik/computer/codes.md)
+    * [Mehr als 0 und 1](bachelor/wirtschaftsinformatik/computer/codes.md)
     * [Logic Gates](bachelor/wirtschaftsinformatik/computer/das-binaersystem.md)
     * [Rechnen mit Bits](bachelor/wirtschaftsinformatik/computer/rechnen-mit-bits.md)
     * [Das Merken von Bits](bachelor/wirtschaftsinformatik/computer/speicher.md)
