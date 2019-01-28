@@ -1,10 +1,10 @@
 # Wirtschaftsinformatik
 
-## Lernziele 🎯  <a id="learning-objectives"></a>
+## 🎯Lernziele <a id="learning-objectives"></a>
 
 Folgt bald.
 
-## Konzept 📃  <a id="concept"></a>
+## 📃Konzept <a id="concept"></a>
 
 Diese Modul ist in fünf Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
 
@@ -12,22 +12,22 @@ Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht
 
 Kurz gesagt: Der Fokus der Veranstaltung liegt auf den Dingen, die **euch** dabei helfen die digitale Welt besser zu verstehen, zu verbessern und für euch nutzbar zu gestalten.
 
-## Level 🎚  <a id="level"></a>
+## 🎚Level <a id="level"></a>
 
 Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig.
 
-## Prüfungsleistung 🙀  <a id="examination"></a>
+## 🙀Prüfungsleistung <a id="examination"></a>
 
 Die Prüfungsleistung besteht aus einer 2-stündigen Klausur am Ende des Semesters.
 
-## Software & Accounts 👩💻  <a id="software-and-accounts"></a>
+## 👩💻Software & Accounts <a id="software-and-accounts"></a>
 
 Ihr benötigt die folgenden Tools und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
 * [Scratch](https://scratch.mit.edu/)
 * [Airtable](https://airtable.com/)
 
-## Empfohlene Literatur 📚 
+## 📚Empfohlene Literatur 
 
 ### Bits
 

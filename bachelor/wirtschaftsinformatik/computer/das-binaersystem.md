@@ -1,2 +1,2 @@
-# Das Binärsystem
+# Logic Gates
 
