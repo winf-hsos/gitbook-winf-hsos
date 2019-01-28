@@ -10,17 +10,20 @@
 
 * 🏷Binäres System
 * 🏷Hexadezimales System
-* 🏷Bits & Bytes
+* 🏷Bit
+* 🏷Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes, etc.
 
 ## ⏮ Vorbereitung
 
 ## ▶ Session
 
-### 1⃣ Kurze Einführung in Zahlensysteme 💡
+### 1⃣ Kurze Einführung in Zahlensysteme
 
 {% embed url="https://docs.google.com/presentation/d/1D4ASyI-aFZ8D2lxlYTn3ytByODBSm0vIZlBpRInG21g/edit?usp=sharing" %}
 
-### 2⃣ Übungsaufgabe zu Zahlensystemen 💻
+### 2⃣ Übungsaufgabe zu Zahlensystemen
+
+### 3⃣ Quiz
 
 ## ⏭ Nachbereitung
 
