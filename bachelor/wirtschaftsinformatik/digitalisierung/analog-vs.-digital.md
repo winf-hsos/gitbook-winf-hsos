@@ -1,4 +1,4 @@
-# Logic Gates
+# Analog vs. Digital
 
 ## 🎯 Lernziele
 
@@ -6,8 +6,7 @@
 
 ## 🏷 Begriffe und Konzepte
 
-* 🏷Logic Gate
-* 🏷OR, AND, NOT, NOR, NAND, XOR
+* 🏷Analog vs. Digital
 
 ## ⏮ Vorbereitung
 

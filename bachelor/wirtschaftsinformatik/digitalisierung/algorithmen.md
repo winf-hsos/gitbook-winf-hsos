@@ -1,13 +1,13 @@
-# Logic Gates
+# Algorithmen
 
 ## 🎯 Lernziele
 
 * 🎯 ...
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
-* 🏷Logic Gate
-* 🏷OR, AND, NOT, NOR, NAND, XOR
+* 🏷Algorithmus
+* 🏷O-Notation
 
 ## ⏮ Vorbereitung
 
