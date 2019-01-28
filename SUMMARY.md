@@ -4,6 +4,7 @@
 
 ## Bachelor
 
+* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik.md)
 * [Impacts of Digitalization](bachelor/impacts-of-digitalization/README.md)
   * [Digitalization](bachelor/impacts-of-digitalization/digitalization/README.md)
     * [Binary System](bachelor/impacts-of-digitalization/digitalization/binary-system.md)
@@ -19,12 +20,6 @@
     * [Machine Learning](bachelor/impacts-of-digitalization/artificial-intelligence/machine-learning.md)
     * [Deep Learning](bachelor/impacts-of-digitalization/artificial-intelligence/deep-learning.md)
   * [Economic Impacts](bachelor/impacts-of-digitalization/economic-impacts.md)
-* [Applied Analytics](bachelor/applied-analytics/README.md)
-  * [Phase 1: Exploration](bachelor/applied-analytics/phase-1-exploration.md)
-  * [Phase 2: Retrospective](bachelor/applied-analytics/phase-2-retrospective.md)
-  * [Phase 3: Hypotheses](bachelor/applied-analytics/phase-3-hypotheses.md)
-  * [Phase 4: Prediction](bachelor/applied-analytics/phase-4-prediction.md)
-  * [Phase 5: Presentation](bachelor/applied-analytics/phase-5-presentation.md)
 * [Information Management](bachelor/information-management/README.md)
   * [Case A: SQL](bachelor/information-management/case-a-sql/README.md)
     * [Workspace Setup](bachelor/information-management/case-a-sql/workspace-setup.md)
@@ -95,7 +90,12 @@
     * [Structure on Read](bachelor/information-management/case-e-big-data/structure-on-read.md)
     * [Data Lake](bachelor/information-management/case-e-big-data/data-lake.md)
   * [Case F: Spreadsheets](bachelor/information-management/case-f-spreadsheets.md)
-* [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik.md)
+* [Applied Analytics](bachelor/applied-analytics/README.md)
+  * [Phase 1: Exploration](bachelor/applied-analytics/phase-1-exploration.md)
+  * [Phase 2: Retrospective](bachelor/applied-analytics/phase-2-retrospective.md)
+  * [Phase 3: Hypotheses](bachelor/applied-analytics/phase-3-hypotheses.md)
+  * [Phase 4: Prediction](bachelor/applied-analytics/phase-4-prediction.md)
+  * [Phase 5: Presentation](bachelor/applied-analytics/phase-5-presentation.md)
 * [Web Engineering](bachelor/web-engineering/README.md)
   * [Part A: Your First Website](bachelor/web-engineering/part-a-your-first-website/README.md)
     * [Workspace Setup](bachelor/web-engineering/part-a-your-first-website/01-workspace-setup.md)
@@ -152,6 +152,7 @@
 * [Empirisches Arbeiten](master/empirisches-arbeiten.md)
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
 * [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)
+* [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling.md)
 
 ## RESEARCH
 
