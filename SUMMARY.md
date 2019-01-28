@@ -5,7 +5,11 @@
 ## Bachelor
 
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
-  * [Computer](bachelor/wirtschaftsinformatik/computer.md)
+  * [Computer](bachelor/wirtschaftsinformatik/computer/README.md)
+    * [Zahlensysteme](bachelor/wirtschaftsinformatik/computer/zahlensysteme.md)
+    * [Das Binärsystem](bachelor/wirtschaftsinformatik/computer/das-binaersystem.md)
+    * [Codes](bachelor/wirtschaftsinformatik/computer/codes.md)
+    * [Speicher](bachelor/wirtschaftsinformatik/computer/speicher.md)
   * [Digitalisierung](bachelor/wirtschaftsinformatik/digitalisierung.md)
   * [Daten](bachelor/wirtschaftsinformatik/daten.md)
   * [Automatisierung](bachelor/wirtschaftsinformatik/automatisierung.md)
