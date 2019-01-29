@@ -30,6 +30,14 @@ Für die Umsetzung eines Shops arbeitet ihr mit dem Cloudanbieter [Shopify](http
 
 * [Shopify](https://shopify.de)
 
+## 📑 Reader
+
+Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
+
+* 📂 
+  * 📑 2015 - Wirtschaftsinformatik - Kapitel 10 - E-Commerce \(🇩🇪- 110 Seiten\)
+  * 📑 ...
+
 ## 📚 Empfohlene Literatur
 
 📘 Laudon, Kenneth C.; Laudon, Jane Price; Schoder, Detlef \(2016\): Wirtschaftsinformatik. Eine Einführung. Unter Mitarbeit von E. Martin und Henrika Knebel-Heil. 3., vollständig überarbeitete Auflage. Hallbergmoos/Germany: Pearson \(Always learning\).
