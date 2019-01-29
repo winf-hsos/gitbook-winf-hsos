@@ -36,7 +36,7 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 
 Folgt bald.
 
-## Weitere Quellen
+## 📘 Weitere Quellen
 
 📘 \[1\] Hansen, Hans Robert; Neumann, Gustaf; Mendling, Jan \(2015\): Wirtschaftsinformatik. Grundlagen und Anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany, Munich, Germany, Boston, Massachusetts: De Gruyter.
 
