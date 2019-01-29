@@ -1,5 +1,7 @@
 # \#1 Bits - Atome der digitalen Welt
 
+## 🎯 Lernziele
+
 ## ❓ Fragen 
 
 * ❓ Was sind die elementaren Bauteile 🧱 eines Computers💻? 

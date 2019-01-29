@@ -4,6 +4,10 @@
 
 Folgt bald.
 
+## 🇩🇪 Sprache
+
+Die Sprache in diesem Modul ist Deutsch.
+
 ## 📃 Konzept <a id="concept"></a>
 
 Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
