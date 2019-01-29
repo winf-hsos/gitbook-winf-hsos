@@ -1,4 +1,2 @@
-# Automatisierung
-
-## Wie können wir uns das Leben erleichtern?
+# Wie verändern Computer unser Leben?
 
