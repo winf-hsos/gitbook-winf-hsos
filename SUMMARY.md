@@ -106,7 +106,17 @@
 
 ## Master
 
-* [Big Data Analytics](master/big-data-analytics.md)
+* [Big Data Analytics](master/big-data-analytics/README.md)
+  * [\#0 SQL](master/big-data-analytics/0-sql.md)
+  * [\#1 Exploration und Grundlagen](master/big-data-analytics/1-exploration-und-grundlagen/README.md)
+    * [Was ist Big Data?](master/big-data-analytics/1-exploration-und-grundlagen/was-ist-big-data.md)
+    * [Hadoop](master/big-data-analytics/1-exploration-und-grundlagen/hadoop.md)
+    * [Spark](master/big-data-analytics/1-exploration-und-grundlagen/spark.md)
+    * [Machine Learning](master/big-data-analytics/1-exploration-und-grundlagen/machine-learning.md)
+  * [\#2 Analyse von Texten](master/big-data-analytics/2-analyse-von-texten/README.md)
+    * [Vorbereitung der Texte](master/big-data-analytics/2-analyse-von-texten/vorbereitung-der-texte.md)
+  * [\#3 Objekterkennung auf Bildern](master/big-data-analytics/3-objekterkennung-auf-bildern/README.md)
+    * [Deep Learning](master/big-data-analytics/3-objekterkennung-auf-bildern/deep-learning.md)
 * [Empirisches Arbeiten](master/empirisches-arbeiten.md)
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
 * [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)

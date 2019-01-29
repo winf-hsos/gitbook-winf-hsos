@@ -10,7 +10,7 @@
 
 ### Master
 
-{% page-ref page="master/big-data-analytics.md" %}
+{% page-ref page="master/big-data-analytics/" %}
 
 {% page-ref page="master/verkaufskonzepte-und-e-commerce.md" %}
 

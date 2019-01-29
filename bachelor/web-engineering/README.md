@@ -27,11 +27,9 @@ Dieses Modul basiert auf der Durchführung eines semesterübergreifenden Projekt
 * 2⃣ Grundlagen moderner Webanwendungen
 * 3⃣ Erweiterte Features
 
-Zwischen den Arbeitsphasen gibt es geblockte Präsenztermine 📆 \(ca. alle 3 Wochen\), in denen Input und Material zur nächsten Phase bereitgestellt wird.
-
 ## 🎚 Level <a id="level"></a>
 
-Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄. Nichts desto trotz hilft es, wenn man schon einmal programmiert hat. Wir fangen aber bei null an.
+Es handelt sich um ein Einführungsmodul 👶 und es sind keine Vorkenntnisse notwendig 😄. Nichts desto trotz hilft es, wenn man schon einmal programmiert hat. Wir fangen aber bei null an.
 
 ⚠ Das Modul ist auf 25 Teilnehmer begrenzt. Sollte es zu Engpässen kommen so werden Studierende mit erfolgreich absolvierten WP-Modulen aus der Wirtschaftsinformatik bevorzugt.
 
@@ -52,9 +50,7 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 
 Folgt bald.
 
-
-
-## Links & Material
+## 🔗 Links
 
 ### Docs & Tutorials
 

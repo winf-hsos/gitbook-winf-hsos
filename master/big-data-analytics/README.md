@@ -4,7 +4,7 @@
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
-Folgt bald.
+Folgt bald 🕟.
 
 ## 🇩🇪 Sprache
 
@@ -12,7 +12,12 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 ## 📃 Konzept <a id="concept"></a>
 
-Folgt bald.
+Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen von 3-4 Personen über das Semester hinweg bearbeitet wird. Die Fallstudie ist in 3 Phasen gegliedert. Am Ende werden die Ergebnisse im Plenum vorgestellt. Vorgelagert findet eine Einführung \(oder Auffrischung\) in SQL statt:
+
+* 0⃣ SQL 
+* 1⃣ Exploration und Grundlagen 🧭 
+* 2⃣ Analyse von Texten 📄 
+* 3⃣ Objekterkennung auf Bildern 🖼 
 
 ## 🎚 Level <a id="level"></a>
 
@@ -43,7 +48,8 @@ Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. 
 
 ## 📚 Empfohlene Literatur
 
+* 📘 Zečević, Petar; Bonaći, Marko \(2017\): Spark in action. Shelter Island, NY: Manning.  
 * 📘 Marz, Nathan; Warren, James \(2015\): Big data. Principles and best practices of scalable real-time data systems. Shelter Island, NY: Manning. 
-* 📘 Zečević, Petar; Bonaći, Marko \(2017\): Spark in action. Shelter Island, NY: Manning Publications Co.  
-* 📘 Karau, Holden; Konwinski, Andy; Wendell, Patrick; Zaharia, Matei \(2015\): Learning Spark: Lightning-fast data analysis. 1. ed. Beijing: O'Reilly.
+* 📘 Karau, Holden; Konwinski, Andy; Wendell, Patrick; Zaharia, Matei \(2015\): Learning Spark: Lightning-fast data analysis. 1. ed. Beijing: O'Reilly. 
+* 📘 Struhl, Steven M. \(2015\): Practical text analytics. Interpreting text and unstructured data for business intelligence. London, UK, Philadelphia, PA: Kogan Page \(Marketing science series\).
 
