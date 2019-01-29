@@ -1,4 +1,6 @@
-# Case F: Spreadsheets
+# \#1 Spreadsheets
+
+## 🔗 Links
 
 To learn about data analysis and visualization with Microsoft Excel, refer to this free edX course:
 

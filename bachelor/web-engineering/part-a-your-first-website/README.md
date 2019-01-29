@@ -1,4 +1,4 @@
-# Part A: Your First Website
+# \#1 Deine erste Webseite
 
 In the first part of this course, we'll introduce 3 languages that form the basis for any modern website: HTML, CSS, and JavaScript.
 

@@ -1,2 +1,0 @@
-# Basic SQL Queries
-

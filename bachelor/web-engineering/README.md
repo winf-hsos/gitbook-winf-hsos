@@ -1,74 +1,58 @@
 # Web Engineering
 
-## Timetable
+## 🎯 Lernziele <a id="learning-objectives"></a>
 
-Find the curriculum for the current semester here: [Curriculum Winter 2018/2019](https://docs.google.com/spreadsheets/d/1-pEonccwQyW7-DdeLBrpRI5frvxEOHW1OYpij22_jaQ/edit?usp=sharing)
-
-{% hint style="info" %}
-The two partial exams take place on **02.11.2018** and **14.12.2018**. Make sure you attend on these dates! Both exams will be 30 minutes long.
-{% endhint %}
-
-## Learning Objectives
-
-In this course, you are going to learn how to build modern web applications.
-
-### What you'll know
-
-After completing this course, you'll understand the following concepts:
+### Du wirst wissen...
 
 * How modern websites and web applications work and how you can build one yourself.
 * What HTML, CSS and Javascript are and the role they play in modern web applications.
 * Which tools and platforms simplify web development.
 
-### What you'll be able to do
+### Du wirst können...
 
 * Write basic websites with HTML, CSS and JavaScript
 * Plan and implement your own web application \(at least a prototype\)
 * Write Javascript code and use APIs to integrate cloud services like Google Maps into your web application
 * Understand what it takes to build a sophisticated web application \(and talk with IT people about it\)
 
-## Concept
+## 🇩🇪 Sprache
 
-The course is divided into three main parts.
+Die Sprache in diesem Modul ist Deutsch.
 
-The course's primary focus is on your own web project, which you are going to plan and implement in a group of four fellow students. To be able to build a web app, you first need to learn the basics of websites. This what **part A** of this course is about.
+## 📃 Konzept <a id="concept"></a>
 
-{% page-ref page="part-a-your-first-website/" %}
+Dieses Modul basiert auf der Durchführung eines semesterübergreifenden Projekt , in dem ihr in Gruppen eure eigene Webanwendung📱 plant und umsetzt 👩💻. Zum Start und als Orientierung gibt es einen einführenden Teil, in dem wir die Basics von Webanwendungen kennen lernen. Im zweiten und dritten Teil geht es dann in die Projektarbeit:
 
-In **part B**, you start building your own web app in groups of 4. We'll start with basic components every modern web app needs: hosting, user authentication, a database, and way to store user content. We'll use Google Firebase as our infrastructure.
+* 1⃣ Deine erste Webseite
+* 2⃣ Grundlagen moderner Webanwendungen
+* 3⃣ Erweiterte Features
 
-{% page-ref page="part-b-web-app-project/" %}
+Zwischen den Arbeitsphasen gibt es geblockte Präsenztermine 📆 \(ca. alle 3 Wochen\), in denen Input und Material zur nächsten Phase bereitgestellt wird.
 
-In **part C**, you further enhance your web app individually \(still in groups, but probably unique features\). You'll build on what you learned in part A and B to implement exciting features.
+## 🎚 Level <a id="level"></a>
 
-{% page-ref page="part-c-adding-features/" %}
+Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄. Nichts desto trotz hilft es, wenn man schon einmal programmiert hat. Wir fangen aber bei null an.
 
-## Examination
+⚠ Das Modul ist auf 25 Teilnehmer begrenzt. Sollte es zu Engpässen kommen so werden Studierende mit erfolgreich absolvierten WP-Modulen aus der Wirtschaftsinformatik bevorzugt.
 
-Unlike most courses, this course does **not** end in a 2 hour written exam. We do all all necessary work to complete this course during the semester:
+## 🙀 Prüfungsleistung <a id="examination"></a>
 
-* Planning and building you own web application \(70%\)
-* Mastering 2 short and mostly multiple choice tests after weel 6 and 12 \(30%\)
+Die Prüfungsleistung besteht aus der Projektarbeit \(70%\) und 2 kurzen MC-Tests im Semester \(jeweils 15%\).
 
-## Level
+🤟 Es gibt keine Klausur am Ende des Semesters!
 
-This is an introductory course, there are no prerequisites to enrol. You can certainly benefit from having basic programming skills, but it's not required.
+## 👩💻 Software & Accounts <a id="software-and-accounts"></a>
 
-## Software & Accounts
+Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
-### CodePen
+* [Glitch](https://glitch.me)
+* [Google Firebase](https://firebase.google.com/)
 
-We are using [Codepen](https://codepen.io) to illustrate HTML, CSS and Javascript concepts and quickly try out things in the classroom. You can only save your work when you sign-up for CodePen, so it is required you create a free account.
+## 📚 Empfohlene Literatur 
 
-### Cloud9 IDE
+Folgt bald.
 
-[Cloud9](https://c9.io) an an online IDE \(integrated development environemt\), which is basically a code editor with some advanced features. One great thing about it is that you don't have to install any software on your own computer. All you need is a modern browser such as Chrome, Firefox or Safari. Another great features is that you can share a common workspace for all your team members and work simultaneously on your project. For this course, everyone needs their own free Cloud9 account.
 
-### Google Firebase
-
-[Google Firebase](https://firebase.google.com/) is a cloud platform for web development. It offers a variety of functionality for our web projects. Among those is hosting, user authentication, storage and a document database. For this course, at least one group member must sign up and create a Firebase project. All other members can then join this project if they have a Google account.
-
-Using Firebase for our purposes is free, as long as we don't exceed the generous free quotas.
 
 ## Links & Material
 
@@ -101,35 +85,33 @@ This is the written feedback from past semesters.
 {% tab title="Appraisal" %}
 ## SS 2018
 
-> Klasse Lehrveranstaltung!
+> Klasse Lehrveranstaltung! 😍
 
-> Sehr gute Lehrveranstaltung! Kompetent vertreten!
+> Sehr gute Lehrveranstaltung! Kompetent vertreten! 🤓
 
 ## WS 2017/2018
 
-> Hervorragende Veranstaltung!
+> Hervorragende Veranstaltung! 👌
 {% endtab %}
 
 {% tab title="Improvement" %}
 ## SS 2018
 
-> Es wird zu viel vorausgesetzt
+> Es wird zu viel vorausgesetzt 🥺
 
 {% hint style="success" %}
-Thanks for the feedback, I am working on that :-\)
+Danke für das Feedback, ich werde daran arbeiten und mehr Material bereitstellen!
 {% endhint %}
 
 ## WS 2017/2018
 
 > Am Anfang kompliziert, wo welche Daten sind \(git, Slack, Webseite\)
 
-> Am Anfang ein bisschen chaotisch
+> Am Anfang ein bisschen chaotisch 😬
 
 {% hint style="success" %}
-Thanks for the feedback! Yes, I can fully understand the problems. It was the first time we ran this course, I am confident that I was able to simplify things since then.
+Danke für das Feedback. Ich kann die Punkte 100% nachvollziehen. Es war das erste Mal, dass ich die Veranstaltung durchgeführt habe, ich bin sicher es wird zukünftig strukturierter ablaufen.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-
 

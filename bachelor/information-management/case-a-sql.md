@@ -1,4 +1,4 @@
-# \#2 Retrospective
+# \#2 SQL
 
 Noch etwas Geduld...👷 
 
