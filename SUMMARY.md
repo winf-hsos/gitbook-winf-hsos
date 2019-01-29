@@ -127,23 +127,22 @@
 * [Questions and Topics](forschung/questions-and-topics.md)
 * [Thesis](forschung/thesis.md)
 
-## SCRIPT
+## CONTENT
 
-* [Index](script/index.md)
-* [Appendix](script/appendix/README.md)
-  * [Cheat Sheets](script/appendix/cheat-sheets/README.md)
-    * [Cheatsheet SQL](script/appendix/cheat-sheets/cheatsheet-sql.md)
-    * [JavaScript fürs Web](script/appendix/cheat-sheets/javascript-fuers-web.md)
+* [Cheat Sheets](script/cheat-sheets/README.md)
+  * [Cheatsheet SQL](script/cheat-sheets/cheatsheet-sql.md)
+  * [JavaScript fürs Web](script/cheat-sheets/javascript-fuers-web.md)
+* [Slides](script/slides.md)
+* [Tutorials](script/tutorials/README.md)
+  * [How to get started with Machine Learning](script/tutorials/how-to-get-started-with-machine-learning.md)
+  * [Connect to TinkerForge Devices](script/tutorials/connect-to-tinkerforge-devices.md)
+* [Miscellaneous](script/appendix/README.md)
   * [Case Studies](script/appendix/case-studies.md)
   * [Databricks Notebooks](script/appendix/databricks-notebooks.md)
   * [Data Sets](script/appendix/data-sets.md)
   * [Glitches](script/appendix/glitches.md)
-  * [Slides](script/appendix/slides.md)
   * [CodePens](script/appendix/codepens.md)
   * [Exercises](script/appendix/exercises.md)
-  * [Tutorials](script/appendix/tutorials/README.md)
-    * [How to get started with Machine Learning](script/appendix/tutorials/how-to-get-started-with-machine-learning.md)
-    * [Connect to TinkerForge Devices](script/appendix/tutorials/connect-to-tinkerforge-devices.md)
   * [Videos](script/appendix/videos.md)
   * [Links](script/appendix/links.md)
 
