@@ -42,5 +42,3 @@ Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. 
 
 📘 Laudon, Kenneth C.; Laudon, Jane Price; Schoder, Detlef \(2016\): Wirtschaftsinformatik. Eine Einführung. Unter Mitarbeit von E. Martin und Henrika Knebel-Heil. 3., vollständig überarbeitete Auflage. Hallbergmoos/Germany: Pearson \(Always learning\).
 
-📘 Hansen, Hans Robert; Neumann, Gustaf; Mendling, Jan \(2015\): Wirtschaftsinformatik. Grundlagen und Anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany, Munich, Germany, Boston, Massachusetts: De Gruyter.
-

@@ -39,6 +39,14 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 * [Scratch](https://scratch.mit.edu/)
 * [Airtable](https://airtable.com/)
 
+## 📑 Reader
+
+Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
+
+* 📂 
+  * 📑 ...
+  * 📑 ...
+
 ## 📚 Empfohlene Literatur 
 
 {% tabs %}
