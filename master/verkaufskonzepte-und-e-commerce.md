@@ -1,6 +1,6 @@
 # Verkaufskonzepte und E-Commerce
 
-> The best place to hide a dead body is on the second page of Google search results. \(Author unknown\)
+> The best place to hide a dead body is on the second page of Google search results. \(Author unknown.\)
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
@@ -16,7 +16,7 @@ Folgt bald.
 
 ## 🎚 Level <a id="level"></a>
 
-Das Modul ist ein Einführungsmodul auf Meisterniveau. Es sind keine Vorkenntnisse notwendig.
+Das Modul ist ein Einführungsmodul auf Masterniveau. Es sind keine Vorkenntnisse notwendig.
 
 ## 🙀 Prüfungsleistung <a id="examination"></a>
 
@@ -32,9 +32,7 @@ Für die Umsetzung eines Shops arbeitet ihr mit dem Cloudanbieter [Shopify](http
 
 ## 📚 Empfohlene Literatur
 
-Folgt bald.
+📘 Laudon, Kenneth C.; Laudon, Jane Price; Schoder, Detlef \(2016\): Wirtschaftsinformatik. Eine Einführung. Unter Mitarbeit von E. Martin und Henrika Knebel-Heil. 3., vollständig überarbeitete Auflage. Hallbergmoos/Germany: Pearson \(Always learning\).
 
-## 📘 Weitere Quellen
-
-📘 \[1\] Hansen, Hans Robert; Neumann, Gustaf; Mendling, Jan \(2015\): Wirtschaftsinformatik. Grundlagen und Anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany, Munich, Germany, Boston, Massachusetts: De Gruyter.
+📘 Hansen, Hans Robert; Neumann, Gustaf; Mendling, Jan \(2015\): Wirtschaftsinformatik. Grundlagen und Anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany, Munich, Germany, Boston, Massachusetts: De Gruyter.
 
