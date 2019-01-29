@@ -17,7 +17,7 @@
 
 ## 🇩🇪 Sprache
 
-Die Sprache in diesem Modul ist Deutsch.
+Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte, Videos, Links\) kann aber auch englischsprachig 🇺🇲 sein.
 
 ## 📃 Konzept <a id="concept"></a>
 
