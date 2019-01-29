@@ -33,14 +33,6 @@ Yang, Andrew \(2018\): [The war on normal people. The truth about America's disa
 
 Loth, Alexander \(2018\): Datenvisualisierung mit Tableau. 1st ed. Frechen: MITP \(mitp Professional\). Online verfügbar unter [https://ebookcentral.proquest.com/lib/gbv/detail.action?docID=5476761](https://ebookcentral.proquest.com/lib/gbv/detail.action?docID=5476761).
 
-## Articles
-
-[30 Machines Learning Projects for 2018](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7) 
-
-[Learn to build a Machine Learning application from top - best articles 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
-
-[Object Detection - An overview in the age of deep learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
-
 ## Data Sets
 
 I used the following data set in my courses.
