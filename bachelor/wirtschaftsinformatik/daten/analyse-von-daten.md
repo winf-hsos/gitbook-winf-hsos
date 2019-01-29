@@ -1,2 +1,0 @@
-# Analyse von Daten
-

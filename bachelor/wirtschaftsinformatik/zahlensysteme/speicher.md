@@ -1,13 +1,12 @@
-# Algorithmen
+# Bits speichern
 
 ## 🎯 Lernziele
 
 * 🎯 ...
 
-## 🏷 Begriffe
+## 🏷 Begriffe und Konzepte
 
-* 🏷Algorithmus
-* 🏷O-Notation
+* 🏷Flip Flops
 
 ## ⏮ Vorbereitung
 

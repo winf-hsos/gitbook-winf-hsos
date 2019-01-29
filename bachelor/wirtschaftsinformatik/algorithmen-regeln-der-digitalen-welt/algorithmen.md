@@ -1,12 +1,13 @@
-# Das Merken von Bits
+# Komplexität
 
 ## 🎯 Lernziele
 
 * 🎯 ...
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
-* 🏷Flip Flops
+* 🏷Algorithmus
+* 🏷O-Notation
 
 ## ⏮ Vorbereitung
 

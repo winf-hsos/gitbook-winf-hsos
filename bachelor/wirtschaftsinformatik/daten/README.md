@@ -1,2 +1,0 @@
-# Welchen Nutzen haben Daten?
-

@@ -1,9 +1,9 @@
-# Wie funktioniert ein Computer?
+# \#1 Bits - Atome der digitalen Welt
 
 ## ❓ Fragen 
 
 * ❓ Was sind die elementaren Bauteile 🧱 eines Computers💻? 
-* ❓ Wie funktionieren die elementaren Bauteile zusammen? 💪 
+* ❓ Wie funktionieren die elementaren Bauteile im Zusammenspiel? 💪 
 * ❓ Was können Computer, und was können sie nicht? 🤔
 * ❓ Warum sind Computer so universell einsetzbar? 🦸♂ 
 

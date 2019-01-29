@@ -1,0 +1,2 @@
+# Eigenschaften von Algorithmen
+

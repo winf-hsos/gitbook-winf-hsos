@@ -1,4 +1,4 @@
-# Programmieren
+# Programmiersprachen
 
 ## 🎯 Lernziele
 
