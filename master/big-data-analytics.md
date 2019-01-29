@@ -32,11 +32,18 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 
 * [Databricks Community Edition](https://community.cloud.databricks.com)
 
+## 📑 Reader
+
+Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
+
+* 📂 
+  * 📑 2015 - Big Data - Chapter 4.3 - How Distributed Filesystems Work \(PDF \| 🇺🇲 \| 2 Seiten\)
+  * 📑 2015 - Learning Spark - Chapter 3 - Programming with RDDs \(PDF \| 🇺🇲 \| 24 Seiten\)
+  * 📑 2017 - Spark in Action - Chapter 1 - Introduction to Apache Spark \(PDF \| 🇺🇲 \| 15 Seiten\)
+
 ## 📚 Empfohlene Literatur
 
-Folgt bald.
-
-## 📘 Weitere Quellen
-
-📘 \[1\] Hansen, Hans Robert; Neumann, Gustaf; Mendling, Jan \(2015\): Wirtschaftsinformatik. Grundlagen und Anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany, Munich, Germany, Boston, Massachusetts: De Gruyter.
+* 📘 Marz, Nathan; Warren, James \(2015\): Big data. Principles and best practices of scalable real-time data systems. Shelter Island, NY: Manning. 
+* 📘 Zečević, Petar; Bonaći, Marko \(2017\): Spark in action. Shelter Island, NY: Manning Publications Co.  
+* 📘 Karau, Holden; Konwinski, Andy; Wendell, Patrick; Zaharia, Matei \(2015\): Learning Spark: Lightning-fast data analysis. 1. ed. Beijing: O'Reilly.
 
