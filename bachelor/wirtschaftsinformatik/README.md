@@ -6,7 +6,7 @@ Folgt bald.
 
 ## 📃 Konzept <a id="concept"></a>
 
-Diese Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
+Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
 
 * 1⃣ Bits - Atome der digitalen Welt
 * 2⃣ Digitalisierung - Tor zur digitalen Welt
