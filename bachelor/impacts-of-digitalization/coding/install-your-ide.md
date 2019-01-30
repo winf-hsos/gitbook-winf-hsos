@@ -36,6 +36,8 @@ To run Javascript programs on your local computer, you'll need to install the No
 
 ### 4⃣ Install Tinkerforge Brick Viewer and Daemon
 
+Coming soon 🕓 
+
 ## 🔗 Links
 
 * [Visual Studio Code](https://code.visualstudio.com/)
