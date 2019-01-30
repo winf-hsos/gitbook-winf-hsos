@@ -4,7 +4,7 @@
 
 Die Veranstaltung _Empirisches Arbeiten_ ist ein Pflichtmodul im Master Agrar/Lebensmittel und wird zusammen von den Kollegen Prof. Dr. Ulrich Enneking, Prof. Dr. Matthias Kussin und mir begleitet.
 
-Ich habe mit euch in dieser Veranstaltung zusammen 3 Blöcke á ca. 5 Stunden.
+Ich habe mit euch in dieser Veranstaltung zusammen 3 Blöcke á ca. 5 Stunden 🕓 .
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
@@ -16,11 +16,11 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 ## 📃 Konzept <a id="concept"></a>
 
-Mein Teil der Veranstaltung teilt sich thematisch in 3 wesentliche Punkte auf, wobei jeder Punkt an einem der 3 Termine thematisiert wird:
+Mein Teil der Veranstaltung teile ich thematisch in 3 wesentliche Punkte auf. An jedem Termin sprechen wir über eines der Themen: 
 
 * 1⃣ Datenauswertung mit SQL
-* 2⃣ Machine Learning 
-* 3⃣ Text Analytics
+* 2⃣ Machine Learning mit Fokus auf Clustering 👽 
+* 3⃣ Text Analytics 📃 
 
 ## 🎚 Level <a id="level"></a>
 
