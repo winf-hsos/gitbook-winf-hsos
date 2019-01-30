@@ -1,9 +1,5 @@
 # Empirisches Arbeiten
 
-
-
-> Unter **Big Data** \(engl.: big data\) versteht man Datenkollektionen, deren Größe die Fähigkeiten einzelner Rechnersysteme überschreiten, um diese Datenmenge zu speichern, zu durchsuchen, zu analysieren und zu verwalten. \[1\]
-
 ## 📢 Infos <a id="learning-objectives"></a>
 
 Die Veranstaltung _Empirisches Arbeiten_ ist ein Pflichtmodul im Master Agrar/Lebensmittel und wird zusammen von den Kollegen Prof. Dr. Ulrich Enneking, Prof. Dr. Matthias Kussin und mir begleitet.
