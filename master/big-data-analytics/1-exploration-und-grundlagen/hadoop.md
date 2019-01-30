@@ -23,7 +23,7 @@ description: In dieser Session lernen wir Hadoop kennen.
 
 ## 🔑 Key Points
 
-🔑 Hadoop ist der Name eines [Apache Open Source Projektes](https://hadoop.apache.org/), dass sich mit der Speicherung und Verarbeitung sehr großen Datenmengen \(Big Data\) befasst.
+🔑 Hadoop ist der Name eines [Apache Open Source Projektes](https://hadoop.apache.org/), dass sich mit der Speicherung und Verarbeitung sehr großer Datenmengen \(Big Data\) befasst.
 
 🔑 Die wichtigsten Bestandteile von Hadoop sind das 🏷HDFS und das 🏷MapReduce Framework. Das HDFS ist ein verteiltes Dateisystem \(_distributed filesystem_\) und kümmert sich um die Speicherung sehr großer Datenmengen. MapReduce ist ein Ansatz für die parallele und verteilte Verarbeitung \(_parallel and distributed processing_\) großer Datenmengen. MapReduce hängt von einem verteilten Dateisystem wie HDFS ab.
 
