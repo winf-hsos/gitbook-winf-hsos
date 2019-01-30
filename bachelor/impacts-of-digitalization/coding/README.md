@@ -8,7 +8,7 @@
 ## 🏷 Terms
 
 * 🏷Program
-* 🏷 Javascript / Node.js
+* 🏷Javascript / Node.js
 * 🏷IDE
 * 🏷Variable
 * 🏷Constant
