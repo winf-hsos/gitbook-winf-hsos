@@ -2,6 +2,10 @@
 
 > The best place to hide a dead body is on the second page of Google search results. \(Author unknown.\)
 
+## 📢 Infos <a id="learning-objectives"></a>
+
+Das Modul _Verkaufskonzepte und E-Commerce_ ist ein Wahlpflichtmodul im zweiten Semester des Master Agrar/Lebensmittel. Es wird zusammen von Prof. Dr. Jens Westerheide und mir begleitet.
+
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
 Folgt bald.

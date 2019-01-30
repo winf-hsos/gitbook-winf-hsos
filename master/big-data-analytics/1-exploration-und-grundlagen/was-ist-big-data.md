@@ -1,5 +1,5 @@
 ---
-description: In dieser Session lernen wir die Grundlagen zu Big Data.
+description: In dieser Session lernen wir die Grundlagen von Big Data.
 ---
 
 # Was ist Big Data?
