@@ -6,9 +6,9 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ## ❓ Fragen
 
-* ❓ Was charakterisiert Big Data?
-* ❓ Vor welche Herausforderungen stellt uns Big Data?
-* ❓ Welche Lösungsansätze gibt es, um diesen Herausforderungen zu begegnen?
+* Was charakterisiert Big Data?
+* Vor welche Herausforderungen stellt uns Big Data?
+* Welche Lösungsansätze gibt es, um diesen Herausforderungen zu begegnen?
 
 ## 🏷 Begriffe
 
