@@ -24,15 +24,22 @@ To use the sharing feature, we have to install an extension called _VS Live Shar
 
 * ✅ Open Visual Studio Code and click on the extensions tab. 
 * ✅ In the search field, type "VS Live Share". The extension "VS Live Share" should appear as the first item in the results list. 
-* ✅ Click on the list entry, you should see the details of the extension in your editor pane. Below the title, there should be a small green button "Install". Click it.
+* ✅ Click on the list entry, you should see the details of the extension in your editor pane. Below the title, there should be a small green button labeled "Install". Click it!
 
 ### 3⃣ Install Node.js
+
+To run Javascript programs on your local computer, you'll need to install the Node.js runtime. Follow these steps:
+
+* ✅ Download the installation file from the [official website](https://nodejs.org/en/). Choose the LTS version \(left side\) for your operating system. 
+* ✅ Locate the file on your computer and run the installation 🏃♂During the installation, make sure you accept all default settings. 
+* ✅ Verify that Node.js was installed successfully. Open Visual Studio Code, open a terminal \(View --&gt; Terminal\), and type `node --version`. The result should be the version number you just installed.
 
 ### 4⃣ Install Tinkerforge Brick Viewer and Daemon
 
 ## 🔗 Links
 
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [VS Live Share on Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 * [Node.js](https://nodejs.org/en/)
 * [Tinkerforge Brick Viewer](https://www.tinkerforge.com/en/doc/Software/Brickv.html)
 * [Tinkerforge Brick Daemon](https://www.tinkerforge.com/en/doc/Software/Brickd.html#brickd)
