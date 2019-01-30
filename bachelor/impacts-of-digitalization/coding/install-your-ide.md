@@ -30,7 +30,7 @@ To use the sharing feature, we have to install an extension called _VS Live Shar
 
 To run Javascript programs on your local computer, you'll need to install the Node.js runtime. Follow these steps:
 
-* ✅ Download the installation file from the [official website](https://nodejs.org/en/). Choose the LTS version \(left side\) for your operating system. 
+* ✅ Download ⬇ the installation file from the [official website](https://nodejs.org/en/). Choose the LTS version \(left side\) for your operating system. 
 * ✅ Locate the file on your computer and run the installation 🏃♂During the installation, make sure you accept all default settings. 
 * ✅ Verify that Node.js was installed successfully. Open Visual Studio Code, open a terminal \(View --&gt; Terminal\), and type `node --version`. The result should be the version number you just installed.
 
