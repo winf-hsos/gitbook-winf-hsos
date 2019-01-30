@@ -1,4 +1,0 @@
-# MapReduce
-
-Noch etwas Geduld...👷 
-
