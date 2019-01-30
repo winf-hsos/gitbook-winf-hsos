@@ -34,23 +34,5 @@
 * Loops 
 * Objects
 * Properties
-* Functions
-
-## ⏮ Preparation
-
-## ▶ Session
-
-### 1⃣ ...
-
-### 2⃣ ...
-
-### 3⃣ ...
-
-## ⏭ Follow-Up
-
-## 🔗 Links
-
-
-
- 
+* Functions 
 
