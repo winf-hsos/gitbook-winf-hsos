@@ -20,7 +20,7 @@ Das Modul ist ein Einführungsmodul auf Masterniveau. Es sind keine Vorkenntniss
 
 ## 🙀 Prüfungsleistung <a id="examination"></a>
 
-Die Prüfungsleistung besteht aus eine semesterübergreifenden Projektarbeit in Gruppen mit abschließender Präsentation 📊 der Ergebnisse.
+Die Prüfungsleistung besteht aus einer semesterübergreifenden Projektarbeit in Gruppen mit abschließender Präsentation 📊 der Ergebnisse.
 
 🤟 Es gibt keine Klausur am Ende des Semesters!
 
