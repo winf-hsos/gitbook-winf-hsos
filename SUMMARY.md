@@ -35,7 +35,7 @@
     * [Zukunft von KI](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/zukunft-von-ki.md)
 * [Impacts of Digitalization](bachelor/impacts-of-digitalization/README.md)
   * [\#1 Coding](bachelor/impacts-of-digitalization/coding/README.md)
-    * [Install your IDE](bachelor/impacts-of-digitalization/coding/install-your-ide.md)
+    * [Setup your IDE](bachelor/impacts-of-digitalization/coding/install-your-ide.md)
   * [\#2 Internet of Things](bachelor/impacts-of-digitalization/internet-of-things/README.md)
     * [Tinkerforge](bachelor/impacts-of-digitalization/internet-of-things/tinkerforge.md)
   * [\#3 Artificial Intelligence](bachelor/impacts-of-digitalization/artificial-intelligence/README.md)

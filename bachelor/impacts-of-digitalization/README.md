@@ -29,6 +29,7 @@ Unlike most courses, this one has no final written examination 🤩. Since we ar
 
 You need the following tools 🛠 and accounts. All tools are free of charge:
 
+* [Github Account](https://github.com/join)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Tinkerforge Brick Viewer & Daemon](https://www.tinkerforge.com/en/doc/Downloads.html)
 * [Microsoft Azure ML Studio](https://studio.azureml.net/)
