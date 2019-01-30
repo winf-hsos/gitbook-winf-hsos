@@ -4,15 +4,18 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 # Was ist Big Data?
 
-## 🎯 Lernziele
+## ❓ Fragen
 
-* 🎯 Ihr versteht, dass unser Dezimalsystem nur eines von vielen Zahlensystemen ist.
-* 🎯 Ihr kennt das Binärsystem, das von jedem digitalen Computer heute verwendet wird.
-* 🎯 Ihr könnt Dezimalzahlen in das Binärsystem übersetzen und umgekehrt.
+* ❓ Was charakterisiert Big Data?
+* ❓ Vor welche Herausforderungen stellt uns Big Data?
+* ❓ Welche Lösungsansätze gibt es, um diesen Herausforderungen zu begegnen?
 
 ## 🏷 Begriffe
 
-* 🏷...
+* 🏷 Die 3 Vs
+  * 🏷 ​Volume
+  * 🏷 Variety
+  * 🏷 Velocity
 * 🏷...
 
 ## ⏮ Vorbereitung
@@ -26,4 +29,8 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 ### 3⃣ Review Quiz
 
 ## ⏭ Nachbereitung
+
+## 🔗 Links
+
+* Übungsaufgabe "Eigenschaften und Herausforderungen von Big Data"
 
