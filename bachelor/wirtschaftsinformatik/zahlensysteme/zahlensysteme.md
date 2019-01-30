@@ -6,7 +6,7 @@
 * 🎯 Ihr kennt das Binärsystem, das von jedem digitalen Computer heute verwendet wird.
 * 🎯 Ihr könnt Dezimalzahlen in das Binärsystem übersetzen und umgekehrt.
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
 * 🏷Binäres System
 * 🏷Hexadezimales System
