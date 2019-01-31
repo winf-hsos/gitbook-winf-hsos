@@ -9,13 +9,18 @@ description: In dieser Session lernen wir Hadoop kennen.
 * Was ist Hadoop und welche Komponenten gehören dazu?
 * Warum ist Hadoop eine gute Lösung für die Herausforderungen von Big Data?
 * Wie löst HDFS das Problem, große Datenmengen effizient und ausfallsicher zu speichern?
-* Wie können mittels MapReduce sehr große Datenmengen in kurzer Zeit verarbeitet werden?
+* Wie funktioniert MapReduce?
+* Warum können mittels MapReduce sehr große Datenmengen in kurzer Zeit verarbeitet werden?
 * Welche Nachteile hat MapReduce im Vergleich zu neueren Alternativen?
+* Was sind Anwendungsbeispiele des MapReduce-Algorithmus?
 
 ## 🏷 Begriffe
 
 * 🏷 HDFS
 * 🏷 MapReduce
+  * 🏷 Map
+  * 🏷 Reduce
+  * 🏷 Shuffle
 * 🏷 Cluster
 * 🏷 Data Node
 * 🏷 Worker Node
@@ -36,6 +41,10 @@ description: In dieser Session lernen wir Hadoop kennen.
 🔑 Wenn eine Datei aus dem 🏷HDFS abgerufen wird, fragt zunächst der Name Node die notwendigen Blöcke bei den entsprechenden Rechner, auf denen sie gespeichert wurden, an. Anschließend werden die Blöcke in der richtigen Reihenfolge zur angefragten Datei zusammengefügt und zurückgeliefert.
 
 🔑 Von Außen betrachtet sieht das 🏷HDFS wie ein gewöhnliches Verzeichnissystem aus, wie man es z.B. aus dem Windows-Explorer gewohnt ist. Auch das Verhalten ist gleich. Die Komplexität, die im Hintergrund für die hohe Performanz und die Ausfallsicherheit sorgt, wird vor dem Benutzer versteckt.
+
+🔑 🏷MapReduce ist ein Verfahren für die parallele Verarbeitung großer Datenmengen. Ein großer Datensatz wird dabei in kleinere Teile gesplittet, die parallel und unabhängig voneinander auf unterschiedlichen Rechnern \(w_orker nodes_\) im Cluster verarbeitet werden. Die Ergebnisse der Teilprozesse werden anschließend zum Gesamtergebnis zusammengeführt \(_reduce_\).
+
+🔑 Ein bekanntes Beispiel für den MapReduce-Algorithmus ist das Word Count Beispiel. Es geht darum, in einem oder vielen Texten das Vorkommen einzelner Wörter zu zählen und als Ergebnis eine \(sortierte\) Liste `<Wort, Anzahl>` auszugeben. Häufig wird dies am Beispiel der Wikipedia Enzyklopädie demonstriert. MapReduce teilt den Text in kleinere Abschnitte, in denen von je einem _Worker Node_ die Wörter gezählt werden. Jeder _Worker Node_ liefert sein Teilergebnis zurück und die Teilergebnisse werden zu dem Gesamtergebnis aggregiert \(_reduce_\).
 
 ## ▶ Session
 
