@@ -21,7 +21,10 @@ Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen vo
 
 ## 🎚 Level <a id="level"></a>
 
-Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄. Kenntnisse im Bereich Datenbanken und SQL sind hilfreich. Die beiden Bachelormodule 👨🏫 Information Management und 👨🏫 Applied Analytics sind ideale Voraussetzungen.
+Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄. 
+
+* Kenntnisse im Bereich Datenbanken und SQL sind hilfreich.
+* Die beiden Bachelormodule 👨🏫 Information Management und 👨🏫 Applied Analytics sind ideale Voraussetzungen.
 
 Aber keine Angst, wir beginnen ganz von vorn. 😁 
 
