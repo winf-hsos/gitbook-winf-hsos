@@ -24,6 +24,10 @@ Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht
 
 Kurz gesagt: Der Fokus der Veranstaltung liegt auf den Dingen, die **euch** dabei helfen die digitale Welt besser zu verstehen, zu verbessern und für euch nutzbar zu gestalten. 🤖 
 
+Die Slides unten geben eine detailliertere Übersicht über die Veranstaltung. Ihr könnt auch eine [PDF-Version](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/export/pdf) herunterladen⬇ .
+
+{% embed url="https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/preview" %}
+
 ## 🎚 Level <a id="level"></a>
 
 Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄 .

@@ -8,7 +8,8 @@
 
 ## 🏷 Begriffe
 
-* 🏷Binäres System
+* 🏷Binärsystem
+* 🏷Oktalsystem
 * 🏷Hexadezimales System
 * 🏷Bit
 * 🏷Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes, etc.
