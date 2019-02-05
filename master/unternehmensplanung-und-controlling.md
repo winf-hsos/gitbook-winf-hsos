@@ -12,11 +12,14 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 Mein Teil des Moduls ist in 5 Teile gegliedert.
 
-* 1⃣ Data Architectures - Das Big Picture 🗺 
-* 2⃣ Quellsysteme - Woher kommen die Daten? 
-* 3⃣ Datenmodellierung - Wie soll es aussehen?
-* 4⃣ ETL-Prozesse - Von der Quelle zum Ziel
-* 5⃣ Reports, Dashboards, OLAP und Analytics
+* 🗓 Termin 1
+  * 1⃣ Data Architectures - Das Big Picture 🗺 
+  * 2⃣ Quellsysteme - Woher kommen die Daten? 
+* 🗓 Termin 2
+  * 3⃣ Datenmodellierung - Wie soll es aussehen?
+  * 4⃣ ETL-Prozesse - Von der Quelle zum Ziel
+* 🗓 Termin 3
+  * 5⃣ OLAP, Reports und Dashboards
 
 ## 🎚 Level <a id="level"></a>
 
