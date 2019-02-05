@@ -135,6 +135,7 @@
   * [JavaScript fürs Web](script/cheat-sheets/javascript-fuers-web.md)
 * [Slides](script/slides.md)
 * [Tutorials](script/tutorials/README.md)
+  * [Einführung SQL](script/tutorials/einfuehrung-sql.md)
   * [How to get started with Machine Learning](script/tutorials/how-to-get-started-with-machine-learning.md)
   * [Connect to TinkerForge Devices](script/tutorials/connect-to-tinkerforge-devices.md)
 * [Miscellaneous](script/appendix/README.md)
