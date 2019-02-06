@@ -23,6 +23,20 @@
 
 🔑 Während eine Tabelle beliebig viele Spalten haben kann, erlaubt der SELECT Befehl das Auswählen einer Teilmenge der vorhandenen Spalten. Denn häufig benötigt man für die Beantwortung einer Fragestellung nur wenige Spalten. Das Auswählen einer Teilmenge nennt man in der relationalen Algebra auch **Projektion**.
 
+## ✅ Metadaten sichten \(`DESCRIBE`\)
+
+Bevor wir mit dem SELECT Befehl Daten abfragen stellen wir uns zunächst die Frage, welche Daten haben wir überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die **Struktur der Daten** - und damit sind die Tabellen, Spalten und Datentypen gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl DESCRIBE hilft uns dabei:
+
+```sql
+describe ted_meta
+```
+
+Das Ergebnis ist eine Tabelle mit 3 Spalten und in diesem Fall 14 Spalten. Die erste Spalte `col_name` beinhaltet den Namen der Spalte in der Tabelle `ted_meta`. Die zweite Spalte `data_type` gibt den **Datentyp** der Spalte an. Die letzte Spalte enthält einen Kommentar zu der Spalte, wenn dieser denn gepflegt wäre \(in diesem Fall gibt es keine Kommentare\).
+
+![Das Ergebnis des DESCRIBE Befehls hat 3 Spalten.](../../../.gitbook/assets/image%20%2811%29.png)
+
+Diese Art von Informationen nennen wir **Metainformationen** \(oder Metadaten\). Sie beschreiben die Daten selbst, sind also Daten über Daten.
+
 ## ✅ Spalten auswählen \(`SELECT` / `FROM`\)
 
 ### 💡 So geht's

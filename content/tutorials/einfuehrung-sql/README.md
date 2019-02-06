@@ -9,7 +9,7 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * ✅ [Notebook-Templates importieren](0-workspace-setup.md#notebook-templates-importieren)
   * ✅ [Daten anlegen](0-workspace-setup.md#daten-anlegen) 
 * 1⃣ [Der SELECT Befehl](1-der-select-befehl.md)
-  * ✅ Daten explorieren \(`DESCRIBE`\)
+  * ✅ Metadaten sichten \(`DESCRIBE`\)
   * ✅ Spalten auswählen \(`SELECT` / `FROM`\)
   * ✅ Zeilen filtern \(`WHERE`\)
   * ✅ Das Ergebnis sortieren \(`ORDER BY`\)
