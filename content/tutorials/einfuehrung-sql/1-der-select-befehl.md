@@ -23,8 +23,6 @@
 
 🔑 Während eine Tabelle beliebig viele Spalten haben kann, erlaubt der SELECT Befehl das Auswählen einer Teilmenge der vorhandenen Spalten. Denn häufig benötigt man für die Beantwortung einer Fragestellung nur wenige Spalten. Das Auswählen einer Teilmenge nennt man in der relationalen Algebra auch **Projektion**.
 
-
-
 ## ✅ Spalten auswählen \(`SELECT` / `FROM`\)
 
 ### 💡 So geht's
