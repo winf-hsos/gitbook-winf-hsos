@@ -27,23 +27,23 @@
 
 ### Metadaten anzeigen
 
-Bevor wir mit dem SELECT Befehl Daten abfragen stellen wir uns zunächst die Frage, welche Daten haben wir überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die **Struktur der Daten** - und damit sind die Tabellen, Spalten und Datentypen gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl `describe` hilft uns dabei:
+Bevor wir mit dem SELECT Befehl Daten abfragen stellen wir uns zunächst die Frage, welche Daten haben wir überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl `describe` hilft uns dabei:
 
 ```sql
 describe ted_meta
 ```
 
-Das Ergebnis ist eine Tabelle mit 3 Spalten und in diesem Fall 14 Zeilen, pro Spalte in der Zieltabelle eine Zeile. Die erste Spalte `col_name` beinhaltet den Namen der Spalte in der Tabelle `ted_meta`. Die zweite Spalte `data_type` gibt den **Datentyp** der Spalte an. Die letzte Spalte enthält einen Kommentar zu der Spalte, wenn dieser gepflegt wäre \(in diesem Fall gibt es keine Kommentare\).
+Das Ergebnis ist eine Tabelle mit 3 Spalten und in diesem Fall 14 Zeilen, pro Spalte in der Zieltabelle eine Zeile. Die erste Spalte `col_name` beinhaltet den Namen der Spalte in der Tabelle `ted_meta`. Die zweite Spalte `data_type` gibt den 🏷**Datentyp** der Spalte an. Die letzte Spalte enthält einen Kommentar zu der Spalte, wenn dieser gepflegt wäre \(in diesem Fall gibt es keine Kommentare\).
 
 ![Das Ergebnis des DESCRIBE Befehls hat 3 Spalten.](../../../.gitbook/assets/image%20%2811%29.png)
 
-Diese Art von Informationen nennen wir **Metainformationen** \(oder Metadaten\). Sie beschreiben die Daten selbst, sind also Daten über Daten.
+Diese Art von Informationen nennen wir 🏷**Metainformationen** \(oder Metadaten\). Sie beschreiben die Daten selbst, sind also Daten über Daten.
 
 ### Datentypen
 
-Eine Metainformation die wir mite `describe` ermitteln können is der Datentyp einer Spalte. Der Datentyp gibt uns einen Hinweis, um welche Art von Information es sich bei der Spalte handelt. Genauer gesagt schränkt der Datentyp den Wertebereich der Spalte ein. Was heisst das?
+Eine Metainformation, die wir mit `describe` ermitteln können, ist der 🏷**Datentyp** einer Spalte. Der Datentyp gibt uns einen Hinweis, um welche Art von Information es sich bei der Spalte handelt. Genauer gesagt schränkt der Datentyp den 🏷**Wertebereich** \(oder Domäne\) ****der Spalte ein. Was heißt das konkret?
 
-Nehmen wir die erste Spalte `id`. Diese hat laut der Tabelle oben den Datentyp `int`. Das wiederum steht für das Englische Wort **Integer**, was auf Deutsch gesagt eine Ganzzahl ist. Werte in der Spalte `id` müssen demnach ganze Zahlen sein \(1, 2, 3, usw.\). Dezimalzahlen mit Nachkommastellen sind nicht erlaubt. Genauso wenig sind Buchstaben erlaubt.
+Nehmen wir die erste Spalte `id`. Diese hat laut der Tabelle oben den Datentyp `int`. Das wiederum steht für das Englische Wort 🏷**Integer**, was auf Deutsch gesagt eine Ganzzahl ist. Werte in der Spalte `id` müssen demnach ganze Zahlen sein \(1, 2, 3, usw.\). Dezimalzahlen mit Nachkommastellen sind nicht erlaubt. Genauso wenig sind Buchstaben erlaubt.
 
 Jeder Datentyp in SQL sagt etwas darüber aus, welche Werte in der Spalten stehen dürfen. Einen Überblick über die wichtigsten Datentypen und deren Wertebereich gibt die folgende Tabelle:
 
