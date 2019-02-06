@@ -14,6 +14,8 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
 * ✅ Ihr erhaltet eine Bestätigungsmail an eure angegebene Email-Adresse. Darin ist ein Link enthalten, mit dem ihr eure Anmeldung bestätigt und ein Passwort festlegt.
 * ✅ Loggt euch über 🔗[diesen Link](https://community.cloud.databricks.com/login.html) bei Databricks Community Edition ein.
 
+Wenn der Login-Vorgang erfolgreich war ist die Anmeldung erfolgreich abgeschlossen✔.
+
 ## Notebook-Templates importieren
 
 ### Vorgehen
