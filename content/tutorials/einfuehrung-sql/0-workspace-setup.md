@@ -32,7 +32,7 @@ Das Vorgehen zum Importieren eines Notebooks ist einfach:
 * ✅ Öffnet [Databricks](https://community.cloud.databricks.com/login.html) und loggt euch ein. Klickt im Menü links auf "Home" und wählt einen Ort aus, an dem ihr das Notebook speichern wollt. Klickt dann auf den kleinen nach unten zeigenden Pfeil und wählt "Import".  
 * ✅ Im sich öffnenden Pop-Up Fenster wählt ihr den Radiobutton "URL" aus. Fügt nun die zuvor kopierte URL des Notebook-Templates in das Textfeld ein. Klickt anschließend auf "Import".
 
-Wenn alles funktioniert hat ist das Notebook nun in eurem Account als Kopie gespeichert und ihr könnt damit arbeiten. Für jeden Abschnitt dieses Tutorials stelle ich ein separates Notebook bereit, das ihr importieren könnt.
+Wenn alles funktioniert hat ist das Notebook als Kopie in eurem Account gespeichert und ihr könnt damit arbeiten. Für jeden Abschnitt dieses Tutorials stelle ich ein separates Notebook bereit, das ihr importieren könnt.
 
 ### Liste der Notebooks
 
