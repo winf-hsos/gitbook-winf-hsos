@@ -15,7 +15,7 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * ✅ Einfache Aggregationen \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
   * ✅ Gruppierte Aggregationen \(`GROUP BY`\)
   * ✅ Gruppierte Daten filtern \(`HAVING`\) 
-* 2⃣ Abfragen auf mehreren Tabellen
+* 2⃣ Mehrere Tabellen
   * ✅ `INNER`-Join
   * ✅ `LEFT` und `RIGHT`-Join
   * ✅ `OUTER`-Join 
@@ -29,5 +29,9 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * ✅ Einwertige Unterabfragen
   * ✅ Unterabfragen als Mengen 
 * 5⃣ Window-Funktionen
-* 6⃣ Abfragen auf Textspalten
-* 
+* 6⃣ Texte
+* 7⃣ Statistische Funktionen
+* 8⃣ Datum und Zeit
+
+
+
