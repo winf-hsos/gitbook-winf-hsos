@@ -13,5 +13,5 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
 
 Die Abbildung unten zeigt die 4 Tabellen und deren Beziehungen untereinander. Das Anlegen der Daten in eurem Databricks-Account ist vollautomatisiert und wird im ersten Schritt des Tutorials beschrieben.
 
-![](../../.gitbook/assets/ted_data_model.png)
+![TED-Talks Datenmodell.](../../.gitbook/assets/ted_data_model.png)
 
