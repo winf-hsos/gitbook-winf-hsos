@@ -48,6 +48,8 @@ Hier die Links zu den Notebooks:
 
 ## Daten anlegen
 
+### Vorgehen
+
 Das erste Notebook 🗒\#1 Der SELECT Befehl enthält zu Beginn einen Block für das vollautomatische Anlegen der benötigten Tabellen. Diesen Block müsst ihr einmalig ausführen. Anschließend habt ihr alle für dieses Tutorial benötigte Tabellen und Datensätze als Kopie in eurem Databricks Account. Auch nach einem erneuten Login sind die Daten und Arbeitsstände eurer Notebooks weiterhin vorhanden.
 
 * ✅ Loggt euch in eurem Databricks-Account ein und klickt links im Menü auf "Cluster". 
