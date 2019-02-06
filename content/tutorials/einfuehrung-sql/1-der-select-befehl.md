@@ -25,7 +25,7 @@
 
 ## ✅ Metadaten sichten \(`DESCRIBE`\)
 
-### Metadaten anzeigen
+### 💡 Metadaten anzeigen
 
 Bevor wir mit dem SELECT Befehl Daten abfragen stellen wir uns zunächst die Frage, welche Daten haben wir überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl `describe` hilft uns dabei:
 
@@ -67,7 +67,15 @@ select title, description
 from ted_meta
 ```
 
-Die Syntax ist einfach: Zu selektierende Spalten \(oder allgemein Ausdrücke\) werden mit Kommata getrennt hinter dem SELECT Schlüsselwort aufgezählt.
+Die Syntax ist einfach: Zu selektierende Spalten \(oder allgemein Ausdrücke\) werden mit Kommata getrennt hinter dem SELECT Schlüsselwort aufgezählt:
+
+```sql
+-- Allgemeine Syntax für das Auswählen von Spalten
+select <spalte 1>, <spalte 2>, ..., <spalte n>
+from <tabellenname>
+```
+
+✔ Im Code-Block oben stellt die erste Zeile einen 🏷**Kommentar** dar. Kommentare beginnen mit einem Doppelminus \(`--`\) und werden nicht als SQL interpretiert und somit auch nicht ausgeführt. Kommentare erlauben uns somit, für andere Menschen verständliche Hinweis zu unseren SQL Abfragen zu formulieren 😎. 
 
 ### 🤔 Übungsaufgaben
 
