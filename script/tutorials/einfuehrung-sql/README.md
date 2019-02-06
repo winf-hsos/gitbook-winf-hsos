@@ -9,21 +9,23 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * ✅ [Notebook-Templates importieren](0-workspace-setup.md#notebook-templates-importieren)
   * ✅ [Daten anlegen](0-workspace-setup.md#daten-anlegen) 
 * 1⃣ [Der SELECT Befehl](1-der-select-befehl.md)
-  * ✅ Spalten auswählen
-  * ✅ Zeilen filtern
-  * ✅ Einfache Aggregationen
-  * ✅ Gruppierte Aggregationen 
+  * ✅ Spalten auswählen \(`SELECT` / `FROM`\)
+  * ✅ Zeilen filtern \(`WHERE`\)
+  * ✅ Das Ergebnis sortieren \(`ORDER BY`\)
+  * ✅ Einfache Aggregationen \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
+  * ✅ Gruppierte Aggregationen \(`GROUP BY`\)
+  * ✅ Gruppierte Daten filtern \(`HAVING`\) 
 * 2⃣ Abfragen auf mehreren Tabellen
-  * ✅ INNER-Join
-  * ✅ LEFT und RIGHT-Join
-  * ✅ OUTER-Join 
+  * ✅ `INNER`-Join
+  * ✅ `LEFT` und `RIGHT`-Join
+  * ✅ `OUTER`-Join 
 * 3⃣ Mengenoperationen
 
-  * ✅ UNION
-  * ✅ INTERSECT
-  * ✅ EXCEPT
+  * ✅ Vereinigungsmengen bilden \(`UNION`\)
+  * ✅ Schnittmengen bilden \(`INTERSECT`\)
+  * ✅ Mengen subtrahieren \(`EXCEPT`\)
 
-* 4⃣ Unterfragen
+* 4⃣ Unterabfragen
   * ✅ Einwertige Unterabfragen
   * ✅ Unterabfragen als Mengen 
 * 5⃣ Window-Funktionen
