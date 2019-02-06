@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr kennt die Syntax des SELECT Befehls, mit dem Daten aus Tabellen in beliebiger Weise abgefragt werden können.
+* 🎯 Ihr kennt die Syntax des SELECT Befehls, mit dem Daten aus Tabellen in fast beliebiger Weise abgefragt werden können.
 * 🎯 Ihr kennt die unterschiedlichen Komponenten des SELECT Befehls und versteht, wie diese das Ergebnis verändern. 
 * 🎯 Ihr könnt einfach Abfragen mithilfe des SELECT Befehls formulieren, um Fragestellungen auf Basis von Daten zu beantworten.
 
