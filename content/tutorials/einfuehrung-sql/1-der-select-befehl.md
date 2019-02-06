@@ -23,7 +23,7 @@
 
 🔑 Während eine Tabelle beliebig viele Spalten haben kann, erlaubt der SELECT Befehl das Auswählen einer Teilmenge der vorhandenen Spalten. Denn häufig benötigt man für die Beantwortung einer Fragestellung nur wenige Spalten. Das Auswählen einer Teilmenge nennt man in der relationalen Algebra auch **Projektion**.
 
-## ✅ Metadaten sichten \(`DESCRIBE`\)
+## 💡 Metadaten sichten \(`DESCRIBE`\)
 
 ### 💡 Metadaten anzeigen
 
@@ -56,7 +56,7 @@ Jeder Datentyp in SQL sagt etwas darüber aus, welche Werte in der Spalten stehe
 | `timestamp` | Zeitstempel \(Sekunden seit dem 01.01.1970\) | 1549470029 |
 | `boolean` | Wahrheitswert | true, false |
 
-## ✅ Spalten auswählen \(`SELECT` / `FROM`\)
+## 💡 Spalten auswählen \(`SELECT` / `FROM`\)
 
 ### 💡 So geht's
 
@@ -109,5 +109,5 @@ from ted_text
 {% endtab %}
 {% endtabs %}
 
-
+## 💡 Zeilen Filtern \(`WHERE`\)
 

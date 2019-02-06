@@ -1,6 +1,6 @@
 # \#0 Workspace Setup
 
-## Databricks-Account erstellen
+## 💡 Databricks-Account erstellen
 
 Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis von SQL. Databricks bietet einen kostenlosen Zugang über die so genannte Community Edition. Für die Teilnahme an diesem Tutorial müsst ihr euch ein kostenloses Databricks-Konto erstellen:
 
@@ -17,7 +17,7 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
 
 Wenn ihr eingeloggt wurdet und die Databricks Startseite seht, ist die Anmeldung erfolgreich abgeschlossen✔.
 
-## Notebook-Templates importieren
+## 💡 Notebook-Templates importieren
 
 ### Vorgehen
 
@@ -47,7 +47,7 @@ Hier die Links zu den Notebooks:
 * 🗒 \#7 Statistische Funktionen
 * 🗒 \#8 Datum und Zeit
 
-## Daten anlegen
+## 💡 Daten anlegen
 
 ### Vorgehen
 
