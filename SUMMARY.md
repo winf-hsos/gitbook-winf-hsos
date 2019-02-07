@@ -142,6 +142,7 @@
       * [Spalten auswählen](content/tutorials/einfuehrung-sql/1-der-select-befehl/spalten-auswaehlen.md)
       * [Zeilen filtern](content/tutorials/einfuehrung-sql/1-der-select-befehl/zeilen-filtern.md)
       * [Ergebnisse sortieren](content/tutorials/einfuehrung-sql/1-der-select-befehl/ergebnisse-sortieren.md)
+      * [Einfache Aggregationen](content/tutorials/einfuehrung-sql/1-der-select-befehl/einfache-aggregationen.md)
     * [\#2 Mehrere Tabellen](content/tutorials/einfuehrung-sql/2-mehrere-tabellen.md)
     * [\#3 Mengenoperationen](content/tutorials/einfuehrung-sql/3-mengenoperationen.md)
     * [\#4 Unterabfragen](content/tutorials/einfuehrung-sql/4-unterabfragen.md)

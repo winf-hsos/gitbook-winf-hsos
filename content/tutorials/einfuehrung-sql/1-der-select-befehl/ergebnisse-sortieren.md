@@ -24,7 +24,7 @@ order by views desc
 
 ⚠ Die Zusatzangabe `DESC` steht für _descending_ und bedeutet übersetzt absteigend. Das bedeutet, größere Werte erscheinen oben. Ohne das Schlüsselwort `DESC` wird standardmäßig aufsteigend sortiert, was explizit auch mit dem Schlüsselwortpendant `ASC` erreicht werden kann.
 
-### 💡 Sortieren nach mehrerern Spalten
+### 💡 Sortieren nach mehreren Spalten
 
 Wir haben die Möglichkeit, mehr als ein Sortierungskriterium anzugeben. Die Reihenfolge ist entscheidend: Es wird zuerst nach dem ersten und dann nach den nachfolgenden Kriterien sortiert. Wir wollen als Beispiel alle TED Talks nach ihrem Event sortieren, und innerhalb eines Events nach der Dauer. Dabei sollen die längeren Talks oben stehen \(absteigende Sortierung\):
 
