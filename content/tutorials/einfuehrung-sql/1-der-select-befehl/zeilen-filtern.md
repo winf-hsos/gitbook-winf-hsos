@@ -166,13 +166,13 @@ where best_talk = true
 
 ### Datums- und Zeitwerte
 
-Der Vergleich von Datums- und Zeitwerten funktioniert rudimentär über die arithmetischen Vergleichsoperatoren `<`, `<=`, `>`, `>=`, `=` und `<>`. Häufig brauchen wir aber Vergleiche, die über diese einfachen Operationen hinaus gehen, wie z.B.:
+Der Vergleich von Datums- 🗓 und Zeitwerten 🕓 funktioniert rudimentär über die arithmetischen Vergleichsoperatoren `<`, `<=`, `>`, `>=`, `=` und `<>`. Häufig brauchen wir aber Vergleiche, die über diese einfachen Operationen hinaus gehen, wie z.B.:
 
 * Alle Talks des Jahres 2010
 * Alle Events die in den Monaten Juni, Juli und August stattfanden
 * Alle Talks, die nicht mehr als 3 Jahre zurückliegen
 
-Für diese Anwendungen verweise ich auf den Abschnitt [\#8 Datum und Zeit](../8-datum-und-zeit.md), in dem spezielle Funktionen für den Umgang mit Datums- und Zeitwerten eingeführt werden.
+Für solche komplexere Anwendungen verweise ich auf den Abschnitt [\#8 Datum und Zeit](../8-datum-und-zeit.md), in dem spezielle Funktionen für den Umgang mit Datums- und Zeitwerten eingeführt werden.
 
 ## 🧪 Übungsaufgaben
 
