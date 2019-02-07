@@ -155,6 +155,25 @@ select * from ted_meta
 where duration not between 5 * 60 and 10 * 60
 ```
 
+### Bool'sche Werte
+
+Für Spalten vom Datentyp `boolean` kommen in den meisten fällen nur die Operatoren `=` und `<>` in Frage. Angenommen die Tabelle `ted_meta` hätte Spalte `best_talk` vom Typ `boolean`, dann könnten wir alle Talks, die für ihre jeweiliges Event zum besten Talk gewählt wurden, mit folgenden SQL Statement ermitteln:
+
+```sql
+select * from ted_meta
+where best_talk = true
+```
+
+### Datums- und Zeitwerte
+
+Der Vergleich von Datums- und Zeitwerten funktioniert rudimentär über die arithmetischen Vergleichsoperatoren `<`, `<=`, `>`, `>=`, `=` und `<>`. Häufig brauchen wir aber Vergleiche, die über diese einfachen Operationen hinaus gehen, wie z.B.:
+
+* Alle Talks des Jahres 2010
+* Alle Events die in den Monaten Juni, Juli und August stattfanden
+* Alle Talks, die nicht mehr als 3 Jahre zurückliegen
+
+Für diese Anwendungen verweise ich auf den Abschnitt [\#8 Datum und Zeit](../8-datum-und-zeit.md), in dem spezielle Funktionen für den Umgang mit Datums- und Zeitwerten eingeführt werden.
+
 ## 🧪 Übungsaufgaben
 
 Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
