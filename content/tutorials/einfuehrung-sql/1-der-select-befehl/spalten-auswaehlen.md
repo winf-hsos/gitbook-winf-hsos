@@ -19,6 +19,12 @@ from <tabellenname>
 
 ✔ Im Code-Block oben stellt die erste Zeile einen 🏷**Kommentar** dar. Kommentare beginnen mit einem Doppelminus \(`--`\) und werden nicht als SQL interpretiert und somit auch nicht ausgeführt. Kommentare erlauben uns somit, für andere Menschen verständliche Hinweis zu unseren SQL Abfragen zu formulieren 😎. 
 
+Es ist immer eine gute Idee, genau die Spalten auszuwählen, die für die Beantwortung der Frage benötigt werden. In manchen Fällen möchte man aber vielleicht alle Spalten einer Tabelle auswählen, weil man die Namen nicht kennt. Für diesen Fall gibt es den so genannten Wildcard-Selektor `*`. Das folgende SQL Statement gibt **alle Spalten** der Tabelle `ted_meta` zurück:
+
+```sql
+select * from ted_meta
+```
+
 ## 🧪 Übungsaufgaben
 
 Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
@@ -27,7 +33,7 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-Schreibt eine SQL Abfrage, die für einen TED-Talk die Anzahl Kommentare und die Anzahl Views ermittelt. Gebt den Titel des Talks aus!
+Schreibe eine SQL Abfrage, die für einen TED-Talk die Anzahl Kommentare und die Anzahl Views ermittelt. Gebt den Titel des Talks aus!
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -42,7 +48,7 @@ from ted_meta
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-Gebt nur die Texte aller TED-Talks aus!
+Gib nur die Texte aller TED-Talks aus!
 {% endtab %}
 
 {% tab title="Lösung" %}
