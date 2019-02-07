@@ -97,6 +97,27 @@ select * from ted_meta
 where id = 1
 ```
 
+#### Der `IN` Operator
+
+Angenommen wir wollen nun nicht nur den Talk mit der ID = 1, sondern auch den mit der ID = 100 selektieren. Wir können hier auf die bereits bekannte Verknüpfung von Bedingungen zurückgreifen:
+
+```sql
+select * from ted_meta
+where id = 
+or id = 100
+```
+
+Hätten wir nun eine Liste mit 5 IDs könnten wir entsprechend 3 weitere Bedingungen mit `OR` verknüpfen. Glücklicherweise gibt es eine einfachere Möglichkeit:
+
+```sql
+select * from ted_meta
+where id IN (1, 100, 101, 102, 200)
+```
+
+Mit dem IN Operator können wir den Wert einer Spalte auf die Zugehörigkeit zu einer Menge, die wir mit Komma getrennt in Klammern definieren, überprüfen. Wenn der Wert sich in der Menge befinden wir die Bedingung wahr.
+
+#### Größer \(gleich\) und kleiner \(gleich\)
+
 Das nächste Beispiel fragt nach allen TED Talks, die länger als 20 Minuten sind \(das Feld `duration` enthält die Länge in Sekunden\):
 
 ```sql
@@ -142,11 +163,15 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-
+Ermittele den Titel und die Anzahl Viewer für alle TED Talks des offiziellen TED 2005 Events.
 {% endtab %}
 
 {% tab title="Lösung" %}
-
+```sql
+select title, views
+from ted_meta
+where event = 'TED2005'
+```
 {% endtab %}
 {% endtabs %}
 
@@ -154,11 +179,14 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-
+Gib eine Liste der Talks von Sam Harris, Steven Pinker und Amy Cuddy aus.
 {% endtab %}
 
 {% tab title="Lösung" %}
-
+```sql
+select * from ted_meta
+where main_speaker IN ('Sam Harris', 'Steven Pinker', 'Amy Cuddy')
+```
 {% endtab %}
 {% endtabs %}
 
@@ -176,10 +204,11 @@ Die Tabelle gibt eine Übersicht über die gängigsten Vergleichsoperatoren.
 
 | Operator | Beschreibung | Anwendbar auf... |
 | :--- | :--- | :--- |
-| `=` | Prüft, ob zwei Werte exakt gleich sind. | Alle Datentypen |
+| `=` | Prüft, ob zwei Werte exakt gleich sind. | Alle Datentypen. |
 | `>`, `<`, `>=`, `<=` | Prüft, ob der erste Wert größer/kleiner/größer gleich/kleiner gleich als der zweite ist. | Vorrangig verwendet für numerische Spalten wie `int`, `double`, `float`, aber auch für `string`, `date`, `timestamp` und `boolean` anwendbar. |
-| `<>` | Prüft, ob zwei Werte ungleich sind. | Alle Datentypen |
+| `<>` | Prüft, ob zwei Werte ungleich sind. | Alle Datentypen. |
 | `NOT` | Negiert eine Bedingung. | Alle Bedingungen. |
 | `LIKE` | Prüft, ob eine Zeichenkette einen oder mehrer Bestandteile besitzt. | `string` |
 | `BETWEEN` | Prüft, ob ein Wert sich innerhalb einer bestimmten Spanne befindet. | Vorrangig verwendet für numerische Spalten wie `int`, `double`, `float`, aber auch für `string`, `date`, `timestamp` und `boolean` anwendbar. |
+| `IN` | Prüft, ob ein Wert in einer bestimmten Menge enthalten ist. | Alle Datentypen. |
 
