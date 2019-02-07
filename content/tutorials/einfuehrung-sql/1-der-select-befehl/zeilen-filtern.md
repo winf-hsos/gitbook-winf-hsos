@@ -79,13 +79,25 @@ where title like '%food%'
 and event = 'TED2010'
 ```
 
-Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Das bedeutet wir können auch Klammern verwenden, um Gruppen von Bedingungen zu bilden und diese miteinander zu verknüpfen:
-
-
+Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Das bedeutet wir können auch Klammern verwenden, um Gruppen von Bedingungen zu bilden und diese miteinander zu verknüpfen.
 
 ### Zahlenwerte
 
+Beim Filtern auf numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetic bereitstellt, um Zahlen miteinander zu vergleichen:
 
+* `=` : 2 Zahlen müssen exakt gleich sein.
+* `>` bzw. `>=`: die erste Zahl muss größer bzw. größer gleich der zweiten Zahl sein.
+* `<` bzw. `<=`: die erste Zahl muss kleiner bzw. kleiner gleich der zweiten Zahl sein.
+* `<>`: 2 Zahlen müssen ungleich sein.
+
+Das folgenden Beispiel fragt nach allen TED Talks, die länger als 20 Minuten sind \(das Feld `duration` enthält die Länge in Sekunden\):
+
+```sql
+select * from ted_meta 
+where duration > 60 * 20
+```
+
+💡 Wie ihr an dem Beispiel oben erkennt, können wir auf beiden Seiten der Gleichung nicht nur atomare Werte wie Zahlen oder Spaltennamen verwenden, sondern **wir können auch Ausdrücke für Bedingungen verwenden**☝. Im Beispiel oben ist der rechte Teil `60 * 20` ein Ausdruck, der die beiden Zahlen miteinander multipliziert und das Ergebnis mit dem Wert der Spalte `duration` vergleicht.
 
 ## 🧪 Übungsaufgaben
 
