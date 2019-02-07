@@ -12,7 +12,7 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * 💡 [Metadaten sichten](1-der-select-befehl/metadaten-sichten.md) \(`DESCRIBE`\)
   * 💡 [Spalten auswählen](1-der-select-befehl/spalten-auswaehlen.md) \(`SELECT` / `FROM`\)
   * 💡 [Zeilen filtern](1-der-select-befehl/zeilen-filtern.md) \(`WHERE`\)
-  * 💡 Das Ergebnis sortieren \(`ORDER BY`\)
+  * 💡 Ergebnisse sortieren \(`ORDER BY`\)
   * 💡 Einfache Aggregationen \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
   * 💡 Gruppierte Aggregationen \(`GROUP BY`\)
   * 💡 Gruppierte Daten filtern \(`HAVING`\) 
