@@ -26,7 +26,7 @@ select * from ted_meta
 where title like '%food%'
 ```
 
-⚠ Bitte beachtet, dass SQL _case sensitive_ ist. Was heißt das? Es macht einen Unterschied, ob wir nach '**f**ood' oder '**F**ood' im Titel suchen. Groß- und Kleinschreibung wird unterschieden. Das obige SQL Statement würde somit einen Titel wie 'Food is important' nicht im Ergebnis enthalten. Um das zu umgehen, wird häufig die zu vergleichende Spalte mit der Funktion `lower()` in Kleinbuchstaben umgewandelt:
+⚠ Bitte beachtet, dass SQL _case sensitive_ ist. Was heißt das? Es ist ein Unterschied, ob wir nach '**f**ood' oder '**F**ood' im Titel suchen. Groß- und Kleinschreibung wird unterschieden. Das obige SQL Statement würde somit einen Titel wie 'Food is important' nicht im Ergebnis enthalten. Um das zu umgehen, wird häufig die zu vergleichende Spalte mit der Funktion `lower()` in Kleinbuchstaben umgewandelt:
 
 ```sql
 select * from ted_meta
@@ -69,7 +69,7 @@ where lower(title) like '% food'
 or lower(title) like 'food%'
 ```
 
-### Verknüpfung mehrere Bedingungen
+### Verknüpfung mehrerer Bedingungen \(`AND` / `OR`\)
 
 Wie oben gezeigt können wir mit `WHERE` die erste Filterbedingung definieren und anschließend weitere mit den logischen Verknüpfungen `OR` oder `AND` hinzufügen. Auf diese Weise können wir beliebig viele Bedingungen definieren. Dabei können sich Bedingungen auf jede beliebige Spalte beziehen:
 
@@ -83,21 +83,56 @@ Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Da
 
 ### Zahlenwerte
 
-Beim Filtern auf numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetic bereitstellt, um Zahlen miteinander zu vergleichen:
+Beim Filtern auf numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetik bereitstellt, um Zahlen miteinander zu vergleichen:
 
 * `=` : 2 Zahlen müssen exakt gleich sein.
 * `>` bzw. `>=`: die erste Zahl muss größer bzw. größer gleich der zweiten Zahl sein.
 * `<` bzw. `<=`: die erste Zahl muss kleiner bzw. kleiner gleich der zweiten Zahl sein.
 * `<>`: 2 Zahlen müssen ungleich sein.
 
-Das folgenden Beispiel fragt nach allen TED Talks, die länger als 20 Minuten sind \(das Feld `duration` enthält die Länge in Sekunden\):
+Im einfachsten Fall nutzen wir den `=` Operator, um einen TED Talk mit einer bestimmten ID zu finden:
+
+```sql
+select * from ted_meta 
+where id = 1
+```
+
+Das nächste Beispiel fragt nach allen TED Talks, die länger als 20 Minuten sind \(das Feld `duration` enthält die Länge in Sekunden\):
 
 ```sql
 select * from ted_meta 
 where duration > 60 * 20
 ```
 
-💡 Wie ihr an dem Beispiel oben erkennt, können wir auf beiden Seiten der Gleichung nicht nur atomare Werte wie Zahlen oder Spaltennamen verwenden, sondern **wir können auch Ausdrücke für Bedingungen verwenden**☝. Im Beispiel oben ist der rechte Teil `60 * 20` ein Ausdruck, der die beiden Zahlen miteinander multipliziert und das Ergebnis mit dem Wert der Spalte `duration` vergleicht.
+💡 Wie ihr an dem Beispiel oben erkennt, können wir auf beiden Seiten der Gleichung nicht nur atomare Werte wie Zahlen oder Spaltennamen verwenden, sondern wir können auch **Ausdrücke** für Bedingungen verwenden☝. Im Beispiel oben ist der rechte Teil `60 * 20` ein Ausdruck, der die beiden Zahlen miteinander multipliziert und das Ergebnis `1200` mit dem Wert der Spalte `duration` vergleicht.
+
+Ein weiteres Beispiel zeigt, wie auch Zahlenvergleiche kombiniert werden können, um in diesem Fall alle TED Talks mit mindestens 5 Minuten Länge UND maximal 10 Minuten Länge zu erfragen:
+
+```sql
+select * from ted_meta
+where duration >= 5 * 60 
+and duration <= 10 * 60
+```
+
+#### Der `BETWEEN` Operator
+
+Das selbe Ergebnis kann in diesem Fall mit dem `BETWEEN` Operator erzielt werden:
+
+```sql
+select * from ted_meta
+where duration between 5 * 60 and 10 * 60
+```
+
+⚠ Der `BETWEEN` Operator schließt immer die angegebenen Grenzen mit in das Ergebnis ein \(_inclusive_\).
+
+#### Der `NOT` Operator
+
+Um das Ergebnis des letzten Beispiels umzukehren, also alle Talks zu finden, deren Länge außerhalb der Spanne 5 - 10 Minuten liegen, können wir den `NOT` Operator verwenden. Dieser negiert eine Bedingung in ihr Gegenteil ✋:
+
+```sql
+select * from ted_meta
+where duration not between 5 * 60 and 10 * 60
+```
 
 ## 🧪 Übungsaufgaben
 
@@ -134,4 +169,17 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 
 {% endtab %}
 {% endtabs %}
+
+## Anhang
+
+Die Tabelle gibt eine Übersicht über die gängigsten Vergleichsoperatoren.
+
+| Operator | Beschreibung | Anwendbar auf... |
+| :--- | :--- | :--- |
+| `=` | Prüft, ob zwei Werte exakt gleich sind. | Alle Datentypen |
+| `>`, `<`, `>=`, `<=` | Prüft, ob der erste Wert größer/kleiner/größer gleich/kleiner gleich als der zweite ist. | Vorrangig verwendet für numerische Spalten wie `int`, `double`, `float`, aber auch für `string`, `date`, `timestamp` und `boolean` anwendbar. |
+| `<>` | Prüft, ob zwei Werte ungleich sind. | Alle Datentypen |
+| `NOT` | Negiert eine Bedingung. | Alle Bedingungen. |
+| `LIKE` | Prüft, ob eine Zeichenkette einen oder mehrer Bestandteile besitzt. | `string` |
+| `BETWEEN` | Prüft, ob ein Wert sich innerhalb einer bestimmten Spanne befindet. | Vorrangig verwendet für numerische Spalten wie `int`, `double`, `float`, aber auch für `string`, `date`, `timestamp` und `boolean` anwendbar. |
 
