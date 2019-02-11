@@ -1,5 +1,11 @@
 # Unternehmensplanung und Controlling
 
+> If you can't measure it, you can't improve it. \(Peter Drucker\)
+
+## 📢 Infos <a id="learning-objectives"></a>
+
+Das Modul _Unternehmensplanung und Controlling_ ist ein Wahlpflichtmodul im zweiten Semester des Master Agrar/Lebensmittel. Es wird zusammen von Prof. Dr. Guido Recke und mir begleitet.
+
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
 Folgt bald.
