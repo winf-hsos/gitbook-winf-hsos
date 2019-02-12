@@ -16,11 +16,13 @@
 
 ## ⏮ Vorbereitung
 
+Als Vorbereitung auf diese Session lest bitte den folgenden Text aus dem Reader📑:
+
+* 📑\#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten \(8 Seiten\)
+
 ## ▶ Session
 
 ### 1⃣ Kurze Einführung in Zahlensysteme
-
-{% embed url="https://docs.google.com/presentation/d/1D4ASyI-aFZ8D2lxlYTn3ytByODBSm0vIZlBpRInG21g/edit?usp=sharing" %}
 
 ### 2⃣ Übungsaufgabe zu Zahlensystemen
 
