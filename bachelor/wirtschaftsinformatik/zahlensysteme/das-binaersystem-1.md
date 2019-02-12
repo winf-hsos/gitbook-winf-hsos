@@ -19,8 +19,10 @@ Als Vorbereitung auf diese Session lest bitte die folgenden Texte aus dem Reader
 
 Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir täglich und ohne nachzudenken anwenden. Der zweite Text zeigt, wie andere Zahlensysteme, die nicht auf der Zahl 10 beruhen, mit der gleichen Systematik verstanden und angewendet werden können.
 
-* 📑\#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits \(8 Seiten\)
-* 📑\#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten \(15 Seiten\)
+| Titel | Seiten |
+| :--- | :--- |
+| 📑\#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
+| 📑\#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 15 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
