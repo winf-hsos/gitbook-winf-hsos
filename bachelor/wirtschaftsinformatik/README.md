@@ -89,11 +89,11 @@ Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): Prediction machines. The si
 
 ## 🚫  Was nicht Teil dieser Veranstaltung ist
 
-Der Fokus dieser Veranstaltung liegt auf den Themen, die euch einen möglichst unmittelbaren Vorteil für euer berufliches und privates Leben bieten. Dadurch entfallen einige Themen, die jede\(r\) Absolvent\*in eines Wirtschaftsinformatik-Studiengangs kennen sollte, jedoch für eine\(n\) Wirtschaftsingenieur\*in keinen direkten Nutzen erzeugen:
+Der Fokus dieser Veranstaltung liegt auf den Themen, die euch einen unmittelbaren Vorteil für euer berufliches und privates Leben bieten können. Dadurch entfallen Themen, die jede\(r\) Absolvent\*in eines Wirtschaftsinformatikstudiengangs kennen sollte, jedoch für eine\(n\) Wirtschaftsingenieur\*in keinen direkten Nutzen erzeugen:
 
 * 🚫 Konzepte und Methoden des Software Engineering, wie z.B. Wasserfallmodell, Scrum, Lifecycle Management, Werkzeuge etc.
 * 🚫 IT-Strategie und IT-Management
-* 🚫 Netzwerke und Netzwerkprotokolle
+* 🚫 Netzwerktopologien und Netzwerkprotokolle
 
 ### 
 

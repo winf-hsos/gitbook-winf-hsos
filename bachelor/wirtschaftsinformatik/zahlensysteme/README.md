@@ -2,6 +2,10 @@
 
 ## 🎯 Lernziele
 
+* 🎯 Ihr wisst, dass digitale Computer auf dem Binärsystem basieren und ihr könnt erklären, was das Binärsystem ist.
+* 🎯 Ihr versteht, wie Computer mithilfe von Codes nicht nur Nullen und Einsen abbilden können, sondern jede beliebige Information.
+* 🎯 Ihr kennt die elementaren Bauteile eines Computers und könnt erklären, wie diese funktionieren und in einem Computer zusammenarbeiten, um universelle Berechnungen durchzuführen.
+
 ## ❓ Fragen 
 
 * ❓ Was sind die elementaren Bauteile 🧱 eines Computers💻? 
