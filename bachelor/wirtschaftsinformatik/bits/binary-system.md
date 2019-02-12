@@ -21,8 +21,8 @@ Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir tägl
 
 | Titel | Seiten |
 | :--- | :--- |
-| 📑\#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
-| 📑\#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 15 |
+| \#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
+| \#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 15 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
