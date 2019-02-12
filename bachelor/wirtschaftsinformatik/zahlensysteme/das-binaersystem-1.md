@@ -28,9 +28,9 @@ Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir tägl
 
 ### 1⃣ Quiz 🥇 
 
-Zu Beginn erheben wir mit einem kurzen Quiz den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code ein, der auf dem Beamer gezeigt wird:
+Zu Beginn erheben wir mit einem kurzen Quiz den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code **80 79 56** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
-* 🔗 [https://www.menti.com/](https://www.menti.com/)
+* 🔗 [Link zum Quiz](https://www.menti.com/46e07b4c)
 
 ### 1⃣ Kurze Einführung in Zahlensysteme
 
