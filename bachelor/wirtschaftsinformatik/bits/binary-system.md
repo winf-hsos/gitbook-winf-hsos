@@ -42,7 +42,12 @@ In der folgenden Präsentation fassen wir die Inhalte der beiden Texte zusammen 
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1_pdMgaybDX5M5s/export/pdf)
 
-### 3⃣ Übungsaufgabe zu Zahlensystemen \(⏲ 45 Min.\)
+### 3⃣ Übungsaufgabe zum Binärsystem \(⏲ 45 Min.\)
+
+Bearbeitet die folgenden Übungsaufgaben mit eurer Partner\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen dann anschließend die Ergebnisse bis dahin im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+
+* 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/preview)
+* 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/export?format=pdf) ⬇ 
 
 ### 🔁 Offene Fragen \(⏲ 5 Min.\)
 
