@@ -5,12 +5,12 @@
 ## Bachelor
 
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
-  * [\#1 Bits - Atome der digitalen Welt](bachelor/wirtschaftsinformatik/zahlensysteme/README.md)
-    * [Das Binärsystem](bachelor/wirtschaftsinformatik/zahlensysteme/das-binaersystem-1.md)
-    * [Codes](bachelor/wirtschaftsinformatik/zahlensysteme/codes.md)
-    * [Logic Gates](bachelor/wirtschaftsinformatik/zahlensysteme/das-binaersystem.md)
-    * [Bits addieren](bachelor/wirtschaftsinformatik/zahlensysteme/bits-addieren.md)
-    * [Bits speichern](bachelor/wirtschaftsinformatik/zahlensysteme/speicher.md)
+  * [\#1 Bits - Atome der digitalen Welt](bachelor/wirtschaftsinformatik/bits/README.md)
+    * [Das Binärsystem](bachelor/wirtschaftsinformatik/bits/binary-system.md)
+    * [Codes](bachelor/wirtschaftsinformatik/bits/codes.md)
+    * [Logic Gates](bachelor/wirtschaftsinformatik/bits/das-binaersystem.md)
+    * [Bits addieren](bachelor/wirtschaftsinformatik/bits/bits-addieren.md)
+    * [Bits speichern](bachelor/wirtschaftsinformatik/bits/speicher.md)
   * [\#2 Digitalisierung - Tor zur digitalen Welt](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/README.md)
     * [Analog vs. Digital](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/analog-vs.-digital.md)
     * [Digitalisieren](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/digitalisieren.md)
