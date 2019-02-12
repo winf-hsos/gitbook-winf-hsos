@@ -32,6 +32,12 @@ Zu Beginn erheben wir mit einem kurzen Quiz den Wissensstand bezüglich der beid
 
 ### 1⃣ Kurze Einführung in Zahlensysteme
 
+In der folgenden Präsentation fassen wir die Inhalte der beiden Texte zusammen und veranschaulichen die Zahlensysteme anhand von Beispielen.
+
+{% embed url="https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1\_pdMgaybDX5M5s/preview" %}
+
+Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1_pdMgaybDX5M5s/export/pdf)
+
 ### 2⃣ Übungsaufgabe zu Zahlensystemen
 
 ### 3⃣ Quiz
