@@ -44,6 +44,10 @@ Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Ver
 
 ## ⏭ Ausblick
 
+In der nächsten Session schauen wir uns an, wie wir mithilfe von Codes nicht nur Einsen und Nullen, sondern beliebige Informationen in eine computergerechte Form 💻 bringen.
+
+{% page-ref page="codes.md" %}
+
 ## 🔗 Links
 
 {% embed url="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading02.htm" %}
