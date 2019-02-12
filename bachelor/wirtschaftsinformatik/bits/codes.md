@@ -22,3 +22,7 @@
 
 ## ⏭ Nachbereitung
 
+## Links
+
+* 🔗 [A Mathematical Theory of Communication von Claude Shannon \(1948\)](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+
