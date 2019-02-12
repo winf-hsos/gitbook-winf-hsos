@@ -12,6 +12,7 @@
 * 🏷Oktalsystem
 * 🏷Hexadezimales System
 * 🏷Bit
+* 🏷Byte
 
 ## ⏮ Vorbereitung
 
