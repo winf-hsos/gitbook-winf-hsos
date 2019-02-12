@@ -1,4 +1,4 @@
-# Rechnen mit Bits
+# Bits addieren
 
 > Computers are nothing more than calculators at heart. They are very very fast at doing arithmetic. \(Tariq Rashid\)
 

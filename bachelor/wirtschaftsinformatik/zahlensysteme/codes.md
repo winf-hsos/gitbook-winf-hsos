@@ -1,4 +1,4 @@
-# Mehr als 0 und 1
+# Codes
 
 ## 🎯 Lernziele
 
@@ -10,6 +10,7 @@
 * 🏷Code
 * 🏷RGB Code
 * 🏷ASCII Code
+* 🏷Bytes, Kilobytes, Megabytes, Gigabytes, Terabytes, etc.
 
 ## ⏮ Vorbereitung
 

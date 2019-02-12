@@ -48,8 +48,8 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
 
 * 📂 
-  * 📑 \#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten
-  * 📑 ...
+  * 📑 \#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits
+  * 📑 \#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten
 
 ## 📚 Empfohlene Literatur 
 
