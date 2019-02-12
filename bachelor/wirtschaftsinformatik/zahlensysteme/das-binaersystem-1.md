@@ -26,13 +26,13 @@ Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir tägl
 
 ## ▶ Session
 
-### 1⃣ Quiz 🥇 
+### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code **80 79 56** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code **80 79 56** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
 * 🔗 [Link zum Quiz](https://www.menti.com/46e07b4c)
 
-### 2⃣ Kurze Einführung in Zahlensysteme
+### 2⃣ Kurze Einführung in Zahlensysteme \(⏲25 Min.\)
 
 In der folgenden Präsentation fassen wir die Inhalte der beiden Texte zusammen und veranschaulichen die Zahlensysteme anhand von Beispielen.
 
@@ -40,9 +40,17 @@ In der folgenden Präsentation fassen wir die Inhalte der beiden Texte zusammen 
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1_pdMgaybDX5M5s/export/pdf)
 
-### 3⃣ Übungsaufgabe zu Zahlensystemen
+### 3⃣ Übungsaufgabe zu Zahlensystemen \(⏲ 45 Min.\)
 
-## ⏭ Ausblick
+### 🔁 Offene Fragen \(⏲ 5 Min.\)
+
+Ihr habt jederzeit während der Session die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
+
+* 🔗 [Link zur Abgabe von Fragen und Anmerkungen während der Session](https://www.menti.com/5c40972b)
+
+Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu adressieren.
+
+### ⏭ Ausblick \(⏲5 Min.\)
 
 In der nächsten Session schauen wir uns an, wie wir mithilfe von Codes nicht nur Einsen und Nullen, sondern beliebige Informationen in eine computergerechte Form 💻 bringen.
 
