@@ -6,7 +6,7 @@
 
 * [Wirtschaftsinformatik](bachelor/wirtschaftsinformatik/README.md)
   * [\#1 Bits - Atome der digitalen Welt](bachelor/wirtschaftsinformatik/zahlensysteme/README.md)
-    * [Zahlensysteme](bachelor/wirtschaftsinformatik/zahlensysteme/zahlensysteme.md)
+    * [Das Binärsystem](bachelor/wirtschaftsinformatik/zahlensysteme/das-binaersystem-1.md)
     * [Codes](bachelor/wirtschaftsinformatik/zahlensysteme/codes.md)
     * [Logic Gates](bachelor/wirtschaftsinformatik/zahlensysteme/das-binaersystem.md)
     * [Bits addieren](bachelor/wirtschaftsinformatik/zahlensysteme/bits-addieren.md)
