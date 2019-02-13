@@ -41,6 +41,7 @@ Die Prüfungsleistung besteht aus der Fallstudie \(70%\) und 2 kurzen MC-Tests i
 Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
 * [Databricks Community Edition](https://community.cloud.databricks.com)
+* [Indico.io](https://indico.io)
 
 ## 📑 Reader
 
