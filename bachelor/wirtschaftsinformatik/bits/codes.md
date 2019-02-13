@@ -49,7 +49,19 @@ Bearbeitet die folgenden Übungsaufgaben mit eurer Partner\*in. Nehmt euch 30 Mi
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) ⬇ 
 
-## ⏭ Nachbereitung
+### 🔁 Offene Fragen \(⏲ 5 Min.\)
+
+Ihr habt jederzeit während der Session die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
+
+* 🔗 [Link zur Abgabe von Fragen und Anmerkungen während der Session](https://www.menti.com/5c40972b)
+
+Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu adressieren.
+
+### ⏭ Ausblick \(⏲5 Min.\)
+
+Die nächste Session dreht sich um die atomaren Bausteine, aus denen Computer gebaut sind. **Logic Gates** befähigen Computer, Bits zu speichern und zu verarbeiten.
+
+{% page-ref page="das-binaersystem.md" %}
 
 ## Links
 
