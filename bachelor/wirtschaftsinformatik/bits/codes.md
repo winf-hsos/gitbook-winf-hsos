@@ -34,7 +34,13 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 
 * 🔗 Link zum Quiz
 
-### 2⃣ ...
+### 2⃣ Kurze Einführung in die Verwendung von Codes
+
+Wir schauen uns Beispiele für Codes an und diskutieren ein paar wichtige Eigenschaften von Codesystemen.
+
+{% embed url="https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/preview" %}
+
+Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf)
 
 ### 3⃣ Übungsaufgabe zu Codes \(⏲ 45 Min.\)
 
