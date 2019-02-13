@@ -1,5 +1,9 @@
 # Codes
 
+> Bytes are dumb. They just contain patterns of ons and offs. If a byte contains 0100 0101, and you send it to the printer, it will print the letter ‘E.’ If you send it to the Instruction Register, the computer will execute a Jump instruction. If you send it to the Memory Address Register, it will select byte number 69 of the RAM. If you send it to one side of the Adder, it will add 69 to whatever is on the other side of the Adder. If you send it to the display screen, it will set three pixels on and five pixels off.
+>
+> \(Scott, J Clark. But How Do It Know? - The Basic Principles of Computers for Everyone\)
+
 ## 🎯 Lernziele
 
 * 🎯 Ihr wisst, dass Computer mit Codes andere Dinge außer 0 und 1 abbilden können.
@@ -13,19 +17,31 @@
 
 ## ⏮ Vorbereitung
 
-Als Vorbereitung auf diese Session lest bitte den folgenden Text aus dem Reader📑. Den Reader findet ihr als ZIP-Datei im Dateibereich dieser Veranstaltung in [OSCA](http://osca.hs-osnabrueck.de/). 
+Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Session. Den Reader findet ihr als ZIP-Datei im Dateibereich dieser Veranstaltung in [OSCA](http://osca.hs-osnabrueck.de/). 
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-03 - The Hidden Language of Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit | 18 |
+| \#WI-03 - Code - Charles Petzold - Chapter 2 - Codes and Combinations | 6 |
+| \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit | 18 |
 
-⚠ Bitte lest den Text, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
+⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
 ## ▶ Session
 
-### 1⃣ ...
+### 1⃣ Quiz \(⏲10 Min.\)
+
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code **\#\# \#\# \#\#** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+
+* 🔗 Link zum Quiz
 
 ### 2⃣ ...
+
+### 3⃣ Übungsaufgabe zu Codes \(⏲ 45 Min.\)
+
+Bearbeitet die folgenden Übungsaufgaben mit eurer Partner\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen dann anschließend die Ergebnisse bis dahin im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+
+* 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview)
+* 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) ⬇ 
 
 ## ⏭ Nachbereitung
 
