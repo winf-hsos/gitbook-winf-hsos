@@ -7,6 +7,7 @@
 ## 🎯 Lernziele
 
 * 🎯 Ihr wisst, dass Computer mit Codes andere Dinge außer 0 und 1 abbilden können.
+* 🎯 Ihr könnt abschätzen, wie viele Bits ihr für die Speicherung bestimmter Informationen benötigt
 * 🎯 Ihr könnt ASCII und RGB-Codes lesen und erklären.
 
 ## 🏷 Begriffe und Konzepte
