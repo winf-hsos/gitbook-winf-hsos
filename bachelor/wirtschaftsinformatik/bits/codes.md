@@ -32,7 +32,7 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 Bitte schaut dieses kurze Video \(9:52 Minuten\) aus dem kostenlosen Online-Kurs "Modern Information Theory" der Khan Academy. Der Link zum gesamten Kurs ist unten unter Links aufgeführt:
 
-* [How do we measure Information?](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12)
+* [Measuring Information](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12)
 
 ## ▶ Session
 
