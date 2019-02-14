@@ -14,6 +14,8 @@
 * 🏷Code
 * 🏷RGB Code
 * 🏷ASCII Code
+* 🏷Information Theory
+* 🏷Entropy
 
 ## ⏮ Vorbereitung
 
