@@ -58,6 +58,8 @@ Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. 
 Petzold, Charles \(2000\): Code. The hidden language of computer hardware and software. Redmond Wash.: Microsoft Press.
 
 Scott, J. Clark \(2009\): But how do it know? The basic principles of computers for everyone. Oldsmar, FL: John C. Scott.
+
+Gleick, James \(2012\): The information. A history, a theory, a flood. Fourth Estate paperback ed. London: Fourth Estate.
 {% endtab %}
 
 {% tab title="\#2 Digitalisierung" %}

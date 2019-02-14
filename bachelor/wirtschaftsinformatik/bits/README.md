@@ -1,5 +1,7 @@
 # \#1 Bits - Atome der digitalen Welt
 
+> A bit of information is the tiniest amount of information possible. Anythings less than a bit is no information at all. \(Charles Petzold\)
+
 ## 🎯 Lernziele
 
 * 🎯 Ihr wisst, dass digitale Computer auf dem Binärsystem basieren und ihr könnt erklären, was das Binärsystem ist.

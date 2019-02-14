@@ -6,7 +6,7 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI\#\# - How Things Work Now - Making Bits | 19 |
+| \#WI-05 - How Things Work Now - Making Bits | 19 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
