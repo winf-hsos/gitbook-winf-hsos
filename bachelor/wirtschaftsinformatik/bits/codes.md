@@ -17,6 +17,8 @@
 
 ## ⏮ Vorbereitung
 
+### 📑 Texte
+
 Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Session. Den Reader findet ihr als ZIP-Datei im Dateibereich dieser Veranstaltung in [OSCA](http://osca.hs-osnabrueck.de/). 
 
 | Titel | Seiten |
@@ -25,6 +27,12 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 | \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit | 18 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
+
+### 📺 Video
+
+Bitte schaut dieses kurze Video \(9:52 Minuten\) aus dem kostenlosen Online-Kurs "Modern Information Theory" der Khan Academy. Der Link zum gesamten Kurs ist unten unter Links aufgeführt:
+
+* [How do we measure Information?](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12)
 
 ## ▶ Session
 
@@ -66,4 +74,5 @@ Die nächste Session dreht sich um die atomaren Bausteine, aus denen Computer ge
 ## Links
 
 * 🔗 [A Mathematical Theory of Communication von Claude Shannon \(1948\)](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+* 🔗 [Kostenloser Online-Kurs "Modern Information Theory" von der Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory) ⭐ 
 
