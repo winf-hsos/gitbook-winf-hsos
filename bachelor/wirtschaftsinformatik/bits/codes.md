@@ -40,11 +40,11 @@ Bitte schaut dieses kurze Video \(9:52 Minuten\) aus dem kostenlosen Online-Kurs
 
 ### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte. Klickt auf den Link unten und gebt den Code **56 06 28** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **56 06 28** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
 * 🔗 [Link zum Quiz](https://www.menti.com/b4b32418)
 
-### 2⃣ Kurze Einführung in die Verwendung von Codes
+### 2⃣ Kurze Einführung in Codes
 
 Wir schauen uns Beispiele für Codes an und diskutieren ein paar wichtige Eigenschaften von Codesystemen.
 
