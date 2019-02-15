@@ -45,7 +45,7 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 
 * 🔗 [Link zum Quiz](https://www.menti.com/b4b32418)
 
-### 2⃣ Kurze Einführung in Codes
+### 2⃣ Kurze Einführung in Codes \(⏲25 Min.\)
 
 Wir schauen uns Beispiele für Codes an und diskutieren ein paar wichtige Eigenschaften von Codesystemen.
 
@@ -55,14 +55,14 @@ Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Ver
 
 ### 3⃣ Übungsaufgabe zu Codes \(⏲ 45 Min.\)
 
-Bearbeitet die folgenden Übungsaufgaben mit eurer Partner\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen dann anschließend die Ergebnisse bis dahin im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) ⬇ 
 
 ### 🔁 Offene Fragen \(⏲ 5 Min.\)
 
-Ihr habt jederzeit während der Session die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
+Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
 
 * 🔗 [Link zur Abgabe von Fragen und Anmerkungen während der Session](https://www.menti.com/5c40972b)
 
@@ -76,6 +76,6 @@ Die nächste Session dreht sich um die atomaren Bausteine, aus denen Computer ge
 
 ## Links
 
-* 🔗 [A Mathematical Theory of Communication von Claude Shannon \(1948\)](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * 🔗 [Kostenloser Online-Kurs "Modern Information Theory" von der Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory) ⭐ 
+* 🔗 [A Mathematical Theory of Communication von Claude Shannon \(1948\)](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) 😳 
 

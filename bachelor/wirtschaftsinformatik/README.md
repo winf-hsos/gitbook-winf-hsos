@@ -10,6 +10,14 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 ## 📃 Konzept <a id="concept"></a>
 
+### Disclaimer
+
+Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht der inhaltliche Kern eures Studiums 👩🎓 . Deshalb sind viele der Themen eines klassischen Kanon der Wirtschaftsinformatik für euch nicht relevant. Zum Beispiel werdet ihr mit sehr hoher Wahrscheinlichkeit nicht im IT-Management einer Firma arbeiten und somit wäre es sinnlos, wenn wir über Themen wie IT-Strategie oder Software Lifecycle Management sprechen👎 . Vielmehr wird es euch wahrscheinlich weiterhelfen, mit geeigneten Methoden und Tools die größer werdende Datenvielfalt für euch und euren späteren Arbeitgeber gewinnbringend zu nutzen 💪.
+
+Kurz gesagt 👉 : Der Fokus der Veranstaltung liegt auf den Dingen, die **euch** dabei helfen die digitale Welt besser zu **verstehen**, für euch zu **nutzen**, und sie für eine positive Zukunft mit zu **gestalten**. 🤖 
+
+### Aufbau des Moduls
+
 Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
 
 * 1⃣ Bits - Atome der digitalen Welt
@@ -19,10 +27,6 @@ Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander au
 * 5⃣ Daten - Produkt der digitalen Welt
 * 6⃣ Web - Lebensraum der digitalen Welt
 * 7⃣ KI - Einwohner der digitalen Welt
-
-Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht der inhaltliche Kern eures Studiums. Deshalb sind viele der Themen eines klassischen Kanon der Wirtschaftsinformatik für euch nicht relevant. Zum Beispiel werdet ihr mit sehr hoher Wahrscheinlichkeit nicht im IT-Management einer Firma arbeiten und somit wäre es sinnlos, wenn wir über Themen wie IT-Strategie oder Software Lifecycle Management sprechen. Vielmehr wird es euch wahrscheinlich weiterhelfen, mit geeigneten Methoden und Tools die größer werdende Datenvielfalt für euch und euren späteren Arbeitgeber gewinnbringend zu nutzen.
-
-Kurz gesagt: Der Fokus der Veranstaltung liegt auf den Dingen, die **euch** dabei helfen die digitale Welt besser zu verstehen, zu verbessern und für euch nutzbar zu gestalten. 🤖 
 
 Die Slides unten geben eine detailliertere Übersicht über die Veranstaltung. Ihr könnt auch eine [PDF-Version](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/export/pdf) herunterladen⬇ .
 
@@ -45,17 +49,22 @@ Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche To
 
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
+Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(auch 📑 Reader geannnt\) bereit. Die Sammlung lade ich als ZIP-Datei 🗜 im Dateibereich hoch. Folgende Texte sind enthalten:
 
 * 📂 
-  * 📑 \#WI-01 - The Hidden Language of Code - Charles Petzold - Chapter 7 - Our Ten Digits
-  * 📑 \#WI-02 - The Hidden Language of Code - Charles Petzold - Chapter 8 - Alternatives to Ten
+  * 📑 \#WI-01 - Code - Charles Petzold - Chapter 7 - Out Ten Digits
+  * 📑 \#WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten
+  * 📑 \#WI-03 - Code - Charles Petzold - Chapter 2 - Codes and Combinations
+  * 📑 \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit
+  * 📑 \#WI-05 - The Way Things Work Now - David Macaulay - Making Bits
 
 ## 📚 Empfohlene Literatur 
 
 {% tabs %}
 {% tab title="\#1 Bits" %}
-Petzold, Charles \(2000\): Code. The hidden language of computer hardware and software. Redmond Wash.: Microsoft Press.
+⭐ Petzold, Charles \(2000\): Code. The hidden language of computer hardware and software. Redmond Wash.: Microsoft Press.
+
+⭐ Macaulay, David; Ardley, Neil \(2016\): The way things work now. From levers to lasers, windmills to Wi-Fi, a visual guide to the world of machines. Revised and updated edition. Boston: Houghton Mifflin Harcourt.
 
 Scott, J. Clark \(2009\): But how do it know? The basic principles of computers for everyone. Oldsmar, FL: John C. Scott.
 

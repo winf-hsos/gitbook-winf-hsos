@@ -45,14 +45,14 @@ Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Ver
 
 ### 3⃣ Übungsaufgabe zum Binärsystem \(⏲ 45 Min.\)
 
-Bearbeitet die folgenden Übungsaufgaben mit eurer Partner\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen dann anschließend die Ergebnisse bis dahin im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/export?format=pdf) ⬇ 
 
 ### 🔁 Offene Fragen \(⏲ 5 Min.\)
 
-Ihr habt jederzeit während der Session die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
+Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
 
 * 🔗 [Link zur Abgabe von Fragen und Anmerkungen während der Session](https://www.menti.com/5c40972b)
 
