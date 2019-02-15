@@ -1,4 +1,6 @@
-# Digitalisieren
+# Digitale Eigenschaften
+
+* 🏷 _Digitization_ vs _Digitalization_
 
 ## ⏮ Vorbereitung
 
@@ -6,7 +8,7 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-05 - How Things Work Now - Making Bits | 19 |
+| \#WIXX |  |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
