@@ -1,6 +1,6 @@
 # \#1 Bits - Atome der digitalen Welt
 
-> A bit of information is the tiniest amount of information possible. Anythings less than a bit is no information at all. \(Charles Petzold\)
+> A bit of information is the tiniest amount of information possible. Anything less than a bit is no information at all. \(Charles Petzold\)
 
 ## 🎯 Lernziele
 
@@ -12,7 +12,7 @@
 
 * ❓ Was sind die elementaren Bauteile 🧱 eines Computers💻? 
 * ❓ Wie funktionieren die elementaren Bauteile im Zusammenspiel? 💪 
-* ❓ Was können Computer, und was können sie nicht? 🤔
+* ❓ Was können Computer \(rechnen\), und was können sie nicht \(alles andere\)? 🤔
 * ❓ Warum sind Computer so universell einsetzbar? 🦸♂ 
 
 ## 🏷 Begriffe

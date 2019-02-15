@@ -10,7 +10,7 @@
 * 🎯 Ihr könnt abschätzen, wie viele Bits ihr für die Speicherung bestimmter Informationen benötigt
 * 🎯 Ihr könnt ASCII und RGB-Codes lesen und erklären.
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
 * 🏷Code
 * 🏷RGB Code
@@ -53,14 +53,14 @@ Wir schauen uns Beispiele für Codes an und diskutieren ein paar wichtige Eigens
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf)
 
-### 3⃣ Übungsaufgabe zu Codes \(⏲ 45 Min.\)
+### 3⃣ Übungsaufgabe zu Codes \(⏲45 Min.\)
 
 Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) ⬇ 
 
-### 🔁 Offene Fragen \(⏲ 5 Min.\)
+### 🔁 Offene Fragen \(⏲5 Min.\)
 
 Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
 
