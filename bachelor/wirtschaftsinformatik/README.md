@@ -2,7 +2,13 @@
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
-Folgt bald.
+* 🎯 Ihr versteht, wie Computer auf Level der Bits und Bytes grundsätzlich funktionieren.
+* 🎯 Ihr kennt den Unterschied zwischen der analogen und digitalen Welt.
+* 🎯 Ihr versteht, was ein Algorithmus ist und kennt die Funktionsweise wichtiger Algorithmen.
+* 🎯 Ihr könnt ein einfaches Programm in einer grafischen Programmierumgebung umsetzen.
+* 🎯 Ihr kennt die Eigenschaften und den Wert von Daten in der heutigen digitalen Wirtschaft.
+* 🎯 Ihr wisst um die Bedeutung des Internet für die Digitalisierung und Wirtschaft.
+* 🎯 Ihr könnt Begriffe um das Thema KI einordnen und versteht, wie Maschinen lernen können.
 
 ## 🇩🇪 Sprache
 
