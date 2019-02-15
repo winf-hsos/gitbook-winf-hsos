@@ -17,7 +17,7 @@
   * [\#3 Algorithmen - Regeln der digitalen Welt](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/README.md)
     * [Eigenschaften von Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/eigenschaften-von-algorithmen.md)
     * [Wichtige Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/wichtige-algorithmen.md)
-    * [Komplexität](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/algorithmen.md)
+    * [Algorithmen in der Praxis](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/algorithmen-in-der-praxis.md)
   * [\#4 Coding - Superpower der digitalen Welt](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/README.md)
     * [Eine neue Denkweise](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/eine-neue-denkweise.md)
     * [Scratch](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/scratch.md)
