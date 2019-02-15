@@ -10,7 +10,6 @@
     * [Codes](bachelor/wirtschaftsinformatik/bits/codes.md)
     * [Logic Gates](bachelor/wirtschaftsinformatik/bits/das-binaersystem.md)
     * [Bits addieren](bachelor/wirtschaftsinformatik/bits/bits-addieren.md)
-    * [Bits speichern](bachelor/wirtschaftsinformatik/bits/speicher.md)
   * [\#2 Digitalisierung - Tor zur digitalen Welt](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/README.md)
     * [Analog zu Digital](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/analog-zu-digital.md)
     * [Digitale Eigenschaften](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/digitale-eigenschaften.md)
