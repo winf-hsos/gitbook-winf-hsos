@@ -33,7 +33,6 @@
     * [Künstliche Intelligenz](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/kuenstliche-intelligenz.md)
     * [Lernende Maschinen](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/lernende-maschinen.md)
     * [Anwendungen von KI](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/anwendungen-von-ki.md)
-    * [Zukunft von KI](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/zukunft-von-ki.md)
 * [Impacts of Digitalization](bachelor/impacts-of-digitalization/README.md)
   * [\#1 Coding](bachelor/impacts-of-digitalization/coding/README.md)
     * [Setup your IDE](bachelor/impacts-of-digitalization/coding/install-your-ide.md)
