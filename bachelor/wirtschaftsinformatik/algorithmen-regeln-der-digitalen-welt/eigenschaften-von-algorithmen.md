@@ -1,6 +1,14 @@
 # Eigenschaften von Algorithmen
 
-Noch etwas Geduld...👷 
+## 🎯 Lernziele
+
+* 🎯 ...
+
+## 🏷 Begriffe
+
+* 🏷Algorithmus
+* 🏷Regel-basierte Algorithmen
+* 🏷Maschinelles Lernen
 
 ## ⏮ Vorbereitung
 
