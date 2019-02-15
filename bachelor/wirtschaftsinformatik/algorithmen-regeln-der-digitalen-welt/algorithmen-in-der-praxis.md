@@ -6,8 +6,10 @@
 
 ## 🏷 Begriffe
 
-* 🏷Algorithmus
-* 🏷O-Notation
+* 🏷Spam Filter
+* 🏷Bayes Theorem
+* 🏷Autonomes Fahren
+* 🏷Filter Bubble
 
 ## ⏮ Vorbereitung
 
