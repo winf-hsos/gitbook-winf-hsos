@@ -30,7 +30,7 @@ Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander au
 
 ### Aufbau einer Session
 
-In diesem Modul treffen wir uns regelmäßig zu zwei Sessions à 90 Minuten pro Woche. Eine typische Sitzung besteht aus den folgenden Bestandteilen:
+In diesem Modul treffen wir uns regelmäßig zu zwei Sessions à 90 Minuten pro Woche. Eine typische Sitzung besteht aus den folgenden Punkten:
 
 * ⏮ Vorbereitung auf die Session \(passiert **vor** der Session, nicht während\)
   * ℹ Selbststudium bereitgestellter Texte 📑 oder Videos 📺  
@@ -43,7 +43,7 @@ In diesem Modul treffen wir uns regelmäßig zu zwei Sessions à 90 Minuten pro 
 
 Das Konzept basiert auf dem so genannten **Inverted Classroom**. Die Vorbereitung jeder Teilnehmer\*in auf die Sitzung ist dabei von zentraler Bedeutung, weil wir in der Session selbst vertiefende Übungen machen, die auf den vorzubereitenden Material aufbauen. Eine Wiederholung findet nicht statt.
 
-Das Quiz 🥇 dient zur Überprüfung, ob das vorzubereitende Material verstanden wurde. Sollte das durch die Bank nicht der Fall sein, kann eine kurze Klärung der wichtigsten Punkte erfolgen. Nach dem Quiz gebe ich einen kurzen Input 👨🏫 , der z.B. die wichtigsten Punkte des Themas noch einmal hervorhebt und zusammenfasst, oder das Thema um weitere Aspekte erweitert. Anschließend wendet ihr in der Übungsaufgabe die kennengelernten Konzepte an.
+Das Quiz 🥇 dient zur Überprüfung, ob das vorzubereitende Material verstanden wurde. Sollte das durch die Bank nicht der Fall sein, kann eine kurze Klärung der wichtigsten Punkte erfolgen. Nach dem Quiz gebe ich einen kurzen Input 👨🏫 , der z.B. die wichtigsten Punkte des Themas noch einmal hervorhebt und zusammenfasst, oder das Thema um weitere Aspekte erweitert. Anschließend wendet ihr in der Übungsaufgabe die kennengelernten Konzepte an und wir diskutieren 💬 die Ergebnisse im Plenum.
 
 Während der Sitzung könnt ihr anonym Fragen und Anmerkungen über ein Online-Tool einreichen. Diese adressieren wir in den letzten 5 bis 10 Minuten jeder Sitzung. Den Schluss bildet immer der Ausblick auf das nächste Thema und was für die nächste Session vorzubereiten ist.
 
