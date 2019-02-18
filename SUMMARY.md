@@ -15,7 +15,7 @@
     * [Digitale Eigenschaften](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/digitale-eigenschaften.md)
   * [\#3 Algorithmen - Regeln der digitalen Welt](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/README.md)
     * [Eigenschaften von Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/eigenschaften-von-algorithmen.md)
-    * [Wichtige Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/wichtige-algorithmen.md)
+    * [Exemplarische Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/wichtige-algorithmen.md)
     * [Algorithmen in der Praxis](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/algorithmen-in-der-praxis.md)
   * [\#4 Coding - Superpower der digitalen Welt](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/README.md)
     * [Eine neue Denkweise](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/eine-neue-denkweise.md)
