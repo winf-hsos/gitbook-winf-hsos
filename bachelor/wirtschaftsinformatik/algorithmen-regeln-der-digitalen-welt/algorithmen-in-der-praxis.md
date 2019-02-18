@@ -8,6 +8,7 @@
 
 * 🏷Spam Filter
 * 🏷Bayes Theorem
+* 🏷Naive Bayes
 * 🏷Autonomes Fahren
 * 🏷Filter Bubble
 
@@ -18,6 +19,7 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 | Titel | Seiten |
 | :--- | :--- |
 | \#WI-XX - Hello World - Hannah Fry - Power | 15 |
+| \#WI-XX - Doing Data Science - Naive Bayes | 5 |
 
 ## ▶ Session
 

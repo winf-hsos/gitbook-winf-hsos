@@ -5,3 +5,7 @@
 
 {% embed url="https://luminoth.ai/" %}
 
+{% embed url="https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/" %}
+
+
+

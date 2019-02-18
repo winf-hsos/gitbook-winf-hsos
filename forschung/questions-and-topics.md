@@ -13,7 +13,7 @@ The following list is a collection of my current research 🔎 interests:
 
 **Food Processing and Manufacturing** 🍔
 
-* Using simulation and blackbox optimization to improve food production processes
+* Using Bayesian optimization techniques to optimize simulation parameters of discrete food production processes \(blackbox optimization\)
 
 **Other**
 

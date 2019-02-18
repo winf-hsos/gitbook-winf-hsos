@@ -12,7 +12,7 @@
 
 ## ⏮ Vorbereitung
 
-Als Vorbereitung auf diese Session schaut euch bitte das folgende Video aus dem Hidden Forces Podcast an. Hannah Fry ist die Autorin des Buches 📕 [Hello World - How to be Human in the Age of the Machine](https://www.amazon.de/Hello-World-How-Human-Machine/dp/0857525255). In diesem Buch schreibt sie über die Rolle von Algorithmen in unsere heutigen Welt. Ich empfehle es als spannende Lektüre für alle Interessierten.
+Als Vorbereitung auf diese Session schaut euch bitte das folgende Video aus dem [Hidden Forces Podcast](https://www.hiddenforces.io/podcasts) an. Hannah Fry ist die Autorin des Buches 📕 [Hello World - How to be Human in the Age of the Machine](https://www.amazon.de/Hello-World-How-Human-Machine/dp/0857525255). In diesem Buch schreibt sie über die Rolle von Algorithmen in unsere heutigen Welt. Ich empfehle es als spannende Lektüre für alle Interessierten.
 
 {% hint style="info" %}
 Sollte euch das gesprochene Englisch zu schnell sein, aktiviert die Untertitel in YouTube. Das macht es etwas leichter dem Gespräch zu folgen.

@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
-* 🎯 Ihr versteht, wie Computer auf Level der Bits und Bytes grundsätzlich funktionieren.
+* 🎯 Ihr versteht, wie Computer funktionieren.
 * 🎯 Ihr kennt den Unterschied zwischen der analogen und digitalen Welt.
 * 🎯 Ihr versteht, was ein Algorithmus ist und kennt die Funktionsweise wichtiger Algorithmen.
 * 🎯 Ihr könnt ein einfaches Programm in einer grafischen Programmierumgebung umsetzen.
