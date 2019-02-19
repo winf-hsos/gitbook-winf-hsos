@@ -96,6 +96,8 @@ Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) 
 Scott, J. Clark \(2009\): But how do it know? The basic principles of computers for everyone. Oldsmar, FL: John C. Scott.
 
 Gleick, James \(2012\): The information. A history, a theory, a flood. Fourth Estate paperback ed. London: Fourth Estate.
+
+Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligence.
 {% endtab %}
 
 {% tab title="\#2 Digitalisierung" %}
@@ -122,6 +124,8 @@ Hafner, Katie; Lyon, Matthew \(2006\): Where wizards stay up late. The origins o
 
 {% tab title="\#7 KI" %}
 Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): Prediction machines. The simple economics of artificial intelligence. Boston, Massachusetts: Harvard Business Review Press.
+
+Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligence.
 {% endtab %}
 {% endtabs %}
 
