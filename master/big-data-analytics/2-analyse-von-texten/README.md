@@ -1,5 +1,7 @@
 # \#2 Analyse von Texten
 
+{% embed url="https://blog.openai.com/better-language-models/" %}
+
 {% embed url="https://indico.io/" %}
 
 {% embed url="https://azure.microsoft.com/de-de/services/cognitive-services/text-analytics/" %}
