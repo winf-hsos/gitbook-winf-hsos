@@ -148,6 +148,7 @@
     * [\#7 Statistische Funktionen](content/tutorials/einfuehrung-sql/7-statistische-funktionen.md)
     * [\#8 Datum und Zeit](content/tutorials/einfuehrung-sql/8-datum-und-zeit.md)
   * [Einführung Javascript](content/tutorials/einfuehrung-javascript.md)
+  * [Einführung in JSON](content/tutorials/einfuehrung-in-json.md)
   * [How to get started with Machine Learning](content/tutorials/how-to-get-started-with-machine-learning.md)
   * [Connect to TinkerForge Devices](content/tutorials/connect-to-tinkerforge-devices.md)
   * [Einführung in Markdown](content/tutorials/einfuehrung-in-markdown.md)

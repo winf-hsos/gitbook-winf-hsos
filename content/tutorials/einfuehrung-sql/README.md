@@ -34,5 +34,12 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
 * 7⃣ Statistische Funktionen
 * 8⃣ Datum und Zeit
 
+## 🔗 Links
 
+Auf der Plattform Datacamp gibt es sehr gute kostenlose Kurse zur Einführung in SQL:
+
+* [SQL for Data Science](https://campus.datacamp.com/courses/intro-to-sql-for-data-science)
+* [SQL for Exploratory Analysis](https://campus.datacamp.com/courses/sql-for-exploratory-data-analysis/)
+
+Beide Kurse empfehle ich in der Reihenfolge, um die Kenntnisse zu vertiefen und einen anderen Blick auf das Thema zu bekommen.
 
