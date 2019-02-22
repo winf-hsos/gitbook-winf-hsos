@@ -2,13 +2,17 @@
 
 ## 🎯 Lernziele
 
-* 🎯 ...
+* 🎯 Ihr wisst, was ein Algorithmus ist und kennt die wichtigsten Unterscheidungsmerkmale.
+* 🎯 Ihr kennt wichtige Eigenschaften von Algorithmen und was diese bedeuten.
 
 ## 🏷 Begriffe
 
 * 🏷Algorithmus
 * 🏷Regel-basierte Algorithmen
 * 🏷Maschinelles Lernen
+* 🏷Laufzeit \(O-Notation\)
+* 🏷Heuristik
+* 🏷Bias \(Verzerrung\)
 
 ## ⏮ Vorbereitung
 
@@ -20,7 +24,7 @@ Sollte euch das gesprochene Englisch zu schnell sein, aktiviert die Untertitel i
 
 {% embed url="https://youtu.be/h\_hW0-th9YA" %}
 
-Als Service für euch hier eine Liste mit wichtigen Punkten aus dem Video. Der Link öffnet das Video kurz bevor es um das Thema geht:
+Als Service für euch hier eine Liste mit wichtigen Punkten aus dem Video. Der Link öffnet das Video und springt zur Zeitmarke, ab der es um das Thema geht:
 
 * Autonomes Fahren
 * [Bayes Theorem \(41:39\)](https://youtu.be/h_hW0-th9YA?t=2499)
@@ -29,7 +33,7 @@ Lest dazu das passende einführende Kapitel aus dem Buch von Hannah Fry.
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-XX - Hello World - Hannah Fry - Power  | 11 |
+| \#WI-11 - Hello World - Hannah Fry - Power  | 11 |
 
 ## ▶ Session
 
@@ -39,7 +43,7 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des
 
 * 🔗 Link zum Quiz
 
-### 2⃣ Kurze Einführung in Codes \(⏲25 Min.\)
+### 2⃣ Übersicht der Eigenschaften von Algorithmen \(⏲25 Min.\)
 
 * What algorithms do
   * Prioritize
@@ -51,7 +55,13 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des
   * Machine learning algorithms 
 * Selected Algorithms
   * Bubble Sort
-  * Merge Sort
+  * Merge Sort 
+* Efficiency
+  * O-Notation
+  * Endless Loops
+  * NP-Completeness 
+* Correctness
+  * Biases
 
 ### 3⃣ Übungsaufgabe zu Codes \(⏲45 Min.\)
 
@@ -75,6 +85,8 @@ Im nächsten Abschnitt lernen wir einige wichtige Algorithmen 👾 kennen.
 {% page-ref page="wichtige-algorithmen.md" %}
 
 ## 🔗 Links
+
+* [Kostenloser Kurs "Algorithms" der Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 {% embed url="https://medium.com/brandons-computer-science-notes/divide-and-conquer-algorithms-4e83d9999ffa" %}
 

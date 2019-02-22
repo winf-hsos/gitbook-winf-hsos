@@ -107,7 +107,7 @@ Brynjolfsson, Erik; McAfee, Andrew \(2016\): The second machine age. Work, progr
 {% endtab %}
 
 {% tab title="\#3 Algorithmen" %}
-
+Fry, Hannah \(2018\): Hello world. How to be human in the age of the machine. London, New York, Toronto, Sidney, Auckland: Doubleday.
 {% endtab %}
 
 {% tab title="\#4 Coding" %}

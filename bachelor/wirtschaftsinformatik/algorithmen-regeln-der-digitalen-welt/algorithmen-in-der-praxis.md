@@ -18,8 +18,8 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-XX - Hello World - Hannah Fry - Power | 15 |
-| \#WI-XX - Doing Data Science - Naive Bayes | 5 |
+| \#WI-12 - Hello World - Hannah Fry - Cars | 18 |
+| \#WI-13 - Doing Data Science - Naive Bayes | 5 |
 
 ## ▶ Session
 

@@ -27,7 +27,7 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 | Titel | Seiten |
 | :--- | :--- |
 | \#WI-03 - Code - Charles Petzold - Chapter 2 - Codes and Combinations | 6 |
-| \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit | 18 |
+| \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit | 19 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 

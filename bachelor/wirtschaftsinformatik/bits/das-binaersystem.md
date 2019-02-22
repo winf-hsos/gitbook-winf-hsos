@@ -23,8 +23,8 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-06 - But How Do It Know - Logic Gates 🇺🇸  | 8 |
-| \#WI-07 - Max Tegmark - Life 3.0 - What is Computation? 🇺🇸 🇩🇪  | 10 |
+| \#WI-06 - But How Do It Know - What the... and Simple Variations 🇺🇸  | 7 |
+| \#WI-07 - Max Tegmark - Life 3.0 - What is Computation? 🇺🇸 🇩🇪  | 9 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
