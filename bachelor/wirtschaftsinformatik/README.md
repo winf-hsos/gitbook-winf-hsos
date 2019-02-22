@@ -101,13 +101,15 @@ Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligen
 {% endtab %}
 
 {% tab title="\#2 Digitalisierung" %}
-McAfee, Andrew; Brynjolfsson, Erik \(2018\): Machine, Platform, Crowd. Wie wir das Beste aus unserer digitalen Zukunft machen. Unter Mitarbeit von Philipp Seedorf. Kulmbach: Plassen Verlag.
+⭐ McAfee, Andrew; Brynjolfsson, Erik \(2018\): Machine, Platform, Crowd. Wie wir das Beste aus unserer digitalen Zukunft machen. Unter Mitarbeit von Philipp Seedorf. Kulmbach: Plassen Verlag.
 
 Brynjolfsson, Erik; McAfee, Andrew \(2016\): The second machine age. Work, progress, and prosperity in a time of brilliant technologies. New York, London: W.W. Norton & Company.
 {% endtab %}
 
 {% tab title="\#3 Algorithmen" %}
-Fry, Hannah \(2018\): Hello world. How to be human in the age of the machine. London, New York, Toronto, Sidney, Auckland: Doubleday.
+⭐ Fry, Hannah \(2018\): Hello world. How to be human in the age of the machine. London, New York, Toronto, Sidney, Auckland: Doubleday.
+
+Schutt, Rachel \(2014\): Doing data science. Sebastopol, CA: O'Reilly Media.
 {% endtab %}
 
 {% tab title="\#4 Coding" %}
@@ -123,9 +125,9 @@ Hafner, Katie; Lyon, Matthew \(2006\): Where wizards stay up late. The origins o
 {% endtab %}
 
 {% tab title="\#7 KI" %}
-Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): Prediction machines. The simple economics of artificial intelligence. Boston, Massachusetts: Harvard Business Review Press.
+⭐ Agrawal, Ajay; Gans, Joshua; Goldfarb, Avi \(2018\): Prediction machines. The simple economics of artificial intelligence. Boston, Massachusetts: Harvard Business Review Press.
 
-Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligence.
+⭐ Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligence.
 {% endtab %}
 {% endtabs %}
 
