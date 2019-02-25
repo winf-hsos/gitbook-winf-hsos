@@ -16,7 +16,7 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 ## 📃 Konzept <a id="concept"></a>
 
-### Disclaimer
+### Fokussierung
 
 Das Fach Wirtschaftsinformatik \(oder Digitalisierung im Allgemeinen\) ist nicht der inhaltliche Kern eures Studiums 👩🎓 . Deshalb sind viele der Themen eines klassischen Kanon der Wirtschaftsinformatik für euch nicht relevant. Zum Beispiel werdet ihr mit sehr hoher Wahrscheinlichkeit nicht im IT-Management einer Firma arbeiten und somit wäre es sinnlos, wenn wir über Themen wie IT-Strategie oder Software Lifecycle Management sprechen👎 . Vielmehr wird es euch wahrscheinlich weiterhelfen, mit geeigneten Methoden und Tools die größer werdende Datenvielfalt für euch und euren späteren Arbeitgeber gewinnbringend zu nutzen 💪.
 
