@@ -24,7 +24,7 @@ Kurz gesagt 👉 : Der Fokus der Veranstaltung liegt auf den Dingen, die **euch*
 
 ### Aufbau des Moduls
 
-Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolventen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer einer digitalisierten Gesellschaft von Bedeutung sind. 
+Dieses Modul ist in 7 Teile untergliedert, die zum größten Teil aufeinander aufbauen. In jedem Teil lernen wir Konzepte kennen, die für euch als zukünftige Absolvent\*innen eines Wirtschaftsingenieurstudiengangs und aufgeschlossene Teilnehmer\*innen einer digitalisierten Gesellschaft von Bedeutung sind. 
 
 * 1⃣ Bits - Atome der digitalen Welt
 * 2⃣ Digitalisierung - Tor zur digitalen Welt
@@ -47,9 +47,9 @@ In diesem Modul treffen wir uns regelmäßig zu zwei Sessions à 90 Minuten pro 
   * 🔁 Adressieren von offenen Fragen und Anmerkungen
   * ⏭ Ausblick auf die nächste Session
 
-Das Konzept basiert auf dem so genannten **Inverted Classroom**. Die Vorbereitung jeder Teilnehmer\*in auf die Sitzung ist dabei von zentraler Bedeutung, weil wir in der Session selbst vertiefende Übungen machen, die auf den vorzubereitenden Material aufbauen. Eine Wiederholung findet nicht statt.
+Das Konzept basiert auf der Idee des **Inverted Classroom**. Die Vorbereitung jeder Teilnehmer\*in auf die Sitzung ist dabei von zentraler Bedeutung, weil wir in der Session selbst vertiefende Übungen machen, die auf den vorzubereitenden Material aufbauen. Eine Wiederholung findet nicht statt.
 
-Das Quiz 🥇 dient zur Überprüfung, ob das vorzubereitende Material verstanden wurde. Sollte das durch die Bank nicht der Fall sein, kann eine kurze Klärung der wichtigsten Punkte erfolgen. Nach dem Quiz gebe ich einen kurzen Input 👨🏫 , der z.B. die wichtigsten Punkte des Themas noch einmal hervorhebt und zusammenfasst, oder das Thema um weitere Aspekte erweitert. Anschließend wendet ihr in der Übungsaufgabe die kennengelernten Konzepte an und wir diskutieren 💬 die Ergebnisse im Plenum.
+Das Quiz 🥇 dient zur Überprüfung, ob das vorzubereitende Material verstanden wurde. Sollte das nicht der Fall sein, kann eine kurze Klärung der wichtigsten Punkte erfolgen. Nach dem Quiz gebe ich einen kurzen Input 👨🏫 , der z.B. die wichtigsten Punkte des Themas noch einmal hervorhebt und zusammenfasst, oder das Thema um weitere Aspekte erweitert. Anschließend wendet ihr in der Übungsaufgabe die kennengelernten Konzepte an und wir diskutieren 💬 die Ergebnisse im Plenum.
 
 Während der Sitzung könnt ihr anonym Fragen und Anmerkungen über ein Online-Tool einreichen. Diese adressieren wir in den letzten 5 bis 10 Minuten jeder Sitzung. Den Schluss bildet immer der Ausblick auf das nächste Thema und was für die nächste Session vorzubereiten ist.
 
