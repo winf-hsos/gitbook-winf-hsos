@@ -61,7 +61,7 @@ Die Slides unten geben eine detailliertere Übersicht über die Veranstaltung. I
 
 ## 🎚 Level <a id="level"></a>
 
-Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄 .
+Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig😄.
 
 ## 🙀 Prüfungsleistung <a id="examination"></a>
 
@@ -71,21 +71,17 @@ Die Prüfungsleistung besteht aus einer 2-stündigen Klausur 📄 am Ende des Se
 
 Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
+* [Slack](https://winf-hsos.slack.com/signup)
 * [Scratch](https://scratch.mit.edu/)
 * [Airtable](https://airtable.com/)
 
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(auch 📑 Reader geannnt\) bereit. Die Sammlung lade ich als ZIP-Datei 🗜 im Dateibereich hoch. Folgende Texte sind enthalten:
-
-* 📂 
-  * 📑 \#WI-01 - Code - Charles Petzold - Chapter 7 - Out Ten Digits
-  * 📑 \#WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten
-  * 📑 \#WI-03 - Code - Charles Petzold - Chapter 2 - Codes and Combinations
-  * 📑 \#WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit
-  * 📑 \#WI-05 - The Way Things Work Now - David Macaulay - Making Bits
+Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(📑Reader\) bereit. Ihr findet im Dateibereich ein PDF-Dokument mit der Übersicht aller Texte.
 
 ## 📚 Empfohlene Literatur 
+
+Unten findet ihr getrennt nach Lektion die verwendete und empfohlene Literatur. Ein ⭐ markiert meine persönlichen Leseempfehlungen.
 
 {% tabs %}
 {% tab title="\#1 Bits" %}
@@ -130,14 +126,6 @@ Hafner, Katie; Lyon, Matthew \(2006\): Where wizards stay up late. The origins o
 ⭐ Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligence.
 {% endtab %}
 {% endtabs %}
-
-## 🚫  Was nicht Teil dieser Veranstaltung ist
-
-Der Fokus dieser Veranstaltung liegt auf den Themen, die euch einen unmittelbaren Vorteil für euer berufliches und privates Leben bieten können. Dadurch entfallen Themen, die jede\(r\) Absolvent\*in eines Wirtschaftsinformatikstudiengangs kennen sollte, jedoch für eine\(n\) Wirtschaftsingenieur\*in keinen direkten Nutzen erzeugen:
-
-* 🚫 Konzepte und Methoden des Software Engineering, wie z.B. Wasserfallmodell, Scrum, Lifecycle Management, Werkzeuge etc.
-* 🚫 IT-Strategie und IT-Management
-* 🚫 Netzwerktopologien und Netzwerkprotokolle
 
 ### 
 
