@@ -131,6 +131,7 @@
 
 * [Cheat Sheets](content/cheat-sheets/README.md)
   * [Cheatsheet SQL](content/cheat-sheets/cheatsheet-sql.md)
+  * [Cheatsheet Spark SQL](content/cheat-sheets/cheatsheet-spark-sql-scala-api.md)
   * [JavaScript fürs Web](content/cheat-sheets/javascript-fuers-web.md)
 * [Slides](content/slides.md)
 * [Tutorials](content/tutorials/README.md)
