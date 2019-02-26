@@ -46,8 +46,8 @@ Die folgende kurze Präsentation gibt einen Überblick über die 6 Logic Gates u
 
 Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
-* 🔗 Link zur Übungsaufgabe
-* 🔗 Link zur PDF-Version zum Download ⬇ 
+* 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/preview)
+* 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/export/pdf) ⬇ 
 
 ### 🔁 Offene Fragen \(⏲5 Min.\)
 
