@@ -135,6 +135,7 @@
   * [JavaScript fürs Web](content/cheat-sheets/javascript-fuers-web.md)
 * [Slides](content/slides.md)
 * [Tutorials](content/tutorials/README.md)
+  * [Daten mit SQL explorieren](content/tutorials/daten-mit-sql-explorieren.md)
   * [Einführung SQL](content/tutorials/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](content/tutorials/einfuehrung-sql/0-workspace-setup.md)
     * [\#1 Der SELECT Befehl](content/tutorials/einfuehrung-sql/1-der-select-befehl/README.md)
