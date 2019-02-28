@@ -3,7 +3,7 @@
 ## 🎯 Lernziele
 
 * 🎯 Ihr wisst, was ein Algorithmus ist und kennt die wichtigsten Unterscheidungsmerkmale.
-* 🎯 Ihr kennt wichtige Eigenschaften von Algorithmen und was diese bedeuten.
+* 🎯 Ihr kennt wichtige Eigenschaften von Algorithmen und deren Bedeutung.
 
 ## 🏷 Begriffe
 

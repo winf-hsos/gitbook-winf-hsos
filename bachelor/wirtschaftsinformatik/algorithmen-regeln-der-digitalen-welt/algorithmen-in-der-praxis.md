@@ -2,7 +2,8 @@
 
 ## 🎯 Lernziele
 
-* 🎯 ...
+* 🎯 Ihr kennt Beispiele für häufig verwendete Algorithmen in eurem täglichen Leben.
+* 🎯 Ihr versteht, wie diese Algorithmen funktionieren, um wichtige Aufgaben für uns zu erledigen.
 
 ## 🏷 Begriffe
 
@@ -31,7 +32,7 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des
 
 ### 2⃣ ...
 
-### 3⃣ Übungsaufgabe zu Codes \(⏲45 Min.\)
+### 3⃣ Übungsaufgabe zu Algorithmen in der Praxis \(⏲45 Min.\)
 
 Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 

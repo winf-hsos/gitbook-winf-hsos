@@ -2,13 +2,13 @@
 
 Noch etwas Geduld...👷 
 
-## What is a database?
+## 🔗 Links
 
-The best way to learn about databases is to create one yourself.
+### Tools
 
 {% embed url="https://airtable.com" %}
 
-## Online data sets
+### Online data sets
 
 {% embed url="http://dataportals.org/" %}
 
