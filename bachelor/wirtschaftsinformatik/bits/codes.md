@@ -74,7 +74,7 @@ Die nächste Session dreht sich um die atomaren Bausteine, aus denen Computer ge
 
 {% page-ref page="das-binaersystem.md" %}
 
-## Links
+## 🔗 Links
 
 * 🔗 [Kostenloser Online-Kurs "Modern Information Theory" von der Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory) ⭐ 
 * 🔗 [A Mathematical Theory of Communication von Claude Shannon \(1948\)](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) 😳 
