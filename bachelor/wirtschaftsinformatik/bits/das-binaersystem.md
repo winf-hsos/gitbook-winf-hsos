@@ -59,11 +59,7 @@ Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu a
 
 ### ⏭ Ausblick \(⏲5 Min.\)
 
-Wir haben bereits gehört, dass sämtliche Funktionalität eines Computers auf diesen einfachen Logic Gates basiert. Als nächstes wollen wir uns ansehen, wie genau das funktioniert. Dazu nehmen wir das Beispiel des Addieren von 2 Zahlen - natürlich Binärzahlen 🖖.
+Wir haben bereits gehört, dass sämtliche Funktionalität eines Computers auf einfachen Logic Gates basiert. Als nächstes wollen wir uns ansehen, wie genau das funktioniert. Dazu nehmen wir das Beispiel des Addieren von 2 Zahlen - natürlich Binärzahlen🖖.
 
 {% page-ref page="bits-addieren.md" %}
-
-## ⏭ Nachbereitung
-
-## 🔗 Links
 
