@@ -51,7 +51,7 @@ Scott, J. Clark \(2009\): But how do it know? The basic principles of computers 
 {% endtab %}
 
 {% tab title="\#2 Internet of Things" %}
-
+Hussain, Fatima \(2017\): Internet of Things. Building Blocks and Business Models. Cham, s.l.: Springer International Publishing \(SpringerBriefs in Electrical and Computer Engineering\).
 {% endtab %}
 
 {% tab title="\#3 AI" %}
