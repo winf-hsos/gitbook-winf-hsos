@@ -35,6 +35,7 @@
 * [Impacts of Digitalization](bachelor/impacts-of-digitalization/README.md)
   * [\#1 Coding](bachelor/impacts-of-digitalization/coding/README.md)
     * [Setup your IDE](bachelor/impacts-of-digitalization/coding/install-your-ide.md)
+    * [Your First Program](bachelor/impacts-of-digitalization/coding/your-first-program.md)
   * [\#2 Internet of Things](bachelor/impacts-of-digitalization/internet-of-things/README.md)
     * [Tinkerforge](bachelor/impacts-of-digitalization/internet-of-things/tinkerforge.md)
   * [\#3 Artificial Intelligence](bachelor/impacts-of-digitalization/artificial-intelligence/README.md)
