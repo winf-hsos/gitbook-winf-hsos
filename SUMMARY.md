@@ -39,6 +39,7 @@
     * [Programming Elements](bachelor/impacts-of-digitalization/coding/programming-elements.md)
   * [\#2 Internet of Things](bachelor/impacts-of-digitalization/internet-of-things/README.md)
     * [Building Blocks](bachelor/impacts-of-digitalization/internet-of-things/tinkerforge.md)
+    * [Applications](bachelor/impacts-of-digitalization/internet-of-things/applications.md)
   * [\#3 Artificial Intelligence](bachelor/impacts-of-digitalization/artificial-intelligence/README.md)
     * [Machine Learning](bachelor/impacts-of-digitalization/artificial-intelligence/machine-learning.md)
     * [Deep Learning](bachelor/impacts-of-digitalization/artificial-intelligence/deep-learning.md)
