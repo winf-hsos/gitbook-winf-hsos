@@ -12,12 +12,16 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 ## 📃 Konzept <a id="concept"></a>
 
-Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen von 3-4 Personen über das Semester hinweg bearbeitet wird. Die Fallstudie ist in 3 Phasen gegliedert. Am Ende werden die Ergebnisse im Plenum vorgestellt. Vorgelagert findet eine Einführung \(oder Auffrischung\) in SQL statt:
+Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen über das Semester hinweg bearbeitet wird. Die Fallstudie ist in Phasen gegliedert. Am Ende der letzten Phase werden die Ergebnisse im Plenum vorgestellt.
 
-* 0⃣ SQL 
-* 1⃣ Exploration und Grundlagen 🧭 
-* 2⃣ Analyse von Texten 📄 
+Details zur Fallstudie bekommt ihr in der ersten Sitzung. Es werden die folgenden Inhalte adressiert:
+
+* 1⃣ Exploration von unbekannten Datensätzen 🧭 
+* 2⃣ Analyse von Texten mit SQL und mittels Machine Learning 📄 
 * 3⃣ Objekterkennung auf Bildern 🖼 
+* 4⃣ Analyse von Netzwerkstrukturen wie z.B. Twitter 💬 
+
+Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse der Daten ist ein großer Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf des Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\) erworben werden.
 
 ## 🎚 Level <a id="level"></a>
 
