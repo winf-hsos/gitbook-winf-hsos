@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele
 
-* 🎯 ...
+* 🎯 Ihr könnt erklären, wie ein analoger Sachverhalt in eine digitale Version überführt werden kann.
 
 ## 🏷 Begriffe und Konzepte
 
