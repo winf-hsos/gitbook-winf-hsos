@@ -16,6 +16,7 @@
 * 🏷Loop
 * 🏷Object
   * 🏷Property
+  * 🏷JSON 
 * 🏷Function
   * 🏷Parameter
   * 🏷Return Value
