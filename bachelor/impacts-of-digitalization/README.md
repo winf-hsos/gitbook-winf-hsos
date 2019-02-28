@@ -17,6 +17,13 @@ This module is divided into 4 parts.
 * 3⃣ Artificial Intelligence - Algorithms that make our devices smart 👽 
 * 4⃣ Economic Impacts - The bigger picture of what digitalization does to our world 🌎 
 
+The first part introduces basic concepts of programming. We need this to implement a prototypical product based on Internet of Things \(IoT\) devices and Machine Learning algorithms. This prototype is also the subject of the experimental work, which accounts for 70% of the final grade.
+
+For the experimental work we rely heavily on group work. Therefore, the two weekly sessions are divided as follows:
+
+* 🏷 Session 1: Learn new concepts and discuss the topics at hand.
+* 🧪 Session 2: Maker Lab - Working in groups on the experimental prototype.
+
 ## 🎚 Level <a id="level"></a>
 
 This is an introductory course, so there are no prerequisites to enroll 😄. That said, it will help you if you have an understanding of programming 🦸♂. But don't worry,  most of you won't and we'll cover everything you need in this course. The primary goal of this course is to tinker 👾 with technology and have fun!
