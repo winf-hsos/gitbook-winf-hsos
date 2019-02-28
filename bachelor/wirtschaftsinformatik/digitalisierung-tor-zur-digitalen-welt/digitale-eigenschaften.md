@@ -1,6 +1,8 @@
 # Digitale Eigenschaften
 
-* 🏷 _Digitization_ vs _Digitalization_
+## 🏷 Begriffe
+
+* 🏷 Digitization vs Digitalization
 
 ## ⏮ Vorbereitung
 

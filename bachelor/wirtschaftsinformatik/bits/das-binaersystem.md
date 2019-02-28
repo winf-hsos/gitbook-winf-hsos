@@ -8,7 +8,7 @@
 * 🎯 Ihr wisst, dass das NAND-Gate ein universelles Logic Gate ist und was das bedeutet.
 * 🎯 Ihr wisst, dass das NAND-Gate der einzige notwendige Baustein eines Computers ist.
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
 * 🏷Logic Gate
 * 🏷Universal Logic Gate

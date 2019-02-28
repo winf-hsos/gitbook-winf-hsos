@@ -6,7 +6,7 @@
 
 * 🎯 Ihr versteht wie ein Computer mithilfe von Logic Gates beliebige Zahlen addieren kann.
 
-## 🏷 Begriffe und Konzepte
+## 🏷 Begriffe
 
 * 🏷Half Adder
 * 🏷Binary Adding Machine
