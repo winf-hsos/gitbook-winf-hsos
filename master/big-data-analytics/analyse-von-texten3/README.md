@@ -7,6 +7,7 @@
 * 🎯 Ihr könnt einschätzen, welche Informationen in Textdaten enthalten sein können und könnte diese mit geeigneten Methoden extrahieren.
 * 🎯 Ihr könnt Textdaten für eine strukturierte Analyse mit SQL vorbereiten.
 * 🎯 Ihr könnt einfache Analyseverfahren wie das Zählen bestimmter Suchbegriffe mit SQL umsetzen.
+* 🎯 Ihr kennt Möglichkeiten des maschinellen Lernens bei der Textanalyse.
 
 ## \*\*\*\*❓ **Fragen**
 
@@ -14,6 +15,7 @@
 * ❓ Wie können unstrukturierte Textdaten mittels SQL analysiert werden?
 * ❓ Welche Schritte sind typisch für die Vorbereitung der Texte?
 * ❓ Wie wende ich diese Schritte auf die Daten an?
+* ❓ Welche Möglichkeiten bieten Cloud-Dienste bei der Textanalyse?
 
 ## 🏷 Begriffe
 

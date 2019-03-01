@@ -1,4 +1,4 @@
-# \#2 Exploration unbekannter Daten
+# \#2 Exploration von Daten
 
 ## 🎯 Lernziele
 
