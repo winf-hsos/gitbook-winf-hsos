@@ -79,3 +79,9 @@ select max(film_date) as `Aktuellstes Datum`
 from ted_meta
 ```
 
+## 💡 Statistische Größen berechnen
+
+```sql
+select avg(duration) from ted_meta
+```
+
