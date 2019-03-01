@@ -147,6 +147,7 @@
       * [Ergebnisse sortieren](content/tutorials/einfuehrung-sql/1-der-select-befehl/ergebnisse-sortieren.md)
       * [Einfache Aggregationen](content/tutorials/einfuehrung-sql/1-der-select-befehl/einfache-aggregationen.md)
       * [Gruppierungen](content/tutorials/einfuehrung-sql/1-der-select-befehl/gruppierungen.md)
+      * [Gruppierte Daten filtern](content/tutorials/einfuehrung-sql/1-der-select-befehl/gruppierte-daten-filtern.md)
     * [\#2 Mehrere Tabellen](content/tutorials/einfuehrung-sql/2-mehrere-tabellen.md)
     * [\#3 Mengenoperationen](content/tutorials/einfuehrung-sql/3-mengenoperationen.md)
     * [\#4 Unterabfragen](content/tutorials/einfuehrung-sql/4-unterabfragen.md)
