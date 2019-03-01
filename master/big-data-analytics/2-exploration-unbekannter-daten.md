@@ -2,6 +2,7 @@
 
 ## 🎯 Lernziele
 
+* 🎯 Ihr kennt Formate, in denen Datensätze häufig gespeichert werden, und wie ihr mit den unterschiedlichen Formaten geeignet verfahren könnt.
 * 🎯 Ihr kennt Kenngrößen und Verfahren, die euch beim Erschließen neuer Datensätze helfen und könnt diese mittels SQL auf unbekannte Daten anwenden.
 
 ## \*\*\*\*❓ **Fragen**
