@@ -45,6 +45,10 @@ Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick
 
 ![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%289%29.png)
 
+{% hint style="info" %}
+Neben dem Jahr \(`year()`\) könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](einfuehrung-sql/8-datum-und-zeit.md) des einführenden SQL Tutorials.
+{% endhint %}
+
 ## 💡 Die zeitliche Verteilung der Daten ermitteln
 
 Die meisten Datensätze, die wir in der Praxis analysieren, haben einen Zeitbezug. Konkret heißt das, es gibt mindestens eine Spalte mit dem Datentyp `timestamp` oder `date`.
