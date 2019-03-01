@@ -103,7 +103,7 @@ Angenommen wir wollen nun nicht nur den Talk mit der ID = 1, sondern auch den mi
 
 ```sql
 select * from ted_meta
-where id = 
+where id = 1
 or id = 100
 ```
 
@@ -178,7 +178,7 @@ Für solche komplexere Anwendungen verweise ich auf den Abschnitt [\#8 Datum und
 
 Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
 
-#### Aufgabe 1.3
+#### Aufgabe 1.4
 
 {% tabs %}
 {% tab title="Aufgabe" %}
@@ -194,7 +194,7 @@ where event = 'TED2005'
 {% endtab %}
 {% endtabs %}
 
-#### Aufgabe 1.4
+#### Aufgabe 1.5
 
 {% tabs %}
 {% tab title="Aufgabe" %}
@@ -206,14 +206,6 @@ Gib eine Liste der Talks von Sam Harris, Steven Pinker und Amy Cuddy aus.
 select * from ted_meta
 where main_speaker IN ('Sam Harris', 'Steven Pinker', 'Amy Cuddy')
 ```
-{% endtab %}
-{% endtabs %}
-
-#### Aufgabe 1.5
-
-{% tabs %}
-{% tab title="Aufgabe" %}
-
 {% endtab %}
 {% endtabs %}
 
