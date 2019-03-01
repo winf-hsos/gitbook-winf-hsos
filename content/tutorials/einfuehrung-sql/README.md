@@ -15,7 +15,7 @@ Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein
   * 💡 [Ergebnisse sortieren](1-der-select-befehl/ergebnisse-sortieren.md) \(`ORDER BY`\)
   * 💡 [Einfache Aggregationen](1-der-select-befehl/einfache-aggregationen.md) \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
   * 💡 [Gruppierungen](1-der-select-befehl/gruppierungen.md) \(`GROUP BY`\)
-  * 💡 Gruppierte Daten filtern \(`HAVING`\) 
+  * 💡 [Gruppierte Daten filtern](1-der-select-befehl/gruppierte-daten-filtern.md) \(`HAVING`\) 
 * 2⃣ Mehrere Tabellen
   * 💡 `INNER`-Join
   * 💡 `LEFT` und `RIGHT`-Join
