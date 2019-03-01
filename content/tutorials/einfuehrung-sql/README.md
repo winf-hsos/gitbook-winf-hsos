@@ -2,6 +2,10 @@
 
 Das folgende Tutorial führt SQL als Abfragesprache für strukturierte Daten ein. Als Beispieldatensatz verwenden wir einen aus 4 Tabellen bestehenden Datensatz zu TED-Talks. [Der Originaldatensatz wurde auf Kaggle.com veröffentlicht](https://www.kaggle.com/goweiting/ted-talks-transcript) und wurde für dieses Tutorial geringfügig angepasst.
 
+{% hint style="info" %}
+Aktuell sind nur die Teile \#0 und \#1 fertig. Der Rest folgt bald 👷♀ .
+{% endhint %}
+
 ## Übersicht
 
 * 0⃣ [Workspace Setup](0-workspace-setup.md) 💻 
