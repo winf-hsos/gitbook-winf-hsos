@@ -13,7 +13,7 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
   * Your Role = Student 👩🎓  
 * ✅ Ihr erhaltet eine Bestätigungsmail an eure angegebene Email-Adresse. Darin ist ein Link enthalten, mit dem ihr eure Anmeldung bestätigt und ein Passwort festlegt. Das Passwort muss mindestens ein Sonderzeichen enthalten. 
 * ✅ Nachdem ihr euer Passwort festgelegt habt werden ihr automatisch eingeloggt und zu Databricks weitergeleitet.  
-* ℹ Nach einem Logout könnt ihr euch später jederzeit über🔗[diesen Link](https://community.cloud.databricks.com/login.html) wieder einloggen.
+* ℹ Nach einem Logout könnt ihr euch später jederzeit über🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html) wieder einloggen.
 
 Wenn ihr eingeloggt wurdet und die Databricks Startseite seht, ist die Anmeldung erfolgreich abgeschlossen✔.
 
@@ -38,7 +38,7 @@ Wenn alles funktioniert hat ist das Notebook als Kopie in eurem Account gespeich
 
 Hier die Links zu den Notebooks:
 
-* 🗒 \#1 Der SELECT Befehl
+* 🗒 [\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html)
 * 🗒 \#2 Mehrere Tabellen
 * 🗒 \#3 Mengenoperationen
 * 🗒 \#4 Unterabfragen
