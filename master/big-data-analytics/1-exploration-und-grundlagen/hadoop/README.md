@@ -16,15 +16,13 @@ description: In dieser Session lernen wir Hadoop kennen.
 
 ## 🏷 Begriffe
 
-* 🏷 HDFS
-* 🏷 MapReduce
-  * 🏷 Map
-  * 🏷 Reduce
-  * 🏷 Shuffle
-* 🏷 Cluster
-* 🏷 Data Node
-* 🏷 Worker Node
-* 🏷 Name Node
+* 🏷Distributed Filesystem and Processing
+* 🏷Cluster
+* 🏷HDFS
+* 🏷MapReduce
+  * 🏷Data Node
+  * 🏷Worker Node
+  * 🏷Name Node
 
 ## 🔑 Key Points
 

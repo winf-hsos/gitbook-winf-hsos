@@ -1,9 +1,17 @@
-# \#1 Exploration und Grundlagen
+# \#1 Big Data Grundlagen
+
+## 🎯 Lernziele
+
+* 🎯 Ihr kennt den Big Data Begriff und könnt darüber diskutieren, was Big Data bedeutet.
+* 🎯 Ihr kennt die Herausforderungen, die Big Data mit sich bringt und könnt die wichtigsten Lösungsansätze beschreiben.
 
 ## ❓ Fragen
 
+### Grundlagen
+
 * ❓Was charakterisiert Big Data?
 * ❓Vor welche Herausforderungen stellt uns Big Data?
+* ❓Warum funktionieren traditionelle Lösungsansätze mit Big Data nicht?
 * ❓Welche Lösungsansätze gibt es, um diesen Herausforderungen zu begegnen?
 
 ## 🏷 Begriffe
@@ -12,12 +20,14 @@
   * 🏷Volume
   * 🏷Variety
   * 🏷Velocity
-* 🏷Polystrukturierte Daten
+* 🏷Polystrukturierte Daten 
 * 🏷Distributed Filesystem and Processing
-* 🏷Hadoop
-  * 🏷HDFS
-  * 🏷MapReduce
-* 🏷 Cluster
+* 🏷Cluster
+* 🏷HDFS
+* ​ 🏷MapReduce
+  * ​​ 🏷Data Node
+  * ​​ 🏷Worker Node
+  * ​​ 🏷Name Node 
 * 🏷Apache Spark
   * 🏷 RDD
   * 🏷 Spark Transformations und Actions
