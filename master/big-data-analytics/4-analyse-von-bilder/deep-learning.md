@@ -1,4 +1,4 @@
 # Deep Learning
 
-Folgt bald 🕟. 
+Bitte habt noch etwas Geduld 👷♀.
 

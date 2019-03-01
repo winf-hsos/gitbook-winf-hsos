@@ -4,10 +4,11 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr könnt einschätzen, welche Informationen in Textdaten enthalten sein können und könnte diese mit geeigneten Methoden extrahieren.
+* 🎯 Ihr kennt Anwendungsszenarien für die Analyse von Texten.
 * 🎯 Ihr könnt Textdaten für eine strukturierte Analyse mit SQL vorbereiten.
 * 🎯 Ihr könnt einfache Analyseverfahren wie das Zählen bestimmter Suchbegriffe mit SQL umsetzen.
 * 🎯 Ihr kennt Möglichkeiten des maschinellen Lernens bei der Textanalyse.
+* 🎯 Ihr kennt Cloud-Dienste ☁, für die automatisierte Textanalyse und ihr wisst, wie ihr diese nutzen könnt.
 
 ## \*\*\*\*❓ **Fragen**
 
