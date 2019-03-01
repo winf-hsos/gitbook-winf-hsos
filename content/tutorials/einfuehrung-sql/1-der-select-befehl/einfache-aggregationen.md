@@ -27,7 +27,77 @@ Im obigen Beispiel wird ein Ergebnis mit einer Spalte zurückgeliefert, das die 
 
 Auf diese Weise können sämtliche Spalten eines SQL Statements umbenannt werden. Für eine schönere und lesbare Ausgabe ist das häufig ratsam.
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
+
+Die anderen Aggregationsfunktionen machen das, was man intuitiv erwartet. 
+
+Wie viele Views hatten alle Talks des TED 2010 Events?
+
+```sql
+select sum(views) as `Summe der Views`
+from ted_meta
+where event = 'TED2010'
+```
+
+Was ist die durchschnittliche Länge eines TED-Talks?
+
+```sql
+select avg(duration / 60) as `Durchschnittliche Länge in Minuten`
+from ted_meta
+```
+
+Wie lang ist der längste und kürzeste TED Talk?
+
+```sql
+select max(duration / 60) as `Dauer des längsten Talks in Minuten`
+      ,min(duration / 60) as `Dauer des kürzesten Talks in Minuten`
+from ted_meta
+```
+
+Welche Sprecher haben einen TED-Talk gehalten \(doppelte Speaker entfernt\):
+
+```sql
+select distinct main_speaker
+from ted_meta
+```
+
+Wie viele Speaker waren das insgesamt?
+
+```sql
+select count(distinct main_speaker) as `Anzahl unterschiedliche Speaker`
+from ted_meta
+```
 
 ## 🧪 Übungsaufgaben
+
+#### Aufgabe 1.8
+
+{% tabs %}
+{% tab title="Aufgabe" %}
+Wie viele Kommentare hab es über alle Talks hinweg?
+{% endtab %}
+
+{% tab title="Lösung" %}
+```sql
+select sum(comments) as `Anzahl Kommentare`
+from ted_meta
+```
+{% endtab %}
+{% endtabs %}
+
+#### Aufgabe 1.9
+
+{% tabs %}
+{% tab title="Aufgabe" %}
+Von wann ist der neueste und älteste TED Talk im Datensatz?
+{% endtab %}
+
+{% tab title="Lösung" %}
+```sql
+select min(film_date) as `Ältester Talk`
+      ,max(film_date) as `Neuester Talk`
+from ted_meta
+```
+{% endtab %}
+{% endtabs %}
 
