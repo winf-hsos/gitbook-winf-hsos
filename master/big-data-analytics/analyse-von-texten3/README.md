@@ -1,5 +1,7 @@
 # \#3 Analyse von Texten
 
+> “In analytics there is no such thing as unstructured data, just data that structure has not yet been applied to”. \(Hjalmar Gislason\)
+
 ## 🎯 Lernziele
 
 * 🎯 Ihr könnt einschätzen, welche Informationen in Textdaten enthalten sein können und könnte diese mit geeigneten Methoden extrahieren.
@@ -28,9 +30,11 @@
   * Legal Documents, Prüfungsberichte
   * E-Mails
   * Log-Dateien \(Computer, industrielle Maschinen\) 
-* 🔑 Texte sind im Gegensatz zu strukturierten Daten in einem XLS-Spreadsheet oder in einer relationalen Datenbank ohne unser Zutun unstrukturiert und damit gibt es keinen Ansatzpunkt für die Analyse. Deshalb müssen wir zunächst eine Struktur auf Textdaten projizieren.
+* 🔑 Texte sind - im Gegensatz zu natürlich strukturierten Daten in einem XLS-Spreadsheet oder in einer relationalen Datenbank - ohne unser Zutun unstrukturiert. Damit gibt es zunächst keinen Ansatzpunkt für die Analyse. Deshalb müssen wir zunächst eine Struktur auf Textdaten projizieren.
 
 ## 🔗 Links
+
+* 🔗 [There is no "unstructured data" in Analytics](https://medium.com/@hjalli/there-is-no-unstructured-data-in-analytics-8c5d06944b23)
 
 {% embed url="https://blog.openai.com/better-language-models/" %}
 
