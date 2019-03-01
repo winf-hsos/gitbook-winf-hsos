@@ -43,7 +43,35 @@ Die häufigsten Werte werden im Ergebnis oben angezeigt.
 
 Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick in eine visuelle Form zu bringen. Dazu nutzt ihr die Buttonleiste unter der Ergebnisanzeige. Mit Klick auf Chartsymbol bekommt ihr sofort eine Anzeige als Balkendiagramm. Über die den Button "Plot Options..." könnt ihr auch andere Charts auswählen und die Achsen konfigurieren.
 
-![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%288%29.png)
+![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%289%29.png)
 
+## 💡 Die zeitliche Verteilung der Daten ermitteln
 
+Die meisten Datensätze, die wir in der Praxis analysieren, haben einen Zeitbezug. Konkret heißt das, es gibt mindestens eine Spalte mit dem Datentyp `timestamp` oder `date`.
+
+### Verteilung pro Jahr oder Monat
+
+Über diese Spalten bekommen wir die Information, auf welchen Zeitraum sich die vorliegenden Daten beziehen. Wie aktuell sind die Daten? Wie weit reicht die Historie der Verkaufszahlen zurück? Aus welchen Jahren stammen die TED Talks? Die letzte Frage können wir so beantworten:
+
+```sql
+select year(film_date) as `Jahr des Talks`
+      ,count(1) as `Anzahl Talks`
+from ted_meta
+group by year(film_date)
+order by year(film_date)
+```
+
+Auch hier ist eine Visualisierung sinnvoll:
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+### Anfangs- und Enddatum
+
+In manchen Fällen interessiert uns auch das konkrete Datum, das am weitesten in der Vergangenheit liegt, oder das am aktuellsten ist:
+
+```sql
+select max(film_date) as `Aktuellstes Datum`
+      ,min(film_date) as `Ältestes Datum`
+from ted_meta
+```
 

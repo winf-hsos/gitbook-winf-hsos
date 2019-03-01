@@ -27,7 +27,7 @@ Im obigen Beispiel wird ein Ergebnis mit einer Spalte zurückgeliefert, das die 
 
 Auf diese Weise können sämtliche Spalten eines SQL Statements umbenannt werden. Für eine schönere und lesbare Ausgabe ist das häufig ratsam.
 
-![](../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../.gitbook/assets/image%20%2818%29.png)
 
 Die anderen Aggregationsfunktionen machen das, was man intuitiv erwartet. 
 
