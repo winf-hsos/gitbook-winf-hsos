@@ -1,4 +1,4 @@
-# \#4 Objekterkennung auf Bildern
+# \#4 Analyse von Bildern
 
 ## 🔗 Links
 

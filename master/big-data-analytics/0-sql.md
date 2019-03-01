@@ -4,7 +4,7 @@
 Um in diesem Modul Erfolg zu haben werdet ihr gute SQL-Kenntnisse benötigen. 
 {% endhint %}
 
-SQL ist eine Datenabfragesprache und sozusagen das Schweizer Taschenmesser 🛠 für die Datenanalyse. Daher ist es ratsam, vorher andere Module belegt zu haben, die SQL thematisieren. In meinem Bereich zählen dazu:
+SQL ist eine Abfragesprache für Daten und sozusagen das Schweizer Taschenmesser 🛠 für die Datenanalyse. Daher ist es ratsam, vorher andere Module belegt zu haben, die SQL thematisieren. In meinem Bereich zählen dazu:
 
 * Information Management \(Bachelor\)
 * Applied Analytics \(Bachelor\)
