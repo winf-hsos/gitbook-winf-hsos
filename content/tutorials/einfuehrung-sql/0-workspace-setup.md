@@ -12,7 +12,7 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
   * Intended Use Case = Education - Teaching 👨🏫 
   * Your Role = Student 👩🎓  
 * ✅ Ihr erhaltet eine Bestätigungsmail an eure angegebene Email-Adresse. Darin ist ein Link enthalten, mit dem ihr eure Anmeldung bestätigt und ein Passwort festlegt. Das Passwort muss mindestens ein Sonderzeichen enthalten. 
-* ✅ Nachdem ihr euer Passwort festgelegt habt werden ihr automatisch eingeloggt und zu Databricks weitergeleitet.  
+* ✅ Nachdem ihr euer Passwort festgelegt habt, werdet ihr automatisch eingeloggt und zu Databricks weitergeleitet.  
 * ℹ Nach einem Logout könnt ihr euch später jederzeit über🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html) wieder einloggen.
 
 Wenn ihr eingeloggt wurdet und die Databricks Startseite seht, ist die Anmeldung erfolgreich abgeschlossen✔.
