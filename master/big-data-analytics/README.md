@@ -14,12 +14,13 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 
 Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen über das Semester hinweg bearbeitet wird. Die Fallstudie ist in Phasen gegliedert. Am Ende der letzten Phase werden die Ergebnisse im Plenum vorgestellt.
 
-Details zur Fallstudie bekommt ihr in der ersten Sitzung. Es werden die folgenden Inhalte adressiert:
+Details zur Fallstudie bekommt ihr in der ersten Sitzung. Im Rahmen des Moduls und der Fallstudie werden die folgenden Inhalte adressiert:
 
-* 1⃣ Exploration von unbekannten Datensätzen 🧭 
-* 2⃣ Analyse von Texten mit SQL und mittels Machine Learning 📄 
-* 3⃣ Objekterkennung auf Bildern 🖼 
-* 4⃣ Analyse von Netzwerkstrukturen wie z.B. Twitter 💬 
+* 1⃣ Grundlagen Big Data
+* 2⃣ Exploration von \(unbekannten\) Datensätzen 🧭 
+* 3⃣ Analyse von Texten mit SQL und mittels Machine Learning 📄 
+* 4⃣ Objekterkennung auf Bildern 🖼 
+* 5⃣ Analyse von Netzwerkstrukturen wie z.B. Twitter 💬 
 
 Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse der Daten ist ein großer Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf des Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\) erworben werden.
 
@@ -28,9 +29,9 @@ Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendun
 Es handelt sich um ein Einführungsmodul und es sind keine Vorkenntnisse notwendig 😄. 
 
 * Kenntnisse im Bereich Datenbanken und SQL sind hilfreich.
-* Die beiden Bachelormodule 👨🏫 Information Management und 👨🏫 Applied Analytics sind ideale Voraussetzungen.
+* Die beiden Bachelormodule 👨🏫Information Management und 👨🏫Applied Analytics sind ideale Voraussetzungen. Alternativ hilft auch das Mastermodul 👨🏫Empirisches Arbeiten weiter.
 
-Aber keine Angst, wir beginnen ganz von vorn. 😁 
+Aber keine Angst, mit viel Einsatz geht es auch ohne Vorkenntnisse 📈. 
 
 ## 🙀 Prüfungsleistung <a id="examination"></a>
 
