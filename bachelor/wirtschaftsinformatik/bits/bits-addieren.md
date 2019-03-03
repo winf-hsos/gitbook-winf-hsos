@@ -4,7 +4,8 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr versteht wie ein Computer mithilfe von Logic Gates beliebige Zahlen addieren kann.
+* 🎯 Ihr könnt Binärzahlen addieren.
+* 🎯 Ihr könnt erklären, wie ein Computer mithilfe von Logic Gates beliebige Zahlen addieren kann.
 
 ## 🏷 Begriffe
 
