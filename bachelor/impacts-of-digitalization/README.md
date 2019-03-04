@@ -19,7 +19,7 @@ This module is divided into 4 parts.
 
 The first part introduces basic concepts of programming. We need this to implement a prototypical product based on Internet of Things \(IoT\) devices and Machine Learning algorithms. This prototype is also the subject of the experimental work, which accounts for 70% of the final grade.
 
-For the experimental work we rely heavily on group work. Therefore, the two weekly sessions are divided as follows:
+For the experimental part, we rely heavily on group work. Therefore, the two weekly sessions are divided as follows:
 
 * 🏷 Session 1: Learn new concepts and discuss the topics at hand.
 * 🧪 Session 2: Maker Lab - Working in groups on the experimental prototype.
