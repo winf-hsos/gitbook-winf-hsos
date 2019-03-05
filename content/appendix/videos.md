@@ -2,6 +2,12 @@
 
 All my videos are on my YouTube channel under [this link](https://www.youtube.com/channel/UC4qYjwJaVh3uABOajAjUA0w/featured).
 
+## Big Data Analytics
+
+| Title | Duration |
+| :--- | :--- |
+| [Databricks Notebooks importieren](https://www.youtube.com/watch?v=35OMAYr5Vww) | 06:31 |
+
 ## Web Engineering
 
 | Title | Duration |
@@ -29,6 +35,7 @@ All my videos are on my YouTube channel under [this link](https://www.youtube.co
 | Title | Duration |
 | :--- | :--- |
 | [SQL Einführung am Limonade-Datensatz - Teil 1](https://www.youtube.com/watch?v=4n7hlrT7XBQ) | 32:52 |
+| [SQL Einführung am Limonade-Datensatz - Teil \(Verhältniszahlen berechnen\)](https://youtu.be/ukrtEOZ99gU) | 20:52 |
 
 I only accept the best sound quality for you :-\) So I hope you are happy with what you hear \(at least sound-quality wise\). It's all recorded in my home-grown recording studio:
 
