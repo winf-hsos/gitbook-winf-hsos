@@ -34,6 +34,12 @@ Das Vorgehen zum Importieren eines Notebooks ist einfach:
 
 Wenn alles funktioniert hat ist das Notebook als Kopie in eurem Account gespeichert und ihr könnt damit arbeiten. Für jeden Abschnitt dieses Tutorials stelle ich ein separates Notebook bereit, das ihr importieren könnt.
 
+#### Video
+
+Für das Importieren von Notebooks habe ich auch ein kurzes Video erstellt:
+
+{% embed url="https://youtu.be/35OMAYr5Vww" %}
+
 ### Liste der Notebooks
 
 Hier die Links zu den Notebooks:
