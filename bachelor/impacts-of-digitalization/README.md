@@ -4,12 +4,13 @@
 
 * You know how computers work on a basic level.
 * You know what digitization means and how computer represent things from the analog world.
-* You know the basics of programming languages and you can apply them in simple programs.
+* You know the basics of programming and you can apply them in simple programs.
 * You can explain what important digital technologies such as Internet of Things and Artificial Intelligence are and why they play a major role for many businesses.
 * You can write a program that reads data from sensors and uses that data to trigger some action in the real world.
 * You have an understanding of the broad field of artificial intelligence and you can distinguish AI from Machine Learning.
 * You can apply cloud services for Machine Learning in your own projects.
-* You know properties of digital goods and services and how these lead to new business models and threatens existing ones.
+* You know properties of digital goods and services and how these lead to new business models and threaten existing ones.
+* You can discuss important questions about the future of digital technologies such as AI.
 
 ## 🇺🇲 Language
 
