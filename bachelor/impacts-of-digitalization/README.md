@@ -33,6 +33,10 @@ For the experimental part, we rely heavily on group work. Therefore, the two wee
 * 🏷 Session 1: Learn new concepts and discuss the topics at hand.
 * 🧪 Session 2: Maker Lab - Working in groups on the experimental prototype.
 
+The slides from the first session give you more details. You can also [download a PDF version⬇](https://docs.google.com/presentation/d/1kxMBBjJ_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/export/pdf):
+
+{% embed url="https://docs.google.com/presentation/d/1kxMBBjJ\_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/preview" %}
+
 ## 💬 Continuous Feedback
 
 During the whole semester you can submit your questions, comments, and feedback through a Q&A online form. We'll address popular questions in class and via Slack. The link to the Q&A online form is provided in class.
