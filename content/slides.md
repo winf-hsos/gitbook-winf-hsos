@@ -1,5 +1,11 @@
 # Slides
 
+## Impacts of Digitalization
+
+| Title | PDF |
+| :--- | :--- |
+| [Impacts of Digitalization \#00 - Course Logistics](https://docs.google.com/presentation/d/1kxMBBjJ_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/preview) | [PDF](https://docs.google.com/presentation/d/1kxMBBjJ_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/export/pdf) |
+
 ## Information Management
 
 | Title | PDF |
