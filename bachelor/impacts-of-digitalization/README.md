@@ -2,6 +2,8 @@
 
 ## 🎯 Learning Objectives <a id="learning-objectives"></a>
 
+* You know how computers work on a basic level.
+* You know what digitization means and how computer represent things from the analog world.
 * You know the basics of programming languages and you can apply them in simple programs.
 * You can explain what important digital technologies such as Internet of Things and Artificial Intelligence are and why they play a major role for many businesses.
 * You can write a program that reads data from sensors and uses that data to trigger some action in the real world.
@@ -17,12 +19,13 @@ This module is part of the international program. For this reason, the language 
 
 This module is divided into 4 parts.
 
-* 1⃣ Coding - The basics we need to work with digital technology ⌨ 
-* 2⃣ Internet of Things - Devices with sensors that we can program 👩💻 
-* 3⃣ Artificial Intelligence - Algorithms that make our devices smart 👽 
-* 4⃣ Economic Impacts - The bigger picture of what digitalization does to our world 🌎 
+* 1⃣ Digitization - The basics we need to work with digital technology 01 
+* 2⃣ Coding - The superpower that allows us to tell a computer what to do ⌨ 
+* 3⃣ Internet of Things - Devices with sensors that we can program 👩💻 
+* 4⃣ Artificial Intelligence - Algorithms that make our devices smart 👽 
+* 5⃣ Economic Impacts - The bigger picture of what digitalization does to our world 🌎 
 
-The first part introduces basic concepts of programming. We need this to implement a prototypical product based on Internet of Things \(IoT\) devices and Machine Learning algorithms. This prototype is also the subject of the experimental work, which accounts for 70% of the final grade.
+In the first part, we'll look at the basics of digitization and we'll try to understand how computers do all these cool things. We then introduce some basic concepts of programming. We need this to implement a prototypical product based on Internet of Things \(IoT\) devices and Machine Learning algorithms. This prototype is also the subject of the experimental work, which accounts for 70% of the final grade. At the end, we'll look at the bigger picture to see how digitalization leads to new business models and how that affects the economy.
 
 For the experimental part, we rely heavily on group work. Therefore, the two weekly sessions are divided as follows:
 
@@ -41,7 +44,6 @@ Unlike most courses, this one has no final written examination 🤩. Since we ar
 
 You need the following tools 🛠 and accounts. All tools are free of charge:
 
-* [Github Account](https://github.com/join)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Tinkerforge Brick Viewer & Daemon](https://www.tinkerforge.com/en/doc/Downloads.html)
 * [Microsoft Azure ML Studio](https://studio.azureml.net/)
@@ -49,21 +51,25 @@ You need the following tools 🛠 and accounts. All tools are free of charge:
 ## 📚 Recommended Literature
 
 {% tabs %}
-{% tab title="\#1 Coding" %}
+{% tab title="\#1 Digitization" %}
 Petzold, Charles \(2000\): Code. The hidden language of computer hardware and software. Redmond Wash.: Microsoft Press.
 
 Scott, J. Clark \(2009\): But how do it know? The basic principles of computers for everyone. Oldsmar, FL: John C. Scott.
 {% endtab %}
 
-{% tab title="\#2 Internet of Things" %}
+{% tab title="\#2 Coding" %}
+Copes, Flavio \(2018\), The definitive Node.js Handbook \([Online](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)\)
+{% endtab %}
+
+{% tab title="\#3 Internet of Things" %}
 Hussain, Fatima \(2017\): Internet of Things. Building Blocks and Business Models. Cham, s.l.: Springer International Publishing \(SpringerBriefs in Electrical and Computer Engineering\).
 {% endtab %}
 
-{% tab title="\#3 AI" %}
+{% tab title="\#4 AI" %}
 
 {% endtab %}
 
-{% tab title="\#4 Economic Impacts" %}
+{% tab title="\#5 Economic Impacts" %}
 McAfee, Andrew; Brynjolfsson, Erik \(2018\): Machine, Platform, Crowd. Wie wir das Beste aus unserer digitalen Zukunft machen. Unter Mitarbeit von Philipp Seedorf. Kulmbach: Plassen Verlag.
 
 Brynjolfsson, Erik; McAfee, Andrew \(2016\): The second machine age. Work, progress, and prosperity in a time of brilliant technologies. New York, London: W.W. Norton & Company.
