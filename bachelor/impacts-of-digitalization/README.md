@@ -32,6 +32,10 @@ For the experimental part, we rely heavily on group work. Therefore, the two wee
 * 🏷 Session 1: Learn new concepts and discuss the topics at hand.
 * 🧪 Session 2: Maker Lab - Working in groups on the experimental prototype.
 
+## 💬 Continuous Feedback
+
+During the whole semester you can submit your questions, comments, and feedback through a Q&A online form. We'll address popular questions in class and via Slack. The link to the Q&A online form is provided in class.
+
 ## 🎚 Level <a id="level"></a>
 
 This is an introductory course, so there are no prerequisites to enroll 😄. That said, it will help you if you have an understanding of programming 🦸♂. But don't worry,  most of you won't and we'll cover everything you need in this course. The primary goal of this course is to tinker 👾 with technology and have fun!
