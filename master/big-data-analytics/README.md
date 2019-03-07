@@ -10,6 +10,12 @@ Folgt bald 🕟.
 
 Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte, Videos, Links\) kann aber auch englischsprachig 🇺🇲 sein.
 
+## 💬 Fragen, Kommentare und Feedback
+
+Eure Fragen und euer Feedback nehme ich sehr ernst. Deshalb gibt es neben dem direkten Kontakt via Slack oder persönlichem Gespräch auch eine anonyme Option. Klickt auf den Link unten, um zu einer Online-Abfrage zu gelangen. Diese Option steht euch währende des gesamten Semester zur Verfügung, Tag und Nacht:
+
+* 🔗 [Link zur Abgabe von Fragen & Feedback während und außerhalb der Sessions](https://www.menti.com/2e7e53b3)
+
 ## 📃 Konzept <a id="concept"></a>
 
 Die Veranstaltung basiert auf einer Fallstudie aus der Praxis, die in Gruppen über das Semester hinweg bearbeitet wird. Die Fallstudie ist in Phasen gegliedert. Am Ende der letzten Phase werden die Ergebnisse im Plenum vorgestellt.
@@ -23,6 +29,10 @@ Details zur Fallstudie bekommt ihr in der ersten Sitzung. Im Rahmen des Moduls u
 * 5⃣ Analyse von Netzwerkstrukturen wie z.B. Twitter 💬 
 
 Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse der Daten ist ein großer Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf des Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\) erworben werden.
+
+Hier die Slides für die Kick-Off Veranstaltung:
+
+...
 
 ## 🎚 Level <a id="level"></a>
 
@@ -44,16 +54,11 @@ Die Prüfungsleistung besteht aus der Fallstudie \(70%\) und 2 kurzen MC-Tests i
 Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
 * [Databricks Community Edition](https://community.cloud.databricks.com)
-* [Indico.io](https://indico.io)
+* [Indico.io](https://indico.io) \(optional\)
 
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
-
-* 📂 
-  * 📑 2015 - Big Data - Chapter 4.3 - How Distributed Filesystems Work \(PDF \| 🇺🇲 \| 2 Seiten\)
-  * 📑 2015 - Learning Spark - Chapter 3 - Programming with RDDs \(PDF \| 🇺🇲 \| 24 Seiten\)
-  * 📑 2017 - Spark in Action - Chapter 1 - Introduction to Apache Spark \(PDF \| 🇺🇲 \| 15 Seiten\)
+Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(📑Reader\) bereit. Ihr findet im Dateibereich ein PDF-Dokument mit der Übersicht aller Texte.
 
 ## 📚 Empfohlene Literatur
 
