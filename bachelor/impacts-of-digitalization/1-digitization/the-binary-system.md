@@ -2,7 +2,7 @@
 
 ## ▶ Session
 
-### 1⃣ Introduction to number systems \(⏲25 Min.\)
+### 1⃣ Introduction to number systems \(⏲35 Min.\)
 
 You can download a [PDF version of the slides](https://docs.google.com/presentation/d/1Zvvbp_m_OCb69UrZl93LKwoYpjcEscbq0ODOHIsp7A4/export/pdf)⬇ .
 
