@@ -37,6 +37,8 @@ Bitte schaut dieses kurze Video \(9:52 Minuten\) aus dem kostenlosen Online-Kurs
 
 * [Measuring Information](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12)
 
+{% embed url="https://www.youtube.com/watch?v=PtmzfpV6CDE" %}
+
 ## ▶ Session
 
 ### 1⃣ Quiz \(⏲10 Min.\)
