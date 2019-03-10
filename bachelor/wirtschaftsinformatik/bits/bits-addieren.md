@@ -20,7 +20,7 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-08 - Code - Charles Petzold - Chapter 12 - A Binary Adding Machine | 13 |
+| \#WI-07 - Code - Charles Petzold - Chapter 12 - A Binary Adding Machine | 13 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
