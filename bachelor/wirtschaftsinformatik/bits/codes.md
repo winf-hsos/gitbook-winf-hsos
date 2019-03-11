@@ -13,10 +13,10 @@
 ## 🏷 Begriffe
 
 * 🏷Code
+* 🏷Binärcode
 * 🏷RGB Code
 * 🏷ASCII Code
-* 🏷Information Theory
-* 🏷Entropy
+* 🏷Die Maßeinheit Bit für die Menge an Informationen
 
 ## ⏮ Vorbereitung
 
