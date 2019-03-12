@@ -2,7 +2,7 @@
 
 ## ▶ Session
 
-### 1⃣ Logic Gates and how computers add bits \(⏲60 Min.\)
+### 1⃣ Logic Gates and how Computers add Bits \(⏲60 Min.\)
 
 You can download a [PDF version of the slides](https://docs.google.com/presentation/d/1PUb3ZxzvlayhDSz8Cls-R-gtMm2rcqBV1keyGv2nprw/export?format=pdf)⬇ .
 
