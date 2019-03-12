@@ -1,11 +1,21 @@
 # Slides
 
+## Wirtschaftsinformatik
+
+| Title | PDF |
+| :--- | :--- |
+| [Wirtschaftsinformatik \#00 - Übersicht](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/preview) | [PDF](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/export/pdf) |
+| Wirtschaftsinformatik \#01 - Das Binärsystem | PDF |
+| Wirtschaftsinformatik \#02 - Codes | PDF |
+| Wirtschaftsinformatik \#03 - Logic Gates | PDF |
+
 ## Impacts of Digitalization
 
 | Title | PDF |
 | :--- | :--- |
 | [Impacts of Digitalization \#00 - Course Logistics](https://docs.google.com/presentation/d/1kxMBBjJ_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/preview) | [PDF](https://docs.google.com/presentation/d/1kxMBBjJ_n6rzP6sEudWRxzPB0I6JdiSTWxsT4jAEzN8/export/pdf) |
 | [Impacts of Digitalization \#01 - The Binary System](https://docs.google.com/presentation/d/1Zvvbp_m_OCb69UrZl93LKwoYpjcEscbq0ODOHIsp7A4/preview) | [PDF](https://docs.google.com/presentation/d/1Zvvbp_m_OCb69UrZl93LKwoYpjcEscbq0ODOHIsp7A4/export/pdf) |
+| [Impacts of Digitalization \#02 - Adding Bits](https://docs.google.com/presentation/d/1PUb3ZxzvlayhDSz8Cls-R-gtMm2rcqBV1keyGv2nprw/preview) | [PDF](https://docs.google.com/presentation/d/1PUb3ZxzvlayhDSz8Cls-R-gtMm2rcqBV1keyGv2nprw/export?format=pdf) |
 
 ## Information Management
 
