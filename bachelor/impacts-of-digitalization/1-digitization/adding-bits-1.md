@@ -39,3 +39,7 @@ As additional read on the topic, please read the two excerpts below. All texts a
 | WI-06 - Max Tegmark - Life 3-0 - What is Computation \(US\) | 9 |
 | WI-07 - Code - Charles Petzold - Chapter 12 - A Binary Adding Machine.pdf | 13 |
 
+## 🔗 Links
+
+* 🔗 [https://circuitverse.org](https://circuitverse.org)
+
