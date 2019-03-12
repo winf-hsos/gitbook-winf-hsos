@@ -59,11 +59,9 @@ Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu a
 
 Ihr versteht jetzt, wie Computer zwei Zahlen addieren, und welche einfachen Bausteine \(🏷Logic Gates\) das ermöglichen. Wie ihr wisst, kann ein Computer viel mehr als nur Addition. All das sind aber nur Ergebnisse von - zugegebenermaßen - sehr vielen arithmetischen Operationen und der Verwendung von Codesystemen, mit denen wir ein digitales Abbild unserer analogen Welt erzeugen.
 
-Wie aber funktioniert es genau, einen analogen Sachverhalt in eine digitales Abbild zu bringen? Und welche Eigenschaften haben die digitalen Varianten im Vergleich zur analogen Form. Welche Vorzüge ergeben sich daraus? Dies Fragen schauen wir uns im nächsten Teil an.
+Wie aber funktioniert es genau, einen analogen Sachverhalt in eine digitales Abbild zu bringen? Und welche Eigenschaften haben die digitalen Versionen im Vergleich zur analogen Form. Welche Vorzüge ergeben sich daraus? Diese Fragen schauen wir uns im nächsten Teil an.
 
 {% page-ref page="../digitalisierung-tor-zur-digitalen-welt/" %}
 
-## 🔗 Links
 
-* 🔗 Interaktive Binary Adding Machine \(folgt... 👷♀\)
 
