@@ -138,6 +138,7 @@
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
 * [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)
 * [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling.md)
+* [Consulting Project](master/consulting-project.md)
 
 ## RESEARCH
 
