@@ -5,9 +5,10 @@
 | Title | PDF |
 | :--- | :--- |
 | [Wirtschaftsinformatik \#00 - Übersicht](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/preview) | [PDF](https://docs.google.com/presentation/d/1IiBpxU24k9mueFTMQtumJ3Z6BSS4OnhqepeHCOgD3Gw/export/pdf) |
-| Wirtschaftsinformatik \#01 - Das Binärsystem | PDF |
-| Wirtschaftsinformatik \#02 - Codes | PDF |
-| Wirtschaftsinformatik \#03 - Logic Gates | PDF |
+| [Wirtschaftsinformatik \#01 - Das Binärsystem](https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1_pdMgaybDX5M5s/preview) | [PDF](https://docs.google.com/presentation/d/1ALNyIiXzSSmo7Z49Sb3tX3rDBQgl1_pdMgaybDX5M5s/export/pdf) |
+| [Wirtschaftsinformatik \#02 - Codes](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/preview) | [PDF](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf) |
+| [Wirtschaftsinformatik \#03 - Logic Gates](https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/preview) | [PDF](https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/export/pdf) |
+| [Wirtschaftsinformatik \#04 - Bits addieren](https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/preview) | [PDF](https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/export/pdf) |
 
 ## Impacts of Digitalization
 
