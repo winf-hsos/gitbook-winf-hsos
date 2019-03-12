@@ -31,12 +31,12 @@ In the next session, we are looking at how computers calculate with binary numbe
 
 ## ⏯ Homework
 
-As additional read on the topic please read the two excerpts below. All texts are available through OSCA:
+As additional read on the topic, please read the two excerpts below. All texts are available through OSCA:
 
 | Title | Pages |
 | :--- | :--- |
-| \#WI-01 - Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
-| \#WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
+| WI-01 - Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
+| WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
 
 ## 🔗 Links
 

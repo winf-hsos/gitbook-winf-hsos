@@ -29,3 +29,13 @@ We now know how computers represent information and how they can perform basic a
 
 {% page-ref page="analog-vs.-digital.md" %}
 
+## ⏯Homework <a id="homework"></a>
+
+As additional read on the topic, please read the two excerpts below. All texts are available through OSCA:
+
+| Title | Pages |
+| :--- | :--- |
+| WI-05 - But How Do It Know - What the and Simple Variations.pdf | 7 |
+| WI-06 - Max Tegmark - Life 3-0 - What is Computation \(US\) | 9 |
+| WI-07 - Code - Charles Petzold - Chapter 12 - A Binary Adding Machine.pdf | 13 |
+
