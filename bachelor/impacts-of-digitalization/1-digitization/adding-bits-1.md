@@ -12,8 +12,8 @@ You can download a [PDF version of the slides](https://docs.google.com/presentat
 
 Work on the following exercises with your neighbour. We'll work through them step by step and discuss the results for each afterwards. Please prepare to share your solution with the group.
 
-* 🔗 Link to exercise
-* 🔗 Link to PDF version ⬇ 
+* 🔗 [Link to exercise](https://docs.google.com/document/d/1FE1ZtfP1KX3kNcyZkgSfA-Z8CqETuGAYquCZjh1fZO0/preview)
+* 🔗 [Link to PDF version](https://docs.google.com/document/d/1FE1ZtfP1KX3kNcyZkgSfA-Z8CqETuGAYquCZjh1fZO0/export?format=pdf) ⬇ 
 
 ### 🔁 Open Questions \(⏲5 Min.\)
 
