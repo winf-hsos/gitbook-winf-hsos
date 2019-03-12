@@ -9,7 +9,9 @@
 
 ## 🏷 Begriffe
 
+* 🏷Sum / Carry Bit
 * 🏷Half Adder
+* 🏷Full Adder
 * 🏷Binary Adding Machine
 
 ## ⏮ Vorbereitung
