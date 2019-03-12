@@ -34,9 +34,9 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 
 ### 2⃣ Zusammenfassung: Binäres Addieren \(⏲25 Min.\)
 
-Wir schauen uns gemeinsam die wichtigsten Konzepte bei der Addition zweier 8-Bit \(= 1 Byte\) Binärzahlen an.
+Wir schauen uns gemeinsam die wichtigsten Konzepte bei der Addition zweier 8-Bit \(= 1 Byte\) Binärzahlen an und bauen Schritt für Schritt eine binäre Additionsmaschine \(_binary adding machine_\).
 
-Slides folgen... 👷♀
+{% embed url="https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/preview" %}
 
 ### 3⃣ Übungsaufgabe zur Addition von Binärzahlen \(⏲45 Min.\)
 
