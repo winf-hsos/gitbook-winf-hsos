@@ -1,5 +1,11 @@
 # Databricks Notebooks
 
+## Big Data Analytics
+
+| Link | Description |
+| :--- | :--- |
+| [Amazon Reviews Template](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Amazon%20Reviews%20Template.html) | Template to load the Amazon customer reviews  and product meta information from the product categories _Pet Supplies_ and _Grocery and Gourmet Food_. |
+
 ## Information Management
 
 | Link | Description |
