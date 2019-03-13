@@ -29,3 +29,12 @@ Now that we understand the basic workings of a computer and the difference betwe
 
 {% page-ref page="../coding/" %}
 
+## ⏯Homework <a id="homework"></a>
+
+As additional read on the topic, please read the two excerpts below. All texts are available through OSCA:
+
+| Title | Pages |
+| :--- | :--- |
+| WI-09 - How Things Work Now - Making Bits | 19 |
+| WI-10 - The Second Machine Age - The Digitization of just about Everything | 15 |
+

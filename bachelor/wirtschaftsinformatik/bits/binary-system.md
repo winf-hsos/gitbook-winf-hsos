@@ -22,8 +22,8 @@ Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir tägl
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-01 - Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
-| \#WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
+| WI-01 - Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
+| WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
 
