@@ -12,7 +12,7 @@ Für dieses Tutorial verwenden wir den Amazon Reviews Datensatz für _Grocery an
 
 * JSON-Felder mit SQL verarbeiten - Template 
 
-## 💡 Welche Spalten haben JSON-Daten?
+## 💡 Welche Spalten sind betroffen?
 
 Als erstes müssen wir lernen, wie wir Spalten mit JSON-Daten überhaupt erkennen? Dazu können wir den `describe` Befehl nutzen. Unten im Screenshot seht ihr das Ergebnis für die Tabelle `meta_Grocery_and_Gourmet_Food` . Die rot markierten Zeilen sind Spalten mit JSON-Datentypen.
 
@@ -20,7 +20,7 @@ Immer wenn wir den Begriff `array<...>` als Datentyp einer Spalte sehen wissen w
 
 Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct<...>`. Hierbei handelt sich nicht um ein Array, sondern **um ein Objekt**. Ein Objekt ist ein strukturierter Datentyp, der selbst weitere Felder \(oder Attribute\) hat, die wir über ihre Namen ansprechen können. Im Beispiel unten hat ein Wert in der Spalte `related` die Felder `also_bought`, `also_viewed`, `bought_together` und `buy_after_viewing`. Alle diese Felder sind wiederum vom Typ `array<string>`, was eine Liste von Strings bedeutet. Ihr seht schon, die Struktur einer JSON-Spalte kann beliebig tief geschachtelt sein. Wie man mit Objekten umgeht [schauen wir uns ebenfalls gleich an](json-felder-mit-sql-verarbeiten.md#objekte-und-deren-attribute-abfragen).
 
-![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2821%29.png)
+![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2822%29.png)
 
 ## 💡 Arrays abfragen
 
@@ -68,6 +68,8 @@ Häufig ist es nützlich, die Werte eines Array in Zeilen zu zerlegen. Anstatt e
 -- explode() zerlegt die Werte eines Arrays in einzelne Zeilen
 select explode(categories) from meta_Grocery_and_Gourmet_Food
 ```
+
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## 💡 Objekte und deren Attribute abfragen
 
