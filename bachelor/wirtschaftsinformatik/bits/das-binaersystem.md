@@ -32,9 +32,9 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 ### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **58 33 57** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
-* 🔗 [Link zum Quiz](https://www.menti.com/b4b32418)
+* 🔗 [Link zum Quiz](https://www.menti.com/866f648e)
 
 ### 2⃣ Kurze Einführung in Logic Gates \(⏲25 Min.\)
 
