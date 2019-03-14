@@ -32,17 +32,17 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 ### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **58 33 57** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der Vorbereitung. Klickt auf den Link unten und gebt den Code **58 33 57** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
 * 🔗 [Link zum Quiz](https://www.menti.com/866f648e)
 
-### 2⃣ Kurzer Exkurs: Moore's Law
+### 2⃣ Kurzer Exkurs: Moore's Law \(⏲5 Min.\)
 
 Moore's Law kann ich das schnelle Wachstum unserer digitalen Technologien erklären und vorhersagen. An dieser Stelle schauen wir uns 3 Beispiele an, die uns dieses Wachstum verdeutlichen sollen.
 
 {% embed url="https://docs.google.com/presentation/d/1jMFf0M7KGdgi7BdgFBdmUwfX16\_QIirE0YXSzeqbpwQ/preview" %}
 
-### 3⃣ Kurze Einführung in Logic Gates \(⏲25 Min.\)
+### 3⃣ Kurze Einführung in Logic Gates \(⏲20 Min.\)
 
 Die folgende kurze Präsentation gibt einen Überblick über die 6 Logic Gates und deren Funktionsweise. Wir schauen uns auch an, wie wir ein AND-Gate aus mechanischen Relais bauen können.
 
