@@ -69,6 +69,16 @@ Häufig ist es nützlich, die Werte eines Array in Zeilen zu zerlegen. Anstatt e
 select explode(categories) from meta_Grocery_and_Gourmet_Food
 ```
 
+Um den Unterschied vor und nach der Anwendung von explode zu verdeutlichen, könnt ihr folgendes SQL ausführen:
+
+```sql
+select title, explode(categories), categories 
+from meta_Grocery_and_Gourmet_Food
+where size(categories) > 1
+```
+
+Das Ergebnis seht ihr unten im Screenshot:
+
 ![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## 💡 Objekte und deren Attribute abfragen
