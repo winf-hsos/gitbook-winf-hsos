@@ -36,13 +36,19 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 
 * 🔗 [Link zum Quiz](https://www.menti.com/866f648e)
 
-### 2⃣ Kurze Einführung in Logic Gates \(⏲25 Min.\)
+### 2⃣ Kurzer Exkurs: Moore's Law
+
+Moore's Law kann ich das schnelle Wachstum unserer digitalen Technologien erklären und vorhersagen. An dieser Stelle schauen wir uns 3 Beispiele an, die uns dieses Wachstum verdeutlichen sollen.
+
+{% embed url="https://docs.google.com/presentation/d/1jMFf0M7KGdgi7BdgFBdmUwfX16\_QIirE0YXSzeqbpwQ/preview" %}
+
+### 3⃣ Kurze Einführung in Logic Gates \(⏲25 Min.\)
 
 Die folgende kurze Präsentation gibt einen Überblick über die 6 Logic Gates und deren Funktionsweise. Wir schauen uns auch an, wie wir ein AND-Gate aus mechanischen Relais bauen können.
 
 {% embed url="https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/preview" %}
 
-### 3⃣ Übungsaufgabe zu Logic Gates \(⏲45 Min.\)
+### 4⃣ Übungsaufgabe zu Logic Gates \(⏲45 Min.\)
 
 Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
