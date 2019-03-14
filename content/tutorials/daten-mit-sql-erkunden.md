@@ -85,3 +85,5 @@ from ted_meta
 select avg(duration) from ted_meta
 ```
 
+Mehr folgt noch ... 👷♀ 
+
