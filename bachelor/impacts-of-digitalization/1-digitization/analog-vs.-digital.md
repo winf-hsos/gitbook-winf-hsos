@@ -33,3 +33,9 @@ As additional read on the topic, please read the two excerpts below. All texts a
 | WI-09 - How Things Work Now - Making Bits | 19 |
 | WI-10 - The Second Machine Age - The Digitization of just about Everything | 15 |
 
+## 🔗 Links
+
+* [IDC Studie "Data Age 2025 - The Digitization of the World"](https://www.seagate.com/files/www-content/our-story/trends/files/idc-seagate-dataage-whitepaper.pdf)
+
+
+
