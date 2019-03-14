@@ -4,7 +4,7 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr kennt die unterschiedlichen Logic Gates und verstehe deren Funktionsweise.
+* 🎯 Ihr kennt die unterschiedlichen Logic Gates und versteht deren Funktionsweise.
 * 🎯 Ihr wisst, dass das NAND-Gate ein universelles Logic Gate ist und was das bedeutet.
 * 🎯 Ihr wisst, dass das NAND-Gate der einzige notwendige Baustein eines Computers ist.
 
