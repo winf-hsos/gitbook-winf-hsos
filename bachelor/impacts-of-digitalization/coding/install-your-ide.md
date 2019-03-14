@@ -36,7 +36,7 @@ To run Javascript programs on your local computer, you'll need to install the No
 
 ### 4⃣ Install Git
 
-Git is a popular source control system. This basically means that you can upload your code to a Git repository to back it up and provide the latest version to your team members. [Github](https://github.com/winf-hsos) is a popular platform for hosting Git projects, and the great thing is that you can simply clone public code repositories and start using them in your own coding projects. We'll be using Git to do that later on.
+Git is a popular source control system. This means that you can save your code in a centralized Git repository to back it up and provide the latest version to your team members. [Github](https://github.com/winf-hsos) is a popular online platform for hosting Git projects, and the great thing is that you can simply clone public code repositories and start using them in your own coding projects. We'll be using Git to do that later on.
 
 * ✅ Follow [this link](https://gist.github.com/derhuerst/1b15ff4652a867391f03) for installation instructions for all operating systems
 
