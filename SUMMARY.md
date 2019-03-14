@@ -131,6 +131,7 @@
   * [\#5 Analyse sozialer Netzwerke](master/big-data-analytics/4-analyse-sozialer-netzwerke/README.md)
     * [Follower-Analysen](master/big-data-analytics/4-analyse-sozialer-netzwerke/follower-analysen.md)
     * [Themenanalysen](master/big-data-analytics/4-analyse-sozialer-netzwerke/themenanalysen.md)
+  * [Anhang](master/big-data-analytics/anhang.md)
 * [Empirisches Arbeiten](master/empirisches-arbeiten/README.md)
   * [\#1 Datenauswertung mit SQL](master/empirisches-arbeiten/1-datenauswertung-mit-sql.md)
   * [\#2 Machine Learning](master/empirisches-arbeiten/2-machine-learning.md)
