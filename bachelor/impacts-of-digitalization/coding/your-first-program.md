@@ -1,6 +1,8 @@
 # Your First Program
 
-Please be patient 👷♀ 
+
+
+![&quot;Hello World&quot; in Node.js](../../../.gitbook/assets/image%20%285%29.png)
 
 ## 🔗 Links
 

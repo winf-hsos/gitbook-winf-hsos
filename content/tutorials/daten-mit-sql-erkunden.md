@@ -43,7 +43,7 @@ Die häufigsten Werte werden im Ergebnis oben angezeigt.
 
 Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick in eine visuelle Form zu bringen. Dazu nutzt ihr die Buttonleiste unter der Ergebnisanzeige. Mit Klick auf Chartsymbol bekommt ihr sofort eine Anzeige als Balkendiagramm. Über die den Button "Plot Options..." könnt ihr auch andere Charts auswählen und die Achsen konfigurieren.
 
-![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2811%29.png)
+![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
 Neben dem Jahr \(`year()`\) könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](einfuehrung-sql/8-datum-und-zeit.md) des einführenden SQL Tutorials.
