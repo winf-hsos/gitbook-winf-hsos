@@ -2,18 +2,13 @@
 
 ## ▶ Session
 
-### 1⃣ Difference between analog and digital \(⏲15 Min.\)
+### 1⃣ Difference between analog and digital \(⏲30 Min.\)
 
-You can download a [PDF version of the slides](https://docs.google.com/presentation/d/1PD7saxmXbGtfoVnQQWcSR4csBtvD2A4z5Nif64R4N0g/export?format=pdf)⬇ .
+We'll talk about the difference between the analog and the digital world. Moreover, we'll look at 3 examples how we can convert an analog thing into a digital representation. We close this part with a discussion about the properties of digital goods and services.
+
+You can download a [PDF version of the slides](https://docs.google.com/presentation/d/1PD7saxmXbGtfoVnQQWcSR4csBtvD2A4z5Nif64R4N0g/export?format=pdf)⬇.
 
 {% embed url="https://docs.google.com/presentation/d/1PD7saxmXbGtfoVnQQWcSR4csBtvD2A4z5Nif64R4N0g/preview" %}
-
-### 2⃣ Exercises \(⏲20 Min.\)
-
-Work on the following exercises with your neighbour. We'll work through them step by step and discuss the results for each afterwards. Please prepare to share your solution with the group.
-
-* 🔗 Link to exercise
-* 🔗 Link to PDF version ⬇ 
 
 ### 🔁 Open Questions \(⏲5 Min.\)
 
