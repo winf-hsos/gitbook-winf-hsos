@@ -46,13 +46,9 @@ Ihr benötigt die folgenden Tools 🛠. Sämtliche Tools sind kostenlos nutzbar:
 
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
-
-* 📂 
-  * 📑 ...
-  * 📑 ...
+Folgt bald.
 
 ## 📚 Empfohlene Literatur
 
-📘...
+Folgt bald.
 
