@@ -2,9 +2,11 @@
 description: In dieser Session lernen wir Hadoop kennen.
 ---
 
-# Hadoop
+# Hadoop, Spark & Co.
 
 ## ❓ Fragen
+
+**Apache Hadoop**
 
 * Was ist Hadoop und welche Komponenten gehören dazu?
 * Warum ist Hadoop eine gute Lösung für die Herausforderungen von Big Data?
@@ -13,6 +15,12 @@ description: In dieser Session lernen wir Hadoop kennen.
 * Warum können mittels MapReduce sehr große Datenmengen in kurzer Zeit verarbeitet werden?
 * Welche Nachteile hat MapReduce im Vergleich zu neueren Alternativen?
 * Was sind Anwendungsbeispiele des MapReduce-Algorithmus?
+
+**Apache Spark**
+
+* Wie funktioniert verteiltes Verarbeiten \(_distributed processing_\) mit Apache Spark?
+* Welche Arten von Datenverarbeitung unterstützt Apache Spark?
+* Welche Vorteile bietet 🏷Spark gegenüber 🏷MapReduce?
 
 ## 🏷 Begriffe
 
@@ -23,8 +31,13 @@ description: In dieser Session lernen wir Hadoop kennen.
   * 🏷Data Node
   * 🏷Worker Node
   * 🏷Name Node
+* 🏷 Spark _transformations_ vs _actions_
+* 🏷 Resilient Distributed Dataset \(RDD\)
+* 🏷 Dataframe
 
 ## 🔑 Key Points
+
+### Apache Hadoop
 
 🔑 Hadoop ist der Name eines [Apache Open Source Projektes](https://hadoop.apache.org/), dass sich mit der Speicherung und Verarbeitung sehr großer Datenmengen \(Big Data\) befasst.
 
@@ -44,11 +57,21 @@ description: In dieser Session lernen wir Hadoop kennen.
 
 🔑 Ein bekanntes Beispiel für den MapReduce-Algorithmus ist das Word Count Beispiel. Es geht darum, in einem oder vielen Texten das Vorkommen einzelner Wörter zu zählen und als Ergebnis eine \(sortierte\) Liste `<Wort, Anzahl>` auszugeben. Häufig wird dies am Beispiel der Wikipedia Enzyklopädie demonstriert. MapReduce teilt den Text in kleinere Abschnitte, in denen von je einem _Worker Node_ die Wörter gezählt werden. Jeder _Worker Node_ liefert sein Teilergebnis zurück und die Teilergebnisse werden zu dem Gesamtergebnis aggregiert \(_reduce_\).
 
-## ▶ Session
+### Apache Spark
+
+🔑 Apache Spark repräsentiert Daten als 🏷Resilient Distributed Datasets \(RDD\).
+
+🔑 Ein 🏷RDD ist eine Verkettung von Transformationen \( 🏷transformation\), die nacheinander ausgeführt werden. Ähnlich wie in einem Rezept. Die sequenziell ablaufenden Transformationen werden jedoch solange nicht ausgeführt, bis eine Aktion \( 🏷action\) ausgeführt wird. Ein Beispiel ist die Funktion `count()`, die alle Datensätze nach Anwendung sämtlicher Transformationen zählt und das Ergebnis zurückliefert.
+
+🔑 Ein RDD besitzt keinerlei Struktur, jeder Datensatz \(oder jede Zeile\) wird als Zeichenkette interpretiert. In vielen Fällen gibt es aber eine Struktur in den Quelldaten, z.B. bei CSV-Dateien. Um diese Struktur in Spark nutzbar zu machen, können 🏷Dataframes verwendet werden. Ein Dataframe ist somit eine Abstraktionsschicht auf einem RDD und fügt die Information hinzu, wie aus einer Zeile Text eine Tabelle mit strukturierten Daten entsteht. Im Beispiel der CSV-Datei wäre das die einfache Regel, nach einem Trennzeichen wie Komma oder Semikolon zu suchen, und jede Zeile anhand dieser Trennzeichen in Spalten aufzuteilen.
+
+## ▶ Lerneinheit
 
 ### 1⃣ HDFS
 
 ### 2⃣ MapReduce
+
+### 3⃣ Spark
 
 ## 🔗 Links
 

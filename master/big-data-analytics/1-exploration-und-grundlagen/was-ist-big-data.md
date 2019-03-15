@@ -20,7 +20,7 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ## ⏮ Vorbereitung
 
-## ▶ Session
+## ▶ Lerneinheit
 
 ### 1⃣ Überprüfung des Wissensstands
 
