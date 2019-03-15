@@ -1,7 +1,7 @@
 # \#0 SQL
 
 {% hint style="info" %}
-Um in diesem Modul Erfolg zu haben werdet ihr gute SQL-Kenntnisse benötigen. 
+Um in diesem Modul Erfolg zu haben werdet ihr gute SQL-Kenntnisse benötigen bzw. aufbauen. 
 {% endhint %}
 
 SQL ist eine Abfragesprache für Daten und sozusagen das Schweizer Taschenmesser 🛠 für die Datenanalyse. Daher ist es ratsam, vorher andere Module belegt zu haben, die SQL thematisieren. In meinem Bereich zählen dazu:
