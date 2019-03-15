@@ -18,12 +18,15 @@
 
 **Analyse von Texten**
 
+* 🎯 Ihr kennt Anwendungsszenarien für die Analyse von Texten.
+* 🎯 Ihr könnt Textdaten für eine strukturierte Analyse mit SQL vorbereiten.
 * 🎯 Ihr versteht, wie Texte mithilfe moderner Analyseverfahren ausgewertet werden können.
 * 🎯 Ihr analysiert unstrukturierte Texte wie Rezensionen oder Tweets mit geeigneten Vorgehen und Methoden und extrahiert dabei relevante Informationen für eure Fragestellungen.
 * 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen zusätzliche Informationen aus den Texten zu extrahieren und diese für die Beantwortung eurer Fragestellungen zu nutzen.
 
 **Analyse von Bildern**
 
+* 🎯 Ihr kennt die Bedeutung und wisst um den potenziellen Informationsgehalt von Bildern.
 * 🎯 Ihr kennt wichtige Methoden und Anwendungsfälle der maschinellen Bildanalyse \(Computer Vision\)
 * 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
 

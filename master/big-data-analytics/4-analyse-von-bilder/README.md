@@ -3,9 +3,8 @@
 ## 🎯 Lernziele
 
 * 🎯 Ihr kennt die Bedeutung und wisst um den potenziellen Informationsgehalt von Bildern.
-* 🎯 Ihr kennt Anwendungsszenarien für die automatisierte Analyse von Bildern.
-* 🎯 Ihr kennt Möglichkeiten des maschinellen Lernens bei der Bildanalyse.
-* 🎯 Ihr kennt Cloud-Dienste ☁ für die automatisierte Bildanalyse und könnt diese für eure Zwecke nutzen.
+* 🎯 Ihr kennt wichtige Methoden und Anwendungsfälle der maschinellen Bildanalyse \(Computer Vision\)
+* 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
 
 ## \*\*\*\*❓ **Fragen**
 

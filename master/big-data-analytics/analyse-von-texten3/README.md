@@ -6,9 +6,9 @@
 
 * 🎯 Ihr kennt Anwendungsszenarien für die Analyse von Texten.
 * 🎯 Ihr könnt Textdaten für eine strukturierte Analyse mit SQL vorbereiten.
-* 🎯 Ihr könnt einfache Analyseverfahren wie das Zählen bestimmter Suchbegriffe mit SQL umsetzen.
-* 🎯 Ihr kennt Möglichkeiten des maschinellen Lernens bei der Textanalyse.
-* 🎯 Ihr kennt Cloud-Dienste ☁, für die automatisierte Textanalyse und ihr wisst, wie ihr diese nutzen könnt.
+* 🎯 Ihr versteht, wie Texte mithilfe moderner Analyseverfahren ausgewertet werden können.
+* 🎯 Ihr analysiert unstrukturierte Texte wie Rezensionen oder Tweets mit geeigneten Vorgehen und Methoden und extrahiert dabei relevante Informationen für eure Fragestellungen.
+* 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen zusätzliche Informationen aus den Texten zu extrahieren und diese für die Beantwortung eurer Fragestellungen zu nutzen.
 
 ## \*\*\*\*❓ **Fragen**
 
