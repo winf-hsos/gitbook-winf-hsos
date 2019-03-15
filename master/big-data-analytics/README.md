@@ -11,8 +11,9 @@
 
 **Exploration von Daten**
 
+* 🎯 Ihr kennt Formate, in denen Datensätze häufig gespeichert werden, und wie ihr mit den unterschiedlichen Formaten geeignet verfahren könnt.
 * 🎯 Ihr wendet Vorgehen und Tools für die Auswertung von Big Data auf neue Datensätze an.
-* 🎯 Ihr erschließt euch neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
+* 🎯 Ihr erzeugt neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
 * 🎯 Ihr identifiziert aus einer großen, unstrukturierten Masse an Daten die für eine Fragestellung relevanten Datensätze.
 
 **Analyse von Texten**

@@ -3,18 +3,21 @@
 ## 🎯 Lernziele
 
 * 🎯 Ihr kennt Formate, in denen Datensätze häufig gespeichert werden, und wie ihr mit den unterschiedlichen Formaten geeignet verfahren könnt.
-* 🎯 Ihr kennt Kenngrößen und Verfahren, die euch beim Erschließen neuer Datensätze helfen und könnt diese mittels SQL auf unbekannte Daten anwenden.
+* 🎯 Ihr wendet Vorgehen und Tools für die Auswertung von Big Data auf neue Datensätze an.
+* 🎯 Ihr erzeugt neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
+* 🎯 Ihr identifiziert aus einer großen, unstrukturierten Masse an Daten die für eine Fragestellung relevanten Datensätze.
 
 ## \*\*\*\*❓ **Fragen**
 
 * ❓ Welche Arten von Datensätzen \(Format, Inhalt, Struktur\) kann man unterscheiden?
 * ❓ Welche Informationen zu einem neuen Datensatz sind hilfreich für die weitere Analyse?
 * ❓ Wie komme ich an diese Informationen heran?
+* ❓ Wie kann ich aus meinen Datensätzen die passenden Datensätze zu einer Fragestellung identifizieren?
 
 ## 🏷 Begriffe
 
 * 🏷Structured Query Language \(SQL\)
-* 🏷 Domain \(Wertebereich\)
+* 🏷Domain \(Wertebereich\)
 
 ## 🔑 Key Points
 
@@ -26,14 +29,16 @@
   * Ändern sich die Daten währende der Analyse? 
 * 🔑 Ausgehend von den Antworten auf diese Fragen können wir entscheiden, ob und mit welchen Methoden und Werkzeugen wir die Daten analysieren können. Strukturierte Daten, wie sie z.B. in einer relationalen Datenbank, einer Excel-Datei, oder auch einer CSV-Datei in der Regel vorliegen, können wir sehr gut mit SQL analysieren. Bei so genannten semi- oder polystrukturierten Daten, wie es oft beim JSON-Format oder bei Daten in NoSQL-Datenbanken der Fall ist, können wir ebenfalls mit SQL arbeiten, müssen aber bestimmte Dinge beachten. Zum Beispiel sind hier die Dokumente \(oder Datensätze\) oft heterogen in Bezug auf die verfügbaren Attribute.  
 * 🔑 Bei komplett **unstrukturierten Daten** wie losen Texten \(z.B. Blogartikel, Twitter, Facebook\) oder Bildern müssen wir uns erst **Gedanken machen, welche Struktur wir auf diese Daten** **projizieren** wollen, bevor wie sie analysieren. Es kann nur systematisch analysiert werden, was auch eine Struktur besitzt. Bei Bildern könnten z.B. die abgebildeten Objekte ein Strukturelement sein, das uns interessiert. Bei Texten könnten es die einzelnen Wörter sein, die wir zählen wollen. 
-* 🔑 Wenn die Strukturfrage geklärt ist, können wir weitere Fragen anschließen:  
-
-
+* 🔑 Wenn die Strukturfrage geklärt ist, können wir weitere Fragen anschließen: 
   * Wie ist die Struktur genau beschaffen? Welche Attribute \(oder Spalten\) gibt es?
   * Welche Datentypen und welchen Wertebereich haben diese Spalten?
   * Was ist der Wertebereich \(🏷Domain\) der Spalte?
 
 ## 🔗 Links
+
+Diese Tutorial bietet euch den Einstieg in SQL. Wenn ihr SQL-Neulinge seid müsst ihr mit diesem Tutorial starten:
+
+{% page-ref page="../../../content/tutorials/einfuehrung-sql/" %}
 
 In diesem Tutorial bekommt ihr einen Überblick, welche Möglichkeiten SQL bietet, um einen neuen Datensatz zu erkunden:
 
