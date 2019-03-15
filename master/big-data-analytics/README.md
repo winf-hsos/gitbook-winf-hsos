@@ -4,7 +4,13 @@
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
-Folgt bald 🕟.
+* 🎯 Ihr könnt Big Data von herkömmlichen Daten anhand wichtiger Charakteristika abgrenzen.
+* 🎯 Ihr versteht die inhaltliche und technischen Herausforderungen von Big Data und kennt die wichtigsten Lösungsansätze.
+* 🎯 Ihr wendet Vorgehen und Tools für die Auswertung von Big Data auf neue Datensätze an.
+* 🎯 Ihr erschließt euch neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
+* 🎯 Ihr identifiziert aus einer großen, unstrukturierten Masse an Daten die für eine Fragestellung relevanten Datensätze.
+* 🎯 Ihr kennt Cloud-Dienste für die Anwendung von Machine Learning Modellen, die ich euch dabei helfen können, auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
+* 🎯 Ihr fasst eure Ergebnisse auf den Punkt und zielgruppenorientiert zusammen und präsentiert sie in einer verständlichen Weise. 
 
 ## 🇩🇪 Sprache
 
