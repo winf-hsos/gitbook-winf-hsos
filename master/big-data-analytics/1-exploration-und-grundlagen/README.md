@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr kennt den Big Data Begriff und könnt darüber diskutieren, was Big Data bedeutet.
+* 🎯 Ihr könnt Big Data von herkömmlichen Daten anhand wichtiger Charakteristika abgrenzen.
 * 🎯 Ihr kennt die Herausforderungen, die Big Data mit sich bringt und könnt die wichtigsten Lösungsansätze beschreiben.
 
 ## ❓ Fragen

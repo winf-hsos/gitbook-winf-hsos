@@ -4,13 +4,35 @@
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
+**Big Data Grundlagen**
+
 * 🎯 Ihr könnt Big Data von herkömmlichen Daten anhand wichtiger Charakteristika abgrenzen.
 * 🎯 Ihr versteht die inhaltliche und technischen Herausforderungen von Big Data und kennt die wichtigsten Lösungsansätze.
+
+**Exploration von Daten**
+
 * 🎯 Ihr wendet Vorgehen und Tools für die Auswertung von Big Data auf neue Datensätze an.
 * 🎯 Ihr erschließt euch neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
 * 🎯 Ihr identifiziert aus einer großen, unstrukturierten Masse an Daten die für eine Fragestellung relevanten Datensätze.
-* 🎯 Ihr kennt Cloud-Dienste für die Anwendung von Machine Learning Modellen, die ich euch dabei helfen können, auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
-* 🎯 Ihr fasst eure Ergebnisse auf den Punkt und zielgruppenorientiert zusammen und präsentiert sie in einer verständlichen Weise. 
+
+**Analyse von Texten**
+
+* 🎯 Ihr versteht, wie Texte mithilfe moderner Analyseverfahren ausgewertet werden können.
+* 🎯 Ihr analysiert unstrukturierte Texte wie Rezensionen oder Tweets mit geeigneten Vorgehen und Methoden und extrahiert dabei relevante Informationen für eure Fragestellungen.
+* 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen zusätzliche Informationen aus den Texten zu extrahieren und diese für die Beantwortung eurer Fragestellungen zu nutzen.
+
+**Analyse von Bildern**
+
+* 🎯 Ihr kennt wichtige Methoden und Anwendungsfälle der maschinellen Bildanalyse \(Computer Vision\)
+* 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
+
+**Analyse sozialer Netzwerke**
+
+* 🎯 Ihr wendet Methoden zur Analyse von Netzwerk- und Themenstrukturen z.B. auf Twitterdaten an und extrahiert so weitere Informationen für die Beantwortung eurer Fragestellungen.
+
+**Präsentation \(Pitch\)**
+
+* 🎯 Ihr fasst eure Ergebnisse präzise und zielgruppenorientiert zusammen und präsentiert sie in einer verständlichen Weise. 
 
 ## 🇩🇪 Sprache
 
