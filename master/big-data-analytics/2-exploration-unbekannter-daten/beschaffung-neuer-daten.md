@@ -1,2 +1,4 @@
 # Beschaffung neuer Daten
 
+## 🎯 Lernziele
+

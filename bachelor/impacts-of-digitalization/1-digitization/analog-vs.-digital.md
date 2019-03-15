@@ -1,6 +1,14 @@
 # Analog vs. Digital
 
-## ▶ Session
+## 🎯 Learning Objectives
+
+In this lesson, we'll talk about the differences between the analog and digital world. In particular, we're looking at the fundamental difference of continuous and discrete values, and what role that plays for analog vs. digital. We then look at examples how we can create digital versions of something such as sound, images or text. Finally, we'll collect and discuss the properties of digital goods and services.
+
+* 🎯 You know the difference between analog and digital versions of the same thing.
+* 🎯 You know how sound, images and text can be transformed from an analog to a digital version.
+* 🎯 You know important properties of digital goods and services.
+
+## ▶ Lesson
 
 ### 1⃣ Difference between analog and digital \(⏲30 Min.\)
 

@@ -1,12 +1,17 @@
 ---
 description: >-
-  In this session we'll install everything we need to get started programming
+  In this session we'll install the software we need to get started programming
   with Node.js
 ---
 
 # Setup your IDE
 
-## ▶ Session
+## 🎯 Learning Objectives
+
+* 🎯 You know what pieces of software you need in order to start coding.
+* 🎯 You have successfully setup your workspace and are ready to go!
+
+## ▶ Lesson
 
 ### 1⃣ Install Visual Studio Code
 

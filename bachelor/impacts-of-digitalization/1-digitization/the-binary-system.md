@@ -1,6 +1,13 @@
 # The Binary System
 
-## ▶ Session
+## 🎯 Learning Objectives
+
+* 🎯 You understand that the decimal system is only one of many numbering systems.
+* 🎯 You know the binary system and you understand how it works.
+* 🎯 You can transform numbers between the decimal and binary system.
+* 🎯 You know that digital computers are based on the binary numbering system and why.
+
+## ▶ Lesson
 
 ### 1⃣ Introduction to number systems \(⏲35 Min.\)
 
