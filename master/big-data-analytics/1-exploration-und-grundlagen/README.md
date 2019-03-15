@@ -1,3 +1,7 @@
+---
+description: In diesem Block geht es um wichtige grundlegende Fragen zu Big Data.
+---
+
 # \#1 Big Data Grundlagen
 
 ## 🎯 Lernziele

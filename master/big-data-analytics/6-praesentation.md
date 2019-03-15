@@ -1,4 +1,11 @@
-# \# 6 Präsentation
+---
+description: >-
+  In diesem Block geht es um den letzten Schritt in eurer Fallstudie: Die
+  Präsentation. Wir schauen uns ein paar Tipps und Tricks an, damit ihr eure
+  Informationen auf den Punkt präsentieren könnt.
+---
+
+# \#6 Präsentation
 
 ## 🎯 Lernziele
 

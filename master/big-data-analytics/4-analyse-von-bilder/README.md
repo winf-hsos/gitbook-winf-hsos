@@ -1,3 +1,9 @@
+---
+description: >-
+  In diesem Block lernen wir die automatisierte maschinelle Analyse von Bildern
+  kennen.
+---
+
 # \#4 Analyse von Bildern
 
 ## 🎯 Lernziele

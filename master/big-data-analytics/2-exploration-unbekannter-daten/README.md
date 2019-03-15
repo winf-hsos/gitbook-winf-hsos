@@ -1,3 +1,7 @@
+---
+description: In diesem Block geht es die Erkundung neuer Datensätze mit SQL.
+---
+
 # \#2 Exploration von Daten
 
 ## 🎯 Lernziele

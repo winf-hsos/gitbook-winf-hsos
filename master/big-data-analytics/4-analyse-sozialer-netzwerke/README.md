@@ -1,3 +1,9 @@
+---
+description: >-
+  In diesem Block betrachten wir soziale Netzwerke und wie wir die Strukturen
+  und Themen analysieren können.
+---
+
 # \#5 Analyse sozialer Netzwerke
 
 ## 🎯 Lernziele

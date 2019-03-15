@@ -1,3 +1,7 @@
+---
+description: In diesem Block analysieren wir Textdaten mit SQL und Cloud-Diensten für ML.
+---
+
 # \#3 Analyse von Texten
 
 > “In analytics there is no such thing as unstructured data, just data that structure has not yet been applied to”. \(Hjalmar Gislason\)
