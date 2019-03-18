@@ -30,22 +30,19 @@ Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Sess
 
 ### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **67 60 51** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
-* 🔗 Link zum Quiz \(folgt... 👷♀\)
+* 🔗 [Link zum Quiz](https://www.menti.com/4496004f)
 
-### 2⃣ Zusammenfassung: Binäres Addieren \(⏲25 Min.\)
+### 2⃣ Zusammenfassung: Binäres Addieren \(⏲30 Min.\)
 
 Wir schauen uns gemeinsam die wichtigsten Konzepte bei der Addition zweier 8-Bit \(= 1 Byte\) Binärzahlen an und bauen Schritt für Schritt eine binäre Additionsmaschine \(_binary adding machine_\).
 
 {% embed url="https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/preview" %}
 
-### 3⃣ Übungsaufgabe zur Addition von Binärzahlen \(⏲45 Min.\)
+### 3⃣ Übungsaufgabe 
 
-Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten⏲ für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
-
-* 🔗 Link zur Übungsaufgabe \(folgt... 👷♀\)
-* 🔗 Link zur PDF-Version zum Download ⬇ \(folgt... 👷♀\)
+Für diese Lerneinheit gibt es keine dedizierte Übungsaufgabe.
 
 ### 🔁 Offene Fragen \(⏲5 Min.\)
 

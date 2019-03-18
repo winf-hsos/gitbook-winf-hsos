@@ -30,3 +30,7 @@ Die Texte sind nur für eingeloggte Benutzer in OSCA zugreifbar. Ich lade die Te
 
 Nein, es werden keine Musterlösungen bereitgestellt. Wenn ihr Lösungen erstellt und z.B. via Slack einreicht verspreche ich Euch aber ein Feedback. Wenn wir Zeit haben besprechen wir die Lösung auch in der Sitzung.
 
+#### Kannst du die Zeichnungen aus der Sitzung hochladen?
+
+Nein, die Zeichnungen sind nur für während der Sitzung gedacht. Die sind zu unstrukturiert, als dass ich sie euch zu Verfügung stellen könnte. Da könnte mehr Verwirrung aufkommen als notwendig. Ich biete euch aber an, dass wir gerne auf bestimmte Fragen zur Aufgabe noch einmal eingehen. Dann bitte konkrete Frage über das Q&A stellen.
+
