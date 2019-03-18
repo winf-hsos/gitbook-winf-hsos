@@ -18,8 +18,6 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
   * 🏷 Velocity
 * 🏷Polystrukturierte Daten
 
-## ⏮ Vorbereitung
-
 ## ▶ Lerneinheit
 
 ### 1⃣ Überprüfung des Wissensstands
@@ -30,7 +28,9 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ## ⏭ Nachbereitung
 
-## 🔗 Links
+Lest bitte als Nachbereitung der Sitzung den folgenden Textausschnitt aus Hansen et al \(2015\).
 
-* Übungsaufgabe "Eigenschaften und Herausforderungen von Big Data"
+| Titel | Seiten |
+| :--- | :--- |
+| BDA-01 - Skalierbare Datenspeicherung und Big Data - Wirtschaftsinformatik 🇩🇪  | 7 |
 

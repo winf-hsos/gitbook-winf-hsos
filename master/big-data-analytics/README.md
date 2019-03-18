@@ -97,9 +97,9 @@ Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) 
 
 ## 📚 Empfohlene Literatur
 
+* 📘Hansen, Hans Robert; Neumann, Gustaf; Mendling \(2015\): Wirtschaftsinformatik. Grundlagen und anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany.  
+* 📘 Struhl, Steven M. \(2015\): Practical text analytics. Interpreting text and unstructured data for business intelligence. London, UK, Philadelphia, PA: Kogan Page \(Marketing science series\). 
 * 📘 Zečević, Petar; Bonaći, Marko \(2017\): Spark in action. Shelter Island, NY: Manning.  
 * 📘 Marz, Nathan; Warren, James \(2015\): Big data. Principles and best practices of scalable real-time data systems. Shelter Island, NY: Manning. 
-* 📘 Karau, Holden; Konwinski, Andy; Wendell, Patrick; Zaharia, Matei \(2015\): Learning Spark: Lightning-fast data analysis. 1. ed. Beijing: O'Reilly. 
-* 📘 Struhl, Steven M. \(2015\): Practical text analytics. Interpreting text and unstructured data for business intelligence. London, UK, Philadelphia, PA: Kogan Page \(Marketing science series\). 
 * 📘 Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron \(2016\): Deep learning. Cambridge, Massachusetts, London, England: MIT Press. Online verfügbar unter [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/).
 
