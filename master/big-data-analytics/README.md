@@ -65,9 +65,9 @@ Details zur Fallstudie bekommt ihr in der ersten Sitzung. Im Rahmen des Moduls u
 
 Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse und Aufbereitung der Daten ist ein wichtiger Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf der Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\), erworben werden.
 
-Hier die Slides für die Kick-Off Veranstaltung:
+Hier die Slides aus der Kick-Off Veranstaltung:
 
-...
+{% embed url="https://docs.google.com/presentation/d/1J5dTR6U1kY\_TqLegwSkbV1LXIC6bdmy7p\_4CDFHbvQE/preview" %}
 
 ## 🎚 Level <a id="level"></a>
 
