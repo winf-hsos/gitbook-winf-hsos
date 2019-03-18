@@ -61,8 +61,9 @@ Details zur Fallstudie bekommt ihr in der ersten Sitzung. Im Rahmen des Moduls u
 * 3⃣ Analyse von Texten mit SQL und mittels Machine Learning 📄 
 * 4⃣ Objekterkennung auf Bildern 🖼 
 * 5⃣ Analyse von Netzwerkstrukturen wie z.B. Twitter 💬 
+* 6⃣ Aufbereitung und Präsentation der Ergebnisse
 
-Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse der Daten ist ein großer Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf des Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\) erworben werden.
+Ein wichtiges Basiswerkzeug für alle genannten Bereiche ist SQL. **Die Anwendung von SQL zur Analyse und Aufbereitung der Daten ist ein wichtiger Bestandteil dieser Veranstaltung**. Es werden keine SQL-Kenntnisse vorausgesetzt, alle notwendigen Kenntnisse können im Verlauf der Veranstaltung in den Präsenzveranstaltungen, aber insbesondere durch Eigenstudium bereitgestellter Materialien \(Tutorials\), erworben werden.
 
 Hier die Slides für die Kick-Off Veranstaltung:
 
