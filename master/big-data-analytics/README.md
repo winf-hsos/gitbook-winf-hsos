@@ -7,7 +7,8 @@
 **Big Data Grundlagen**
 
 * 🎯 Ihr könnt Big Data von herkömmlichen Daten anhand wichtiger Charakteristika abgrenzen.
-* 🎯 Ihr versteht die inhaltliche und technischen Herausforderungen von Big Data und kennt die wichtigsten Lösungsansätze.
+* 🎯 Ihr kennt die Herausforderungen von Big Data.
+* 🎯 Ihr kennt die wichtigsten Lösungsansätze für diese Herausforderungen.
 
 **Exploration von Daten**
 

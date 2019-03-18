@@ -7,11 +7,10 @@ description: In diesem Block geht es um wichtige grundlegende Fragen zu Big Data
 ## 🎯 Lernziele
 
 * 🎯 Ihr könnt Big Data von herkömmlichen Daten anhand wichtiger Charakteristika abgrenzen.
-* 🎯 Ihr kennt die Herausforderungen, die Big Data mit sich bringt und könnt die wichtigsten Lösungsansätze beschreiben.
+* 🎯 Ihr kennt die Herausforderungen die Big Data.
+* 🎯 Ihr kennt die wichtigsten Lösungsansätze für diese Herausforderungen.
 
 ## ❓ Fragen
-
-### Grundlagen
 
 * ❓Was charakterisiert Big Data?
 * ❓Vor welche Herausforderungen stellt uns Big Data?
