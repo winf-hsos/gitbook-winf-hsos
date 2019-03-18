@@ -7,6 +7,10 @@
 ## 🏷 Begriffe
 
 * 🏷Analog vs. Digital
+* 🏷Kontinuierlich vs diskret
+* 🏷Sample Rate
+* 🏷Bit Depth
+* 🏷Bildauflösung \(in Megapixel\)
 
 ## ⏮ Vorbereitung
 

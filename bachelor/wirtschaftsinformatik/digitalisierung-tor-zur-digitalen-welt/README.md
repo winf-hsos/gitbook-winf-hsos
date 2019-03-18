@@ -2,6 +2,12 @@
 
 > \[...\] any information that can be reduced to a choice among two or more possibilities can be expressed using bits. \(Charles Petzold\)
 
+## 🎯 Lernziele
+
+* 🎯 Ihr kennt die wesentlichen Unterschiede zwischen analog und digital
+* 🎯 Ihr könnt erklären, wie ein analoger Sachverhalt in eine digitale Version überführt werden kann.
+* 🎯 Ihr kennt wichtige Eigenschaften von digitalen Gütern
+
 ## ❓ Fragen 
 
 * ❓ Was sind wesentliche Unterschiede zwischen analog und digital?
@@ -10,8 +16,11 @@
 
 ## 🏷 Begriffe
 
-* 🏷Diskret vs. kontinuierlich
+* 🏷Analog vs. digital
+* 🏷Kontinuierlich vs diskret
 * 🏷Sample Rate
+* 🏷Bit Depth
+* 🏷Bildauflösung \(in Megapixel\)
 
 ## 🔑 Key Points
 
