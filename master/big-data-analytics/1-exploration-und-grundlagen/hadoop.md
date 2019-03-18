@@ -37,11 +37,9 @@ description: In dieser Session lernen wir Hadoop kennen.
 
 ## ▶ Lerneinheit
 
-### 1⃣ HDFS
+### 1⃣ HDFS, MapReduce & Apache Spark
 
-### 2⃣ MapReduce
-
-### 3⃣ Spark
+{% embed url="https://docs.google.com/presentation/d/1ul2cIIwSN4Ldvzq6IcoBykNM4GrnjDnwm6lqTcrTGsw/preview" %}
 
 ## 🔑 Key Points
 

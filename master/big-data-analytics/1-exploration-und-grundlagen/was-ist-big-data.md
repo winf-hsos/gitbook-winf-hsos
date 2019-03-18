@@ -20,11 +20,9 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ## ▶ Lerneinheit
 
-### 1⃣ Überprüfung des Wissensstands
+### 1⃣ Was ist Big Data?
 
-### 2⃣ ...
-
-### 3⃣ Review Quiz
+{% embed url="https://docs.google.com/presentation/d/16IASPSzF1lomsqm84KOUZK7slZhU3VwfrHbO2tqIYUQ/preview" %}
 
 ## ⏭ Nachbereitung
 
@@ -33,4 +31,8 @@ Lest bitte als Nachbereitung der Sitzung den folgenden Textausschnitt aus Hansen
 | Titel | Seiten |
 | :--- | :--- |
 | BDA-01 - Skalierbare Datenspeicherung und Big Data - Wirtschaftsinformatik 🇩🇪  | 7 |
+
+## 🔑 Key Points
+
+* ...
 
