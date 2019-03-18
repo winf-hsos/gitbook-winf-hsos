@@ -12,8 +12,6 @@
 
 * 🏷Diskret vs. kontinuierlich
 * 🏷Sample Rate
-* 🏷Bit Depth
-* 🏷Bildauflösung \(in Megapixel\)
 
 ## 🔑 Key Points
 
