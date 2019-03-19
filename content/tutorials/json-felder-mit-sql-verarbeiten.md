@@ -83,3 +83,5 @@ Das Ergebnis seht ihr unten im Screenshot:
 
 ## 💡 Objekte und deren Attribute abfragen
 
+Folgt bald.
+
