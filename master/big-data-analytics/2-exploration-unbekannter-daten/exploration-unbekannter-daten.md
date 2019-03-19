@@ -34,5 +34,9 @@ Wendet die Konzepte auf die entsprechenden Spalten eurer Datensätze an.
 
 {% page-ref page="../../../content/tutorials/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
+## 🔗 Links
+
+Unter dem folgenden Link findet ihr eine Zusammenfassung der wichtigsten SQL-Funktionen auf 2 Seiten:
+
+{% page-ref page="../../../content/cheat-sheets/cheatsheet-sql.md" %}
 
