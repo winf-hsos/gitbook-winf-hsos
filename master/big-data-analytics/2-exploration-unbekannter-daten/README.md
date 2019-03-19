@@ -21,6 +21,8 @@ description: In diesem Block geht es die Erkundung neuer Datensätze mit SQL.
 ## 🏷 Begriffe
 
 * 🏷Structured Query Language \(SQL\)
+* 🏷Datentypen
+* 🏷JSON
 * 🏷Domain \(Wertebereich\)
 
 ## 🔑 Key Points
@@ -47,4 +49,10 @@ Diese Tutorial bietet euch den Einstieg in SQL. Wenn ihr SQL-Neulinge seid müss
 In diesem Tutorial bekommt ihr einen Überblick, welche Möglichkeiten SQL bietet, um einen neuen Datensatz zu erkunden:
 
 {% page-ref page="../../../content/tutorials/daten-mit-sql-erkunden.md" %}
+
+Um mit JSON-Daten umgehen zu lernen, schaut euch diese beiden Tutorials an:
+
+{% page-ref page="../../../content/tutorials/einfuehrung-in-json.md" %}
+
+{% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
 
