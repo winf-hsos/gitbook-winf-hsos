@@ -45,10 +45,6 @@ Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick
 
 ![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2812%29.png)
 
-{% hint style="info" %}
-Neben dem Jahr \(`year()`\) könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](einfuehrung-sql/8-datum-und-zeit.md) des einführenden SQL Tutorials.
-{% endhint %}
-
 ## 💡 Die zeitliche Verteilung der Daten ermitteln
 
 Die meisten Datensätze, die wir in der Praxis analysieren, haben einen Zeitbezug. Konkret heißt das, es gibt mindestens eine Spalte mit dem Datentyp `timestamp` oder `date`.
@@ -67,6 +63,10 @@ order by year(film_date)
 
 Auch hier ist eine Visualisierung sinnvoll:
 
+{% hint style="info" %}
+Neben dem Jahr oder Monat könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](einfuehrung-sql/8-datum-und-zeit.md) des einführenden SQL Tutorials.
+{% endhint %}
+
 ![](../../.gitbook/assets/image%20%282%29.png)
 
 ### Anfangs- und Enddatum
@@ -81,9 +81,33 @@ from ted_meta
 
 ## 💡 Statistische Größen berechnen
 
+Das arithmetische Mittel \(Durchschnitt\) lässt sich in SQL sehr einfach berechnen:
+
 ```sql
 select avg(duration) from ted_meta
+
+// Alternative
+select mean(duration) from ted_meta
 ```
 
-Mehr folgt noch ... 👷♀ 
+Auch der Median lässt sich mit SQL berechnen:
+
+```sql
+select percentile(duration, 0.5) as `Median`
+from ted_meta
+```
+
+Die Standardabweichung:
+
+```sql
+select stddev(duration) as `Standardabweichung`
+from ted_meta
+```
+
+Und auch komplexere Kennzahlen, wie der Korrelationskoeffizient nach Pearson lassen sich mit SQL ermitteln:
+
+```sql
+select corr(views, comments) as `Pearson`
+from ted_meta
+```
 
