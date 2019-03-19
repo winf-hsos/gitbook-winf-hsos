@@ -89,11 +89,10 @@ Die Prüfungsleistung besteht aus der Fallstudie \(70%\) und 2 kurzen MC-Tests i
 Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
 
 * [Databricks Community Edition](https://community.cloud.databricks.com)
-* [Indico.io](https://indico.io) \(optional\)
 
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(📑Reader\) bereit. Ihr findet im Dateibereich ein PDF-Dokument mit der Übersicht aller Texte.
+Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) eine Sammlung von Texten \(📑Reader\) bereit. Für Teilnehmer ohne OSCA-Zugriff werden die Texte auch in Slack eingestellt.
 
 ## 📚 Empfohlene Literatur
 
