@@ -24,7 +24,8 @@ description: In dieser Session lernen wir Hadoop kennen.
 
 ## 🏷 Begriffe
 
-* 🏷Distributed Filesystem and Processing
+* 🏷Verteiltes Dateisystem \(Distributed Filesystem\)
+* 🏷Verteilte Datenverarbeitung \(Distributed Processing\)
 * 🏷Cluster
 * 🏷HDFS
 * 🏷MapReduce
