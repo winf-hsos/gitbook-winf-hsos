@@ -19,7 +19,7 @@ from <tabellenname>
 
 ✔ Im Code-Block oben stellt die erste Zeile einen 🏷**Kommentar** dar. Kommentare beginnen mit einem Doppelminus \(`--`\) und werden nicht als SQL interpretiert und somit auch nicht ausgeführt. Kommentare erlauben uns somit, für andere Menschen verständliche Hinweis zu unseren SQL Abfragen zu formulieren 😎. 
 
-Es ist immer eine gute Idee, genau die Spalten auszuwählen, die für die Beantwortung der Frage benötigt werden. In manchen Fällen möchte man aber vielleicht alle Spalten einer Tabelle auswählen, weil man die Namen nicht kennt. Für diesen Fall gibt es den so genannten Wildcard-Selektor `*`. Das folgende SQL Statement gibt **alle Spalten** der Tabelle `ted_meta` zurück:
+Es ist immer eine gute Idee, genau die Spalten auszuwählen, die für die Beantwortung der Frage benötigt werden. In manchen Fällen möchte man aber vielleicht alle Spalten einer Tabelle auswählen, weil man z.B. die Spaltennamen noch nicht kennt. Für diesen Fall gibt es den so genannten Wildcard-Selektor `*`. Das folgende SQL Statement gibt **alle Spalten** der Tabelle `ted_meta` zurück:
 
 ```sql
 select * from ted_meta
