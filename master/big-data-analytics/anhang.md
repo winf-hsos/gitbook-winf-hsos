@@ -35,3 +35,7 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 
 {% page-ref page="../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
 
+## Links
+
+* [Big Data Helper Tool für die Twitter API](https://big-data-analytics-helper.glitch.me/)
+
