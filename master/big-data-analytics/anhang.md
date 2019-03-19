@@ -40,4 +40,5 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 ## Links
 
 * [Big Data Helper Tool für die Twitter API](https://big-data-analytics-helper.glitch.me/)
+* [Zusammenfassung "The Minto Pyramid Principle"](https://www.dbai.tuwien.ac.at/staff/gatter/work/051104_The_Minto_Pyramid_Principle.pdf)
 
