@@ -26,7 +26,7 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ## ⏭ Nachbereitung
 
-Lest bitte als Nachbereitung der Sitzung den folgenden Textausschnitt aus Hansen et al \(2015\).
+Lest bitte als Nachbereitung der Sitzung den folgenden Textausschnitt aus Hansen et al \(2015\). Die Texte werden über OSCA bzw. Slack bereitgestellt.
 
 | Titel | Seiten |
 | :--- | :--- |

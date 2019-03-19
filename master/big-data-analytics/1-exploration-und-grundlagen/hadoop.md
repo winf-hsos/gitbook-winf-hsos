@@ -74,4 +74,5 @@ description: In dieser Session lernen wir Hadoop kennen.
 ## 🔗 Links
 
 * [Webseite von Apache Hadoop](https://hadoop.apache.org/)
+* [Webseite von Apache Spark](https://spark.apache.org/)
 
