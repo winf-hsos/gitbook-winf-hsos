@@ -1,6 +1,6 @@
 # Big Data Analytics
 
-> Unter **Big Data** \(engl.: big data\) versteht man Datenkollektionen, deren Größe die Fähigkeiten einzelner Rechnersysteme überschreiten, um diese Datenmenge zu speichern, zu durchsuchen, zu analysieren und zu verwalten. \[1\]
+> Unter **Big Data** \(engl.: big data\) versteht man Datenkollektionen, deren Größe die Fähigkeiten einzelner Rechnersysteme überschreiten, um diese Datenmenge zu speichern, zu durchsuchen, zu analysieren und zu verwalten. \(Hansen et al. 2015\)
 
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
