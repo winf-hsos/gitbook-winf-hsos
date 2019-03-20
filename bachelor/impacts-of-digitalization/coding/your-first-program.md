@@ -1,4 +1,8 @@
-# Your First Program
+---
+description: 'Instead of looking at coding theoretically, we''ll dive right in.'
+---
+
+# Jumping in at the Deep End
 
 
 
