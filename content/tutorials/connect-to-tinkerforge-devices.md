@@ -1,12 +1,31 @@
-# Connect to TinkerForge Devices
+# Coding with Tinkerforge Devices
 
-## Install TF Device Manager \(TDM\)
+## 🎯 Learning Objectives
 
-To make life easier, I developed and maintain a device manager for TinkerForge IoT devices \(TDM = **T**inkeForge **D**evice **M**anager\). The program is written in Node.js and is hosted in [npmjs.com](https://www.npmjs.com/package/tinkerforge-device-manager).
+In this tutorial, we'll go through the steps necessary to start using Tinkerforge hardware devices such as sensors, buttons, displays and other parts.
 
-### Instal Node.js and npm
+## ⚙ 1. Setup your IDE
 
-To install the TDM, you'll need to have Node.js and npm installed. If you are on Cloud9, this is already the case. If not, download the latest LTS version for your operating system here: [Download Node.js](https://nodejs.org/en/download/).
+To start programming, we need some pieces of software. You can find detailed instructions on the setup of these tools here:
+
+{% page-ref page="../../bachelor/impacts-of-digitalization/coding/install-your-ide.md" %}
+
+Return to this tutorial after you have everything installed and running. If something doesn't work, please contact me via Slack.
+
+## ✅ 2. Clone the template
+
+To make it really easy to get started, I provide a project template that we're also using in the module Impacts of Digitalization. This has everything included you need to get started.
+
+1. Open Visual Studio Code
+2. Open a new terminal window \(Terminal -&gt; New Terminal\)
+3. In the new terminal window, change to the directory where you want the template to be saved \(use the `cd` command to change directories on Windows and Mac OS\)
+4. Clone the template from Github: `git clone https://github.com/winf-hsos/iodi-coding.git`
+
+## 2. Install TF Device Manager \(TDM\)
+
+NOTE: 
+
+To make life easier, I developed and maintain a device manager for Tinkerforge IoT devices \(TDM = **T**inkeForge **D**evice **M**anager\). The program is written in Node.js and is hosted in [npmjs.com](https://www.npmjs.com/package/tinkerforge-device-manager).
 
 ### Create a new project
 
@@ -17,7 +36,7 @@ Next, create a new project in Cloud9 \(or a new folder if you are on your local 
 Navigate to your project's root folder and exeucte the following command to install the TDM:
 
 ```bash
-npm install tinkerforge-device-manager --save
+npm install tinkerforge-device-manager
 ```
 
 The node package manager will now automatically get the latest version of the TDM from npmjs.com and save it in your project.

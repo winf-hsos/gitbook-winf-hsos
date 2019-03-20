@@ -173,7 +173,7 @@
   * [Twitter-Netzwerke mit SQL auswerten](content/tutorials/twitter-netzwerke-mit-sql-auswerten.md)
   * [Einführung in JSON](content/tutorials/einfuehrung-in-json.md)
   * [How to get started with Machine Learning](content/tutorials/how-to-get-started-with-machine-learning.md)
-  * [Connect to TinkerForge Devices](content/tutorials/connect-to-tinkerforge-devices.md)
+  * [Coding with Tinkerforge Devices](content/tutorials/connect-to-tinkerforge-devices.md)
   * [Einführung Javascript](content/tutorials/einfuehrung-javascript.md)
   * [Einführung in Markdown](content/tutorials/einfuehrung-in-markdown.md)
 * [Miscellaneous](content/appendix/README.md)
