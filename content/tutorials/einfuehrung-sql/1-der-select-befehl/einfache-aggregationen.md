@@ -74,7 +74,7 @@ from ted_meta
 
 {% tabs %}
 {% tab title="Aufgabe" %}
-Wie viele Kommentare hab es über alle Talks hinweg?
+Wie viele Kommentare gab es über alle Talks hinweg?
 {% endtab %}
 
 {% tab title="Lösung" %}
