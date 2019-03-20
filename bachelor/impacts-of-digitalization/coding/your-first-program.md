@@ -1,5 +1,7 @@
 ---
-description: 'Instead of looking at coding theoretically, we''ll dive right in.'
+description: >-
+  Instead of looking at coding theoretically, we'll dive right in. We'll step
+  back and think about the concepts behind it later on.
 ---
 
 # Jumping in at the Deep End
