@@ -1,3 +1,9 @@
+---
+description: >-
+  After we dived into writing some programs, let's look at the concepts behind
+  it.
+---
+
 # Programming Elements
 
 Please be patient 👷♀ 
