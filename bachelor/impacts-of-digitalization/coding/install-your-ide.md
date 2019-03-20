@@ -47,13 +47,23 @@ Git is a popular source control system. This means that you can save your code i
 
 ### 5⃣ Install Tinkerforge Brick Viewer and Daemon
 
-Coming soon 🕓 
+In this module, we are using hardware devices from a company called [Tinkerforge](https://www.tinkerforge.com/en/). The company offers a small software that allows us to quickly try out the different sensors and other devices without the need to write a program ourselves. We'll use this software to get familiar with the different devices before we decide to use them in our programs. 
+
+* ✅ Follow these links to install the Brick Daemon on your computer. The Brick Daemon is a necessary service for the Brick Viewer: 
+  * [Brick Daemon for Windows](http://download.tinkerforge.com/tools/brickd/windows/brickd_windows_2_3_2.exe)
+  * [Brick Daemon for Mac OS](http://download.tinkerforge.com/tools/brickd/macos/brickd_macos_2_3_2.dmg) 
+* ✅ Now that you have installed the Brick Daemon, you can install the Brick Viewer: 
+  * [Brick Viewer for Windows](http://download.tinkerforge.com/tools/brickv/windows/brickv_windows_2_3_17.exe)
+  * [Brick Viewer for Mac OS](http://download.tinkerforge.com/tools/brickv/macos/brickv_macos_2_3_17.dmg)
+
+Congratulations, you have made it! We're now ready to work!
 
 ## 🔗 Links
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [VS Live Share on Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 * [Node.js](https://nodejs.org/en/)
+* [Git Downloads](https://git-scm.com/downloads)
 * [Tinkerforge Brick Viewer](https://www.tinkerforge.com/en/doc/Software/Brickv.html)
 * [Tinkerforge Brick Daemon](https://www.tinkerforge.com/en/doc/Software/Brickd.html#brickd)
 * [RunKit](https://runkit.com)
