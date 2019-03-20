@@ -34,7 +34,13 @@ Now that we have setup and tested our hardware, we can start writing programs to
 * 🔗 [Link to exercise](https://docs.google.com/document/d/17BBJRldzIrdq5jnDmUSDkimjx9JojQvF-uQrGkkoLv8/preview)
 * 🔗 [Link to PDF version](https://docs.google.com/document/d/17BBJRldzIrdq5jnDmUSDkimjx9JojQvF-uQrGkkoLv8/export?format=pdf) ⬇ 
 
-## 🔗 Links
+### ⏭ Outlook \(⏲5 Min.\)
+
+Ok, that was a lot new stuff. But don't worry, it is totally normal that you feel overwhelmed and maybe didn't understand every little bit we did. But that was intentional: It is often a good idea to get your hands onto something before you talk about it in general. That's what we'll do in the next lesson. 
+
+{% page-ref page="programming-elements.md" %}
+
+##  <a id="homework"></a>
 
 
 
