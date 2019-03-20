@@ -27,7 +27,7 @@ Für dieses Tutorial stelle ich eine Reihe von Notebooks bereit, die ihr in eure
 
 Das Vorgehen zum Importieren eines Notebooks ist einfach:
 
-* ✅ Klickt auf den Link des Notebook-Templates, z.B. 🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/empirisches-arbeiten/3%20-%20Text%20Analytics.html). Das Notebook öffnet sich als HTML-Seite in einem neuen Tab des Browsers. 
+* ✅ Klickt auf den Link des Notebook-Templates, z.B. 🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Das Notebook öffnet sich als HTML-Seite in einem neuen Tab des Browsers. 
 * ✅ Klickt auf den "Import Notebook" Button in der oberen rechten Ecke des Notebooks. Es öffnet sich ein Pop-Up Fenster mit einer URL. Kopiert die URL in die Zwischenablage \(⌨_Strg+C_\). 
 * ✅ Öffnet [Databricks](https://community.cloud.databricks.com/login.html) und loggt euch ein. Klickt im Menü links auf "Home" und wählt einen Ort aus, an dem ihr das Notebook speichern wollt. Klickt dann auf den kleinen nach unten zeigenden Pfeil und wählt "Import".  
 * ✅ Im sich öffnenden Pop-Up Fenster wählt ihr den Radiobutton "URL" aus. Fügt nun die zuvor kopierte URL des Notebook-Templates in das Textfeld ein. Klickt anschließend auf "Import".
