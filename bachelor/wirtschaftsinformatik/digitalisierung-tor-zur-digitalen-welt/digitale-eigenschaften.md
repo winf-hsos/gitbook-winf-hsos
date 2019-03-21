@@ -1,11 +1,18 @@
 # Digitale Eigenschaften
 
+## 🎯 Lernziele
+
+* 🎯 Ihr kennt den Unterschied zwischen den Englischen Begriffen _Digitization_ und _Digitalization_.
+* 🎯 Ihr kennt wichtige Eigenschaften digitaler Güter
+* 🎯 Ihr könnt die Bedeutung und Auswirkungen dieser Eigenschaften aus z.B. Geschäftsmodelle einschätzen
+
 ## 🏷 Begriffe
 
-* 🏷Digitization vs Digitalization
-* 🏷Perfekte Reproduzierbarkeit
+* 🏷_Digitization_ vs _Digitalization_
+* 🏷Perfekte Reproduzierbarkeit \(_Perfect Reproduction_\)
+* 🏷Grenzkosten \(_Marginal Costs_\)
 * 🏷Leichte Veränderbarkeit
-* 🏷Systemabhängigkeit \(Lock-In\)
+* 🏷Systemabhängigkeit \(_Vendor Lock-In_\)
 * 🏷Externe Effekte \(Netzwerkeffekte\)
 
 ## ⏮ Vorbereitung
