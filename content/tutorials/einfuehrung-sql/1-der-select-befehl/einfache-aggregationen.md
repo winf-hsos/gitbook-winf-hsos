@@ -4,7 +4,7 @@
 
 Bisher entsprach jede Zeile im Ergebnis eines SQL Statements auch immer einer Zeile im Datensatz. Die Daten wurden bisher nicht verdichtet. Das wollen wir jetzt ändern.
 
-Gerade bei großen Datenmengen interessieren wir uns oft nicht für einzelne Zeilen, sondern für **berechnete Größen auf Basis vieler Zeilen**. Hier kommen die Aggregationsfunktionen ins Spiel, die in der folgenden Tabelle aufgelistet sind.
+Gerade bei großen Datenmengen interessieren wir uns oft nicht für einzelne Zeilen, sondern für **berechnete Größen auf Basis vieler Zeilen**. Hier kommen die 🏷**Aggregationsfunktionen** ins Spiel, die in der folgenden Tabelle aufgelistet sind.
 
 | Aggregationsfunktion | Beschreibung |
 | :--- | :--- |
@@ -73,11 +73,11 @@ from ted_meta
 #### Aufgabe 1.8
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.8" %}
 Wie viele Kommentare gab es über alle Talks hinweg?
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.8" %}
 ```sql
 select sum(comments) as `Anzahl Kommentare`
 from ted_meta
@@ -88,11 +88,11 @@ from ted_meta
 #### Aufgabe 1.9
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.9" %}
 Von wann ist der neueste und älteste TED Talk im Datensatz?
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.9" %}
 ```sql
 select min(film_date) as `Ältester Talk`
       ,max(film_date) as `Neuester Talk`

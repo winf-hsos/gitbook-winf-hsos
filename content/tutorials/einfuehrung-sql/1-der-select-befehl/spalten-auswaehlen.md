@@ -9,7 +9,7 @@ select title, description
 from ted_meta
 ```
 
-Die Syntax ist einfach: Zu selektierende Spalten \(oder allgemein Ausdrücke\) werden mit Kommata getrennt hinter dem SELECT Schlüsselwort aufgezählt:
+Die Syntax ist einfach: Zu selektierende Spalten \(oder allgemein Ausdrücke\) werden mit Kommata getrennt hinter dem `SELECT` Schlüsselwort aufgezählt:
 
 ```sql
 -- Allgemeine Syntax für das Auswählen von Spalten
@@ -27,7 +27,7 @@ select * from ted_meta
 
 ## 🧪 Übungsaufgaben
 
-Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
+Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort, die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
 
 #### Aufgabe 1.2
 
@@ -58,6 +58,4 @@ from ted_text
 ```
 {% endtab %}
 {% endtabs %}
-
-## 💡 
 

@@ -40,11 +40,11 @@ order by event asc, duration desc
 #### Aufgabe 1.6
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.6" %}
 Sortiert die TED-Talks nach Anzahl der Views, so dass die mit dem meisten Views oben stehen.
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.6" %}
 ```sql
 select title, views 
 from ted_meta
@@ -56,11 +56,11 @@ order by views desc
 #### Aufgabe 1.7
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.7" %}
 Welche TED Talks sind die 10 aktuellsten im Datensatz?
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.7" %}
 ```sql
 select title, film_date 
 from ted_meta

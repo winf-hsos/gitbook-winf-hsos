@@ -2,7 +2,7 @@
 
 ## 💡 Gruppieren - so geht’s
 
-Ihr habt gerade gesehen, wie man einfach Aggregationen wie Zählen oder Summieren auf alle Datensätze in der Tabelle anwenden kann. Oftmals möchte man aber einen Wert pro Gruppe innerhalb der Daten ermitteln. Das funktioniert mit der `GROUP BY` Klausel.
+Ihr habt gerade gesehen, wie man einfach Aggregationen, wie das Zählen oder Summieren, auf alle Datensätze in der Tabelle anwenden kann. Oftmals möchte man aber **einen Wert pro Gruppe** innerhalb der Daten ermitteln. Das funktioniert mit der `GROUP BY` Klausel.
 
 ```sql
 select event
@@ -33,18 +33,18 @@ Unsere Gruppen sind nun etwas feiner, d.h. wir bekommen im Ergebnis mehr Spalten
 
 ![Beliebter Fehler: Vergessen zu gruppieren.](../../../../.gitbook/assets/image%20%287%29.png)
 
-Im Screenshot oben wurde die Spalte `speaker_occupation` nicht in der Gruppierung aufgeführt, was zu diesem Fehler führt. Die Faustregel gilt: Alle Spalten, auf die keine Aggregationsfunktion angewendet werden, müssen in der `GROUP BY` Klausel auftauchen.
+Im Screenshot oben wurde die Spalte `speaker_occupation` nicht in der Gruppierung aufgeführt, was zu diesem Fehler führt. ☝Als Faustregel gilt: Alle Spalten, auf die keine Aggregationsfunktion angewendet werden, müssen in der `GROUP BY` Klausel auftauchen.
 
 ## 🧪 Übungsaufgaben
 
 #### Aufgabe 1.10
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.10" %}
 Ermittelt die Anzahl TED Talks pro Jahr. \(Tipp: Das Jahr bekommt ihr mit `year(film_date)`\)
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.10" %}
 ```sql
 select year(film_date) as `Jahr`
       ,count(1) as `Anzahl Talks`

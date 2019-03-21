@@ -31,11 +31,11 @@ Wir würden so auf Zeilenebene alle Talks filtern, die kürzer als 20 Minuten si
 #### Aufgabe 1.11
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.11" %}
 Ermittelt alle Speaker, die mindestens zwei Talks gehalten haben. Wer hat die meisten?
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.11" %}
 ```sql
 select main_speaker
       ,count(1) as `Anzahl Talks`

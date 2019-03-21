@@ -13,13 +13,13 @@ select * from ted_meta
 where main_speaker = 'Al Gore'
 ```
 
-Im Beispiel oben verwenden wir die `WHERE` Klausel, um ein Feld vom Datentyp `string` zu filtern. Genauer gesagt wird für alle Datensätze der Wert in der Spalte `main_speaker` mit dem Wert 'Al Gore' verglichen. Es werden nur die Datensätze im Ergebnis behalten, bei denen der Vergleich wahr \(`true`\) zurückliefert. 
+Im Beispiel oben verwenden wir die `WHERE` Klausel, um ein Feld vom Datentyp `string` zu filtern. Genauer gesagt wird für alle Datensätze der Wert in der Spalte `main_speaker` mit dem Wert 'Al Gore' verglichen. Es werden nur die Datensätze im Ergebnis behalten, bei denen der Vergleich _wahr_ \(`true`\) zurückliefert. 
 
 💡 Bei Vergleichen zweier Zeichenketten \(oder _Strings_\) müssen wir immer **einfache Anführungszeichen** verwenden. Weil Strings auch Leerzeichen oder andere Sonderzeichen enthalten können, wäre sonst nicht klar, wo das Ende des Strings ist.
 
 #### Der `LIKE` Operator
 
-Neben dem `=` Operator für Stringvergleiche gibt es mit dem `LIKE` Operator eine weitere wirkungsvolle Weise, um Vergleiche aus Zeichenketten durchzuführen. Der LIKE Operator erlaubt es uns, Strings mit Teilstrings zu vergleichen. Das folgende SQL Statement liefert alle TED Talks zurück, bei denen im Titel das Wort 'food' vorkommt:
+Neben dem `=` Operator für Stringvergleiche gibt es mit dem `LIKE` Operator eine weitere wirkungsvolle Weise, um Vergleiche von Zeichenketten durchzuführen. Der `LIKE` Operator erlaubt es uns, Strings mit Teilstrings zu vergleichen. Das folgende SQL Statement liefert alle TED Talks zurück, bei denen im Titel das Wort 'food' vorkommt:
 
 ```sql
 select * from ted_meta
@@ -33,14 +33,14 @@ select * from ted_meta
 where lower(title) like '%food%'
 ```
 
-Das `%` Zeichen in den obigen Statements ist so zu lesen: Es ist egal was vor oder nach dem Wort 'food' kommt, wichtig ist nur, dass das Wort _irgendwo_ vorkommt. Wir können das `%` Zeichen auch so setzen, dass wir z.B. nur Titel mit 'food' am Anfang im Ergebnis haben:
+Das `%` Zeichen in den obigen Statements ist so zu lesen: Es ist egal, was vor oder nach dem Wort 'food' kommt, wichtig ist nur, dass das Wort _irgendwo_ vorkommt. Wir können das `%` Zeichen auch so setzen, dass wir z.B. nur Titel mit 'food' am Anfang im Ergebnis haben:
 
 ```sql
 select * from ted_meta
 where lower(title) like 'food%'
 ```
 
-Jetzt muss 'food' am Anfang der Spalte title stehen, und es ist egal was danach kommt. Genauso können wir auch nach 'food' am Ende suchen:
+Jetzt muss 'food' am Anfang der Spalte `title` stehen, und es ist egal was danach kommt. Genauso können wir auch nach 'food' am Ende suchen:
 
 ```sql
 select * from ted_meta
@@ -79,11 +79,11 @@ where title like '%food%'
 and event = 'TED2010'
 ```
 
-Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Das bedeutet wir können auch Klammern verwenden, um Gruppen von Bedingungen zu bilden und diese miteinander zu verknüpfen.
+Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Das bedeutet, wir können auch Klammern verwenden, um Gruppen von Bedingungen zu bilden und diese miteinander zu verknüpfen.
 
 ### Zahlenwerte
 
-Beim Filtern auf numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetik bereitstellt, um Zahlen miteinander zu vergleichen:
+Beim Filtern von numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetik bereitstellt, um Zahlen miteinander zu vergleichen:
 
 * `=` : 2 Zahlen müssen exakt gleich sein.
 * `>` bzw. `>=`: die erste Zahl muss größer bzw. größer gleich der zweiten Zahl sein.
@@ -107,14 +107,14 @@ where id = 1
 or id = 100
 ```
 
-Hätten wir nun eine Liste mit 5 IDs könnten wir entsprechend 3 weitere Bedingungen mit `OR` verknüpfen. Glücklicherweise gibt es eine einfachere Möglichkeit:
+Hätten wir nun eine Liste mit 5 IDs, könnten wir entsprechend 3 weitere Bedingungen mit `OR` verknüpfen. Glücklicherweise gibt es eine einfachere Möglichkeit:
 
 ```sql
 select * from ted_meta
 where id IN (1, 100, 101, 102, 200)
 ```
 
-Mit dem IN Operator können wir den Wert einer Spalte auf die Zugehörigkeit zu einer Menge, die wir mit Komma getrennt in Klammern definieren, überprüfen. Wenn der Wert sich in der Menge befinden wir die Bedingung wahr.
+Mit dem IN Operator können wir den Wert einer Spalte auf die Zugehörigkeit zu einer Menge, die wir mit Kommata getrennt in Klammern definieren, überprüfen. Wenn der Wert sich in der Menge befindet wird die Bedingung wahr.
 
 #### Größer \(gleich\) und kleiner \(gleich\)
 
@@ -181,11 +181,11 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 #### Aufgabe 1.4
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.4" %}
 Ermittele den Titel und die Anzahl Viewer für alle TED Talks des offiziellen TED 2005 Events.
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.4" %}
 ```sql
 select title, views
 from ted_meta
@@ -197,11 +197,11 @@ where event = 'TED2005'
 #### Aufgabe 1.5
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.5" %}
 Gib eine Liste der Talks von Sam Harris, Steven Pinker und Amy Cuddy aus.
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.5" %}
 ```sql
 select * from ted_meta
 where main_speaker IN ('Sam Harris', 'Steven Pinker', 'Amy Cuddy')
