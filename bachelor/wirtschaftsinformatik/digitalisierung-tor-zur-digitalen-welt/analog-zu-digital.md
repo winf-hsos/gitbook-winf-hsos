@@ -2,7 +2,10 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr könnt erklären, wie ein analoger Sachverhalt in eine digitale Version überführt werden kann.
+In dieser Lerneinheit sprechen wir über die Unterschiede zwischen der analogen und der digitalen Welt. Wir schauen uns den Unterschied zwischen kontinuierlichen und diskreten Werten als ein wichtiges Unterscheidungsmerkmal an. Anschließend betrachten wir 3 Beispiele aus der analogen Welt und wie wir diese in die digitale Welt überführen können.
+
+* 🎯 Ihr kennt den Unterschied zwischen der analogen und digitalen Version des gleichen Guts
+* 🎯 Ihr könnt erklären, wie analoge Sachverhalte wie Ton, Bilder und Texte in eine digitale Repräsentation überführt werden können.
 
 ## 🏷 Begriffe
 
@@ -26,7 +29,7 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 
 ### 1⃣ Quiz \(⏲10 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der beiden Texte und des Videos. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des Textes. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
 * 🔗 Link zum Quiz \(folgt... 👷♀\)
 
@@ -35,13 +38,6 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 {% embed url="https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/preview" %}
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/export/pdf)
-
-### 3⃣ Übungsaufgabe zur Digitalisierung \(⏲45 Min.\)
-
-Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten⏲ für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
-
-* 🔗 Link zur Übungsaufgabe \(folgt... 👷♀\)
-* 🔗 Link zur PDF-Version zum Download ⬇ \(folgt... 👷♀\)
 
 ### 🔁 Offene Fragen \(⏲5 Min.\)
 
