@@ -50,7 +50,7 @@ Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu a
 
 ### ⏭ Ausblick
 
-Wir wissen jetzt, wie Sachverhalte aus der analogen Welt in eine digitale Repräsentation überführt werden können. Das ist eine wichtige Grundlage für das Verständnis der Digitalisierung. Was aber haben wir damit gewonnen? Warum ist es sinnvoll, Dinge zu digitalisieren? Das schauen wir uns in der nächsten Lerneinheit an.
+Wir haben nun die Grundlagen digitaler Rechenmaschinen \(Computern\) kennengelernt und gesehen, wie wir analoge Sachverhalte in eine Form bringen, in der sie von Computern verarbeitet werden können. Was aber passiert nun mit diesen digitalen Gütern und Informationen? Es sind die Algorithmen, die dafür Sorge tragen, dass wir die Vorteile der digitalen Güter in vollem Umfang nutzen können. Diese schauen wir uns im nächsten Teil genauer an.
 
-{% page-ref page="digitale-eigenschaften.md" %}
+{% page-ref page="../algorithmen-regeln-der-digitalen-welt/" %}
 
