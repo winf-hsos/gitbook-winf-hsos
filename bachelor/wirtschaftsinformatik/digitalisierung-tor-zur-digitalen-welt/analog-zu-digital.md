@@ -27,19 +27,25 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 
 ## ▶ Session
 
-### 1⃣ Rückblick und Feedback Teil \#1 \(⏲30 Min.\)
+### 1⃣ Rückblick und Feedback Teil \#1
 
 Anstelle des Quiz fassen wir heute  die wichtigsten Erkenntnisse aus dem ersten Teil der Veranstaltung zusammen und holen euer Feedback ein. Klickt auf den Link unten und gebt den Code **12 85 83** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
 * 🔗 [Link zum Feedback-Survey](https://www.menti.com/46e662c4)
 
-### 2⃣ Digitalisierung analoger Sachverhalte \(⏲30 Min.\)
+Für die Zusammenfassung schauen wir uns aus jeder Lerneinheit aus Teil 1 eine exemplarische Slide an und fassen die wichtigsten Erkenntnisse zusammen.
+
+{% embed url="https://docs.google.com/presentation/d/1DyMpzKzVC1n1M8GMrBAfbLxN1FrCpJeNZ51Hd12rsJ8/preview" %}
+
+Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1DyMpzKzVC1n1M8GMrBAfbLxN1FrCpJeNZ51Hd12rsJ8/export/pdf)
+
+### 2⃣ Digitalisierung analoger Sachverhalte
 
 {% embed url="https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/preview" %}
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/export/pdf)
 
-### 🔁 Offene Fragen \(⏲5 Min.\)
+### 🔁 Offene Fragen
 
 Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
 
@@ -47,9 +53,9 @@ Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Frage
 
 Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu adressieren.
 
-### ⏭ Ausblick \(⏲5 Min.\)
+### ⏭ Ausblick
+
+Wir wissen jetzt, wie Sachverhalte aus der analogen Welt in eine digitale Repräsentation überführt werden können. Das ist eine wichtige Grundlage für das Verständnis der Digitalisierung. Was aber haben wir damit gewonnen? Warum ist es sinnvoll, Dinge zu digitalisieren? Das schauen wir uns in der nächsten Lerneinheit an.
 
 {% page-ref page="digitale-eigenschaften.md" %}
-
-## 🔗 Links
 
