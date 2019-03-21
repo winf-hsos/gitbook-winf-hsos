@@ -27,13 +27,13 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 
 ## ▶ Session
 
-### 1⃣ Quiz \(⏲10 Min.\)
+### 1⃣ Rückblick und Feedback Teil \#1 \(⏲30 Min.\)
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des Textes. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Anstelle des Quiz fassen wir heute  die wichtigsten Erkenntnisse aus dem ersten Teil der Veranstaltung zusammen und holen euer Feedback ein. Klickt auf den Link unten und gebt den Code **12 85 83** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
-* 🔗 Link zum Quiz \(folgt... 👷♀\)
+* 🔗 [Link zum Feedback-Survey](https://www.menti.com/46e662c4)
 
-### 2⃣ Beispiele für Digitalisierung analoger Sachverhalte \(⏲25 Min.\)
+### 2⃣ Digitalisierung analoger Sachverhalte \(⏲30 Min.\)
 
 {% embed url="https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/preview" %}
 
