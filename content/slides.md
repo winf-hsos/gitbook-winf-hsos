@@ -9,6 +9,8 @@
 | [Wirtschaftsinformatik \#02 - Codes](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/preview) | [PDF](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf) |
 | [Wirtschaftsinformatik \#03 - Logic Gates](https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/preview) | [PDF](https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/export/pdf) |
 | [Wirtschaftsinformatik \#04 - Bits addieren](https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/preview) | [PDF](https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/export/pdf) |
+| [Wirtschaftsinformatik \#05 - Analog vs. Digital](https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/preview) | [PDF](https://docs.google.com/presentation/d/1qbnwDT78CxxwxGbYHy2Y7YaOIabWMG6surx28mLKYWc/export/pdf) |
+| [Wirtschaftsinformatik - Part 1 in a Nutshell](https://docs.google.com/presentation/d/1DyMpzKzVC1n1M8GMrBAfbLxN1FrCpJeNZ51Hd12rsJ8/preview) | [PDF](https://docs.google.com/presentation/d/1DyMpzKzVC1n1M8GMrBAfbLxN1FrCpJeNZ51Hd12rsJ8/export/pdf) |
 
 ## Impacts of Digitalization
 
