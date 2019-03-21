@@ -32,11 +32,11 @@ Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versu
 #### Aufgabe 1.2
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.2" %}
 Schreibe eine SQL Abfrage, die für einen TED-Talk die Anzahl Kommentare und die Anzahl Views ermittelt. Gebt den Titel des Talks aus!
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.2" %}
 ```sql
 select title, comments, views
 from ted_meta
@@ -47,11 +47,11 @@ from ted_meta
 #### Aufgabe 1.3
 
 {% tabs %}
-{% tab title="Aufgabe" %}
+{% tab title="Aufgabe 1.3" %}
 Gib nur die Texte aller TED-Talks aus!
 {% endtab %}
 
-{% tab title="Lösung" %}
+{% tab title="Lösung 1.3" %}
 ```sql
 select text 
 from ted_text
