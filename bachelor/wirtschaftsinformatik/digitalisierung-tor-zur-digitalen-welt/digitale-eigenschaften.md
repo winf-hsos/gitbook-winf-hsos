@@ -41,6 +41,23 @@ Hier sammeln wir zunächst Eigenschaften, die ihr entweder selbst kennt, die in 
 
 Jetzt wollen wir die Eigenschaften strukturieren und anschließend Beispiele dafür suchen und kurz darüber diskutieren, damit alle ein gutes Verständnis der Punkte bekommen.
 
+### 2⃣ Quiz  \(⏲10 Min.\)
+
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der Vorbereitung. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+
+* 🔗 Link zum Quiz \(folgt...\)
+
+### 3⃣ Überblick zu Eigenschaften digitaler Güter und Muster der digitalen Transformation
+
+{% embed url="https://docs.google.com/presentation/d/12ErQdjG\_vzGeYuz8OSjdedKSWPJCdHMy0AASYKCK\_cg/preview" %}
+
+### 4⃣ Übungsaufgabe Treiber der digitalen Transformation
+
+Bearbeitet die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+
+* 🔗[ Link zur Übungsaufgabe](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/edit/preview)
+* 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/edit/export/pdf) ⬇ 
+
 ### 🔁 Offene Fragen
 
 Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
