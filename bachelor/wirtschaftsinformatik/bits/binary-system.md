@@ -16,7 +16,7 @@
 
 ## ⏮ Vorbereitung
 
-Lest bitte die folgenden Texte aus dem Reader 📑 als Vorbereitung auf die Session. Den Reader findet ihr als ZIP-Datei im Dateibereich dieser Veranstaltung in [OSCA](http://osca.hs-osnabrueck.de/). 
+Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Session. Die Texte findet ihr im Dateibereich dieser Veranstaltung in [OSCA](http://osca.hs-osnabrueck.de/). 
 
 Der erste Text verdeutlicht die Funktionsweise des Dezimalsystems, das wir täglich und ohne nachzudenken anwenden. Der zweite Text zeigt, wie andere Zahlensysteme, die nicht auf der Zahl 10 beruhen, mit der gleichen Systematik verstanden und angewendet werden können.
 
