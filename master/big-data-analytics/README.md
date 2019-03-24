@@ -96,7 +96,7 @@ Für diese Veranstaltung stelle ich über [OSCA](http://osca.hs-osnabrueck.de/) 
 
 ## 📚 Empfohlene Literatur
 
-* 📘Hansen, Hans Robert; Neumann, Gustaf; Mendling \(2015\): Wirtschaftsinformatik. Grundlagen und anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany.  
+* 📘Hansen, Hans Robert; Neumann, Gustaf; Mendling \(2015\): Wirtschaftsinformatik. Grundlagen und anwendungen. 11. völlig neu bearbeitete Auflage. Berlin, Germany. Kapitel 9.5. 
 * 📘 Struhl, Steven M. \(2015\): Practical text analytics. Interpreting text and unstructured data for business intelligence. London, UK, Philadelphia, PA: Kogan Page \(Marketing science series\). 
 * 📘 Zečević, Petar; Bonaći, Marko \(2017\): Spark in action. Shelter Island, NY: Manning.  
 * 📘 Marz, Nathan; Warren, James \(2015\): Big data. Principles and best practices of scalable real-time data systems. Shelter Island, NY: Manning. 
