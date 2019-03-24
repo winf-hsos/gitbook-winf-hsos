@@ -100,6 +100,10 @@ Tegmark, Max \(2017\): Life 3.0. Being human in the age of artificial intelligen
 ⭐ McAfee, Andrew; Brynjolfsson, Erik \(2018\): Machine, Platform, Crowd. Wie wir das Beste aus unserer digitalen Zukunft machen. Unter Mitarbeit von Philipp Seedorf. Kulmbach: Plassen Verlag.
 
 Brynjolfsson, Erik; McAfee, Andrew \(2016\): The second machine age. Work, progress, and prosperity in a time of brilliant technologies. New York, London: W.W. Norton & Company.
+
+Leimeister, Jan Marco \(2015\): Einführung in die Wirtschaftsinformatik. 12. Auflage. Berlin, Heidelberg: Springer Gabler \(Lehrbuch\).
+
+Matzler, Kurt; Bailom, Franz; Friedrich von den Eichen, Stephan A.; Anschober, Markus \(2016\): Digital Disruption. Wie Sie Ihr Unternehmen auf das digitale Zeitalter vorbereiten. 1. Auflage. München: Verlag Franz Vahlen.
 {% endtab %}
 
 {% tab title="\#3 Algorithmen" %}
