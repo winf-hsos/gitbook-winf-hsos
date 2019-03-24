@@ -1,10 +1,11 @@
-# Digitale Eigenschaften
+# Eigenschaften digitaler Güter
 
 ## 🎯 Lernziele
 
+* 🎯 Ihr kennt wichtige Eigenschaften digitaler Güter.
+* 🎯 Ihr könnt Auswirkungen dieser Eigenschaften aus z.B. Geschäftsmodelle einschätzen.
 * 🎯 Ihr kennt den Unterschied zwischen den Englischen Begriffen _Digitization_ und _Digitalization_.
-* 🎯 Ihr kennt wichtige Eigenschaften digitaler Güter
-* 🎯 Ihr könnt die Bedeutung und Auswirkungen dieser Eigenschaften aus z.B. Geschäftsmodelle einschätzen
+* 🎯 Ihr kennt wichtige Treiber digitalen Transformation.
 
 ## 🏷 Begriffe
 

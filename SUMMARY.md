@@ -12,7 +12,7 @@
     * [Bits addieren](bachelor/wirtschaftsinformatik/bits/bits-addieren.md)
   * [\#2 Digitalisierung - Tor zur digitalen Welt](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/README.md)
     * [Analog zu Digital](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/analog-zu-digital.md)
-    * [Digitale Eigenschaften](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/digitale-eigenschaften.md)
+    * [Eigenschaften digitaler Güter](bachelor/wirtschaftsinformatik/digitalisierung-tor-zur-digitalen-welt/digitale-eigenschaften.md)
   * [\#3 Algorithmen - Regeln der digitalen Welt](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/README.md)
     * [Eigenschaften von Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/eigenschaften-von-algorithmen.md)
     * [Algorithmen am Beispiel](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/wichtige-algorithmen.md)
