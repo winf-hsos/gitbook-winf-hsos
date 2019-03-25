@@ -43,11 +43,11 @@ Hier sammeln wir zunächst Eigenschaften, die ihr entweder selbst kennt, die in 
 
 Jetzt wollen wir die Eigenschaften strukturieren und anschließend Beispiele dafür suchen und kurz darüber diskutieren, damit alle ein gutes Verständnis der Punkte bekommen.
 
-### 2⃣ Quiz  \(⏲10 Min.\)
+### 2⃣ Quiz
 
-Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der Vorbereitung. Klickt auf den Link unten und gebt den Code **XX XX XX** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
+Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der Vorbereitung. Klickt auf den Link unten und gebt den Code **70 09 9** ein \(wird auch auf dem Beamer gezeigt\), oder klickt direkt auf diesen Link:
 
-* 🔗 Link zum Quiz \(folgt...\)
+* 🔗 [Link zum Quiz](https://www.menti.com/ab3b3b27)
 
 ### 3⃣ Überblick zu Eigenschaften digitaler Güter und Muster der digitalen Transformation
 
