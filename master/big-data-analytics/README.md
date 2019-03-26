@@ -86,9 +86,12 @@ Die Prüfungsleistung besteht aus der Fallstudie \(70%\) und 2 kurzen MC-Tests i
 
 ## 👩💻 Software & Accounts <a id="software-and-accounts"></a>
 
-Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind kostenlos nutzbar:
+Ihr benötigt die folgenden Tools 🛠 und entsprechende Accounts. Sämtliche Tools sind für akademische Zwecke kostenlos nutzbar:
 
 * [Databricks Community Edition](https://community.cloud.databricks.com)
+* [Tableau](https://www.tableau.com/de-de/academic/students)
+* [RapidMiner](https://rapidminer.com/educational-program/)
+* [Gephi](https://gephi.org/)
 
 ## 📑 Reader
 
