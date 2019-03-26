@@ -8,11 +8,11 @@
 
 ## ▶ Lerneinheit
 
-### 1⃣ Daten aus sozialen Netzwerken beschaffen - Beispiel Twitter API
+### 1⃣ Daten beschaffen - Übersicht und Beispiele Scraping und APIs
 
-Wir schauen uns gemeinsam an, wie Daten mithilfe der Twitter API abgefragt und gespeichert werden können.
+Wir verschaffen uns zuerst einen Überblick über gängige Datenquellen, bevor wir uns 2 Beispiele genauer anschauen: Das _Scrapen_ von Daten aus dem Web sowie das Abfragen via API. 
 
-Slides folgen...
+{% embed url="https://docs.google.com/presentation/d/17TjiVyD2kQc9PCYDjlrEjkVuWhLOLg5Czf-dJe9KvaE/preview" %}
 
 ### 2⃣ Daten anreichern mit Cloud-Diensten - Beispiel Azure Vision API
 
