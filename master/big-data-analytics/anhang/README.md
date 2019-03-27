@@ -24,19 +24,19 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 
 ## Tutorials & Co.
 
-{% page-ref page="../../content/tutorials/einfuehrung-sql/" %}
+{% page-ref page="../../../content/tutorials/einfuehrung-sql/" %}
 
-{% page-ref page="../../content/tutorials/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../content/tutorials/daten-mit-sql-erkunden.md" %}
 
-{% page-ref page="../../content/tutorials/einfuehrung-in-json.md" %}
+{% page-ref page="../../../content/tutorials/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
+{% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
 
-{% page-ref page="../../content/tutorials/texte-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten.md" %}
 
-{% page-ref page="../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
 
-{% page-ref page="../../content/cheat-sheets/cheatsheet-sql.md" %}
+{% page-ref page="../../../content/cheat-sheets/cheatsheet-sql.md" %}
 
 ## Links
 
