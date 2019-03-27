@@ -26,5 +26,9 @@ order by `Anzahl Kommentare` desc
 
 ## Wie extrahiert man Strings aus einem Array?
 
+Das Thema Arrays wird im Tutorial behandelt:
+
+{% page-ref page="../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
+
 
 
