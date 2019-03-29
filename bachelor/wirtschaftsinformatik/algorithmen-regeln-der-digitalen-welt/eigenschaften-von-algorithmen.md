@@ -24,16 +24,11 @@ Sollte euch das gesprochene Englisch zu schnell sein, aktiviert die Untertitel i
 
 {% embed url="https://youtu.be/h\_hW0-th9YA" %}
 
-Als Service für euch hier eine Liste mit wichtigen Punkten aus dem Video. Der Link öffnet das Video und springt zur Zeitmarke, ab der es um das Thema geht:
-
-* Autonomes Fahren
-* [Bayes Theorem \(41:39\)](https://youtu.be/h_hW0-th9YA?t=2499)
-
-Lest dazu das passende einführende Kapitel aus dem Buch von Hannah Fry.
+Lest dazu bitte das passende einführende Kapitel aus dem Buch von Hannah Fry.
 
 | Titel | Seiten |
 | :--- | :--- |
-| \#WI-11 - Hello World - Hannah Fry - Power  | 11 |
+| WI-12 - Hello World - Hannah Fry - Power  | 11 |
 
 ## ▶ Session
 
