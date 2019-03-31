@@ -14,7 +14,7 @@ description: In diesem Block analysieren wir Textdaten mit SQL und Cloud-Dienste
 * 🎯 Ihr analysiert unstrukturierte Texte wie Rezensionen oder Tweets mit geeigneten Vorgehen und Methoden und extrahiert dabei relevante Informationen für eure Fragestellungen.
 * 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen zusätzliche Informationen aus den Texten zu extrahieren und diese für die Beantwortung eurer Fragestellungen zu nutzen.
 
-## \*\*\*\*❓ **Fragen**
+## ❓ **Fragen**
 
 * ❓ Für welche Anwendungsfälle kann es sinnvoll sein, Texte zu analysieren?
 * ❓ Wie können unstrukturierte Textdaten mittels SQL analysiert werden?

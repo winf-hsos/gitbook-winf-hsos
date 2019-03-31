@@ -4,5 +4,9 @@
 
 Noch etwas Geduld...👷 
 
+## 🔗 Links
+
+* [Skript Alogrithmen und Datenstrukturen von Oliver Vornberger \(Uni Osnabrück\)](http://www-lehre.inf.uos.de/~ainf/2013/PDF/skript.pdf)
+
 
 

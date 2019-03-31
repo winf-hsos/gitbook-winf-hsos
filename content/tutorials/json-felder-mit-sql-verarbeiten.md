@@ -32,7 +32,7 @@ Ohne eine Aktion von uns wird eine Spalte vom Typ Array immer dargestellt wie im
 
 Um die Daten genauer zu untersuchen haben wir die Möglichkeit, über den kleinen Pfeil die Struktur der Daten wie in einer Baumstruktur aufzuklappen. Wir sehen so jedes Array und seine Elemente an den jeweiligen Positionen \(Index\), beginnend bei 0.
 
-\*\*\*\*💡 **Die erste Position in einem Array ist immer die Position 0.**
+💡 **Die erste Position in einem Array ist immer die Position 0.**
 
 Wie aber können wir diese Spalte mit SQL abfragen?
 

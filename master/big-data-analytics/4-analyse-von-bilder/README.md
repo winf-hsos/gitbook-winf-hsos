@@ -12,7 +12,7 @@ description: >-
 * 🎯 Ihr kennt wichtige Methoden und Anwendungsfälle der maschinellen Bildanalyse \(Computer Vision\)
 * 🎯 Ihr wendet Cloud-Dienste an, um mithilfe von Machine Learning Modellen auf unstrukturierte Daten wie z.B. Bilder eine Struktur zu projizieren und sie somit für euch auswertbar zu machen.
 
-## \*\*\*\*❓ **Fragen**
+## ❓ **Fragen**
 
 * ❓ Für welche Anwendungsfälle kann es sinnvoll sein, Bilder zu analysieren?
 * ❓ Welche Informationen können Bilder beinhalten, die für Analysen interessant wären?
