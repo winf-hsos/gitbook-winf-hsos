@@ -54,6 +54,8 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich der
 
 {% embed url="https://docs.google.com/presentation/d/12ErQdjG\_vzGeYuz8OSjdedKSWPJCdHMy0AASYKCK\_cg/preview" %}
 
+Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/12ErQdjG_vzGeYuz8OSjdedKSWPJCdHMy0AASYKCK_cg/export/pdf)
+
 ### 4⃣ Übungsaufgaben zu Treiber der digitalen Transformation
 
 Bearbeitet bitte die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
