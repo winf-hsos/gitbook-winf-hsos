@@ -39,8 +39,8 @@ _Wir haben die folgende Liste an Primzahlen: **2, 3, 5, 7, 11, 13, 17, 19, 23, 2
 
 Bearbeitet bitte die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
 
-* 🔗 Link zur Übungsaufgabe
-* 🔗 Link zur PDF-Version zum Download ⬇ 
+* 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/preview)
+* 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/export/pdf) ⬇ 
 
 ### 🔁 Offene Fragen
 
