@@ -28,7 +28,7 @@
 * 🔑 Wir verlieren Informationen, wenn wir einen analogen Sachverhalt in eine digitale Repräsentation bringen. Im Beispiel des Tonsignals verlieren wir alle Zwischenwerte, die die Kurve zwischen zwei Punkten \(Samples\) in der Realität annimmt. Wenn wir weniger Punkte speichern wird die Qualität der digitalen Version schlechter. Bei digitalen Tonaufnahmen spricht man auch von der 🏷Sample Rate. 
 * 🔑 Digitale Versionen haben gegenüber ihren analogen Pendants einige wünschenswerte Eigenschaften: 
   * ➕ Sie sind praktisch ohne Kosten und Zeit reproduzierbar.
-  * ➕ Digitale Güter verlieren beim Kopieren nicht an Qualität. Jedes Abbild wie das Original.
+  * ➕ Digitale Güter verlieren beim Kopieren nicht an Qualität. Jede Kopie ist wie das Original.
   * ➕ Digitale Güter werden nicht verbraucht. Es kann also niemals ausverkauft sein.
-  * ➕ Die Distribution digitaler Güter ist sehr einfach, gerade im Zeitalter des Internet.
+  * ➕ Die Distribution digitaler Güter ist einfach und günstig, gerade im Zeitalter des Internet.
 

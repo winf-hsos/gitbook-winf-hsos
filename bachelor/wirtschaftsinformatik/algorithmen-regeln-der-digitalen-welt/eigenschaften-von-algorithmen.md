@@ -7,10 +7,9 @@
 
 ## 🏷 Begriffe
 
-* 🏷Algorithmus
 * 🏷Regel-basierte Algorithmen
 * 🏷Maschinelles Lernen
-* 🏷Laufzeit \(O-Notation\)
+* 🏷Komplexität und Laufzeit \(_O\(n\)_-Notation\)
 * 🏷Heuristik
 * 🏷Bias \(Verzerrung\)
 
