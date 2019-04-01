@@ -25,6 +25,7 @@ Lest bitte die folgenden Texte aus dem Reader📑 als Vorbereitung auf die Sessi
 | Titel | Seiten |
 | :--- | :--- |
 | WI-10 - The Second Machine Age - The Digitization of just about Everything | 15 |
+| WI-10a - The Second Machine Age - The Biggest Winners - Stars and Superstars | 10 |
 | WI-11 - Leimeister - Wirtschaftinformatik - Eigenschaften digitaler Güter | 4 |
 
 ⚠ Bitte lest die Texte, da ihr ansonsten Schwierigkeiten haben werdet, der Sitzung zu folgen. Wir werden in der Sitzung Dinge besprechen und Aufgaben bearbeiten, die auf diesem Vorwissen aufbauen.
