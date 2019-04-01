@@ -22,7 +22,12 @@
 * 🏷Compiler und Interpreter
 * 🏷Binäre Suche
 * 🏷Bubble Sort
+* 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
+* 🏷Regel-basierte Algorithmen
+* 🏷Maschinelles Lernen
+* 🏷Heuristik
+* 🏷Bias \(Verzerrung\)
 
 ## 🔑 Key Points
 

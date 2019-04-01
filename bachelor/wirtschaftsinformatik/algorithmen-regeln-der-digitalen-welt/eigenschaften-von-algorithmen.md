@@ -9,7 +9,6 @@
 
 * 🏷Regel-basierte Algorithmen
 * 🏷Maschinelles Lernen
-* 🏷Komplexität und Laufzeit \(_O\(n\)_-Notation\)
 * 🏷Heuristik
 * 🏷Bias \(Verzerrung\)
 

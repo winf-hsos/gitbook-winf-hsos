@@ -6,12 +6,19 @@ description: >-
 
 # Suchen und Sortieren
 
+## 🎯 Lernziele
+
+* 🎯 Ihr wisst, was ein Algorithmus ist und kennt wichtige Begriffe in diesem Zusammenhang.
+* 🎯 Ihr kennt das Suchen und das Sortieren als wichtige Beispiele für Klassen von Algorithmen.
+* 🎯 Ihr könnt einen einfachen Algorithmus in Pseudocode aufschreiben.
+
 ## 🏷 Begriffe
 
 * 🏷Algorithmus
 * 🏷Compiler und Interpreter
 * 🏷Binäre Suche
 * 🏷Bubble Sort
+* 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
 
 ## ⏮ Vorbereitung
