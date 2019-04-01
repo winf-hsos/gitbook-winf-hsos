@@ -35,5 +35,26 @@ _Wir haben die folgende Liste an Primzahlen: **2, 3, 5, 7, 11, 13, 17, 19, 23, 2
 
 {% embed url="https://docs.google.com/presentation/d/1dfthO-Idn-\_IMHvdIX8XylRzTmAPzghIg-AXQM4DsGs/preview" %}
 
+### 3⃣ Übungsaufgaben
 
+Bearbeitet bitte die folgenden Übungsaufgaben mit eurer Sitznachbar\*in. Nehmt euch 30 Minuten für die Bearbeitung, wir besprechen anschließend die Ergebnisse im Plenum. Bereitet euch darauf vor, eure Ergebnisse mit dem Plenum zu teilen.
+
+* 🔗 Link zur Übungsaufgabe
+* 🔗 Link zur PDF-Version zum Download ⬇ 
+
+### 🔁 Offene Fragen
+
+Ihr habt während der Session jederzeit die Möglichkeit, anonym 😎 eure Fragen und Anmerkungen einzureichen. Dazu klickt ihr bitte auf den folgenden Link:
+
+* 🔗 [Link zur Abgabe von Fragen und Anmerkungen während der Session](https://www.menti.com/5c40972b)
+
+Dieser Zeitslot ist dafür reserviert, die Fragen und Anmerkungen im Plenum zu adressieren.
+
+### ⏭ Ausblick
+
+Wir haben den Einstieg in das komplexe Thema Algorithmen gemeistert und mit der Suche und dem Sortieren bereits zwei wichtige Anwendungsbeispiele kennengelernt. Im nächsten Schritt wollen wir uns weitere Beispiele ansehen und daran mehr über Algorithmen erfahren.
+
+{% page-ref page="eigenschaften-von-algorithmen.md" %}
+
+### 
 
