@@ -22,7 +22,17 @@ description: In dieser Session lernen wir die Grundlagen von Big Data.
 
 ### 1⃣ Was ist Big Data?
 
+#### Slides
+
 {% embed url="https://docs.google.com/presentation/d/16IASPSzF1lomsqm84KOUZK7slZhU3VwfrHbO2tqIYUQ/preview" %}
+
+#### Video
+
+Diese Slides gibt es auch als Video auf YouTube:
+
+{% embed url="https://www.youtube.com/watch?v=\_dflzZgFtoo" %}
+
+
 
 ## ⏭ Nachbereitung
 

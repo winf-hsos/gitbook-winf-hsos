@@ -39,6 +39,18 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 
 {% page-ref page="../../../content/cheat-sheets/cheatsheet-sql.md" %}
 
+## Videos
+
+### Was ist Big Data?
+
+{% embed url="https://www.youtube.com/watch?v=\_dflzZgFtoo" %}
+
+### Arrays mit SQL Abfragen
+
+{% embed url="https://www.youtube.com/watch?v=BW\_ybZH3QGE" %}
+
+
+
 ## Links
 
 * [Big Data Helper Tool für die Twitter API](https://big-data-analytics-helper.glitch.me/)
