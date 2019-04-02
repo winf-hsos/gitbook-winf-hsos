@@ -21,11 +21,11 @@ Um das Ergebnis aus jeden Schritt getrennt prüfen zu können definieren wir jew
 ```sql
 -- View enthält im Ergebnis nur Tweets mit dem Hashtag #organic
 create or replace view tweets_prep_step_1 as
-select user
+  select user
       ,text
       ,created_at
-from twitter_timelines
-where array_contains(hashtags, 'organic')
+  from twitter_timelines
+  where array_contains(hashtags, 'organic')
 ```
 
 Wir können nun diesen neu definierten View wie eine Tabelle abfragen:
@@ -47,7 +47,7 @@ Neben dem Entfernen von Satz- und Sonderzeichen transformieren wir in diesem Sch
 
 ```sql
 create or replace view tweets_prep_step_2 as
-select user
+  select user
       ,created_at
       -- Remove two or more subsequent white spaces
       ,regexp_replace(
@@ -58,7 +58,7 @@ select user
             -- Replace line breaks (2 different types)
             regexp_replace(
               regexp_replace(text, '\n', ' '), '\r', ' ')), '[^a-zA-ZäöüÄÖÜß]', ' '), '\ {2,}', ' ') as `text`
-from tweets_prep_step_1
+  from tweets_prep_step_1
 ```
 
 Das Statement sieht auf den ersten Blick kompliziert aus. Daher schauen wir es uns im Detail an.
@@ -138,17 +138,120 @@ Nun wird es Zeit, aus dem zusammenhängenden Text einzelne Wörter zu machen. Da
 create or replace view tweets_prep_step_3 as
   select user
         ,created_at
-        ,split(text, " ")
+        ,split(text, " ") as `words`
   from tweets_prep_step_2
 ```
 
-Das `split(text, " ")` in Zeile 4 hat zur Folge, dass wir dieses Ergebnis sehen:
+Das `split(text, " ")` in Zeile 4 hat zur Folge, dass wir in der neuen Spalte `words` dieses Ergebnis sehen:
 
 ```text
 ["rt","pugandcat","whisker","licking","good","food","from","lilyskitchen"]
 ```
 
-Das kommt uns bekannt vor! Richtig, es handelt sich um ein Array, was wir an den eckigen Klammern außen erkennen können.
+Komme euch das bekannt vor? Richtig, es handelt sich um ein Array, was wir an den eckigen Klammern außen erkennen können. Array können wir mit `explode()` in seine Einzelteile zerlegen, so dass wir jedes Element in einer eigenen Zeile vorliegen haben:
+
+```sql
+-- Array von Wörtern in Zeilen zerlegen
+select explode(words) as `word` from tweets_prep_step_3
+```
+
+Wenn wir nun beide Funktionen verschachtelt anwenden haben wir unseren finalen View für Schritt 3:
+
+```sql
+create or replace view tweets_prep_step_3 as
+  select user
+        ,created_at
+        ,explode(split(text, " ")) as `word`
+  from tweets_prep_step_2
+```
 
 ### Schritt 4: Stopwörter filtern
+
+Wir haben nun jeweils ein Wort pro Zeile in der Spalte `word`.  Das ermöglicht es uns nun theoretisch, Analysen auf den Texten mittels SQL durchzuführen. Wir könnten z.B. zählen, welches Wort in allen Tweets am häufigsten vorkommt:
+
+```sql
+select word, count(1) as `Anzahl`
+from tweets_prep_step_3
+group by word
+order by `Anzahl` desc
+```
+
+Je nach Datensatz wird bei euch nun das Wort organic weit oben stehe. Das ist nicht verwunderlich, da wir oben nach diesem Wort die Tweets gefiltert haben. Sehr weit oben stehen aber auch ziemlich sicher Wörter wie "a", "the", "is", "to", "rt" usw. Das sind alles Wörter, die in der Englischen Sprache häufig vorkommen, uns aber wenige Aufschluss in der Analyse geben. Deshalb sind sie unerwünscht, und wir nennen sie auch **Stopwörter**.
+
+Wir könnten nun eine Liste von Stopwörtern erstellen und diese aus der Menge mittels WHERE Bedingung ausschließen:
+
+```sql
+select word, count(1) as `Anzahl`
+from tweets_prep_step_3
+-- Ausschluss bestimmter Füllwörter
+where word not in ('to', 'the', 'rt', 'a')
+group by word
+order by `Anzahl` desc
+```
+
+Wenn wir die Liste für alle Stopwörter erweitern wird diese sehr lang und das SQL Statement sehr unübersichtlich. Zudem dauert das eine Weile. Glücklicherweise sind wir nicht die ersten mit diesem Problem, und kluge Leute haben Listen für verschiedene Sprachen veröffentlicht, wie z.B. [diese hier](https://gist.github.com/sebleier/554280).
+
+Angenommen wir haben diese Liste als neue Tabelle `stopwords` in Databricks importiert. Wir können nun eine Unterabfrage statt der manuellen Liste nutzen:
+
+```sql
+select word, count(1) as `Anzahl`
+from tweets_prep_step_3
+-- Eine Tabelle statt manueller Liste
+where word not in (select word from stopwords)
+group by word
+order by `Anzahl` desc
+```
+
+Das Ergebnis aus Schritt 4 als View sähe demnach so aus:
+
+```sql
+create or replace view tweets_prep_step_4 as
+  select user
+      ,created_at
+      ,word
+  from tweets_prep_step_3
+  where word not in (select word from stopwords)
+```
+
+{% hint style="info" %}
+Eine noch bessere und flexiblere Lösung ist das Lesen der Stopwords-Tabelle aus einem Google Spreadsheet direkt aus Databricks heraus. Das ermöglicht es uns, die Liste einfach zu erweitern und die Tabelle auf Knopfdruck neu zu laden. Die Infos dazu gibt es in der Veranstaltung.
+{% endhint %}
+
+### Schritt 5: POS Tagging
+
+Mit den Daten aus Schritt 4 können wir schon gut arbeiten. Es geht aber immer noch besser. Zum Beispiel könnten wir die Wörter nun mit weiteren Metainformationen anreichern, was uns wiederum bessere Analysemöglichkeiten eröffnet. Metadaten können sein:
+
+* Handelt es sich um ein Verb, Adjektiv, oder Substantiv?
+* Wie lautet der Wortstamm?
+* Aus welcher Sprache stammt das Wort?
+* Ist das Wort positiv oder negativ?
+
+Beim _POS Tagging_ geht um den ersten Punkt. Wir wollen für jedes Wort die Information ergänzen, um welche Art von Wort es sich handelt. Ein naiver Ansatz ist es, ähnlich wie bei den Stopwörtern auf eine Liste aus dem Internet zurückzugreifen. Nehmen wir also an wir haben eine neue Tabelle `pos` mit zwei Spalten `word` und `type`. Die Spalte type enthält Werte wie adjective, noun, verb usw. Wir können die beiden Tabellen nun zusammen joinen, um die Daten anzureichern:
+
+```sql
+select t.word, p.type
+from tweets_prep_step_4 t
+left join pos p
+  on p.word = t.word
+```
+
+Im Ergebnis bekommen wir nun zu jedem Wort die Information, ob es sich um ein Verb, Adverb, Adjektiv oder Substantiv handelt. Wenn das Wort nicht in der Tabelle `pos` vorhanden ist, dann ist der Wert der Spalte `type` gleich `null`. 
+
+{% hint style="info" %}
+**Achtung**: Ein Wort wie "organic" ist in der POS-Liste als Substantiv _und_ Adjektiv gelistet, was korrekt ist. Wir bekommen in solchen Fällen im Ergebnis 2 Zeilen.
+{% endhint %}
+
+Wenn wir auch den letzten Schritt als View definieren sind wir am Ziel:
+
+```sql
+create or replace view tweets_tweets_prep_step_5 as
+  select t.word, p.type
+  from tweets_prep_step_4 t
+  left join pos p
+    on p.word = t.word
+```
+
+{% hint style="info" %}
+Auch bei der POS-Liste ist das Auslagern in ein Google Spreadsheet sinnvoll, um die Liste flexibel erweitern zu können. Die Infos dazu bekommt ihr in der Veranstaltung.
+{% endhint %}
 
