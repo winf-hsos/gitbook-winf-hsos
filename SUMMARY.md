@@ -118,6 +118,7 @@
     * [Beschaffung neuer Daten](master/big-data-analytics/2-exploration-unbekannter-daten/beschaffung-neuer-daten.md)
   * [\#3 Analyse von Texten](master/big-data-analytics/analyse-von-texten3/README.md)
     * [Vorbereitung der Texte](master/big-data-analytics/analyse-von-texten3/vorbereitung-der-texte.md)
+    * [Themen identifizieren](master/big-data-analytics/analyse-von-texten3/themen-identifizieren.md)
     * [Informationen extrahieren](master/big-data-analytics/analyse-von-texten3/informationen-extrahieren.md)
     * [Machine Learning in der Textanalyse](master/big-data-analytics/analyse-von-texten3/machine-learning.md)
   * [\#4 Analyse von Bildern](master/big-data-analytics/4-analyse-von-bilder/README.md)
