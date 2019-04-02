@@ -46,14 +46,14 @@ Wir können nun diesen neu definierten View wie eine Tabelle abfragen:
 select * from tweets_prep_step_1
 ```
 
-### Schritt 2: Texte säubern und normalisieren
+### Schritt 2: Texte bereinigen und normalisieren
 
-Im zweiten Schritt ist es sinnvoll, bestimmte Zeichen aus den Texte zu entfernen:
+Im zweiten Schritt ist es sinnvoll, bestimmte Zeichen aus den Texten zu entfernen:
 
 * Sonderzeichen wie @, %, & usw., die für eine Analyse keine Bedeutung haben.
-* Satzzeichen
+* Satzzeichen, die ebenfalls keine Bedeutung für die Analyse haben.
 
-Es kann sinnvoll sein, diese Zeichen bestehen zu lassen. Wenn wir allerdings - wie hier - die Texte für die Analyse von Wortvorkommnissen und der Aggregation auf Wortbasis vorbereiten wollen, benötigen wir diese Zeichen nicht. Im Gegenteil, sie stören uns nur.
+Es kann sinnvoll sein, diese Zeichen bestehen zu lassen. Wenn wir allerdings - wie hier - die Texte für die Analyse von Wortvorkommnissen und die Aggregation auf Wortbasis vorbereiten wollen, benötigen wir diese Zeichen nicht. Im Gegenteil, sie stören uns nur.
 
 Neben dem Entfernen von Satz- und Sonderzeichen transformieren wir in diesem Schritt alle Buchstaben in Kleinbuchstaben. Das erlaubt es uns später, mögliche Fehler der Nutzer bei der Groß- und Kleinschreibung zu ignorieren.
 
@@ -129,6 +129,46 @@ regexp_replace( ... , '\ {2,}', ' ')
 ```
 
 Auch hier nutzen wir einen regulären Ausdruck. Der ist so zu lesen: Suche nach mindestens 2 oder mehr Leerzeichen und ersetze sie mit einem Leerzeichen.
+
+#### Twitter Hashtags entfernen \(optional\)
+
+Möglicherweise ist es sinnvoll, Hashtags ebenfalls aus den Texten zu entfernen, zumal diese bereits über eine eigene Spalte getrennt analysierbar sind. Weil wir Hashtags an der Raute \# erkennen, muss das Entfernen vor dem Ersetzen der Sonderzeichen passieren:
+
+```sql
+-- Optionale Funktion für Hashtags
+regexp_replace(text, '#(\\w+)', ' ')
+```
+
+#### URLs entfernen \(optional\)
+
+Das gleiche gilt auch für URLs, die z.B. häufig in Tweets enthalten sind. Auch die können wir mit einem regulären Ausdruck finden und ersetzen:
+
+```sql
+-- Optionale Funktion für URLs
+regexp_replace(text, 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ' ')
+```
+
+Der View inklusive dem Entfernen der Hashtags und URLs sähe also so aus:
+
+```sql
+create or replace view tweets_prep_step_2 as
+select user
+      ,created_at
+      -- Remove two or more subsequent white spaces
+      ,regexp_replace(
+        -- Remove special characters
+        regexp_replace(
+          -- Make all text lower case
+          lower(
+            -- Replace URLs
+            regexp_replace(
+              -- Replace hashtags
+              regexp_replace(
+                -- Replace line breaks (2 different types)
+                regexp_replace(
+                  regexp_replace(text, '\n', ' '), '\r', ' '), '#(\\w+)', ' '), 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ' ')), '[^a-zA-ZäöüÄÖÜß]', ' '), '\ {2,}', ' ') as `text`
+from tweets_prep_step_1
+```
 
 ### Schritt 3: In Wörter splitten \(_Tokenize_\)
 
