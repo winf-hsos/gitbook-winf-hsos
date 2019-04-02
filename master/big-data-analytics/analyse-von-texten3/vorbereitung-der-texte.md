@@ -21,3 +21,7 @@ Für die Vorbereitung von Texten mit SQL gibt es ein ausführliches Tutorial, da
 
 {% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten.md" %}
 
+Ein Databricks Notebook Template mit den Befehlen aus dem Tutorial findet ihr hier:
+
+* [Databricks Template "Texte für SQL Analysen vorbereiten"](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Texte%20f%C3%BCr%20SQL%20Analysen%20vorbereiten.html)
+

@@ -22,6 +22,7 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 | [Twitter Data Template](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Twitter%20Data%20Template.html) | Template to load the group's Twitter accounts and their data. These include all followers and tweets. |
 | [Mars Twitter Data Template](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Mars%20Twitter%20Data%20Template.html) | Template to load the Twitter data provided by Mars regarding organic in general, organic food, and the feelings about dogs and cats. |
 | [Arrays mit SQL abfragen](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Arrays%20mit%20SQL%20abfragen.html) | Using the Amazon Meta Data, we look at how we can query Arrays with SQL. |
+| [Texte für SQL Analysen vorbereiten](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Texte%20f%C3%BCr%20SQL%20Analysen%20vorbereiten.html) | Using the Twitter Data, we move through the 5 steps to prepare text data for SQL analysis. |
 
 ## Tutorials & Co.
 
