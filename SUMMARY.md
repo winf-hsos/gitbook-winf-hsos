@@ -172,6 +172,7 @@
   * [Daten mit SQL erkunden](content/tutorials/daten-mit-sql-erkunden.md)
   * [JSON-Felder mit SQL verarbeiten](content/tutorials/json-felder-mit-sql-verarbeiten.md)
   * [Texte für die Analyse mit SQL vorbereiten](content/tutorials/texte-mit-sql-auswerten.md)
+  * [Themen in Texten mittels SQL identifizieren](content/tutorials/themen-in-texten-mittels-sql-identifizieren.md)
   * [Twitter-Netzwerke mit SQL auswerten](content/tutorials/twitter-netzwerke-mit-sql-auswerten.md)
   * [Einführung in JSON](content/tutorials/einfuehrung-in-json.md)
   * [How to get started with Machine Learning](content/tutorials/how-to-get-started-with-machine-learning.md)
