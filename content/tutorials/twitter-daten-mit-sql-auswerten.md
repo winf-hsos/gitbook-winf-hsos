@@ -73,5 +73,15 @@ from twitter_timelines
 where coordinates is not null
 ```
 
+### 💡 Extrahieren von URLs oder Foto-URLs
 
+Die URLs und Fotos sind in den Feldern `urls` und `photos` gespeichert. Beide Spalten sind vom Typ Array, was bedeutet, dass ein Tweet mehrere URLs bzw. mehrere Fotos haben kann. Der generelle Umgang mit Array wird im Tutorial [JSON-Felder mit SQL verarbeiten](json-felder-mit-sql-verarbeiten.md#arrays-abfragen) erklärt. Hier eine Abfrage, die jeweils die erste URL / Foto eines Tweets in einer eigenen Spalte anzeigt:
+
+```sql
+select urls[0].clean_url as `First URL in Tweet`
+      ,photos[0].media_url_https as `First photo URL in Tweet`
+from twitter_timelines
+where size(urls) > 0
+or size(photos) > 0
+```
 
