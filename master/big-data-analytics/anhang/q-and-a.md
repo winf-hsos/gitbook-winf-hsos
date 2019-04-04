@@ -32,35 +32,7 @@ Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an
 
 ## Wie entfernt man doppelte Tweets aus dem Datensatz?
 
-Durch die API kann es vorkommen, dass einige Tweets doppelt in den Daten vorhanden sind. Das können wir in SQL beheben:
+Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../content/tutorials/twitter-daten-mit-sql-auswerten.md#doppelte-tweets-herausfiltern) adressiert.
 
-```sql
--- Auf doppelte Tweets prüfen
-select id, count(1) 
-from twitter_timelines
-group by id 
-order by count(1) desc
-```
-
-Wir sehen dass manchen ID 2x vorkommen. Wir können mit der Window-Funktion `row_number()` innerhalb der gleichen ID jeder Zeile eine Nummer geben. Somit hat keine der beiden ansonsten gleichen Zeilen die gleiche `row_num`.
-
-```sql
--- Zeilenummern generieren innerhalb einer ID-Gruppe
-select id
-,count(1) over(partition by id) as `occ`
-,row_number() over(partition by id order by id) as `row_num`
-from twitter_timelines
-order by `occ` desc, id
-```
-
-Wenn wir jetzt das Ergebnis von oben als Unterabfrage verwenden und auf row\_num = 1 filtern, fallen alle doppelten Zeilen im Ergebnis raus.
-
-```sql
--- Immer nur die erste Zeile selektieren
-select * from (
-    select * ,row_number() over(partition by id order by id) as `row_num`
-    from twitter_timelines
-)
-where row_num = 1
-```
+{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten.md" %}
 
