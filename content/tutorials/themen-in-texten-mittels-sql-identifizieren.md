@@ -2,6 +2,12 @@
 
 ## 💡 Deduktive Themenidentifikation mit SQL
 
+Es gibt grundsätzlich zwei Möglichkeiten, Texte auf Inhalte hin zu analysieren. Der erste weg beinhaltet die **deduktive Bildung von Themenkategorien** mit entsprechenden Schlagwörtern. Das bedeutet, wir überlegen uns **VOR** der Betrachtung der Daten, welche Themen eine Rolle spielen könnten und welche Schlagwörter zu diesen Themen gehören könnten. Unsere Überlegungen dokumentieren wir als Tabelle mit 2 Spalten: Ein Schlagwort, wie z.B. "glyphosat", und ein von uns zugeordnetes Thema, wie z.B. "Insektensterben".
+
+Der andere Weg ist die **induktive Bildung von Themenkategorien**. Hier identifizieren wir Schlagwörter aus den Daten heraus, ordnen den Schlagwörtern Themen zu, indem wir die Daten \(hier z.B.: Tweets\) sehr genau unter die Lupe nehmen, und dokumentieren das Ergebnis wieder als Tabelle mit mindestens zwei Spalten: Das Schlagwort und die Zuordnung zu einem Thema. So eine Tabelle nennen wir auch _Codebuch_.
+
+Da wir für beide Wege iterativ umfangreiche Tabellen erstellen müssen, benötigen wir einen Weg, diese zu pflegen und einfach in Databricks zu laden. Das ist die Voraussetzung, damit wir sie auf unsere Daten anwenden und so die Themen quantifizieren können. Ich stelle nun 2 Wege vor, wobei für die meisten Fälle die Variante der [Google Sheets](themen-in-texten-mittels-sql-identifizieren.md#tabellen-ueber-google-sheets-pflegen-und-laden) am besten funktionieren dürfte.
+
 ### 💡 Einfache Erstellung einer Mapping-Tabelle mit Scala
 
 #### Einfache Listen mit Wörtern oder Zahlen
