@@ -17,6 +17,7 @@ description: >-
 * 🏷Algorithmus
 * 🏷Compiler und Interpreter
 * 🏷Binäre Suche
+* 🏷Selection Sort
 * 🏷Bubble Sort
 * 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
