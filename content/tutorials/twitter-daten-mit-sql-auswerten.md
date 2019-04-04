@@ -42,6 +42,22 @@ where row_num = 1
 
 ## Informationen aus Tweets extrahieren
 
+### 💡 Was bedeuten all die Felder?
+
+Der Twitter-Datensatz besteht aus 2 Tabellen:
+
+* `twitter_followers`
+* `twitter_timelines`
+
+Jede Tabelle hat eine breite Anzahl von Spalten. Die Benennung der Spalten ist analog zu dem Namen in der offiziellen Twitter API. Daher eignet sich die Dokumentation dieser API für beide Tabellen:
+
+* [Dokumentation eines User-Objekts bei Twitter \(twitter\_followers\)](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object)
+* [Dokumentation eines Tweet-Objekts bei Twitter \(twitter\_timelines\)](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html)
+
+{% hint style="info" %}
+Eine Ausnahme ist das Feld `follower_of` in der Tabelle `twitter_followers`. Dieses Feld existiert so nicht in der Twitter API. Es gibt an, wem der aktuelle Account folgt. Wenn ihr die Daten über das Helper Tool generiert habt, dann ist in `follower_of` der Screen Name gespeichert, den ihr in das Tool eingegeben habt. So könnt ihr später zuordnen, über welchen Screen Name ihr welche Follower bekommen habt.
+{% endhint %}
+
 ### 💡 Extrahieren der Koordinaten eines Tweets
 
 Das Feld coordinates liefert uns die Koordinaten eines Tweets als Längen- und Breitengrad. Die Angabe bezieht sich dabei auf den Ort, von dem aus der Tweet abgeschickt wurde. Dieses Feld ist nur befüllt, wenn die verwendete Applikation diese Information bereitgestellt hat und der User die Freigabe der Koordinaten erteilt hat.
