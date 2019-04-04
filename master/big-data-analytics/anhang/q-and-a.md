@@ -32,7 +32,7 @@ Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an
 
 ## Wie entfernt man doppelte Tweets aus dem Datensatz?
 
-Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../content/tutorials/twitter-daten-mit-sql-auswerten.md#doppelte-tweets-herausfiltern) adressiert.
+Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../content/tutorials/twitter-daten-mit-sql-auswerten/#doppelte-tweets-herausfiltern) adressiert.
 
-{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten/" %}
 
