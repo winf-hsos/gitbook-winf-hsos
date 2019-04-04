@@ -85,3 +85,11 @@ where size(urls) > 0
 or size(photos) > 0
 ```
 
+## Verwandte Themen
+
+{% page-ref page="texte-mit-sql-auswerten.md" %}
+
+{% page-ref page="json-felder-mit-sql-verarbeiten.md" %}
+
+{% page-ref page="twitter-netzwerke-mit-sql-auswerten.md" %}
+
