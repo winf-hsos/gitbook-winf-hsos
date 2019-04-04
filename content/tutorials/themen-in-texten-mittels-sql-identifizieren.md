@@ -52,6 +52,8 @@ Das Beispiel ist beliebig erweiterbar. Ab einer zu großen Anzahl Spalten und Ze
 
 ### 💡 Tabellen über Google Sheets pflegen und laden
 
+#### Ein Google Sheet in Databricks laden
+
 [Google Sheets](https://www.google.com/sheets/about/) ist eine kostenlose Alternative zu dem weit verbreiteten Microsoft Excel. Und weil Google Sheets in der Cloud und damit im Internet verfügbar sind, lassen sie sich wunderbar in Databricks ohne komplizierte Umwege über den eigenen Rechner laden. Den folgenden Code-Block müsst ihr euch in euer Databricks-Notebook kopieren und in den Zeilen 2 und 6 die notwendigen Anpassungen durchführen:
 
 ```scala
