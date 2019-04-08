@@ -18,7 +18,6 @@
     * [Eigenschaften von Algorithmen](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/eigenschaften-von-algorithmen.md)
     * [Algorithmen in der Praxis](bachelor/wirtschaftsinformatik/algorithmen-regeln-der-digitalen-welt/algorithmen-in-der-praxis.md)
   * [\#4 Coding - Superpower der digitalen Welt](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/README.md)
-    * [Scratch](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/scratch.md)
     * [Mein erstes Programm I](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/programmieren.md)
     * [Mein erstes Programm II](bachelor/wirtschaftsinformatik/coding-superpower-der-digitalen-welt/eine-neue-denkweise.md)
   * [\#5 Daten - Produkt der digitalen Welt](bachelor/wirtschaftsinformatik/daten-produkt-der-digitalen-welt/README.md)
