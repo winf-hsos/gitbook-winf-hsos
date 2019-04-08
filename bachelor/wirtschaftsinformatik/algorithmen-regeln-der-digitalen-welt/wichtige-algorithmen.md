@@ -59,5 +59,7 @@ Wir haben den Einstieg in das komplexe Thema Algorithmen gemeistert und mit der 
 
 {% page-ref page="eigenschaften-von-algorithmen.md" %}
 
-### 
+### 🔗 Links
+
+* 🔗 [Notebook für das Ziehen von Wurzeln](http://runkit.com/winf-hsos/wurzeln-ziehen)
 
