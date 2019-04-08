@@ -18,20 +18,26 @@
 
 ## 🏷 Begriffe
 
-* 🏷Algorithmus, Programm, Prozess
-* 🏷Compiler und Interpreter
+* 🏷Algorithmus
+* 🏷Compiler
 * 🏷Binäre Suche
+* 🏷Selection Sort
 * 🏷Bubble Sort
 * 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
 * 🏷Regel-basierte Algorithmen
 * 🏷Maschinelles Lernen
-* 🏷Heuristik
-* 🏷Bias \(Verzerrung\)
+* 🏷Optimierung vs. Heuristiken
+* 🏷Spam Filter
+* 🏷Bayes Theorem
+* 🏷​​Naive Bayes
+* 🏷Autonomes Fahren
+* 🏷Filter Bubble
+* 🏷Algorithmic Bias \(Verzerrung\)
 
 ## 🔑 Key Points
 
-* 🔑 ...
+Zusammenfassung folgt bald.
 
 ## 🔗 Links
 

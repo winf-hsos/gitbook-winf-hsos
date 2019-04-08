@@ -1,16 +1,25 @@
-# Eigenschaften von Algorithmen
+---
+description: >-
+  In dieser Lerneinheit beschäftigen wir uns mit einigen Beispielen für
+  Algorithmen aus der Praxis.
+---
+
+# Algorithmen in der Praxis
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr wisst, was ein Algorithmus ist und kennt die wichtigsten Unterscheidungsmerkmale.
-* 🎯 Ihr kennt wichtige Eigenschaften von Algorithmen und deren Bedeutung.
+* 🎯 Ihr kennt Beispiele für häufig verwendete Algorithmen in eurem täglichen Leben.
+* 🎯 Ihr versteht, wie diese Algorithmen funktionieren, um wichtige Aufgaben für uns zu erledigen.
+* 🎯 Ihr kennt Herausforderungen beim Einsatz von Algorithmen in der Praxis.
 
 ## 🏷 Begriffe
 
-* 🏷Regel-basierte Algorithmen
-* 🏷Maschinelles Lernen
-* 🏷Heuristik
-* 🏷Bias \(Verzerrung\)
+* 🏷Spam Filter
+* 🏷Bayes Theorem
+* 🏷Naive Bayes
+* 🏷Autonomes Fahren
+* 🏷Filter Bubble
+* 🏷Algorithmic Bias \(Verzerrung\)
 
 ## ⏮ Vorbereitung
 
@@ -22,11 +31,12 @@ Sollte euch das gesprochene Englisch zu schnell sein, aktiviert die Untertitel i
 
 {% embed url="https://youtu.be/h\_hW0-th9YA" %}
 
-Lest dazu bitte das passende einführende Kapitel aus dem Buch von Hannah Fry.
+Lest dazu bitte die beiden einführenden Kapitel aus dem Buch von Hannah Fry.
 
 | Titel | Seiten |
 | :--- | :--- |
 | WI-12 - Hello World - Hannah Fry - Power  | 11 |
+| WI-13 - Hello World - Hannah Fry - Cars | 18 |
 
 ## ▶ Session
 
@@ -38,21 +48,9 @@ Zu Beginn erheben wir mit einem kurzen Quiz 🥇 den Wissensstand bezüglich des
 
 ### 2⃣ Übersicht der Eigenschaften von Algorithmen \(⏲25 Min.\)
 
-* What algorithms do
-  * Prioritize
-  * Classify
-  * Association
-  * Filtering 
 * Two types of algorithms
   * Rule-based algorithms
   * Machine learning algorithms 
-* Selected Algorithms
-  * Bubble Sort
-  * Merge Sort 
-* Efficiency
-  * O-Notation
-  * Endless Loops
-  * NP-Completeness 
 * Correctness
   * Biases
 

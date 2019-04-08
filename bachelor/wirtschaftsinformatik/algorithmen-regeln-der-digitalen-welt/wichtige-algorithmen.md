@@ -15,12 +15,15 @@ description: >-
 ## 🏷 Begriffe
 
 * 🏷Algorithmus
-* 🏷Compiler und Interpreter
+* 🏷Compiler
 * 🏷Binäre Suche
 * 🏷Selection Sort
 * 🏷Bubble Sort
 * 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
+* 🏷Regel-basierte Algorithmen
+* 🏷Maschinelles Lernen
+* 🏷Optimierung vs. Heuristiken
 
 ## ⏮ Vorbereitung
 
