@@ -17,7 +17,7 @@ Eine Möglichkeit Themen in Texten zu identifizieren besteht darin, sich vorab t
 
 Für die Anwendung der deduktiven Methode gibt es [einen Abschnitt im folgenden SQL Tutorial](themen-identifizieren.md#deduktive-themenidentifikation-mit-suchbegriffen):
 
-{% page-ref page="../../../content/tutorials/themen-in-texten-mittels-sql-identifizieren.md" %}
+{% page-ref page="../../../content/tutorials/themen-in-texten-mittels-sql-identifizieren/" %}
 
 ### 2⃣ Induktive Themenidentifikation mit Suchbegriffen
 
@@ -25,7 +25,7 @@ Beim induktiven Vorgehen leiten wir die Themen aus dem Material ab. Wir treffen 
 
 Für die Umsetzung in SQL schaut euch den [entsprechenden Teil im Tutorial](themen-identifizieren.md#induktive-themenidentifikation-mit-suchbegriffen) an:
 
-{% page-ref page="../../../content/tutorials/themen-in-texten-mittels-sql-identifizieren.md" %}
+{% page-ref page="../../../content/tutorials/themen-in-texten-mittels-sql-identifizieren/" %}
 
 
 
