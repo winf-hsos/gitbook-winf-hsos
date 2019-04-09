@@ -2,13 +2,7 @@
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr könnt wichtige Informationen aus den Twitter-Daten und Texten im Allgemeinen extrahieren. Darunter fallen u.a.:  
-
-
-  * Hashtags aus Tweets
-  * URLs aus Texten oder entsprechenden Feldern \(bei Tweets\)
-  * Suchbegriffe aus Texten
-  * Emojis aus Texten
+* 🎯 Ihr könnt wichtige Informationen aus den Twitter-Daten und Texten im Allgemeinen extrahieren. Darunter fallen u.a. Hashtags aus Tweets, URLs aus Texten oder entsprechenden Feldern \(bei Tweets\), Suchbegriffe aus Texten, Emojis aus Texten usw.
 
 ## ▶ Lerneinheit
 
