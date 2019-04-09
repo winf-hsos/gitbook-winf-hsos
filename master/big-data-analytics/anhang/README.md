@@ -30,7 +30,7 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 
 {% page-ref page="../../../content/tutorials/daten-mit-sql-erkunden.md" %}
 
-{% page-ref page="../../../content/tutorials/einfuehrung-in-json.md" %}
+{% page-ref page="../../../content/javascript-tutorials/einfuehrung-in-json.md" %}
 
 {% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
 
