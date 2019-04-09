@@ -40,7 +40,7 @@ select * from (
 where row_num = 1
 ```
 
-## Informationen aus Tweets extrahieren
+## 💡 Informationen aus Tweets extrahieren
 
 ### 💡 Was bedeuten all die Felder?
 
