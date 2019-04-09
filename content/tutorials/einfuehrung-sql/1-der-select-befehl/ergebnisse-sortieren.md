@@ -20,7 +20,7 @@ select * from ted_meta
 order by views desc
 ```
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2817%29.png)
 
 ⚠ Die Zusatzangabe `DESC` steht für _descending_ und bedeutet übersetzt absteigend. Das bedeutet, größere Werte erscheinen oben. Ohne das Schlüsselwort `DESC` wird standardmäßig aufsteigend sortiert, was explizit auch mit dem Schlüsselwortpendant `ASC` erreicht werden kann.
 
