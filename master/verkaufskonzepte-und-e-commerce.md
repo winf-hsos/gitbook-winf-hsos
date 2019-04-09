@@ -34,13 +34,24 @@ Für die Umsetzung eines Shops arbeitet ihr mit dem Cloudanbieter [Shopify](http
 
 * [Shopify](https://shopify.de)
 
+Solltet ihr bereits einen Webshop mit einer anderen Software umgesetzt haben und eine entsprechende Installation vorhanden ist, so könnt ihr diese auch gerne verwenden.
+
 ## 📑 Reader
 
-Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Sammlung wird als ZIP-Datei 🗜 im Dateibereich hochgeladen. Folgende Texte sind enthalten:
+Für diese Veranstaltung stelle ich über OSCA eine Sammlung von Texten bereit. Die Texte sind im Dateibereich zu finden. Folgende Texte sind enthalten:
 
-* 📂 
-  * 📑 2015 - Wirtschaftsinformatik - Kapitel 10 - E-Commerce \(🇩🇪- 110 Seiten\)
-  * 📑 ...
+* 📑 2015 - Wirtschaftsinformatik - Kapitel 7.2 - Internet \(🇩🇪- 19 Seiten\)
+* 📑 2015 - Wirtschaftsinformatik - Kapitel 10 - E-Commerce \(🇩🇪- 110 Seiten\)
+
+## 👩🏫 Slides
+
+| Titel | PDF |
+| :--- | :--- |
+| [Verkaufskonzepte und E-Commerce \#01 - Kick-Off](https://docs.google.com/presentation/d/1H9v6exnL1ZC7ZUJDLQDZRfJgwHZQQm5LcSdblPZcIdw/preview) | [PDF](https://docs.google.com/presentation/d/1H9v6exnL1ZC7ZUJDLQDZRfJgwHZQQm5LcSdblPZcIdw/export/pdf) |
+| [Verkaufskonzepte und E-Commerce \#02 - Projektplan](https://docs.google.com/presentation/d/1Yr_J9eH3GI2H-pARGwUig8x6lFE9KFlTMDXqF35J50M/preview) | [PDF](https://docs.google.com/presentation/d/1Yr_J9eH3GI2H-pARGwUig8x6lFE9KFlTMDXqF35J50M/export/pdf) |
+| [Verkaufskonzepte und E-Commerce \#03a - Das Internet](https://docs.google.com/presentation/d/1IAh6bOWypKHHVGedILS77RSvKZ4ITWl_uloVv16bnHw/preview) | [PDF](https://docs.google.com/presentation/d/1IAh6bOWypKHHVGedILS77RSvKZ4ITWl_uloVv16bnHw/export/pdf) |
+| [Verkaufskonzepte und E-Commerce \#03b - Cloud vs. On Premise](https://docs.google.com/presentation/d/1Zgc1vXtXIv_Q_4ReXTm6PvorYKYZMNTLGe5GFa4L-SU/preview) | [PDF](https://docs.google.com/presentation/d/1Zgc1vXtXIv_Q_4ReXTm6PvorYKYZMNTLGe5GFa4L-SU/export/pdf) |
+| [Verkaufskonzepte und E-Commerce \#03c - E-Commerce Lösungen](https://docs.google.com/presentation/d/1cs1sqFHVcyQkewXkNl3dbMoALzfhHNvKs2curWG9Q0w/preview) | [PDF](https://docs.google.com/presentation/d/1cs1sqFHVcyQkewXkNl3dbMoALzfhHNvKs2curWG9Q0w/export/pdf) |
 
 ## 📚 Empfohlene Literatur
 
