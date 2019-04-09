@@ -52,7 +52,7 @@ Das Beispiel ist beliebig erweiterbar. Ab einer zu großen Anzahl Spalten und Ze
 
 ###  Ein Google Sheet in Databricks laden
 
-[Google Sheets](https://www.google.com/sheets/about/) ist eine kostenlose Alternative zu dem weit verbreiteten Microsoft Excel. Und weil Google Sheets in der Cloud und damit im Internet verfügbar sind, lassen sie sich wunderbar in Databricks ohne komplizierte Umwege über den eigenen Rechner laden. Den folgenden Code-Block müsst ihr euch in euer Databricks-Notebook kopieren und in den Zeilen 2 und 6 die notwendigen Anpassungen durchführen:
+[Google Sheets](https://www.google.com/sheets/about/) ist eine kostenlose Alternative zu dem weit verbreiteten Microsoft Excel. Und weil Google Sheets in der Cloud und damit im Internet verfügbar sind, lassen sie sich in Databricks ohne komplizierte Umwege über den eigenen Rechner laden. Den folgenden Code-Block könnt ihr euch in euer Databricks-Notebook kopieren und in den Zeilen 2 und 6 die notwendigen Anpassungen durchführen:
 
 ```scala
 // Choose a name for your resulting table in Databricks
@@ -74,11 +74,11 @@ var df = spark.read.option("header", "true").option("inferSchema", "true").csv("
 df.write.saveAsTable(tableName);
 ```
 
-In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure Tabelle. In Zeile 6 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
+In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure eigene Tabelle. In Zeile 6 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
 
 ### Ein Google Sheet als CSV veröffentlichen
 
-Ihr legt in eurem Google Account ganz einfach ein neues Spreadsheet an und pflegt eure Daten in Spalten und Zeilen ein. Eben wie ihr es auch in Excel machen würdet. Wenn ihr dann einen Stand habt, den ihr gerne in Databricks als Tabelle verfügbar laden wollt, geht ihr wie folgt vor:
+Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten in Spalten und Zeilen ein. Eben wie ihr es auch in Excel machen würdet. Wenn ihr dann einen Stand habt, den ihr gerne in Databricks als Tabelle laden wollt, geht ihr wie folgt vor:
 
 **Schritt 1:** Ihr klickt auf "Datei" und dann "Im Web veröffentlichen"
 
@@ -93,6 +93,10 @@ Ihr legt in eurem Google Account ganz einfach ein neues Spreadsheet an und pfleg
 ![Diesen Link in die Zwischenablage kopieren.](../../../.gitbook/assets/image%20%2814%29.png)
 
 Nun müsst ihr nur noch den Code-Block ausführen und anschließend sollte die neue Tabelle verfügbar sein. Wenn ihr anschließend Änderungen im Spreadsheet durchführt und den Code zum Laden der Tabelle erneut ausführt, habt ihr alle Änderungen auch in Databricks verfügbar. Das erleichtert den Prozess, gerade wenn man iterativ Tabellen erstellt, die man sehr häufig in Databricks aktualisieren muss.
+
+{% hint style="info" %}
+Das Veröffentlichen des Google Spreadsheet müsst ihr nur einmal ausführen. Änderungen, die ihr danach im Spreadsheet macht \(neue Zeilen hinzufügen\) werden automatisch veröffentlicht und sind beim nächsten Laden in Databricks vorhanden.
+{% endhint %}
 
 ## 
 
