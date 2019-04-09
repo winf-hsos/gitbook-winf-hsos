@@ -19,7 +19,7 @@ Ihr könnt die Slides auch als [PDF-Version](https://docs.google.com/presentatio
 
 Für die Vorbereitung von Texten mit SQL gibt es ein ausführliches Tutorial, das auf den Twitter-Daten basiert:
 
-{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten/" %}
 
 Ein Databricks Notebook Template mit den Befehlen aus dem Tutorial findet ihr hier:
 

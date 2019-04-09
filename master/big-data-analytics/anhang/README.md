@@ -34,7 +34,7 @@ description: Links und Informationen rund um das Modul Big Data Analytics
 
 {% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
 
-{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten/" %}
 
 {% page-ref page="../../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
 
