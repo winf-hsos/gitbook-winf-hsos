@@ -16,8 +16,13 @@ Damit kann Texte zumindest nach dem Vorkommen einzelner Emojis hin untersuchen. 
 In Databricks können wir neben SQL auch Scala verwenden. Scala ist die Programmiersprache, mit der Apache Spark entwickelt wurde \(Spark SQL ist ein Teil von Apache Spark\). In Scala ist es mit einem Befehl über einen regulären Ausdruck möglich, alle Emojis zu extrahieren. Wir verpacken die Zeile noch in eine neue Funktion oder _User Defined Function \(UDF\)_, so dass wir sie anschließend auch aus SQL heraus aufrufen können:
 
 ```scala
-val findEmoticons = udf((t: String) => """\p{block=Emoticons}""".r.findAllIn(t).toArray )
-spark.udf.register("findEmoticons", findEmoticons)
+def findEmoticons(s: String): Array[String] = {
+  val str = Option(s).getOrElse(return Array())
+   """\p{block=Emoticons}""".r.findAllIn(str).toArray 
+}
+
+val findEmoticonsUDF = udf[Array[String], String](findEmoticons)
+spark.udf.register("findEmoticons", findEmoticonsUDF)
 ```
 
 ### 💡 Emojis mit SQL analysieren
