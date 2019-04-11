@@ -29,6 +29,8 @@ description: >-
 
 Für diese Lerneinheit ist keine Vorbereitung notwendig.
 
+## ▶ Lerneinheit
+
 ### 1⃣ Problem: Ermittlung von Primzahlen
 
 Um in das Thema Algorithmen einzusteigen, eignet sich folgende Problemformulierung \([dieses Beispiel](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/implementing-binary-search-of-an-array) stammt aus dem Kurs "Algorithms" der Khan Academy\):
