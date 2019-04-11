@@ -4,3 +4,14 @@
 
 Please be patient...👷 
 
+
+
+## Links
+
+* [List of all sensors available from Tinkerforge](https://www.tinkerforge.com/de/shop/bricklets/sensors.html)
+* [List of all human input devices \(buttons etc.\) available from Tinkerforge](https://www.tinkerforge.com/en/shop/bricklets/human-input.html)
+* [List of all output devices \(displays, sound\) available from Tinkerforge](https://www.tinkerforge.com/en/shop/bricklets/lcd-led-sound.html)
+* [List of all industrial devices available from Tinkerforge](https://www.tinkerforge.com/en/shop/bricklets/industrial.html)
+* [List of all remote devices \(NFC, remote switch etc.\) available from Tinkerforge](https://www.tinkerforge.com/en/shop/bricklets/remote.html)
+* [List of all input/output devices available from Tinkerforge](https://www.tinkerforge.com/en/shop/bricklets/io.html)
+
