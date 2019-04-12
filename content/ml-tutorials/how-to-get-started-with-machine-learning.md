@@ -10,6 +10,10 @@ Chapter 5 of the book ["Deep Learning"](https://www.deeplearningbook.org/) gives
 
 {% embed url="https://www.deeplearningbook.org/contents/ml.html" %}
 
+{% embed url="https://twimlai.com" %}
+
+
+
 ## Decision Trees
 
 {% embed url="https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956" %}
