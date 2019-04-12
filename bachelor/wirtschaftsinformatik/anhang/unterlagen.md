@@ -25,3 +25,30 @@
 | [Wirtschaftsinformatik \#E04 - Digitale Transformation](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/preview) | [PDF](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/export/pdf) |
 | [Wirtschaftsinformatik \#E05 - Algorithmen](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/preview) | [PDF](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/export/pdf) |
 
+## Texte
+
+Die Texte sind im Dateibereich dieser Veranstaltung in der Lernplattform OSCA bereitgestellt.
+
+| Title | Seiten |
+| :--- | :--- |
+| WI-01 - Code - Charles Petzold - Chapter 7 - Our Ten Digits 🇺🇸  | 8 |
+| WI-02 - Code - Charles Petzold - Chapter 8 - Alternatives to Ten 🇺🇸  | 18 |
+| WI-03 - Code - Charles Petzold - Chapter 2 - Codes and Combinations 🇺🇸  | 6 |
+| WI-04 - Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit 🇺🇸  | 19 |
+| WI-04a - Hansen - Wirtschaftsinformatik - Information und Daten 🇩🇪  | 17 |
+| WI-05 - But How Do It Know - What the... and Simple Variations 🇺🇸  | 7 |
+| WI-06 - Max Tegmark - Life 3.0 - What is Computation? 🇺🇸 🇩🇪  | 9 |
+| WI-07 - Code - Charles Petzold - Chapter 12 - A Binary Adding Machine 🇺🇸  | 13 |
+| WI-09 - How Things Work Now - Making Bits 🇺🇸  | 19 |
+| WI-10 - The Second Machine Age - The Digitization of just about Everything 🇺🇸  | 15 |
+| WI-10a - The Second Machine Age - The Biggest Winners - Stars and Superstars 🇺🇸  | 10 |
+| WI-11 - Leimeister - Wirtschaftinformatik - Eigenschaften digitaler Güter 🇩🇪  | 4 |
+| WI-12 - Hello World - Hannah Fry - Power 🇺🇸  | 11 |
+| WI-13 - Hello World - Hannah Fry - Cars 🇺🇸  | 18 |
+
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=PtmzfpV6CDE" %}
+
+{% embed url="https://youtu.be/h\_hW0-th9YA" %}
+
