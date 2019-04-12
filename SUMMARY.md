@@ -130,6 +130,7 @@
     * [Themenanalysen](master/big-data-analytics/4-analyse-sozialer-netzwerke/themenanalysen.md)
   * [\#6 Präsentation](master/big-data-analytics/6-praesentation.md)
   * [Anhang](master/big-data-analytics/anhang/README.md)
+    * [Unterlagen](master/big-data-analytics/anhang/unterlagen.md)
     * [Q & A](master/big-data-analytics/anhang/q-and-a.md)
 * [Empirisches Arbeiten](master/empirisches-arbeiten/README.md)
   * [\#1 Datenauswertung mit SQL](master/empirisches-arbeiten/1-datenauswertung-mit-sql.md)
