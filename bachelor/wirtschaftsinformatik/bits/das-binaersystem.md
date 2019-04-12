@@ -42,11 +42,15 @@ Moore's Law kann ich das schnelle Wachstum unserer digitalen Technologien erklä
 
 {% embed url="https://docs.google.com/presentation/d/1jMFf0M7KGdgi7BdgFBdmUwfX16\_QIirE0YXSzeqbpwQ/preview" %}
 
+Ihr könnt hier eine PDF-Version der Folien herunterladen : [Download PDF-Version](https://docs.google.com/presentation/d/1jMFf0M7KGdgi7BdgFBdmUwfX16_QIirE0YXSzeqbpwQ/export/pdf)⬇ 
+
 ### 3⃣ Kurze Einführung in Logic Gates \(⏲20 Min.\)
 
 Die folgende kurze Präsentation gibt einen Überblick über die 6 Logic Gates und deren Funktionsweise. Wir schauen uns auch an, wie wir ein AND-Gate aus mechanischen Relais bauen können.
 
 {% embed url="https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/preview" %}
+
+Ihr könnt hier eine PDF-Version der Folien herunterladen : [Download PDF-Version](https://docs.google.com/presentation/d/1Aj0RnxHKEPL6Lh7r6ptoLo0OqLY018gkcQq9QPRuJrc/export/pdf)⬇ 
 
 ### 4⃣ Übungsaufgabe zu Logic Gates \(⏲45 Min.\)
 
