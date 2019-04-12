@@ -40,6 +40,8 @@ Wir schauen uns gemeinsam die wichtigsten Konzepte bei der Addition zweier 8-Bit
 
 {% embed url="https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/preview" %}
 
+Ihr könnt hier eine PDF-Version der Folien herunterladen :[ Download PDF-Version](https://docs.google.com/presentation/d/16vH1DMpMXKuV5xMaQRp3d-EfRfzKpcCTiFGc2hC7m5I/export/pdf)⬇
+
 ### 3⃣ Übungsaufgabe 
 
 Für diese Lerneinheit gibt es keine dedizierte Übungsaufgabe.
