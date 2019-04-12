@@ -1,5 +1,9 @@
 # Anhang
 
+{% embed url="http://ami.responsivedesign.is/\#" %}
+
+
+
 {% embed url="https://validator.w3.org/" %}
 
 ## Cheat Sheets
