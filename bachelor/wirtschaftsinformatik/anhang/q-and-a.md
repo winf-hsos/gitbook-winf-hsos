@@ -1,3 +1,9 @@
+---
+description: >-
+  Hier findest du die gestellten Fragen und Antworten aus der Veranstaltung
+  Wirtschaftsinformatik.
+---
+
 # Q & A
 
 ## \#1 Bits

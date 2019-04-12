@@ -1,3 +1,7 @@
+---
+description: Hier findest du alle Unterlagen zur Veranstaltung Wirtschaftsinformatik.
+---
+
 # Unterlagen
 
 ## Slides
