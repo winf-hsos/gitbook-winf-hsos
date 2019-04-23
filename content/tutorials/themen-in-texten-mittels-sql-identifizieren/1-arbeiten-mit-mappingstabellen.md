@@ -4,7 +4,7 @@ description: >-
   erstellen und in Databricks zu verwenden.
 ---
 
-# \#1 Arbeiten mit Mappingstabellen
+# \#1 Arbeiten mit Mappingtabellen
 
 ## 💡 Erstellung einer einfachen Mapping-Tabelle mit Scala
 
@@ -55,6 +55,8 @@ Das Beispiel ist beliebig erweiterbar. Ab einer zu großen Anzahl Spalten und Ze
 [Google Sheets](https://www.google.com/sheets/about/) ist eine kostenlose Alternative zu dem weit verbreiteten Microsoft Excel. Und weil Google Sheets in der Cloud und damit im Internet verfügbar sind, lassen sie sich in Databricks ohne komplizierte Umwege über den eigenen Rechner laden. Den folgenden Code-Block könnt ihr euch in euer Databricks-Notebook kopieren und in den Zeilen 2 und 6 die notwendigen Anpassungen durchführen:
 
 ```scala
+import scala.sys.process._
+
 // Choose a name for your resulting table in Databricks
 var tableName = "stopwords"
 
