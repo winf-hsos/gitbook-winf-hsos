@@ -41,7 +41,6 @@
   * [\#2 Coding](bachelor/impacts-of-digitalization/coding/README.md)
     * [Setup your IDE](bachelor/impacts-of-digitalization/coding/install-your-ide.md)
     * [Jumping in at the Deep End](bachelor/impacts-of-digitalization/coding/your-first-program.md)
-    * [Programming Elements](bachelor/impacts-of-digitalization/coding/programming-elements.md)
   * [\#3 Internet of Things](bachelor/impacts-of-digitalization/internet-of-things/README.md)
     * [Building Blocks](bachelor/impacts-of-digitalization/internet-of-things/tinkerforge.md)
     * [Applications](bachelor/impacts-of-digitalization/internet-of-things/applications.md)
