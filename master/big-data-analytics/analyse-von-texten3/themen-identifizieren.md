@@ -27,7 +27,11 @@ Die Anwendung der induktiven Methode mit SQL wird hier beschrieben:
 
 {% page-ref page="../../../content/tutorials/themen-in-texten-mittels-sql-identifizieren/3-induktive-themenanalyse.md" %}
 
+### 📃 Databricks Notebook Template
 
+Für die deduktive Themenidentifikation gibt es das folgende Template mit den wichtigsten SQL-Befehlen.
+
+* [Themen identifzieren](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Themen%20identifizieren.html)
 
 
 
