@@ -8,5 +8,17 @@
 
 ### 1⃣ In Texten nach bestimmten Mustern oder Symbolen suchen
 
+#### Emojis
+
+Für die Analyse von Emotionen via Emojis gibt es einen Abschnitt im folgenden Tutorial:
+
+{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten/emotionen-analysieren.md" %}
+
 ### 2⃣ Daten aus JSON Objekten extrahieren
+
+#### URLs und Bilder
+
+In diesem Tutorial findet ihr [hier](../../../content/tutorials/twitter-daten-mit-sql-auswerten/#extrahieren-von-urls-oder-foto-urls) die Information, wie URLs und Bilder-URLs aus den Tweets extrahiert werden können:
+
+{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten/" %}
 
