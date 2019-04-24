@@ -12,6 +12,10 @@ Chapter 5 of the book ["Deep Learning"](https://www.deeplearningbook.org/) gives
 
 {% embed url="https://twimlai.com" %}
 
+{% embed url="https://experiments.withgoogle.com/collection/ai" %}
+
+{% embed url="https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview" %}
+
 
 
 ## Decision Trees
