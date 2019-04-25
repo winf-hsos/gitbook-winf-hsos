@@ -9,6 +9,10 @@ Zum Start in das neue Thema bearbeitet bitte die folgende Übungsaufgabe mit eur
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/export/pdf) ⬇
 
+{% hint style="info" %}
+**Tipp**: Installiert einen guten aber schlanken Texteditor wie z.B. [Atom](https://atom.io/) oder [Notepad++](https://notepad-plus-plus.org/download/v7.6.6.html), um die Dateien mit den Daten anzuzeigen.
+{% endhint %}
+
 ## 🔗 Links
 
 ### Tools
