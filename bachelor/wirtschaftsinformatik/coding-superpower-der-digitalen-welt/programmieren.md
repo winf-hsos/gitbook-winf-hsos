@@ -8,3 +8,9 @@ Im vorigen Abschnitt zu Algorithmen haben wir uns das Beispiel _Wurzel ziehen_ a
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1HkqFsSxPiws6kHZ4HOJS1AB4-9W7Ef7z3T96vaCXLQo/export/pdf)
 
+### 🔗 Links
+
+* 🔗 [Notebook für das Ziehen von Wurzeln](http://runkit.com/winf-hsos/wurzeln-ziehen)
+* 🔗 [Notebook für die Binäre Suche](https://runkit.com/winf-hsos/binaere-suche)
+* 🔗 Notebook für Selection Sort
+
