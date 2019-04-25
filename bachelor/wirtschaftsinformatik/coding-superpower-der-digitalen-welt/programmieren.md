@@ -1,4 +1,4 @@
-# Mein erstes Programm I
+# Mein erstes Programm
 
 ## ▶ Lerneinheit
 

@@ -18,7 +18,6 @@ description: >-
 * 🏷Compiler
 * 🏷Binäre Suche
 * 🏷Selection Sort
-* 🏷Bubble Sort
 * 🏷Pseudocode
 * 🏷Komplexität und Laufzeit \(_O_\(_n\)_-Notation\)
 * 🏷Regel-basierte Algorithmen
@@ -67,4 +66,5 @@ Wir haben den Einstieg in das komplexe Thema Algorithmen gemeistert und mit der 
 ### 🔗 Links
 
 * 🔗 [Notebook für das Ziehen von Wurzeln](http://runkit.com/winf-hsos/wurzeln-ziehen)
+* 🔗 [Notebook für die Binäre Suche](https://runkit.com/winf-hsos/binaere-suche)
 
