@@ -28,6 +28,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Wirtschaftsinform
 | [Wirtschaftsinformatik \#E03 - Logic Gates](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/preview) | [PDF](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/export/pdf) |
 | [Wirtschaftsinformatik \#E04 - Digitale Transformation](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/preview) | [PDF](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/export/pdf) |
 | [Wirtschaftsinformatik \#E05 - Algorithmen](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/preview) | [PDF](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/export/pdf) |
+| [Wirtschaftsinformatik \#E06 - Datensätze](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/preview) | [PDF](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/export/pdf) |
 
 ## Texte
 
