@@ -6,6 +6,10 @@ description: >-
 
 # Algorithmen in der Praxis
 
+{% hint style="info" %}
+**ACHTUNG**: Diese Einheit wurde aus Zeitgründen im SS 2019 nicht behandelt und die damit auch nicht prüfungsrelevant.
+{% endhint %}
+
 ## 🎯 Lernziele
 
 * 🎯 Ihr kennt Beispiele für häufig verwendete Algorithmen in eurem täglichen Leben.
