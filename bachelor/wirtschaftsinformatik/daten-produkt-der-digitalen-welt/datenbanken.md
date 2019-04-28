@@ -21,9 +21,13 @@ Wir schauen uns in diesem Abschnitt wichtige Eigenschaften von Daten an und disk
 * Format
 * Frequenz
 * Größe
+* Granularität \(Zeit / Objekt\)
 * Qualität
+  * Aktualität
+  * Konsistenz
+  * Korrektheit
+  * Vollständigkeit
 * Redundanz
-* Konsistenz
 * Sensibilität
 
 ## 🔗 Links
