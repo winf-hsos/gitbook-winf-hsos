@@ -1,4 +1,4 @@
-# Die Datenbank
+# Datenbanken
 
 Noch etwas Geduld...👷
 

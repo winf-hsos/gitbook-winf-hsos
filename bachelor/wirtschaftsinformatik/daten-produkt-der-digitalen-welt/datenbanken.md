@@ -15,10 +15,6 @@ Zum Start in das neue Thema bearbeitet bitte die folgende Übungsaufgabe mit eur
 
 ## 🔗 Links
 
-### Tools
-
-{% embed url="https://airtable.com" %}
-
 ### Online data sets
 
 {% embed url="http://dataportals.org/" %}
