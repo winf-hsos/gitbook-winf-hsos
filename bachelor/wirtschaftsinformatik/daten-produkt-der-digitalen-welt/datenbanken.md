@@ -13,6 +13,19 @@ Zum Start in das neue Thema bearbeitet bitte die folgende Übungsaufgabe mit eur
 **Tipp**: Installiert einen guten aber schlanken Texteditor wie z.B. [Atom](https://atom.io/) oder [Notepad++](https://notepad-plus-plus.org/download/v7.6.6.html), um die Dateien mit den Daten anzuzeigen.
 {% endhint %}
 
+### 2⃣ Eigenschaften von Daten
+
+Wir schauen uns in diesem Abschnitt wichtige Eigenschaften von Daten an und diskutieren diese:
+
+* Struktur
+* Format
+* Frequenz
+* Größe
+* Qualität
+* Redundanz
+* Konsistenz
+* Sensibilität
+
 ## 🔗 Links
 
 ### Online data sets
