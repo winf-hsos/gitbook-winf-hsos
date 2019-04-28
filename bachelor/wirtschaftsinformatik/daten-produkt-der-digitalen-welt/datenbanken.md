@@ -17,6 +17,7 @@ Zum Start in das neue Thema bearbeitet bitte die folgende Übungsaufgabe mit eur
 
 Wir schauen uns in diesem Abschnitt wichtige Eigenschaften von Daten an und diskutieren diese:
 
+* Kontext
 * Struktur
 * Format
 * Frequenz
