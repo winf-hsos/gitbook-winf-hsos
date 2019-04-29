@@ -2,6 +2,10 @@
 
 ## ▶ Lerneinheit
 
+### 1⃣ Daten und Entscheidungen
+
+Zu Beginn schauen wir uns an, welche Rollen Daten bei Entscheidungen spielen und welche Schlussfolgerungen Unternehmen daraus ziehen.
+
 {% embed url="https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx\_\_CwiOs3tM/preview" %}
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx__CwiOs3tM/export/pdf)
