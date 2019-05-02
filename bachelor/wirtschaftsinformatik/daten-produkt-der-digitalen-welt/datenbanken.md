@@ -17,20 +17,9 @@ Zum Start in das neue Thema bearbeitet bitte die folgende Übungsaufgabe mit eur
 
 Wir schauen uns in diesem Abschnitt wichtige Eigenschaften von Daten an und diskutieren diese:
 
-* Kontext
-* Zweck
-* Struktur
-* Format / Repräsentation
-* Frequenz
-* Größe
-* Granularität \(Zeit / Objekt\)
-* Qualität
-  * Aktualität
-  * Konsistenz
-  * Korrektheit
-  * Vollständigkeit
-* Redundanz
-* Sensibilität
+{% embed url="https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/preview" %}
+
+Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/export/pdf)
 
 ## 🔗 Links
 
