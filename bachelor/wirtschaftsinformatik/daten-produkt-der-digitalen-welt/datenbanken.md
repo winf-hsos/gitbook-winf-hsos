@@ -21,6 +21,13 @@ Wir schauen uns in diesem Abschnitt wichtige Eigenschaften von Daten an und disk
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen ⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/export/pdf)
 
+### 3⃣ Tools für die Datenanalyse
+
+Wir werfen einen kurzen Blick auf 2 sehr verbreitete Tools für die Datenanalyse, die ihr kostenlos nutzen könnt:
+
+* [Tableau Dekstop](https://www.tableau.com/de-de/academic/students)
+* [Databricks Community Edition](https://community.cloud.databricks.com)
+
 ## 🔗 Links
 
 ### Online data sets
