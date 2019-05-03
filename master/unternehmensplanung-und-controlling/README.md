@@ -11,6 +11,7 @@ Das Modul _Unternehmensplanung und Controlling_ ist ein Wahlpflichtmodul im zwei
 * Ihr nutzt Tableau für die Analyse von Daten und erstellt nützliche IST-Analysen auf Basis von Daten.
 * Ihr könnt eine einfache Planung auf Basis von IST-Daten durchführen und eine Abweichungsanalyse in Tableau erstellen.
 * Ihr kennt den Begriff Business Intelligence und damit verknüpfte Konzepte.
+* Ihr versteht, wie Unternehmen mithilfe von BI die Informationsversorgung von Entscheidern sicherstellen.
 
 ## 🇩🇪 Sprache
 
