@@ -22,8 +22,8 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 Mein Teil des Moduls ist in 5 Teile gegliedert.
 
 * 🗓 Termin 1
-  * 1⃣ Data Architectures - Das Big Picture 🗺 
-  * 2⃣ Quellsysteme - Woher kommen die Daten? 
+  * 1⃣ Business Intelligence 
+  * 2⃣ Modern Data Architecture
 * 🗓 Termin 2
   * 3⃣ Datenmodellierung - Wie soll es aussehen?
   * 4⃣ ETL-Prozesse - Von der Quelle zum Ziel
