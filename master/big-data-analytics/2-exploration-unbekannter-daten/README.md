@@ -4,6 +4,9 @@ description: In diesem Block geht es die Erkundung neuer Datensätze mit SQL.
 
 # \#2 Exploration von Daten
 
+> The data may not contain the answer. The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.   
+> \(John Tukey\)
+
 ## 🎯 Lernziele
 
 * 🎯 Ihr kennt Formate, in denen Datensätze häufig gespeichert werden, und wie ihr mit den unterschiedlichen Formaten geeignet verfahren könnt.
