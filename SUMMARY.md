@@ -137,7 +137,8 @@
   * [\#3 Text Analytics](master/empirisches-arbeiten/3-text-analytics.md)
 * [Planung und Entscheidung](master/planung-und-entscheidung.md)
 * [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)
-* [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling.md)
+* [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling/README.md)
+  * [\#1 Business Intelligence](master/unternehmensplanung-und-controlling/1-business-intelligence.md)
 * [Consulting Project](master/consulting-project.md)
 
 ## RESEARCH
