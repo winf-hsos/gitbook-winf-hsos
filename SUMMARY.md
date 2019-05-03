@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Willkommen](README.md)
 
 ## Bachelor
 

@@ -1,4 +1,12 @@
-# Welcome
+---
+description: >-
+  Willkommen auf der Webseite der Wirtschaftsinformatik der Fakultät AuL der
+  Hochschule Osnabrück.
+---
+
+# Willkommen
+
+{% embed url="https://www.youtube.com/watch?v=\_QhY6EAdeJ0" %}
 
 ## Aktuelle Module
 
