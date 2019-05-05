@@ -81,6 +81,28 @@ Das Ergebnis seht ihr unten im Screenshot:
 
 ![](../../.gitbook/assets/image%20%2823%29.png)
 
+### Numerische Arrays summieren \(ohne `explode()`\)
+
+Wenn entweder die Elemente eines Arrays allesamt numerisch sind, oder jedes Element einen numerischen Wert enthält \(im Falle eines Arrays von Objekten\), so gibt es eine einfache Möglichkeit, die Summe über alle Elemente im Array zu bilden. 
+
+Im Folgenden erzeugen wir zuerst einen fiktiven View, der eine Spalte vom Typ Array enthält. In diesem Array sind nur Zahlen enthalten, die wir in einem weiteren SQL Statement aufsummieren wollen. Dazu nutzen wir die `aggregate()` Funktion.
+
+```sql
+create or replace view test as
+select array(1.22, 1.3, 4.0) as myArray
+union
+select array(0.35, 10.5, 3.14) as myArray
+```
+
+Nun wenden wir die `aggregate` Funktion in einem SQL Statement an:
+
+```sql
+select aggregate(cast(myArray as array<double>), 0.0D,  (acc, item) -> acc + item) as `Summe des Array`
+from arraySumTest
+```
+
+Es ist bei der Anwendung der Funktion wichtig zu beachten, dass die ersten beiden Argumente vom gleichen Typ sind. Das Array `myArray` wird daher in ein Array vom Type `double` umgewandelt und auch der Startwert für die Aggregation als `0.0D` angegeben. Das bedeutet, die 0.0 soll ebenfalls als Zahl vom Typ `double` interpretiert werden.
+
 ## 💡 Objekte und deren Attribute abfragen
 
 Folgt bald.
