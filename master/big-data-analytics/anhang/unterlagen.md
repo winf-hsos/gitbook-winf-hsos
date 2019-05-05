@@ -58,4 +58,5 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 * [Big Data Helper Tool für die Twitter API](https://big-data-analytics-helper.glitch.me/)
 * [Zusammenfassung "The Minto Pyramid Principle"](https://www.dbai.tuwien.ac.at/staff/gatter/work/051104_The_Minto_Pyramid_Principle.pdf)
+* [Spark SQL Functions Reference](https://docs.databricks.com/spark/latest/spark-sql/language-manual/functions.html)
 
