@@ -6,6 +6,35 @@ description: >-
 
 # Q & A
 
+## Ich bekomme eine Fehlermeldung beim Laden der Daten. Es konnte eine Tabelle nicht angelegt werden, weil sie bereits existiert. Wie löse ich das?
+
+Die Fehlermeldung dazu lautet so \(oder so ähnlich\): 
+
+```bash
+org.apache.spark.sql.AnalysisException: Can not create the managed table('twitter_followers'). The associated location('dbfs:/user/hive/warehouse/twitter_followers') already exists.
+```
+
+Die Lösung  funktioniert in 2 Schritten:
+
+**Schritt 1: Ermitteln des genauen Pfades**
+
+```scala
+// Ersetzt hier den Pfad aus eurer Fehlermeldung
+display(dbutils.fs.ls("dbfs:/user/hive/warehouse/twitter_followers"))
+```
+
+Als Ergebnis bekommt ihr einen detaillierteren Pfad angezeigt. Diese müsst ihr für den zweiten Schritt der Lösung kopieren.
+
+**Schritt 2: Löschen der alten Datei**
+
+Ersetzt den zuvor kopieren Pfad im Aufruf unten.
+
+```scala
+dbutils.fs.rm("dbfs:/user/hive/warehouse/twitter_followers/_started_1560150859916745977")
+```
+
+Nun versucht erneut, die Daten neu zu laden. Es sollte alles funktionieren.
+
 ## Ist es möglich, Tweets auf mehrere Schlagwörter zu untersuchen, indem man ein Array mit den Schlagwörtern anlegt und dann nach dem Array sucht? Ziel ist ein Ranking der Tweets nach Relevanz.
 
 Es ist nicht möglich, nach einem Array zu suchen. Ihr könnt aber die Texte in einzelne Wörter zerlegen, wie wir es in der Veranstaltung gemacht haben, und anschließend in dem Ergebnis nach einer Menge an Schlagwörtern suchen. Beispiel:
