@@ -16,6 +16,10 @@ Ihr solltet Zahlensysteme _verstanden_ haben, dann ist es eigentlich egal, welch
 
 Nein. Die Logic Gates benötigen wir im Zusammenhang mit der _Verarbeitung_ \(z.B. Addieren von zwei Zahlen\). Bei der Aufgaben mit den KFZ-Kennzeichen geht es um die Frage, wie viele Bits wir für die _Speicherung_ \(oder Übertragung\) benötigen. Die Antwort 38 bedeutet, wir brauchen 38 Nullen und Einsen, um ein Deutsches Autokennzeichen zu codieren.
 
+**Können Sie noch einmal erklären, was mit der Substratunabhängigkeit der Informationsverarbeitung gemeint ist?**
+
+Das Thema Substratunabhängigkeit der Informationsverarbeitung ist im Text "What is Computation?" von Max Tegmark sehr gut und relativ ausführlich erklärt.
+
 ## 2\# Digitalisierung
 
 #### Warum hat ein 56k Modem immer dieses äußerst nervige Geräusch beim einwählen ins Internet gemacht?
