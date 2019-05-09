@@ -93,6 +93,15 @@ Möglicherweise ist es sinnvoll, Hashtags ebenfalls aus den Texten zu entfernen,
 regexp_replace(text, '#(\\w+)', ' ')
 ```
 
+## 💡 User Mentions entfernen
+
+Erwähnungen von Nutzern beginnen in Tweets mit dem @-Symbol. Diese sind für die Wortanalyse nicht relevant und können über einen regulären Ausdruck entfernt werden:
+
+```sql
+-- Funktion zum Entfernen von User Mentions in Tweets
+regexp_replace(text, '@(\\w+)', ' ')
+```
+
 ## 💡 URLs entfernen \(optional\)
 
 Das gleiche gilt auch für URLs, die z.B. häufig in Tweets enthalten sind. Auch die können wir mit einem regulären Ausdruck finden und ersetzen:
@@ -102,11 +111,14 @@ Das gleiche gilt auch für URLs, die z.B. häufig in Tweets enthalten sind. Auch
 regexp_replace(text, 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ' ')
 ```
 
-Der View inklusive dem Entfernen der Hashtags und URLs sähe also so aus:
+Der View inklusive dem Entfernen der Hashtags, User Mentions und URLs sähe also so aus:
 
 ```sql
+%sql
 create or replace view tweets_prep_step_2 as
-select user
+select id
+      ,user
+      ,text as original_text
       ,created_at
       -- Remove two or more subsequent white spaces
       ,regexp_replace(
@@ -118,9 +130,11 @@ select user
             regexp_replace(
               -- Replace hashtags
               regexp_replace(
-                -- Replace line breaks (2 different types)
+                -- Replace User Mentions
                 regexp_replace(
-                  regexp_replace(text, '\n', ' '), '\r', ' '), '#(\\w+)', ' '), 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ' ')), '[^a-zA-ZäöüÄÖÜß]', ' '), '\ {2,}', ' ') as `text`
+                  -- Replace line breaks (2 different types)
+                  regexp_replace(
+                      regexp_replace(text, '\n', ' '), '\r', ' '), '@(\\w+)', ' '), '#(\\w+)', ' '), 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ' ')), '[^a-zA-ZäöüÄÖÜß]', ' '), '\ {2,}', ' ') as `text`
 from tweets_prep_step_1
 ```
 
