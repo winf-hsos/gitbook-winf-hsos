@@ -1,4 +1,4 @@
-# Worpaare analysieren
+# Wortpaare analysieren
 
 Es kann sinnvoll sein, nicht nur einzelne Wörter zu betrachten, sondern auch 2er-Kombinationen von Wörtern zu analysieren. Z.B. um herauszufinden, mit welchen anderen Wörtern das Wort "not" zusammen vorkommt, um eine spezifischere Sentiment-Analyse zu ermöglichen. Das SQL unten erstellt einen View, der für Tweets Wortpaare bildet, die im Tweet direkt aufeinander folgen:
 

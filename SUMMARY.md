@@ -174,7 +174,7 @@
   * [Daten mit SQL erkunden](content/tutorials/daten-mit-sql-erkunden.md)
   * [JSON-Felder mit SQL verarbeiten](content/tutorials/json-felder-mit-sql-verarbeiten.md)
   * [Twitter-Daten mit SQL auswerten](content/tutorials/twitter-daten-mit-sql-auswerten/README.md)
-    * [Worpaare analysieren](content/tutorials/twitter-daten-mit-sql-auswerten/worpaare-analysieren.md)
+    * [Wortpaare analysieren](content/tutorials/twitter-daten-mit-sql-auswerten/worpaare-analysieren.md)
     * [In Texten nach Wörtern suchen](content/tutorials/twitter-daten-mit-sql-auswerten/in-texten-nach-woertern-suchen.md)
     * [Emotionen analysieren](content/tutorials/twitter-daten-mit-sql-auswerten/emotionen-analysieren.md)
   * [Texte für die Analyse mit SQL vorbereiten](content/tutorials/texte-mit-sql-auswerten/README.md)
