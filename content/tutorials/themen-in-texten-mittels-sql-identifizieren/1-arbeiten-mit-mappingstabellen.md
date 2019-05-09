@@ -84,11 +84,11 @@ Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten 
 
 **Schritt 1:** Ihr klickt auf "Datei" und dann "Im Web veröffentlichen"
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 **Schritt 2:** "Gesamtes Dokument" auswählen und im rechten Dropdown-Menü "Kommagetrennte Werte \(CSV\)" auswählen.
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 **Schritt 3:** Link kopieren und in Databricks einfügen \(Wert in Zeile 6 ersetzen\).
 
