@@ -1,6 +1,6 @@
 # Building Blocks
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Ideation Workshop
 

@@ -6,7 +6,7 @@ description: >-
 
 # Jumping in at the Deep End
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Preparation
 
@@ -27,7 +27,7 @@ In the first block of this lesson, let's try so solve the challenge 1 from the f
 * 🔗 [Link to exercise](https://docs.google.com/document/d/17BBJRldzIrdq5jnDmUSDkimjx9JojQvF-uQrGkkoLv8/preview)
 * 🔗 [Link to PDF version](https://docs.google.com/document/d/17BBJRldzIrdq5jnDmUSDkimjx9JojQvF-uQrGkkoLv8/export?format=pdf) ⬇ 
 
-![&quot;Hello World&quot; in Node.js](../../../.gitbook/assets/image%20%287%29.png)
+![&quot;Hello World&quot; in Node.js](../../../.gitbook/assets/image%20%289%29.png)
 
 ### 3⃣ Hardware Assembly and Test
 

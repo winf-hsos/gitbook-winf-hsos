@@ -1,4 +1,0 @@
-# Applications
-
-Please be patient...👷 
-

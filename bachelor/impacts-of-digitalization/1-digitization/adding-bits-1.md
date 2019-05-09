@@ -5,7 +5,7 @@
 * 🎯 You know different types of logic gates and how they work.
 * 🎯 You understand how computers can perform arithmetic with only NAND-gates
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Logic Gates and how Computers add Bits \(⏲60 Min.\)
 

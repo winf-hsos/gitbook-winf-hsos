@@ -13,12 +13,28 @@ Damit kann Texte zumindest nach dem Vorkommen einzelner Emojis hin untersuchen. 
 
 ### 💡 Emojis mit Scala und UDFs extrahieren
 
+#### Emoticons extrahieren
+
 In Databricks können wir neben SQL auch Scala verwenden. Scala ist die Programmiersprache, mit der Apache Spark entwickelt wurde \(Spark SQL ist ein Teil von Apache Spark\). In Scala ist es mit einem Befehl über einen regulären Ausdruck möglich, alle Emojis zu extrahieren. Wir verpacken die Zeile noch in eine neue Funktion oder _User Defined Function \(UDF\)_, so dass wir sie anschließend auch aus SQL heraus aufrufen können:
 
 ```scala
 def findEmoticons(s: String): Array[String] = {
   val str = Option(s).getOrElse(return Array())
    """\p{block=Emoticons}""".r.findAllIn(str).toArray 
+}
+
+val findEmoticonsUDF = udf[Array[String], String](findEmoticons)
+spark.udf.register("findEmoticons", findEmoticonsUDF)
+```
+
+#### Emoticons und sonstige Symbole extrahieren
+
+Neben den älteren Emojis gibt es mittlerweile eine ganze Reihe weiterer Symbole, die ebenfalls erkannt werden können. Dazu müssen lediglich die [Unicode-Blöcke](https://www.w3.org/TR/xsd-unicode-blocknames/) _Dingbats_ und _Miscellaneous Symbols and Pictographs_ zusätzlich zum Block _Emoticons_ hinzugefügt werden:
+
+```scala
+def findEmoticons(s: String): Array[String] = {
+  val str = Option(s).getOrElse(return Array())
+   """[\p{block=Emoticons}\p{block=Dingbats}\p{block=Miscellaneous Symbols And Pictographs}]""".r.findAllIn(str).toArray 
 }
 
 val findEmoticonsUDF = udf[Array[String], String](findEmoticons)
@@ -37,7 +53,7 @@ where size(findEmoticons(text)) > 0
 
 Das Ergebnis der Funktion ist eine neue Spalte als Liste \(Array\) von Emojis:
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
 
 Wie wir mit Arrays in SQL umgehen ist bekannt bzw. könnt ihr im [dafür vorgesehenen Tutorial](../json-felder-mit-sql-verarbeiten.md#arrays-abfragen) nachlesen. Wir können z.B. `explode` anwenden, um pro Zeile ein Emojis zu erhalten:
 
@@ -79,7 +95,7 @@ Nach dem Ausführen des obigen Blocks habt ihr die neue Tabelle `emoji_meaning` 
 select * from emoji_meaning
 ```
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 Jetzt müssen wir die beiden Tabellen nur noch zusammenbringen:
 
@@ -94,7 +110,7 @@ left join emoji_meaning e
   on e.emoji = t.emoji
 ```
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 ### 💡 Fehlende Emojis pflegen
 

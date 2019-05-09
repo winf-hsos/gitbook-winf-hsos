@@ -10,7 +10,7 @@ Das Schlagwort "glyphosat" wurde bewusst klein geschrieben, weil wir in der [Vor
 
 Der andere Weg ist die **induktive Bildung von Themenkategorien**. Hier identifizieren wir Schlagwörter aus den Daten heraus, ordnen den Schlagwörtern Themen zu, indem wir die Daten \(hier z.B.: Tweets\) sehr genau unter die Lupe nehmen, und dokumentieren das Ergebnis wieder als Tabelle mit mindestens zwei Spalten: Das Schlagwort und die Zuordnung zu einem Thema. So eine Tabelle nennen wir auch _Codebuch_.
 
-Da wir für beide Wege iterativ umfangreiche Tabellen erstellen müssen, benötigen wir einen Weg, diese zu pflegen und einfach in Databricks zu laden. Das ist die Voraussetzung, damit wir sie auf unsere Daten anwenden und so die Themen quantifizieren können. Ich stelle nun 2 Wege vor, wobei für die meisten Fälle die Variante der [Google Sheets](./#tabellen-ueber-google-sheets-pflegen-und-laden) am besten funktionieren dürfte.
+Da wir für beide Wege iterativ umfangreiche Tabellen erstellen müssen, benötigen wir einen Weg, diese zu pflegen und einfach in Databricks zu laden. Das ist die Voraussetzung, damit wir sie auf unsere Daten anwenden und so die Themen quantifizieren können. Ich stelle nun 2 Wege vor, wobei für die meisten Fälle die Variante der [Google Sheets](1-arbeiten-mit-mappingstabellen.md#tabellen-ueber-google-sheets-pflegen-und-laden) am besten funktionieren dürfte.
 
 {% page-ref page="1-arbeiten-mit-mappingstabellen.md" %}
 

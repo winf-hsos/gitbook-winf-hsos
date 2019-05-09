@@ -12,6 +12,8 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 | [Big Data Analytics \#02 - Big Data Grundlagen](https://docs.google.com/presentation/d/16IASPSzF1lomsqm84KOUZK7slZhU3VwfrHbO2tqIYUQ/preview) | [PDF](https://docs.google.com/presentation/d/16IASPSzF1lomsqm84KOUZK7slZhU3VwfrHbO2tqIYUQ/export/pdf) |
 | [Big Data Analytics \#03 - Woher und wie bekomme ich Daten?](https://docs.google.com/presentation/d/17TjiVyD2kQc9PCYDjlrEjkVuWhLOLg5Czf-dJe9KvaE/preview) | [PDF](https://docs.google.com/presentation/d/17TjiVyD2kQc9PCYDjlrEjkVuWhLOLg5Czf-dJe9KvaE/export/pdf) |
 | [Big Data Analytics \#04 - Hadoop, Spark & Co.](https://docs.google.com/presentation/d/1ul2cIIwSN4Ldvzq6IcoBykNM4GrnjDnwm6lqTcrTGsw/preview) | [PDF](https://docs.google.com/presentation/d/1ul2cIIwSN4Ldvzq6IcoBykNM4GrnjDnwm6lqTcrTGsw/export/pdf) |
+| [Big Data Analytics \#05 - Textdaten vorbereiten](https://docs.google.com/presentation/d/1hk8l1ZKjbw8c33nxeid7Vfmmxq4mbojB5apf9w5weKc/preview) | [PDF](https://docs.google.com/presentation/d/1hk8l1ZKjbw8c33nxeid7Vfmmxq4mbojB5apf9w5weKc/export/pdf) |
+| [Big Data Analytics \#06 - Machine Learning und Computer Vision](https://docs.google.com/presentation/d/1PrYXTRFI3cbxfMX4D1buc7mWY9Bv4ATQRSkughQv2Cg/preview) | [PDF](https://docs.google.com/presentation/d/1PrYXTRFI3cbxfMX4D1buc7mWY9Bv4ATQRSkughQv2Cg/export/pdf) |
 | [Big Data Analytics - Fallstudie Mars Petcare](https://docs.google.com/presentation/d/1Xez4NXpE9OIKeBrYhqy3AldQ0rZPlr-WloGenPcST7E/preview) | [PDF](https://docs.google.com/presentation/d/1Xez4NXpE9OIKeBrYhqy3AldQ0rZPlr-WloGenPcST7E/export/pdf) |
 
 ## Notebook Templates

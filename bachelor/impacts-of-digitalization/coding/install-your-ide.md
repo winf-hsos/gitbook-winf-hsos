@@ -11,7 +11,7 @@ description: >-
 * 🎯 You know what pieces of software you need in order to start coding.
 * 🎯 You have successfully setup your workspace and are ready to go!
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Install Visual Studio Code
 

@@ -8,7 +8,7 @@ In this lesson, we'll talk about the differences between the analog and digital 
 * 🎯 You know how sound, images and text can be transformed from an analog to a digital version.
 * 🎯 You know important properties of digital goods and services.
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Difference between analog and digital \(⏲30 Min.\)
 

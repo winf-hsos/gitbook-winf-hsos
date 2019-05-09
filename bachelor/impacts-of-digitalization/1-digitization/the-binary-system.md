@@ -7,7 +7,7 @@
 * 🎯 You can transform numbers between the decimal and binary system.
 * 🎯 You know that digital computers are based on the binary numbering system and why.
 
-## ▶ Lesson
+## ▶ Learning Unit
 
 ### 1⃣ Introduction to number systems \(⏲35 Min.\)
 
