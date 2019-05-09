@@ -7,7 +7,7 @@ description: >-
 
 # In Texten nach Wörtern suchen
 
-Mit dem like Operator kann man in Texten nach einzelnen Wörtern suchen. Möchte man einen Text nach mehr als nur einem Wort durchsuchen kann man mehrere like Operatoren mit dem OR Operator verknüpfen. Diese Vorgehensweise wird schnell unübersichtlich.
+Mit dem like Operator kann man in Texten nach einzelnen Wörtern suchen. Möchte man einen Text nach mehr als nur einem Wort durchsuchen, können wir mehrere like Operatoren mit dem OR-Operator verknüpfen. Diese Vorgehensweise wird aber schnell unübersichtlich.
 
 Eine Alternative ist das Zerlegen der Texte in einzelne Wörter. Das bietet sich an, wenn man tiefer gehende Analysen der Texte durchführen möchte. 
 
