@@ -35,6 +35,10 @@ Sollte euch das gesprochene Englisch zu schnell sein, aktiviert die Untertitel i
 
 {% embed url="https://youtu.be/h\_hW0-th9YA" %}
 
+{% embed url="https://www.youtube.com/watch?v=Rzhpf1Ai7Z4" %}
+
+
+
 Lest dazu bitte die beiden einführenden Kapitel aus dem Buch von Hannah Fry.
 
 | Titel | Seiten |

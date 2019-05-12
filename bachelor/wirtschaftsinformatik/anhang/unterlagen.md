@@ -18,6 +18,9 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Wirtschaftsinform
 | [Wirtschaftsinformatik \#06 - Eigenschaften digitaler Güter](https://docs.google.com/presentation/d/12ErQdjG_vzGeYuz8OSjdedKSWPJCdHMy0AASYKCK_cg/preview) | [PDF](https://docs.google.com/presentation/d/12ErQdjG_vzGeYuz8OSjdedKSWPJCdHMy0AASYKCK_cg/export/pdf) |
 | [Wirtschaftsinformatik \#07 - Algorithmen](https://docs.google.com/presentation/d/1dfthO-Idn-_IMHvdIX8XylRzTmAPzghIg-AXQM4DsGs/preview) | [PDF](https://docs.google.com/presentation/d/1dfthO-Idn-_IMHvdIX8XylRzTmAPzghIg-AXQM4DsGs/export/pdf) |
 | [Wirtschaftsinformatik \#08 - Coding](https://docs.google.com/presentation/d/1HkqFsSxPiws6kHZ4HOJS1AB4-9W7Ef7z3T96vaCXLQo/preview) | [PDF](https://docs.google.com/presentation/d/1HkqFsSxPiws6kHZ4HOJS1AB4-9W7Ef7z3T96vaCXLQo/export/pdf) |
+| [Wirtschaftsinformatik \#09 - Daten und Entscheidungen](https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx__CwiOs3tM/preview) | [PDF](https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx__CwiOs3tM/export/pdf) |
+| [Wirtschaftsinformatik \#10 - Eigenschaften von Daten](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/preview) | [PDF](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/export/pdf) |
+| [Wirtschaftsinformatik \#11 - Webseiten](https://docs.google.com/presentation/d/1luhA51nM7g9ZVZ7gKeR-yZkg28l2HU3KACNX0kOhEwg/preview) | [PDF](https://docs.google.com/presentation/d/1luhA51nM7g9ZVZ7gKeR-yZkg28l2HU3KACNX0kOhEwg/export/pdf) |
 
 ## Übungsaufgaben
 
@@ -56,4 +59,8 @@ Die Texte sind im Dateibereich dieser Veranstaltung in der Lernplattform OSCA be
 {% embed url="https://www.youtube.com/watch?v=PtmzfpV6CDE" %}
 
 {% embed url="https://youtu.be/h\_hW0-th9YA" %}
+
+{% embed url="https://www.youtube.com/watch?v=Rzhpf1Ai7Z4" %}
+
+
 

@@ -22,6 +22,7 @@
     * [Daten und Entscheidungen](bachelor/wirtschaftsinformatik/daten-produkt-der-digitalen-welt/daten-und-entscheidungen.md)
     * [Eigenschaften von Daten](bachelor/wirtschaftsinformatik/daten-produkt-der-digitalen-welt/datenbanken.md)
   * [\#6 Web - Lebensraum der digitalen Welt](bachelor/wirtschaftsinformatik/web-lebensraum-der-digitalen-welt/README.md)
+    * [Webseiten](bachelor/wirtschaftsinformatik/web-lebensraum-der-digitalen-welt/webseiten.md)
     * [Das Internet](bachelor/wirtschaftsinformatik/web-lebensraum-der-digitalen-welt/das-internet.md)
     * [Die Cloud](bachelor/wirtschaftsinformatik/web-lebensraum-der-digitalen-welt/die-cloud.md)
   * [\#7 KI - Einwohner der digitalen Welt](bachelor/wirtschaftsinformatik/ki-lebewesen-der-digitalen-welt/README.md)
