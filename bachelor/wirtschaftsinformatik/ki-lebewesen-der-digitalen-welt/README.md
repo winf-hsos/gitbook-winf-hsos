@@ -1,4 +1,12 @@
 # \#7 KI - Einwohner der digitalen Welt
 
-Noch etwas Geduld...👷 
+## 🏷 Begriffe
+
+* 🏷Künstliche Intelligenz
+* 🏷Maschinelles Lernen
+* 🏷Supervised Learning
+* 🏷Unsupervised Learning
+* 🏷Feature
+* 🏷Label
+* 🏷Neuronales Netzwerk
 
