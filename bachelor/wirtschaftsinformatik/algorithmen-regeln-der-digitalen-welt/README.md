@@ -28,12 +28,12 @@
 * 🏷Regel-basierte Algorithmen
 * 🏷Maschinelles Lernen
 * 🏷Optimierung vs. Heuristiken
-* 🏷Spam Filter
-* 🏷Bayes Theorem
-* 🏷​​Naive Bayes
-* 🏷Autonomes Fahren
-* 🏷Filter Bubble
-* 🏷Algorithmic Bias \(Verzerrung\)
+* 🏷~~Spam Filter~~
+* 🏷~~Bayes Theorem~~
+* 🏷​​~~Naive Bayes~~
+* 🏷~~Autonomes Fahren~~
+* 🏷~~Filter Bubble~~
+* 🏷~~Algorithmic Bias \(Verzerrung\)~~
 
 ## 🔑 Key Points
 
