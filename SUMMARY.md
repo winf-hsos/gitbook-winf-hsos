@@ -139,6 +139,7 @@
 * [Verkaufskonzepte und E-Commerce](master/verkaufskonzepte-und-e-commerce.md)
 * [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling/README.md)
   * [\#1 Business Intelligence](master/unternehmensplanung-und-controlling/1-business-intelligence.md)
+  * [\#2 Datemodellierung](master/unternehmensplanung-und-controlling/2-datemodellierung.md)
 * [Consulting Project](master/consulting-project.md)
 
 ## RESEARCH
