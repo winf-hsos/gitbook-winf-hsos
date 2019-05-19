@@ -21,6 +21,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Wirtschaftsinform
 | [Wirtschaftsinformatik \#09 - Daten und Entscheidungen](https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx__CwiOs3tM/preview) | [PDF](https://docs.google.com/presentation/d/1Le-2ySpDbW3f9A9ILri-ljvLEd0jinZnx__CwiOs3tM/export/pdf) |
 | [Wirtschaftsinformatik \#10 - Eigenschaften von Daten](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/preview) | [PDF](https://docs.google.com/presentation/d/1cKFNay-rvdenNS-8T3ERrg7Mam6ErwXGc9Ee8EhaG8Y/export/pdf) |
 | [Wirtschaftsinformatik \#11 - Webseiten](https://docs.google.com/presentation/d/1luhA51nM7g9ZVZ7gKeR-yZkg28l2HU3KACNX0kOhEwg/preview) | [PDF](https://docs.google.com/presentation/d/1luhA51nM7g9ZVZ7gKeR-yZkg28l2HU3KACNX0kOhEwg/export/pdf) |
+| [Wirtschaftsinformatik \#12 - Das Internet](https://docs.google.com/presentation/d/1BJ28ziv1j_FwsXhCogX9DE919QJIGABwEHb-uB58noY/preview) | [PDF](https://docs.google.com/presentation/d/1BJ28ziv1j_FwsXhCogX9DE919QJIGABwEHb-uB58noY/export/pdf) |
 
 ## Übungsaufgaben
 
