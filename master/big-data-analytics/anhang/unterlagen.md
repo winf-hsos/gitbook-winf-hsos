@@ -27,6 +27,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 | [Texte für SQL Analysen vorbereiten](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Texte%20f%C3%BCr%20SQL%20Analysen%20vorbereiten.html) | Using the Twitter Data, we move through the 5 steps to prepare text data for SQL analysis. |
 | [Themen identifizieren](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Themen%20identifizieren.html) | An approach to identify topics in text data using a code book with weights. |
 | [Text Analytics mit Azure ML](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Text%20Analytics%20mit%20Azure%20ML.html) | A notebook to export tweets and upload them to the Azure Text Analytics Cloud API. The results can be imported in Databricks as tables. |
+| [Image Analytics mit Azure ML](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Image%20Analytics%20mit%20Azure%20ML.html) | A notebook to export image urls from profiles and tweets and upload them to the Azure Cloud Vision API. The results can be imported in Databricks as tables. |
 
 ## Tutorials & Co.
 
