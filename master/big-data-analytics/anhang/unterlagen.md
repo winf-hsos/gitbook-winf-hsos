@@ -40,6 +40,8 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 {% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
 
+{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten/" %}
+
 {% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten/" %}
 
 {% page-ref page="../../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
