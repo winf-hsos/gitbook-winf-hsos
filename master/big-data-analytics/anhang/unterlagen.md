@@ -28,6 +28,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 | [Themen identifizieren](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Themen%20identifizieren.html) | An approach to identify topics in text data using a code book with weights. |
 | [Text Analytics mit Azure ML](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Text%20Analytics%20mit%20Azure%20ML.html) | A notebook to export tweets and upload them to the Azure Text Analytics Cloud API. The results can be imported in Databricks as tables. |
 | [Image Analytics mit Azure ML](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Image%20Analytics%20mit%20Azure%20ML.html) | A notebook to export image urls from profiles and tweets and upload them to the Azure Cloud Vision API. The results can be imported in Databricks as tables. |
+| [Hashtag Paare für Gephi exportieren](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Hashtag%20Paare%20f%C3%BCr%20Gephi%20exportieren.html) | A notebook to create hashtag pairs \(edges\) and hashtags \(nodes\) and export them in format that the open source tool Gephi can import. |
 
 ## Tutorials & Co.
 
