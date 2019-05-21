@@ -179,6 +179,7 @@
     * [Wortpaare analysieren](content/tutorials/twitter-daten-mit-sql-auswerten/worpaare-analysieren.md)
     * [In Texten nach Wörtern suchen](content/tutorials/twitter-daten-mit-sql-auswerten/in-texten-nach-woertern-suchen.md)
     * [Emotionen analysieren](content/tutorials/twitter-daten-mit-sql-auswerten/emotionen-analysieren.md)
+    * [Fotos auswerten](content/tutorials/twitter-daten-mit-sql-auswerten/fotos-auswerten.md)
   * [Texte für die Analyse mit SQL vorbereiten](content/tutorials/texte-mit-sql-auswerten/README.md)
     * [\#1 Zeilen filtern](content/tutorials/texte-mit-sql-auswerten/1-zeilen-filtern.md)
     * [\#2 Texte bereinigen und normalisieren](content/tutorials/texte-mit-sql-auswerten/2-texte-bereinigen-und-normalisieren.md)
