@@ -4,7 +4,7 @@ description: >-
   own simple ML model to get a better understanding of the topic.
 ---
 
-# Hand-On AI
+# Hands-On AI
 
 ## ▶ Learning Unit
 
@@ -19,7 +19,7 @@ We'll use **RapidMiner Studio** and **Azure Machine Learning Studio** to explore
 
 ### Follow along
 
-You can download RapidMiner and signup for Azure ML Studio if you want to follow along in class, or try it at home:
+You can download RapidMiner Studio and signup for Azure ML Studio if you want to follow along in class, or try it at home:
 
 {% embed url="https://rapidminer.com/get-started/" %}
 
