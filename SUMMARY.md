@@ -140,6 +140,7 @@
 * [Unternehmensplanung und Controlling](master/unternehmensplanung-und-controlling/README.md)
   * [\#1 Business Intelligence](master/unternehmensplanung-und-controlling/1-business-intelligence.md)
   * [\#2 Datemodellierung](master/unternehmensplanung-und-controlling/2-datemodellierung.md)
+  * [\#3 Visualisierungen](master/unternehmensplanung-und-controlling/3-visualisierungen.md)
 * [Consulting Project](master/consulting-project.md)
 
 ## RESEARCH
