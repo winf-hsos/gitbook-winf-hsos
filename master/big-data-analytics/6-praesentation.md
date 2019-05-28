@@ -9,9 +9,17 @@ description: >-
 
 ## 🎯 Lernziele
 
-* 🎯 Ihr fasst eure Ergebnisse präzise und zielgruppenorientiert zusammen und präsentiert sie in einer verständlichen Weise. 
+* 🎯 Ihr fasst eure Ergebnisse präzise und für die Zielgruppe angepasst zusammen 
+* 🎯 Ihr präsentiert eure Ergebnisse in einer verständlichen Weise und nutzt dabei effektive Visualisierungen. 
+* 🎯 Ihr kennt das Pyramiden-Prinzip nach Barbara Minto als eine effektive Möglichkeit, Informationen zu strukturieren
 
 ## ▶ Lerneinheit
+
+### 1⃣ Rückblick: Die Big Data Analytics Toolbox
+
+### 2⃣ Ein weiteres Tool: Die Minto-Pyramide
+
+### 3⃣ Daten effektiv visualisieren
 
 ## 🔗 Links
 
