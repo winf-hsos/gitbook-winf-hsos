@@ -15,6 +15,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 | [Big Data Analytics \#05 - Textdaten vorbereiten](https://docs.google.com/presentation/d/1hk8l1ZKjbw8c33nxeid7Vfmmxq4mbojB5apf9w5weKc/preview) | [PDF](https://docs.google.com/presentation/d/1hk8l1ZKjbw8c33nxeid7Vfmmxq4mbojB5apf9w5weKc/export/pdf) |
 | [Big Data Analytics \#06 - Machine Learning und Computer Vision](https://docs.google.com/presentation/d/1PrYXTRFI3cbxfMX4D1buc7mWY9Bv4ATQRSkughQv2Cg/preview) | [PDF](https://docs.google.com/presentation/d/1PrYXTRFI3cbxfMX4D1buc7mWY9Bv4ATQRSkughQv2Cg/export/pdf) |
 | [Big Data Analytics \#07 - Prepare to Pitch](https://docs.google.com/presentation/d/1fF_Qz0-onGjjOeugylG5sSNkxOtt2_m6iMY4NkoDLXU/preview) | [PDF](https://docs.google.com/presentation/d/1fF_Qz0-onGjjOeugylG5sSNkxOtt2_m6iMY4NkoDLXU/export/pdf) |
+| [Big Data Analytics Toolbox](https://docs.google.com/presentation/d/1tWGjIHCBmjw7Abaui3x19Uc0itI7UVO6KL0b-qtONak/preview) | [PDF](https://docs.google.com/presentation/d/1tWGjIHCBmjw7Abaui3x19Uc0itI7UVO6KL0b-qtONak/export/pdf) |
 | [Big Data Analytics - Fallstudie Mars Petcare](https://docs.google.com/presentation/d/1Xez4NXpE9OIKeBrYhqy3AldQ0rZPlr-WloGenPcST7E/preview) | [PDF](https://docs.google.com/presentation/d/1Xez4NXpE9OIKeBrYhqy3AldQ0rZPlr-WloGenPcST7E/export/pdf) |
 
 ## Notebook Templates

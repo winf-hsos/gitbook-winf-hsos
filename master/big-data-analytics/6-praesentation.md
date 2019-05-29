@@ -17,6 +17,10 @@ description: >-
 
 ### 1⃣ Rückblick: Die Big Data Analytics Toolbox
 
+{% embed url="https://docs.google.com/presentation/d/1tWGjIHCBmjw7Abaui3x19Uc0itI7UVO6KL0b-qtONak/preview" %}
+
+Ihr könnt die Slides auch als [PDF-Version herunterladen](https://docs.google.com/presentation/d/1tWGjIHCBmjw7Abaui3x19Uc0itI7UVO6KL0b-qtONak/export/pdf).
+
 ### 2⃣ Zwei weitere Tools: Die Minto-Pyramide und Visualisierungen
 
 {% embed url="https://docs.google.com/presentation/d/1fF\_Qz0-onGjjOeugylG5sSNkxOtt2\_m6iMY4NkoDLXU/preview" %}
