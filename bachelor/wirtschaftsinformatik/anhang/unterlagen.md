@@ -66,5 +66,7 @@ Die Texte sind im Dateibereich dieser Veranstaltung in der Lernplattform OSCA be
 
 {% embed url="https://www.youtube.com/watch?v=Rzhpf1Ai7Z4" %}
 
+{% embed url="https://www.youtube.com/watch?v=68ZJMCuuKQg" %}
 
+{% embed url="https://www.youtube.com/watch?v=WFWE\_dGs73E" %}
 

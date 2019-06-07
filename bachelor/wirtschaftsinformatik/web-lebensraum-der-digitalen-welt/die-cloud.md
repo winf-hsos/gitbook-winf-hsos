@@ -12,3 +12,9 @@ description: >-
 
 Ihr könnt hier eine PDF-Version der Folien herunterladen : [Download PDF-Version](https://docs.google.com/presentation/d/1ZlqMZ4kTeRZiyj9CQrpJUIPi9QHADk3FcmGdWz8gvqg/export/pdf)⬇ 
 
+### Aufzeichnung aus Sommersemester 2019
+
+{% embed url="https://www.youtube.com/watch?v=WFWE\_dGs73E" %}
+
+
+

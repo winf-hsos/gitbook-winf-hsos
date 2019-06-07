@@ -18,6 +18,10 @@ Bearbeitet bitte jeder individuell die folgende Übungsaufgabe. Nehmt euch 15 Mi
 * 🔗 [Link zur Übungsaufgabe](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/preview)
 * 🔗 [Link zur PDF-Version zum Download](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/export/pdf) ⬇ 
 
+### Einstieg als Videoaufzeichnung aus dem Sommersemester 2019
+
+{% embed url="https://www.youtube.com/watch?v=68ZJMCuuKQg" %}
+
 ### 2⃣ 3 Sprachen für Webseiten
 
 {% embed url="https://docs.google.com/presentation/d/1luhA51nM7g9ZVZ7gKeR-yZkg28l2HU3KACNX0kOhEwg/preview" %}
