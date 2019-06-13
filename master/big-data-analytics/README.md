@@ -2,6 +2,8 @@
 
 > Unter **Big Data** \(engl.: big data\) versteht man Datenkollektionen, deren Größe die Fähigkeiten einzelner Rechnersysteme überschreiten, um diese Datenmenge zu speichern, zu durchsuchen, zu analysieren und zu verwalten. \(Hansen et al. 2015\)
 
+{% embed url="https://twitter.com/nicolasmeseth/status/1139146602185203712" %}
+
 ## 🎯 Lernziele <a id="learning-objectives"></a>
 
 **Big Data Grundlagen**
