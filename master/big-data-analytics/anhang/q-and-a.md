@@ -35,6 +35,10 @@ dbutils.fs.rm("dbfs:/user/hive/warehouse/twitter_followers/_started_156015085991
 
 Nun versucht erneut, die Daten neu zu laden. Es sollte alles funktionieren.
 
+{% hint style="info" %}
+Sollten sich im Verzeichnis mehrere Dateien oder Ordner befinden so muss beim Löschen ein zweiter Parameter gesetzt werden. Dieser sorgt dafür, dass alles in dem Ordner rekursiv gelöscht wird: `dbutils.fs.rm("dbfs:/user/hive/warehouse/twitter_followers", true)`
+{% endhint %}
+
 ## Ist es möglich, Tweets auf mehrere Schlagwörter zu untersuchen, indem man ein Array mit den Schlagwörtern anlegt und dann nach dem Array sucht? Ziel ist ein Ranking der Tweets nach Relevanz.
 
 Es ist nicht möglich, nach einem Array zu suchen. Ihr könnt aber die Texte in einzelne Wörter zerlegen, wie wir es in der Veranstaltung gemacht haben, und anschließend in dem Ergebnis nach einer Menge an Schlagwörtern suchen. Beispiel:
