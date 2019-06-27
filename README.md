@@ -4,7 +4,7 @@ description: >-
   Hochschule Osnabrück.
 ---
 
-# Willkommen
+# Home
 
 Ihr findet mich auch bei [Twitter](https://twitter.com/nicolasmeseth) und [Instagram](https://www.instagram.com/nmeseth/).
 

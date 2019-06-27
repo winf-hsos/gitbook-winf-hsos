@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Willkommen](README.md)
+* [Home](README.md)
 
 ## Bachelor
 
@@ -53,7 +53,7 @@
   * [Appendix](bachelor/impacts-of-digitalization/appendix.md)
 * [Information Management](bachelor/information-management/README.md)
   * [\#1 Spreadsheets](bachelor/information-management/case-f-spreadsheets.md)
-  * [\#2 SQL](bachelor/information-management/case-a-sql.md)
+  * [\#2 Databases](bachelor/information-management/databases.md)
   * [\#3 Tableau](bachelor/information-management/case-b-tableau/README.md)
     * [Workspace Setup](bachelor/information-management/case-b-tableau/workspace-setup.md)
 * [Applied Analytics](bachelor/applied-analytics/README.md)
@@ -194,6 +194,7 @@
     * [\#3 Induktive Themenanalyse](content/tutorials/themen-in-texten-mittels-sql-identifizieren/3-induktive-themenanalyse.md)
   * [Twitter-Netzwerke mit SQL auswerten](content/tutorials/twitter-netzwerke-mit-sql-auswerten.md)
   * [Einführung in Markdown](content/tutorials/einfuehrung-in-markdown.md)
+* [Tableau](content/tableau.md)
 * [Javascript Tutorials](content/javascript-tutorials/README.md)
   * [Einführung Javascript](content/javascript-tutorials/einfuehrung-javascript.md)
   * [Einführung in JSON](content/javascript-tutorials/einfuehrung-in-json.md)
