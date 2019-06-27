@@ -18,6 +18,6 @@ We don't want to just talk about databases, we also want to build something usef
 
 You need the following tools 🛠 and accounts. All tools are free of charge:
 
-* Microsoft Excel or Google Spreadsheets \(free\)
-* Airtable
+* Microsoft Excel or [Google Sheets](https://docs.google.com/spreadsheets) \(free\)
+* [Airtable](https://airtable.com)
 
