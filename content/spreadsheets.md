@@ -1,4 +1,4 @@
-# \#1 Spreadsheets
+# Spreadsheets
 
 ## Tidy Data
 
