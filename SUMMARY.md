@@ -54,8 +54,6 @@
 * [Information Management](bachelor/information-management/README.md)
   * [\#1 Spreadsheets](bachelor/information-management/case-f-spreadsheets.md)
   * [\#2 Databases](bachelor/information-management/databases.md)
-  * [\#3 Tableau](bachelor/information-management/case-b-tableau/README.md)
-    * [Workspace Setup](bachelor/information-management/case-b-tableau/workspace-setup.md)
 * [Applied Analytics](bachelor/applied-analytics/README.md)
   * [\#1 Exploration](bachelor/applied-analytics/phase-1-exploration.md)
   * [\#2 Retrospective](bachelor/applied-analytics/phase-2-retrospective.md)
