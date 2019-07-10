@@ -2,7 +2,7 @@
 
 ## 💡 Gruppieren - so geht’s
 
-Ihr habt gerade gesehen, wie man einfach Aggregationen, wie das Zählen oder Summieren, auf alle Datensätze in der Tabelle anwenden kann. Oftmals möchte man aber **einen Wert pro Gruppe** innerhalb der Daten ermitteln. Das funktioniert mit der `GROUP BY` Klausel.
+Ihr habt gerade gesehen, wie man einfache Aggregationen, wie das Zählen oder Summieren einer Spalte, auf alle Datensätze in der Tabelle anwenden kann. Oftmals möchte man aber **einen Wert pro Gruppe** innerhalb der Daten ermitteln. Das funktioniert mit der `GROUP BY` Klausel.
 
 ```sql
 select event
