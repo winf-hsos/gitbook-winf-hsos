@@ -24,7 +24,7 @@ description: In dieser Lerneinheit geht es die Erkundung eines neuen Datensatzes
 
 Um wichtige Funktionen für die Erkundung eines neuen Datensatzes kennenzulernen führt das folgende Tutorial durch und wendet die Abfragen auf die Datensätze der Fallstudie an. Nutzt dazu die bereitgestellten [Databricks Notebook Templates im Anhang dieser Veranstaltung](../anhang/#notebook-templates), um die Daten in euren Account zu laden. Beginnt anschließend mit der Erkundung der Daten.
 
-{% page-ref page="../../../content/tutorials/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../content/sql/daten-mit-sql-erkunden.md" %}
 
 ### 2⃣ Spalten mit einer Baumstruktur \(JSON-Objekte\)
 
@@ -32,7 +32,7 @@ Je nach Datensatz werdet ihr feststellen, dass manche Spalten eine spezielle Str
 
 Wendet die Konzepte auf die entsprechenden Spalten eurer Datensätze an.
 
-{% page-ref page="../../../content/javascript-tutorials/einfuehrung-in-json.md" %}
+{% page-ref page="../../../content/web-development/einfuehrung-in-json.md" %}
 
 ## 🔗 Links
 

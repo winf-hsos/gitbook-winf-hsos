@@ -34,19 +34,19 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 ## Tutorials & Co.
 
-{% page-ref page="../../../content/tutorials/einfuehrung-sql/" %}
+{% page-ref page="../../../content/sql/einfuehrung-sql/" %}
 
-{% page-ref page="../../../content/tutorials/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../content/sql/daten-mit-sql-erkunden.md" %}
 
-{% page-ref page="../../../content/javascript-tutorials/einfuehrung-in-json.md" %}
+{% page-ref page="../../../content/web-development/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../content/tutorials/json-felder-mit-sql-verarbeiten.md" %}
+{% page-ref page="../../../content/sql/json-felder-mit-sql-verarbeiten.md" %}
 
-{% page-ref page="../../../content/tutorials/twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../content/sql/twitter-daten-mit-sql-auswerten/" %}
 
-{% page-ref page="../../../content/tutorials/texte-mit-sql-auswerten/" %}
+{% page-ref page="../../../content/sql/texte-mit-sql-auswerten/" %}
 
-{% page-ref page="../../../content/tutorials/twitter-netzwerke-mit-sql-auswerten.md" %}
+{% page-ref page="../../../content/sql/twitter-netzwerke-mit-sql-auswerten.md" %}
 
 {% page-ref page="../../../content/cheat-sheets/cheatsheet-sql.md" %}
 
