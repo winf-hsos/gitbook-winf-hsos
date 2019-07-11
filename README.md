@@ -1,7 +1,8 @@
 ---
 description: >-
-  Willkommen auf der Webseite der Wirtschaftsinformatik der Fakultät AuL der
-  Hochschule Osnabrück.
+  Als Wirtschaftsinformatiker an der AuL Fakultät ermutige ich die Studierenden
+  des Studiengangs Wirtschaftsingenieurwesen Agrar/Lebensmittel dazu, digitale
+  Technologien auf die Foodbranche anzuwenden.
 ---
 
 # Home
