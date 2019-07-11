@@ -38,5 +38,5 @@ Wendet die Konzepte auf die entsprechenden Spalten eurer Datensätze an.
 
 Unter dem folgenden Link findet ihr eine Zusammenfassung der wichtigsten SQL-Funktionen auf 2 Seiten:
 
-{% page-ref page="../../../data-literacy/cheat-sheets/cheatsheet-sql.md" %}
+{% page-ref page="../../../data-literacy/sql/cheatsheet-sql.md" %}
 

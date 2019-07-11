@@ -44,7 +44,7 @@ Aktuell sind nur die Teile \#0 und \#1 fertig. Der Rest folgt bald 👷♀.
 
 Unter dem folgenden Link findet ihr eine 2-seitige Zusammenfassung der wichtigsten SQL-Befehle: 
 
-{% page-ref page="../../cheat-sheets/cheatsheet-sql.md" %}
+{% page-ref page="../cheatsheet-sql.md" %}
 
 ### Online-Kurse
 

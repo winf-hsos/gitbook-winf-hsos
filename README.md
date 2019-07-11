@@ -29,7 +29,9 @@ description: >-
 
 ## Projects, Writing & Communication
 
-{% page-ref page="data-literacy/logical-structuring.md" %}
+{% page-ref page="soft-skills/logical-structuring.md" %}
 
-{% page-ref page="data-literacy/agile-and-scrum.md" %}
+{% page-ref page="soft-skills/writing.md" %}
+
+{% page-ref page="soft-skills/agile-and-scrum.md" %}
 
