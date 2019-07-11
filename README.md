@@ -1,8 +1,8 @@
 ---
 description: >-
-  Als Wirtschaftsinformatiker an der AuL Fakultät ermutige ich die Studierenden
-  des Studiengangs Wirtschaftsingenieurwesen Agrar/Lebensmittel dazu, digitale
-  Technologien auf die Foodbranche anzuwenden.
+  Ich befähige die Studierenden des Studiengangs Wirtschaftsingenieurwesen
+  Agrar/Lebensmittel dazu, digitale Technologien auf die Food- und Agrarbranche
+  anzuwenden.
 ---
 
 # Home
