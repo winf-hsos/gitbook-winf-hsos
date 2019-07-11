@@ -1,4 +1,4 @@
-# Texte für die Analyse mit SQL vorbereiten
+# Texte vorbereiten
 
 ## 🎯 Lernziele
 

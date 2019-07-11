@@ -1,4 +1,4 @@
-# JSON-Felder mit SQL verarbeiten
+# JSON
 
 ## 🎯 Lernziele
 

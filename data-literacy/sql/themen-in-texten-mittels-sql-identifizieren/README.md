@@ -1,4 +1,4 @@
-# Themen in Texten mittels SQL identifizieren
+# Themen identifizieren
 
 ## 💡 Zwei Herangehensweisen: Deduktiv und induktiv
 

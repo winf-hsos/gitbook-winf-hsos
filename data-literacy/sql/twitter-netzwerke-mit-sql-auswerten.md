@@ -1,4 +1,4 @@
-# Twitter-Netzwerke mit SQL auswerten
+# Netzwerke
 
 ## 💡 Aus Hashtags eine Themenlandkarte erstellen
 

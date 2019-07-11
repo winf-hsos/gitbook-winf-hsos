@@ -1,4 +1,4 @@
-# Daten mit SQL erkunden
+# Daten erkunden
 
 ## 🎯 Lernziele
 

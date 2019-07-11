@@ -2,7 +2,7 @@
 description: Nützliche SQL Abfragen für die Arbeit mit Twitter-Daten.
 ---
 
-# Twitter-Daten mit SQL auswerten
+# Twitter
 
 ## 💡 Datenqualität erhöhen
 
