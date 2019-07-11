@@ -2,11 +2,6 @@
 
 * [Home](README.md)
 
-## RESEARCH <a id="forschung"></a>
-
-* [Questions and Topics](forschung/questions-and-topics.md)
-* [Thesis](forschung/thesis.md)
-
 ## CONTENT
 
 * [Cheat Sheets](content/cheat-sheets/README.md)

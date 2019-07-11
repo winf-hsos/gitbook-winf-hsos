@@ -1,4 +1,0 @@
-# Thesis
-
-Coming soon 🕟. 
-
