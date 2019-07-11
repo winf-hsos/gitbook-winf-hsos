@@ -198,6 +198,7 @@
 * [Machine Learning](content/machine-learning/README.md)
   * [How to get started with Machine Learning](content/machine-learning/how-to-get-started-with-machine-learning.md)
 * [Spreadsheets](content/spreadsheets.md)
+* [Logical Structuring](content/logical-structuring.md)
 * [Databases](content/databases/README.md)
   * [Airtable](content/databases/airtable.md)
 * [Miscellaneous](content/appendix/README.md)

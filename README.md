@@ -17,13 +17,15 @@ description: >-
 
 {% page-ref page="content/databases/" %}
 
-## Web
+## Technological Literacy
 
 {% page-ref page="content/web-development/" %}
-
-## Technological Literacy
 
 {% page-ref page="content/internet-of-things/" %}
 
 {% page-ref page="content/machine-learning/" %}
+
+## Writing & Communication
+
+{% page-ref page="content/logical-structuring.md" %}
 
