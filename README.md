@@ -7,15 +7,23 @@ description: >-
 
 # Home
 
-## Inhalte
+## Data Literacy
 
 {% page-ref page="content/sql/" %}
 
 {% page-ref page="content/tableau.md" %}
 
-{% page-ref page="content/machine-learning/" %}
+{% page-ref page="content/spreadsheets.md" %}
+
+{% page-ref page="content/databases/" %}
+
+## Web
 
 {% page-ref page="content/web-development/" %}
 
+## Technological Literacy
+
 {% page-ref page="content/internet-of-things/" %}
+
+{% page-ref page="content/machine-learning/" %}
 
