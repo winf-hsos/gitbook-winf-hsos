@@ -17,6 +17,8 @@ description: >-
 
 {% page-ref page="content/databases/" %}
 
+{% page-ref page="content/simulation.md" %}
+
 ## Technological Literacy
 
 {% page-ref page="content/web-development/" %}
@@ -25,7 +27,9 @@ description: >-
 
 {% page-ref page="content/machine-learning/" %}
 
-## Writing & Communication
+## Projects, Writing & Communication
 
 {% page-ref page="content/logical-structuring.md" %}
+
+{% page-ref page="content/agile-and-scrum.md" %}
 
