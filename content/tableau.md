@@ -1,3 +1,9 @@
+---
+description: >-
+  Tableau ist Marktführer im Bereich Business Intelligence Tools. Mit Tableau
+  können wir Konzepte der Datenanalyse erlernen und visuell umsetzen.
+---
+
 # Tableau
 
 ## Download and install Tableau Desktop for Students
