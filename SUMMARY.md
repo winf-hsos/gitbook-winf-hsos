@@ -151,7 +151,7 @@
   * [Cheatsheet Spark SQL](content/cheat-sheets/cheatsheet-spark-sql-scala-api.md)
   * [Cheatsheet Tinkerforge](content/cheat-sheets/cheatsheet-tinkerforge.md)
   * [JavaScript fürs Web](content/cheat-sheets/javascript-fuers-web.md)
-* [SQL Tutorials](content/tutorials/README.md)
+* [SQL](content/tutorials/README.md)
   * [Einführung SQL](content/tutorials/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](content/tutorials/einfuehrung-sql/0-workspace-setup.md)
     * [\#1 Der SELECT Befehl](content/tutorials/einfuehrung-sql/1-der-select-befehl/README.md)
