@@ -49,7 +49,7 @@ create or replace view tweets_prep_step_4 as
 ```
 
 {% hint style="info" %}
-Eine noch bessere und flexiblere Lösung ist das Lesen der Stopwords-Tabelle aus einem Google Spreadsheet direkt aus Databricks heraus. Das ermöglicht es uns, die Liste einfach zu erweitern und die Tabelle auf Knopfdruck neu zu laden. Die Infos dazu gibt es in der Veranstaltung bzw. [hier](../../../master/big-data-analytics/analyse-von-texten3/themen-identifizieren.md#deduktive-themenidentifikation-mit-suchbegriffen).
+Eine noch bessere und flexiblere Lösung ist das Lesen der Stopwords-Tabelle aus einem Google Spreadsheet direkt aus Databricks heraus. Das ermöglicht es uns, die Liste einfach zu erweitern und die Tabelle auf Knopfdruck neu zu laden. Die Infos dazu gibt es in der Veranstaltung bzw. [hier](../../../modules/big-data-analytics/analyse-von-texten3/themen-identifizieren.md#deduktive-themenidentifikation-mit-suchbegriffen).
 {% endhint %}
 
 ## Links

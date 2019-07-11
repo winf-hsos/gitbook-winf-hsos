@@ -18,7 +18,7 @@ git clone https://github.com/winf-hsos/iodi-coding.git
 
 I also provide the following tutorial on working with Tinkerforge devices. It includes a description of how to get and use the template:
 
-{% page-ref page="../../../content/internet-of-things/connect-to-tinkerforge-devices.md" %}
+{% page-ref page="../../../technological-literacy/internet-of-things/connect-to-tinkerforge-devices.md" %}
 
 ### 2⃣ First Coding Tasks
 

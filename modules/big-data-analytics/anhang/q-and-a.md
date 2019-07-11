@@ -49,7 +49,7 @@ Es ist nicht möglich, nach einem Array zu suchen. Ihr könnt aber die Texte in 
 
 **Anlegen einer Hilfstabelle mit Schlagwörtern:**
 
-Alternativ auch über Google Sheets. Dazu siehe auch [das passende Tutorial](../../../content/sql/themen-in-texten-mittels-sql-identifizieren/1-arbeiten-mit-mappingstabellen.md):
+Alternativ auch über Google Sheets. Dazu siehe auch [das passende Tutorial](../../../data-literacy/sql/themen-in-texten-mittels-sql-identifizieren/1-arbeiten-mit-mappingstabellen.md):
 
 ```scala
 // Hier einfach in die Wörter durch eure ersetzen
@@ -136,13 +136,13 @@ order by `Anzahl Kommentare` desc
 
 ## Wie extrahiert man Strings aus einem Array?
 
-Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../content/sql/json-felder-mit-sql-verarbeiten.md#arrays-mit-sql-abfragen) beantwortet:
+Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../data-literacy/sql/json-felder-mit-sql-verarbeiten.md#arrays-mit-sql-abfragen) beantwortet:
 
-{% page-ref page="../../../content/sql/json-felder-mit-sql-verarbeiten.md" %}
+{% page-ref page="../../../data-literacy/sql/json-felder-mit-sql-verarbeiten.md" %}
 
 ## Wie entfernt man doppelte Tweets aus dem Datensatz?
 
-Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../content/sql/twitter-daten-mit-sql-auswerten/#doppelte-tweets-herausfiltern) adressiert.
+Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../data-literacy/sql/twitter-daten-mit-sql-auswerten/#doppelte-tweets-herausfiltern) adressiert.
 
-{% page-ref page="../../../content/sql/twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../data-literacy/sql/twitter-daten-mit-sql-auswerten/" %}
 
