@@ -1,4 +1,4 @@
 # Ideen zusammenfassen
 
-## Top Down vs Bottom Up
+## Top-Down vs. Bottom-Up
 
