@@ -64,7 +64,14 @@
 
 ## Soft Skills
 
-* [Logical Structuring](soft-skills/logical-structuring.md)
+* [Logical Structuring](soft-skills/logical-structuring/README.md)
+  * [Die Pyramide](soft-skills/logical-structuring/die-pyramide.md)
+  * [Strukturieren vor Schreiben](soft-skills/logical-structuring/strukturieren-vor-schreiben.md)
+  * [Ideen zusammenfassen](soft-skills/logical-structuring/ideen-zusammenfassen.md)
+  * [Deduktiv vs. Induktiv](soft-skills/logical-structuring/deduktiv-vs.-induktiv.md)
+  * [Empfehlungen zum Effekt](soft-skills/logical-structuring/empfehlungen-zum-effekt.md)
+  * [Sorgfältige Einleitung](soft-skills/logical-structuring/sorgfaeltige-einleitung.md)
+  * [Sichtbare Pyramide](soft-skills/logical-structuring/sichtbare-pyramide.md)
 * [Writing](soft-skills/writing.md)
 * [Agile & Scrum](soft-skills/agile-and-scrum.md)
 * [Miscellaneous](soft-skills/appendix/README.md)

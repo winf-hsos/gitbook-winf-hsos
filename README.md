@@ -29,7 +29,7 @@ description: >-
 
 ## Projects, Writing & Communication
 
-{% page-ref page="soft-skills/logical-structuring.md" %}
+{% page-ref page="soft-skills/logical-structuring/" %}
 
 {% page-ref page="soft-skills/writing.md" %}
 
