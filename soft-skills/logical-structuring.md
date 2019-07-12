@@ -6,7 +6,7 @@ Es gibt bessere und schlechtere Wege, mit anderen Menschen zu kommunizieren. Wen
 2. Da wir mit anderen Informationen um die Aufmerksamkeit unserer Empfänger konkurrieren, müssen wir versuchen, die Empfänger neugierig zu machen. Das erreichen wir dann, wenn die Informationen für die Empfänger relevant sind und ein Nutzen für sie erkennbar wird. 
 3. Um unsere Botschaft zu überbringen reicht es nicht, die Empfänger initial neugierig gemacht zu haben. Vielmehr müssen wir sicherstellen, dass wir die Empfänger auf dem Weg \(Präsentation / Lesen\) nicht verlieren. Das passiert häufig dann, wenn die Empfänger unseren Gedanken nicht folgen können, z. B. weil Unklarheiten, Redundanzen oder gar Widersprüche auftreten.
 
-Wir brauchen also eine Struktur, die den Empfänger neugierig macht und gleichzeitig unsere Botschaft leicht verständlich und nachvollziehbar darlegt. Als dafür geeignete Struktur hat sich die Pyramide nach Minto erwiesen.
+Wir brauchen also eine Struktur, die den Empfänger neugierig macht und gleichzeitig unsere Botschaft leicht verständlich und nachvollziehbar darlegt. Eine leicht verständliche und mit etwas Übung gut anwendbare Methode dafür ist das Prinzip der Pyramide nach Barbara Minto.
 
 
 
