@@ -8,9 +8,9 @@ description: >-
 
 ## Die Pyramide als Agenda in Präsentationen
 
-Fast jede Präsentation beginnt mit einer Folie, die eine Übersicht der wichtigsten Punkte darstellt. Wenn wir unsere Ergebnisse gemäß der Pyramide strukturiert haben ergibt sich daraus auch die Struktur der Präsentation. Nehmen wir an, wir haben eine Pyramide mit 3 Ebenen: Die Zusammenfassung unserer Ergebnisse steht als Kernaussage ganz zu Beginn der Präsentation. Die zweite Ebene stellt die 3 - 7 Argumente dar, die unsere Kernaussage stützen. Diese werden wiederum durch die Ergebnisse auf der dritten Ebene der Pyramide untermauert, die dann jeweils auf einer Folie dargestellt werden können.
+Fast jede Präsentation beginnt mit einer Folie mit einer Übersicht der wichtigsten Punkte. Wenn wir unsere Ergebnisse gemäß der Pyramide strukturiert haben, ergeben sich diese Punkte automatisch. Nehmen wir an, wir haben eine Pyramide mit 3 Ebenen: Die Zusammenfassung unserer Ergebnisse steht als Kernaussage ganz zu Beginn der Präsentation. Die zweite Ebene stellt die 3 - 7 Argumente dar, die unsere Kernaussage stützen. Das sind die Punkte für die Agenda. Diese Punkte werden wiederum durch die Ergebnisse auf der dritten Ebene der Pyramide untermauert, die dann jeweils auf einer Folie dargestellt werden können.
 
-Um diese Struktur explizit darzustellen bietet sich die Verwendung der Pyramide als Agenda an. Dabei kann die kondensierte Aussage ganz oben der Titel der Präsentation sein. Die zweite Ebene stellt die einzelnen Punkte der Agenda dar, die dann jeweils mit einzelnen Folien zu den Punkten der dritten Ebene ausgefüllt werden.
+\[GRAFIK\]
 
 ## Die Kernbotschaften als Überschriften in Texten
 
