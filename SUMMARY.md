@@ -4,6 +4,8 @@
 
 ## Data Literacy
 
+* [Working with Data](data-literacy/working-with-data/README.md)
+  * [Correlation and Causation](data-literacy/working-with-data/correlation-and-causation.md)
 * [SQL](data-literacy/sql/README.md)
   * [Einführung SQL](data-literacy/sql/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](data-literacy/sql/einfuehrung-sql/0-workspace-setup.md)
@@ -48,7 +50,6 @@
 * [Spreadsheets](data-literacy/spreadsheets.md)
 * [Databases](data-literacy/databases/README.md)
   * [Airtable](data-literacy/databases/airtable.md)
-* [Simulation](data-literacy/simulation.md)
 
 ## Technological Literacy
 
@@ -61,6 +62,7 @@
   * [Cheatsheet Tinkerforge](technological-literacy/internet-of-things/cheatsheet-tinkerforge.md)
 * [Machine Learning](technological-literacy/machine-learning/README.md)
   * [How to get started with Machine Learning](technological-literacy/machine-learning/how-to-get-started-with-machine-learning.md)
+* [Simulation](technological-literacy/simulation.md)
 
 ## Soft Skills
 

@@ -17,7 +17,7 @@ description: >-
 
 {% page-ref page="data-literacy/databases/" %}
 
-{% page-ref page="data-literacy/simulation.md" %}
+{% page-ref page="technological-literacy/simulation.md" %}
 
 ## Technological Literacy
 
@@ -26,6 +26,8 @@ description: >-
 {% page-ref page="technological-literacy/internet-of-things/" %}
 
 {% page-ref page="technological-literacy/machine-learning/" %}
+
+{% page-ref page="technological-literacy/simulation.md" %}
 
 ## Projects, Writing & Communication
 
