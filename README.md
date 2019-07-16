@@ -9,6 +9,8 @@ description: >-
 
 ## Data Literacy
 
+{% page-ref page="data-literacy/working-with-data/" %}
+
 {% page-ref page="data-literacy/sql/" %}
 
 {% page-ref page="data-literacy/tableau.md" %}
@@ -16,8 +18,6 @@ description: >-
 {% page-ref page="data-literacy/spreadsheets.md" %}
 
 {% page-ref page="data-literacy/databases/" %}
-
-{% page-ref page="technological-literacy/simulation.md" %}
 
 ## Technological Literacy
 
