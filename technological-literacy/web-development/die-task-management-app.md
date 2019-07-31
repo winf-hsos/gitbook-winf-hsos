@@ -18,7 +18,7 @@ Was aber brauchen wir dafür überhaupt? Hier eine kleine Vorschauliste, was wir
 * **CSS**, um die Webseite schick aussehen zu lassen.
 * **Javascript**, damit unsere Klicks und Eingaben auch einen Sinn ergeben.
 * **Datenbanken** und deren Verwendung in Webanwendungen, damit Aufgaben gespeichert werden.
-* Das **Authentifizieren von Nutzern** in unserer Webanwendung.
+* Das **Authentifizieren von Nutzern** in unserer Webanwendung, damit jeder nur seins sieht.
 * **Hosting** von Webanwendungen, damit Nutzer unsere App auch öffnen können.
 
 
