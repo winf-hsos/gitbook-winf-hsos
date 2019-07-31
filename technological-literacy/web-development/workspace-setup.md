@@ -27,5 +27,5 @@ Glitch hat eine Erweiterung für VS Code entwickelt, die es ermöglicht, Glitch-
 
 {% embed url="https://code.visualstudio.com/" %}
 
-
+Das war es schon! Nachdem wir den Glitch-Account haben und mit Visual Studio Code zusätzlich einen lokalen Editor installiert haben können wir loslegen. Schauen wir uns im ersten Schritt an, was wir erreichen wollen.
 
