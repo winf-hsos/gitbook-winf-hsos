@@ -12,5 +12,14 @@ Klickt auf den Link unten, um zur fertigen App zu gelangen. Im Laufe des Tutoria
 
 {% embed url="https://my-todo-app-winf-hsos.glitch.me/" %}
 
+Was aber brauchen wir dafür überhaupt? Hier eine kleine Vorschauliste, was wir alles lernen müssen:
+
+* **HTML**, um die Struktur der Webseite oder -app zu definieren.
+* **CSS**, um die Webseite schick aussehen zu lassen.
+* **Javascript**, damit unsere Klicks und Eingaben auch einen Sinn ergeben.
+* **Datenbanken** und deren Verwendung in Webanwendungen, damit Aufgaben gespeichert werden.
+* Das **Authentifizieren von Nutzern** in unserer Webanwendung.
+* **Hosting** von Webanwendungen, damit Nutzer unsere App auch öffnen können.
+
 
 
