@@ -1,4 +1,4 @@
-# JavaScript fürs Web
+# Javascript \(fürs Web\)
 
 ## HTML mit JavaScript verändern
 
