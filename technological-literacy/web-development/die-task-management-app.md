@@ -4,7 +4,9 @@ description: >-
   entwickeln.
 ---
 
-# Die Task Management App
+# Das Ziel
+
+## Die Task Management App
 
 Klickt auf den Link unten, um zur fertigen App zu gelangen. Im Laufe des Tutorials lernen wir alles Nötige kennen, um diese App selbst zu erstellen.
 
