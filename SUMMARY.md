@@ -54,6 +54,7 @@
 ## Technological Literacy
 
 * [Web Development](technological-literacy/web-development/README.md)
+  * [Workspace Setup](technological-literacy/web-development/workspace-setup.md)
   * [Einführung Javascript](technological-literacy/web-development/einfuehrung-javascript.md)
   * [Einführung in JSON](technological-literacy/web-development/einfuehrung-in-json.md)
   * [JavaScript fürs Web](technological-literacy/web-development/javascript-fuers-web.md)
