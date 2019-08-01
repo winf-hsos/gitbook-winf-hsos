@@ -10,7 +10,7 @@ description: >-
 ## Lernziele
 
 * 🎯 Ihr kennt die Software, mit der wir in diesem Modul arbeiten.
-* 🎯 Ihr verfügt über einen Glitch-Account, der für dieses Modul notwendig ist,
+* 🎯 Ihr verfügt über einen Glitch-Account, der für dieses Modul notwendig ist.
 * 🎯 Ihr habt einen voll funktionalen Code-Editor lokal auf eurem Rechner installiert.
 
 ## Glitch
