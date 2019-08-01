@@ -11,15 +11,15 @@ description: >-
 
 In diesem Modul geht es um das Entwickeln moderner Webanwendungen. Wir wollen auf möglichst einfache Weise verstehen, wie Webanwendungen funktionieren und was wir benötigen, um eigene zu erstellen. Eine Sache benötigen wir in jedem Softwareprojekt zu allererst: Einen geeignete Entwicklungsumgebung, die wir auch IDE \(_Integrated Development Environment_\) nennen.
 
-Noch vor ein paar Jahren sind die meisten Neuanfänger in der Webentwicklung schon an diesem ersten Schritt gescheitert oder haben vor der Komplexität kapituliert. Glücklicherweise gibt es heute ein umfangreiches Angebot aus der Cloud, darunter zählt auch [Glitch](https://glitch.me/).
+Noch vor ein paar Jahren sind die meisten Neuanfänger in der Webentwicklung schon an diesem ersten Schritt gescheitert oder haben vor der Komplexität kapituliert. Glücklicherweise gibt es heute ein umfangreiches Angebot aus der Cloud, das uns ohne Installations- oder Konfigurationsaufwand mit dem Entwickeln loslegen lässt. Dazu zählt auch [Glitch](https://glitch.me/).
 
 Glitch ist eine Online-Entwicklungsumgebung und läuft vollständig in der Cloud. Das hat viele Vorteile:
 
 * Es muss keine Software installiert werden, ein moderner Browser wie Chrome reicht aus.
 * Man arbeitet immer mit der aktuellsten Version der Software.
-* Die Zusammenarbeit an einem Projekt wird erleichtert.
+* Die Zusammenarbeit im Team wird erleichtert.
 
-In Glitch, you can create your own projects and access the code from anywhere \(if you are connected to the internet\). All your files will be there as you left them before. You can even share projects with your peers and collaborate on your web app in real time. We'll use this feature when we develop the web apps in teams.
+Ihr könnt in Glitch mit wenigen Klicks eure eigenen Web-Projekte anlegen und von überall auf euren Code zugreifen. Ihr benötigt nur einen Browser sowie eine Verbindung ins Internet. Zudem könnt ihr euer Team mit einem Klick zu eurem Projekt einladen und so zusammen daran arbeiten.
 
 ☑ Erstellt euch einen kostenfreien Glitch-Account.
 
