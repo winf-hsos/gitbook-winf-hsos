@@ -7,6 +7,12 @@ description: >-
 
 # Workspace Setup
 
+## Lernziele
+
+* 🎯 Ihr kennt die Software, mit der wir in diesem Modul arbeiten.
+* 🎯 Ihr verfügt über einen Glitch-Account, der für dieses Modul notwendig ist,
+* 🎯 Ihr habt einen voll funktionalen Code-Editor lokal auf eurem Rechner installiert.
+
 ## Glitch
 
 In diesem Modul geht es um das Entwickeln moderner Webanwendungen. Wir wollen auf möglichst einfache Weise verstehen, wie Webanwendungen funktionieren und was wir benötigen, um eigene zu erstellen. Eine Sache benötigen wir in jedem Softwareprojekt zu allererst: Einen geeignete Entwicklungsumgebung, die wir auch IDE \(_Integrated Development Environment_\) nennen.
