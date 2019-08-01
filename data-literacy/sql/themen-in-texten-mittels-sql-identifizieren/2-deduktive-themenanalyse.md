@@ -32,7 +32,7 @@ order by id, topic
 
 Die letzte Zeile sorgt dafür, dass im Ergebnis nur Tweets mit einem Keyword aus unserem Codebuch enthalten sind. Je nachdem welche Daten in eurem Account geladen sind kann das Ergebnis so oder so ähnlich aussehen:
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
 In der letzten Spalte `topic` steht das zugeordnete Thema, in den beiden Spalten davor das Schlüsselwort, dessen Vorhandensein zu der Zuordnung des Themas geführt hat.
 
@@ -60,5 +60,5 @@ order by number_hits desc
 
 Die Funktion `collect_list` in Zeile 4 aggregiert die gefundenen Keywords, die zuvor in einer oder mehreren Zeilen standen, in ein Array. Das `count(1)` in Zeile 6 zählt die Zeilen, also die gefundenen Keywords. Durch das Gruppieren der restlichen Spalten erhalten wir im Ergebnis jeden Tweet und identifiziertes Thema jetzt genau einmal. Durch die neue Sortierung nach der Anzahl gefundener Keywords stehen nun die Themen mit den meisten Treffern oben.
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
