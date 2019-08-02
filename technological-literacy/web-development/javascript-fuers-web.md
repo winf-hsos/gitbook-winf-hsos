@@ -1,3 +1,10 @@
+---
+description: >-
+  Mit Javascript bringen wir Leben in unsere Webseite. Wir geben Buttons eine
+  Funktion, laden Daten im Hintergrund, oder verändern Teile der Webseite
+  nachdem sie geladen wurde.
+---
+
 # Javascript \(fürs Web\)
 
 ## HTML mit JavaScript verändern
