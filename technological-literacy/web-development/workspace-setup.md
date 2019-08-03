@@ -1,8 +1,8 @@
 ---
 description: >-
-  Zu allererst richten wir unseren Arbeitsplatz für das Entwickeln im Web ein,
-  Wir erstellen die benötigten Accounts und installieren den Editor Visual
-  Studio Code.
+  Zu allererst richten wir unseren Arbeitsplatz für das Entwickeln im Web ein.
+  Dazu gehört ein Glitch-Account und die Entwicklungsumgebung Visual Studio
+  Code.
 ---
 
 # Workspace Setup
