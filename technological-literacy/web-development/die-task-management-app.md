@@ -6,9 +6,14 @@ description: >-
 
 # Das Ziel
 
+## Lernziele
+
+* 🎯 Ihr kennt das Ziel, das wir am Ende dieses Moduls erreichen wollen.
+* 🎯 Ihr habt einen ungefähren Überblick darüber, was wir alles im Lauf des Semesters lernen müssen, um das Ziel zu erreichen.
+
 ## Die Task Management App
 
-Klickt auf den Link unten, um zur fertigen App zu gelangen. Im Laufe des Tutorials lernen wir alles Nötige kennen, um diese App selbst zu erstellen.
+Klickt auf den Link unten, um zur fertigen App zu gelangen. Im Laufe des Tutorials lernen wir alles Nötige kennen, um diese und ähnliche Apps selbst zu erstellen.
 
 {% embed url="https://my-todo-app-winf-hsos.glitch.me/" %}
 
