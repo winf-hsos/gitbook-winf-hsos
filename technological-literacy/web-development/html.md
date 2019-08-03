@@ -12,10 +12,17 @@ description: >-
 Jede Seite beinhaltet eine Menge an Elementen, die auch das HTML-Grundgerüst genannt werden:
 
 ```markup
+<!DOCTYPE html>
 <html>
     <head>
         <title>Titel der Webseite</title>
+        
+        <!-- You can use meta tags to describe your site -->
+        <meta charset="utf-8">
         <meta name="author" content="Nicolas Meseth" />
+        
+        <!-- You can link to files, such as CSS -->
+        <link rel="stylesheet" href="style.css">
     </head>
    
     <body>
