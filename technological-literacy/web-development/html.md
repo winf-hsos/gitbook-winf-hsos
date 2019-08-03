@@ -11,13 +11,25 @@ description: >-
 
 HTML steht für _Hypertext Markup Language_. Wie der Name suggeriert ist HTML eine _Beschreibungs_sprache und keine Programmiersprache.
 
-HTML verwendet so genannte Tags, um Bestandteile einer Webseite zu beschreiben. Ein Tag ist besteht aus einem definierten Schlüsselwort, das von einem Kleiner- und einem Größerzeichen umgeben ist. Ein HTML Element besteht aus einem öffnenden und einem schließenden Tag. Der schließende Tag sieht genau so aus wie der öffnende, bis auf den Slash vor dem Schlüsselwort:
+HTML verwendet so genannte **Tags**, um Bestandteile einer Webseite zu beschreiben. Ein Tag ist besteht aus einem definierten Schlüsselwort, das von einem Kleiner- und einem Größerzeichen eingeschlossen ist. Ein HTML **Element** besteht aus einem öffnenden und einem schließenden Tag. Der schließende Tag sieht genau so aus wie der öffnende, bis auf den Slash vor dem Schlüsselwort:
 
 ```markup
 <h1>Das ist eine Überschrift</h1>
 ```
 
-HTML kennt eine Reihe von Tags, die wir[ allesamt nachschlagen können](https://developer.mozilla.org/de/docs/Web/HTML/Element), um sie zu verwenden. Um wie oben gezeigt eine Überschrift auf unserer Webseite anzuzeigen, können wir den `<h1>` Tag nutzen. Mit dem `<p>` Tag erzeugen wir einen Abschnitt, und der `<img>` Tag bindet ein Bild auf der Webseite ein.
+HTML kennt eine Reihe von Tags, die wir entweder kennen müssen oder [nachschlagen können](https://developer.mozilla.org/de/docs/Web/HTML/Element), um sie zu verwenden. Um wie oben gezeigt eine Überschrift auf unserer Webseite anzuzeigen, können wir den `<h1>` Tag nutzen. Mit dem `<p>` Tag erzeugen wir einen Abschnitt, und der `<img>` Tag bindet ein Bild auf der Webseite ein.
+
+Der `<img>` Tag ist ein Beispiel für ein Element mit einem **Attribut**. Um anzugeben, wo sich das Bild befindet, verwenden wir das `src` Attribut:
+
+```markup
+<img scr="https://bilder.de/image.jpg">
+```
+
+Ein Element kann auch mehr als ein Attribut haben, wie im Beispiel eines Links:
+
+```markup
+<a href="https://google.de" target="_blank">Link zu Google in neuem Tab</a>
+```
 
 {% hint style="info" %}
 HTML ist **keine Programmiersprache**. Mit HTML lassen sich Dokumente **beschreiben**, wir können aber keine ausführbaren Programme damit erstellen. Dazu bräuchten wir Konzepte wie Variablen und Kontrollstrukturen wie Schleifen oder Wenn-Dann-Verzweigungen. Nichts davon existiert in HTML.
