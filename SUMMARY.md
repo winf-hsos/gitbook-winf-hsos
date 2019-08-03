@@ -59,6 +59,7 @@
   * [HTML](technological-literacy/web-development/html.md)
   * [CSS](technological-literacy/web-development/css.md)
   * [Javascript \(fürs Web\)](technological-literacy/web-development/javascript-fuers-web.md)
+  * [Bootstrap](technological-literacy/web-development/bootstrap.md)
   * [Einführung in JSON](technological-literacy/web-development/einfuehrung-in-json.md)
 * [Internet of Things](technological-literacy/internet-of-things/README.md)
   * [Coding with Tinkerforge Devices](technological-literacy/internet-of-things/connect-to-tinkerforge-devices.md)
