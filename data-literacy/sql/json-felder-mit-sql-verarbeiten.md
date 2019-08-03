@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele
 
-In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSON-Datenformat. JSON \(_Javascript Object Notation_\) ist ein gängiges Format für den Austausch von Daten, speziell im Umfeld des Internet. Wenn ihr das Format selbst noch nicht kennt, solltet ihr zuerst das Tutorial [Einführung in JSON](../../technological-literacy/web-development/einfuehrung-in-json.md) absolvieren.
+In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSON-Datenformat. JSON \(_Javascript Object Notation_\) ist ein gängiges Format für den Austausch von Daten, speziell im Umfeld des Internet. Wenn ihr das Format selbst noch nicht kennt, solltet ihr zuerst das Tutorial [Einführung in JSON](../../technological-literacy/web-development/javascript-fuers-web/einfuehrung-in-json.md) absolvieren.
 
 Im Gegensatz zu herkömmlichen Spalten können Spalten mit Informationen im JSON-Format eine eigene Struktur besitzen. So kann innerhalb einer Spalte eine ganze Liste oder eine Hierarchie an Informationen gespeichert werden. SQL ist ursprünglich nicht für dieses Datenformat entwickelt worden. Es gibt aber in den meisten SQL-Implementierungen und speziell in dem von uns eingesetzten Spark SQL mittlerweile Funktionen für dieses spezielle Datenformat. Ziel dieses Tutorials ist es, die wichtigsten davon anhand von Beispielen kennenzulernen.
 

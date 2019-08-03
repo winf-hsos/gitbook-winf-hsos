@@ -32,7 +32,7 @@ Je nach Datensatz werdet ihr feststellen, dass manche Spalten eine spezielle Str
 
 Wendet die Konzepte auf die entsprechenden Spalten eurer Datensätze an.
 
-{% page-ref page="../../../technological-literacy/web-development/einfuehrung-in-json.md" %}
+{% page-ref page="../../../technological-literacy/web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
 
 ## 🔗 Links
 
