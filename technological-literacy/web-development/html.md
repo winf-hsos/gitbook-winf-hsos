@@ -7,7 +7,23 @@ description: >-
 
 # HTML
 
-## Das Grundgerüst
+## 💡 Was ist HTML?
+
+HTML steht für _Hypertext Markup Language_. Wie der Name suggeriert ist HTML eine _Beschreibungs_sprache und keine Programmiersprache.
+
+HTML verwendet so genannte Tags, um Bestandteile einer Webseite zu beschreiben. Ein Tag ist besteht aus einem definierten Schlüsselwort, das von einem Kleiner- und einem Größerzeichen umgeben ist. Ein HTML Element besteht aus einem öffnenden und einem schließenden Tag. Der schließende Tag sieht genau so aus wie der öffnende, bis auf den Slash vor dem Schlüsselwort:
+
+```markup
+<h1>Das ist eine Überschrift</h1>
+```
+
+HTML kennt eine Reihe von Tags, die wir[ allesamt nachschlagen können](https://developer.mozilla.org/de/docs/Web/HTML/Element), um sie zu verwenden. Um wie oben gezeigt eine Überschrift auf unserer Webseite anzuzeigen, können wir den `<h1>` Tag nutzen. Mit dem `<p>` Tag erzeugen wir einen Abschnitt, und der `<img>` Tag bindet ein Bild auf der Webseite ein.
+
+{% hint style="info" %}
+HTML ist **keine Programmiersprache**. Mit HTML lassen sich Dokumente **beschreiben**, wir können aber keine ausführbaren Programme damit erstellen. Dazu bräuchten wir Konzepte wie Variablen und Kontrollstrukturen wie Schleifen oder Wenn-Dann-Verzweigungen. Nichts davon existiert in HTML.
+{% endhint %}
+
+## 💡 Wie sieht eine HTML Seite aus?
 
 Jede Seite beinhaltet eine Menge an Elementen, die auch das HTML-Grundgerüst genannt werden:
 
@@ -32,7 +48,7 @@ Jede Seite beinhaltet eine Menge an Elementen, die auch das HTML-Grundgerüst ge
 </html>
 ```
 
-## Begriffe rund um HTML
+## 💡 Welche Begriffe unterscheiden wir in HTML?
 
 ### Tags, attributes, and elements
 
