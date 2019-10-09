@@ -9,15 +9,9 @@ description: >-
 
 ## Data Literacy
 
-{% page-ref page="data-literacy/working-with-data/" %}
-
 {% page-ref page="data-literacy/sql/" %}
 
-{% page-ref page="data-literacy/tableau.md" %}
-
 {% page-ref page="data-literacy/spreadsheets.md" %}
-
-{% page-ref page="data-literacy/databases/" %}
 
 ## Technological Literacy
 
@@ -27,13 +21,9 @@ description: >-
 
 {% page-ref page="technological-literacy/machine-learning/" %}
 
-{% page-ref page="technological-literacy/simulation.md" %}
-
 ## Projects, Writing & Communication
 
 {% page-ref page="soft-skills/logical-structuring/" %}
 
 {% page-ref page="soft-skills/writing.md" %}
-
-{% page-ref page="soft-skills/agile-and-scrum.md" %}
 

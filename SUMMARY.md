@@ -4,8 +4,6 @@
 
 ## Data Literacy
 
-* [Working with Data](data-literacy/working-with-data/README.md)
-  * [Correlation and Causation](data-literacy/working-with-data/correlation-and-causation.md)
 * [SQL](data-literacy/sql/README.md)
   * [Einführung SQL](data-literacy/sql/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](data-literacy/sql/einfuehrung-sql/0-workspace-setup.md)
@@ -46,10 +44,7 @@
   * [Einführung in Markdown](data-literacy/sql/einfuehrung-in-markdown.md)
   * [Cheatsheet SQL](data-literacy/sql/cheatsheet-sql.md)
   * [Cheatsheet Spark SQL](data-literacy/sql/cheatsheet-spark-sql-scala-api.md)
-* [Tableau](data-literacy/tableau.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
-* [Databases](data-literacy/databases/README.md)
-  * [Airtable](data-literacy/databases/airtable.md)
 
 ## Technological Literacy
 
@@ -67,7 +62,6 @@
   * [Cheatsheet Tinkerforge](technological-literacy/internet-of-things/cheatsheet-tinkerforge.md)
 * [Machine Learning](technological-literacy/machine-learning/README.md)
   * [How to get started with Machine Learning](technological-literacy/machine-learning/how-to-get-started-with-machine-learning.md)
-* [Simulation](technological-literacy/simulation.md)
 
 ## Soft Skills
 
@@ -80,7 +74,6 @@
   * [Sorgfältige Einleitung](soft-skills/logical-structuring/sorgfaeltige-einleitung.md)
   * [Sichtbare Pyramide](soft-skills/logical-structuring/sichtbare-pyramide.md)
 * [Writing](soft-skills/writing.md)
-* [Agile & Scrum](soft-skills/agile-and-scrum.md)
 * [Miscellaneous](soft-skills/appendix/README.md)
   * [Slides](soft-skills/appendix/slides.md)
   * [Case Studies](soft-skills/appendix/case-studies.md)
