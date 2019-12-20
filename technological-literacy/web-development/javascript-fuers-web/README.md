@@ -17,20 +17,17 @@ JavaScript erlaubt es uns, den HTML-Baum und all seine Attribute nach dem Laden 
 
 Vergebt im HTML eine ID für ein HTML Element, das ihr mit JavaScript manipulieren wollt.
 
-{% code-tabs %}
-{% code-tabs-item title="index.html" %}
+{% code title="index.html" %}
 ```markup
 <p id="one"></p>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 #### JavaScript
 
 Verwendet die Funktion `document.querySelector()`, um euch mit JavaScript Zugriff auf das Element zu verschaffen. Nutzt anschließend `textContent` oder `innerHTML`, um den Inhalt des Elements zu setzen.
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 var pElement = document.querySelector("#one");
 pElement.textContent = "This text is set with JS";
@@ -38,8 +35,7 @@ pElement.textContent = "This text is set with JS";
 // Instead of text use HTML like this
 pElement.innerHTML = "This <tt>text</tt> is set with <b>JS</b>";
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### CSS Klassen hinzufügen
 
@@ -47,20 +43,17 @@ pElement.innerHTML = "This <tt>text</tt> is set with <b>JS</b>";
 
 Vergebt im HTML eine ID für ein HTML Element, das ihr mit JavaScript manipulieren wollt.
 
-{% code-tabs %}
-{% code-tabs-item title="index.html" %}
+{% code title="index.html" %}
 ```markup
 <p id="one"></p>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 #### JavaScript
 
 Die Eigenschaft `classList` gibt euch Zugriff auf die CSS-Klassen.
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 var pElement = document.querySelector("#one");
 
@@ -70,13 +63,11 @@ pElement.classList.add("green");
 // Remove a CSS class
 pElement.classList.remove("green");
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Elemente anzeigen und verstecken
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 // Hide the sign-up form
 document.querySelector('#signupForm').setAttribute("hidden", "");
@@ -84,8 +75,7 @@ document.querySelector('#signupForm').setAttribute("hidden", "");
 // Unhide (show) the signup-form
 document.querySelector('#signupForm').removeAttribute("hidden");
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Arrays
 
@@ -93,8 +83,7 @@ Sortierte Listen - oder Arrays - begegnen uns häufig im Zusammenhang mit dem Le
 
 ### Alle Elemente eines Arrays durchlaufen
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 // Reading a Firestore collection like this results in an array with 
 // all documents.
@@ -109,13 +98,11 @@ function todosReady(todosArray) {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Arrays sortieren
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 // Suppose we have the array of todos from the example above
 // Each element in the array has a field "name"
@@ -126,25 +113,21 @@ firebasetools.sortArrayBy(todosArray, "name");
 // Sort by the field "name" descending
 firebasetools.sortArrayBy(todosArray, "name", true);
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Data Attribute
 
 #### HTML
 
-{% code-tabs %}
-{% code-tabs-item title="index.html" %}
+{% code title="index.html" %}
 ```markup
 <p id="one" data-id="1" data-author="Michael"></p>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 #### JavaScript
 
-{% code-tabs %}
-{% code-tabs-item title="script.js" %}
+{% code title="script.js" %}
 ```javascript
 // Access data attributes via the .dataset collection
 var elementId = document.querySelector("#one").dataset.id;
@@ -155,8 +138,7 @@ document.querySelector("#one").dataset.author= "Gordon";
 // Set new data attributes
 document.querySelector("#one").dataset.title = "Introduction to JavaScript";
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Mehr zu Data-Attributen findet ihr u.a. auf der MDN Dokumentationsseite:
 

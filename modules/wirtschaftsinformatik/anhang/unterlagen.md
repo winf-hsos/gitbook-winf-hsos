@@ -30,12 +30,12 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Wirtschaftsinform
 | :--- | :--- |
 | [Wirtschaftsinformatik \#E01 - Das Binärsystem](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/preview) | [PDF](https://docs.google.com/document/d/1l2yRK89clXZzlKYxi0OnWMUhKIKyba5vwBQUk1Ltxv8/export?format=pdf) |
 | [Wirtschaftsinformatik \#E02 - Information & Codes](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview) | [PDF](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) |
-| [Wirtschaftsinformatik \#E03 - Logic Gates](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/preview) | [PDF](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/export/pdf) |
-| [Wirtschaftsinformatik \#E04 - Digitale Transformation](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/preview) | [PDF](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/export/pdf) |
-| [Wirtschaftsinformatik \#E05 - Algorithmen](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/preview) | [PDF](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/export/pdf) |
-| [Wirtschaftsinformatik \#E06 - Datensätze](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/preview) | [PDF](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/export/pdf) |
-| [Wirtschaftsinformatik \#E07 - Mein Online-Steckbrief](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/preview) | [PDF](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/export/pdf) |
-| [Wirtschaftsinformatik \#E07 - Künstliche Intelligenz](https://docs.google.com/document/d/1k3_byhFNpb1Oo-8vmEcnZ8TelmjFp_-Z5PMBDsHaT-g/preview) | [PDF](https://docs.google.com/document/d/1k3_byhFNpb1Oo-8vmEcnZ8TelmjFp_-Z5PMBDsHaT-g/export/pdf) |
+| [Wirtschaftsinformatik \#E03 - Logic Gates](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/preview) | [PDF](https://docs.google.com/document/d/17fZCHvmFLgb1ClcOAqTQKkzQYf6k3Ho_eAAtN--Llw0/export?format=pdf) |
+| [Wirtschaftsinformatik \#E04 - Digitale Transformation](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/preview) | [PDF](https://docs.google.com/document/d/18llTApMAEFauxxZuOFNjaOs55ebhwIlU6QnP95UC8oM/export?format=pdf) |
+| [Wirtschaftsinformatik \#E05 - Algorithmen](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/preview) | [PDF](https://docs.google.com/document/d/155Blkn964EdwRMgH1Bs6VMtTE3eZb2fp7Kq5Sw7IJ-Y/export?format=pdf) |
+| [Wirtschaftsinformatik \#E06 - Datensätze](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/preview) | [PDF](https://docs.google.com/document/d/1FvpvXtyhivfl8-bDHRr13cwNpd2-G5LMR843B0O1vCo/export?format=pdf) |
+| [Wirtschaftsinformatik \#E07 - Mein Online-Steckbrief](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/preview) | [PDF](https://docs.google.com/document/d/1FHyyPX7tZjO7bgnSXy5OmmUhmcIojsuq43waAYr7kqo/export?format=pdf) |
+| [Wirtschaftsinformatik \#E07 - Künstliche Intelligenz](https://docs.google.com/document/d/1k3_byhFNpb1Oo-8vmEcnZ8TelmjFp_-Z5PMBDsHaT-g/preview) | [PDF](https://docs.google.com/document/d/1k3_byhFNpb1Oo-8vmEcnZ8TelmjFp_-Z5PMBDsHaT-g/export?format=pdf) |
 
 ## Texte
 
