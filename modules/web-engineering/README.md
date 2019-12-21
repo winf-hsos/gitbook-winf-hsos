@@ -3,7 +3,7 @@
 > Without requirements or design, programming is the art of adding bugs to an empty text file.   
 > - Louis Srygley
 
-## 🎯 Lernziele <a id="learning-objectives"></a>
+## Lernziele <a id="learning-objectives"></a>
 
 ### Du wirst wissen...
 
