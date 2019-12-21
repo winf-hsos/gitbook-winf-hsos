@@ -99,7 +99,7 @@ This is the written feedback from past semesters.
 > Es wird zu viel vorausgesetzt 🥺
 
 {% hint style="success" %}
-Danke für das Feedback, ich werde daran arbeiten und mehr Material bereitstellen!
+Danke für das Feedback, ich werde daran arbeiten und mehr und besseres Material bereitstellen!
 {% endhint %}
 
 ## WS 2017/2018
