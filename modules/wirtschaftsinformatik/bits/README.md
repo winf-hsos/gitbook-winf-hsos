@@ -2,7 +2,7 @@
 
 > A bit of information is the tiniest amount of information possible. Anything less than a bit is no information at all. \(Charles Petzold\)
 
-## 🎯 Lernziele
+## Lernziele
 
 * 🎯 Ihr wisst, dass digitale Computer auf dem Binärsystem basieren und ihr könnt erklären, was das Binärsystem ist.
 * 🎯 Ihr versteht, wie Computer mithilfe von Codes nicht nur Nullen und Einsen abbilden können, sondern jede beliebige Information.
