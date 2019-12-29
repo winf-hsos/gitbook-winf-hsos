@@ -11,5 +11,5 @@ Im [bereitgestellten Databricks Template](https://winf-hsos.github.io/databricks
 
 In Kürze wird es dazu auch einen dedizierten Teil eines Tutorials geben:
 
-{% page-ref page="../../../data-literacy/sql/twitter-daten-mit-sql-auswerten/fotos-auswerten.md" %}
+{% page-ref page="../../../self-learning/sql/twitter-daten-mit-sql-auswerten/fotos-auswerten.md" %}
 

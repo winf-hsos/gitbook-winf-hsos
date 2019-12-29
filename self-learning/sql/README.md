@@ -4,7 +4,7 @@ description: >-
   Daten geht. Deshalb ist SQL im Fokus meiner Lehre.
 ---
 
-# SQL
+# Querying Data with SQL
 
 
 

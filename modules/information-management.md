@@ -4,7 +4,7 @@
 
 At the beginning, we'll look at the topic of information management from the perspective with wich most of you are familiar with:
 
-{% page-ref page="../data-literacy/spreadsheets.md" %}
+{% page-ref page="../self-learning/spreadsheets.md" %}
 
 We'll then look at disadvantages of managing information in spreadsheets and how databases and their concepts help us to do better.
 

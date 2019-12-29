@@ -4,5 +4,5 @@ Im [bereitgestellten Databricks Template](https://winf-hsos.github.io/databricks
 
 Die Beschreibung mit Erläuterungen findet ihr auch im folgenden Tutorial:
 
-{% page-ref page="../../../data-literacy/sql/twitter-netzwerke-mit-sql-auswerten.md" %}
+{% page-ref page="../../../self-learning/sql/twitter-netzwerke-mit-sql-auswerten.md" %}
 

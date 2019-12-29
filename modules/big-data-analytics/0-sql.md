@@ -14,7 +14,7 @@ Mit einem oder mehrerer dieser Module bringt ihr eine gute Basis mit, die wir ih
 
 In jedem Fall rate ich euch vor dem ersten Termin das folgende Tutorial zu SQL zu absolvieren. Hier könnt ihr auch schon einen ersten Hinweis bekommen, worum es in der Veranstaltung u.a. gehen wird, und ob das zu euren Erwartungen passt:
 
-{% page-ref page="../../data-literacy/sql/einfuehrung-sql/" %}
+{% page-ref page="../../self-learning/sql/einfuehrung-sql/" %}
 
 
 
