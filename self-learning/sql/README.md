@@ -1,8 +1,7 @@
 ---
 description: >-
-  SQL ist die wichtigste Sprache, wenn es um die Analyse strukturierter Daten
-  geht. Im folgenden Tutorial lernen wir deshalb SQL und seine verschiedenen
-  Funktionen kennen.
+  SQL ist die wichtigste Sprache, wenn es um die Analyse von strukturierten
+  Daten geht. Deshalb ist SQL im Fokus meiner Lehre.
 ---
 
 # Querying Data with SQL
