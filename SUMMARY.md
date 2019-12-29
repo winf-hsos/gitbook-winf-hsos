@@ -147,12 +147,6 @@
 
 ## Self Learning
 
-* [Applying Machine Learning to Real World Problems](self-learning/applying-machine-learning-to-real-world-problems/README.md)
-  * [How to get started with Machine Learning](self-learning/applying-machine-learning-to-real-world-problems/how-to-get-started-with-machine-learning.md)
-* [Programming with Python](self-learning/programming-with-python.md)
-* [Building Internet of Things Applications](self-learning/internet-of-things/README.md)
-  * [Coding with Tinkerforge Devices](self-learning/internet-of-things/connect-to-tinkerforge-devices.md)
-  * [Cheatsheet Tinkerforge](self-learning/internet-of-things/cheatsheet-tinkerforge.md)
 * [Querying Data with SQL](self-learning/sql/README.md)
   * [Einführung SQL](self-learning/sql/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](self-learning/sql/einfuehrung-sql/0-workspace-setup.md)
@@ -194,6 +188,12 @@
   * [Cheatsheet SQL](self-learning/sql/cheatsheet-sql.md)
   * [Cheatsheet Spark SQL](self-learning/sql/cheatsheet-spark-sql-scala-api.md)
 * [Working with Spreadsheets](self-learning/spreadsheets.md)
+* [Programming with Python](self-learning/programming-with-python.md)
+* [Building Internet of Things Applications](self-learning/internet-of-things/README.md)
+  * [Coding with Tinkerforge Devices](self-learning/internet-of-things/connect-to-tinkerforge-devices.md)
+  * [Cheatsheet Tinkerforge](self-learning/internet-of-things/cheatsheet-tinkerforge.md)
+* [Applying Machine Learning to Real World Problems](self-learning/applying-machine-learning-to-real-world-problems/README.md)
+  * [How to get started with Machine Learning](self-learning/applying-machine-learning-to-real-world-problems/how-to-get-started-with-machine-learning.md)
 * [Creating Websites with HTML, CSS and Javascript](self-learning/web-development/README.md)
   * [Workspace Setup](self-learning/web-development/workspace-setup.md)
   * [Das Ziel](self-learning/web-development/die-task-management-app.md)
