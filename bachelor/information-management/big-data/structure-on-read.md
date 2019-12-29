@@ -1,4 +1,0 @@
-# Structure on Read
-
-
-
