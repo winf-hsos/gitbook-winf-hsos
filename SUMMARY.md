@@ -218,3 +218,8 @@
   * [\#2 Datemodellierung](modules/unternehmensplanung-und-controlling/2-datemodellierung.md)
   * [\#3 Visualisierungen](modules/unternehmensplanung-und-controlling/3-visualisierungen.md)
 
+## Self Learning
+
+* [Applying Machine Learning to Real World Problems](self-learning/applying-machine-learning-to-real-world-problems.md)
+* [Programming with Python](self-learning/programming-with-python.md)
+
