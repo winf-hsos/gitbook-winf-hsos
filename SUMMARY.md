@@ -212,3 +212,7 @@
   * [Sorgfältige Einleitung](self-learning/logical-structuring/sorgfaeltige-einleitung.md)
   * [Sichtbare Pyramide](self-learning/logical-structuring/sichtbare-pyramide.md)
 
+## Research
+
+* [Bayesian Optimization and Simulation](research/bayesian-optimization-and-simulation.md)
+
