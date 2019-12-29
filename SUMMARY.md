@@ -1,6 +1,16 @@
 # Table of contents
 
 * [Home](README.md)
+* [Appendix](appendix/README.md)
+  * [Slides](appendix/slides.md)
+  * [Case Studies](appendix/case-studies.md)
+  * [Databricks Notebooks](appendix/databricks-notebooks.md)
+  * [Data Sets](appendix/data-sets.md)
+  * [Glitches](appendix/glitches.md)
+  * [CodePens](appendix/codepens.md)
+  * [Exercises](appendix/exercises.md)
+  * [Videos](appendix/videos.md)
+  * [Links](appendix/links.md)
 
 ## Modules
 
@@ -201,14 +211,4 @@
   * [Empfehlungen zum Effekt](self-learning/logical-structuring/empfehlungen-zum-effekt.md)
   * [Sorgfältige Einleitung](self-learning/logical-structuring/sorgfaeltige-einleitung.md)
   * [Sichtbare Pyramide](self-learning/logical-structuring/sichtbare-pyramide.md)
-* [Appendix](appendix/README.md)
-  * [Slides](appendix/slides.md)
-  * [Case Studies](appendix/case-studies.md)
-  * [Databricks Notebooks](appendix/databricks-notebooks.md)
-  * [Data Sets](appendix/data-sets.md)
-  * [Glitches](appendix/glitches.md)
-  * [CodePens](appendix/codepens.md)
-  * [Exercises](appendix/exercises.md)
-  * [Videos](appendix/videos.md)
-  * [Links](appendix/links.md)
 
