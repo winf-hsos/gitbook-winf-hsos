@@ -8,7 +8,7 @@
 
 Oft wollen wir auf Basis der Information, ob ein Benutzer eingeloggt ist oder nicht, Elemente auf unserer Webseite ein- oder ausblenden. Das gilt zum Beispiel für einen Logout-Button. Dieser ergibt nur Sinn, wenn auch ein Benutzer eingeloggt ist; ansonsten sollte der Button nicht sichtbar sein.
 
-Mit Javascript und den Firebase-Tools können wir das umsetzen:
+Mit Javascript und den Firebase-Tools können wir das wie folgt umsetzen:
 
 ```javascript
 firebasetools.onLoginChanged(loginChanged);
@@ -28,6 +28,12 @@ function loginChanged(user) {
     }
 }
 ```
+
+Der Ansatz ist auf andere Elemente oder Aktionen übertragbar. Das Vorgehen ist immer gleich:
+
+1. Ereignis bestimmen, dass dazu führen soll, etwas ein- oder auszublenden \(z.B. User hat sich eingeloggt\).
+2. Herausfinden, wie wir dieses Ereignis _mitbekommen_ \(im Code, z.B. über `onLoginChanged()`\).
+3. Mit entsprechender WENN-DANN Logik die Funktionalität umsetzen. Wenn es um ein- oder ausblenden geht eignet sich das Attribute `hidden` sehr gut. Dieses können wir mit den beiden Funktionen `setAttribute()` bzw. `removeAttribute()` hinzufügen oder entfernen.
 
 
 
