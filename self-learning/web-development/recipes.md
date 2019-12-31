@@ -1,4 +1,4 @@
-# Recipes
+# Web-Rezepte
 
 | Recipe |
 | :--- |
