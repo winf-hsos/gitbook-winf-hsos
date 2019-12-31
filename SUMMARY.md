@@ -203,6 +203,7 @@
     * [Einführung in JSON](self-learning/web-development/javascript-fuers-web/einfuehrung-in-json.md)
   * [Bootstrap](self-learning/web-development/bootstrap.md)
   * [Datenbanken](self-learning/web-development/datenbanken.md)
+  * [Recipes](self-learning/web-development/recipes.md)
 * [Logical Structuring](self-learning/logical-structuring/README.md)
   * [Die Pyramide](self-learning/logical-structuring/die-pyramide.md)
   * [Strukturieren vor Schreiben](self-learning/logical-structuring/strukturieren-vor-schreiben.md)
