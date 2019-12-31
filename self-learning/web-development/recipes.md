@@ -4,7 +4,30 @@
 | :--- |
 | [Webseiten-Elemente ein- oder ausblenden auf Basis von z.B. Informationen über den Login-Status](recipes.md#webseiten-elemente-ein-oder-ausblenden-auf-basis-von-z-b-informationen-ueber-den-login-status) |
 
-## Webseiten-Elemente ein- oder ausblenden auf Basis von z.B. Informationen über den Login-Status
+## Elemente ein- oder ausblenden auf Basis von z.B. Informationen über den Login-Status
+
+Oft wollen wir auf Basis der Information, ob ein Benutzer eingeloggt ist oder nicht, Elemente auf unserer Webseite ein- oder ausblenden. Das gilt zum Beispiel für einen Logout-Button. Dieser ergibt nur Sinn, wenn auch ein Benutzer eingeloggt ist; ansonsten sollte der Button nicht sichtbar sein.
+
+Mit Javascript und den Firebase-Tools können wir das umsetzen:
+
+```javascript
+firebasetools.onLoginChanged(loginChanged);
+
+function loginChanged(user) {
+
+    // Get a reference to the logout button
+    btnLogout = document.querySelector('btnLogout');
+    
+    if(user) {
+        // Remove the hidden attribute if a user is present
+        btnLogout.removeAttribute('hidden');
+    }
+    else {
+        // Add the hidden attribute if no user is present
+        btnLogout.setAttribute('hidden', '');    
+    }
+}
+```
 
 
 
