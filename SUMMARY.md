@@ -147,6 +147,7 @@
 
 ## Self Learning
 
+* [Understanding Computers](self-learning/understanding-computers.md)
 * [Querying Data with SQL](self-learning/sql/README.md)
   * [Einführung SQL](self-learning/sql/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](self-learning/sql/einfuehrung-sql/0-workspace-setup.md)
