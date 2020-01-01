@@ -6,7 +6,7 @@ description: >-
 
 # The Binary System
 
-## 
+## Key Points
 
 ## Material
 
