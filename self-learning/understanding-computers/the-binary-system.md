@@ -1,3 +1,9 @@
+---
+description: >-
+  To understand how computers work, we first must understand how a number system
+  with only ones and zeroes works.
+---
+
 # The Binary System
 
 ## Slides
@@ -13,5 +19,5 @@ As additional read on the topic, please read the two excerpts below. All texts a
 | Title | Pages |
 | :--- | :--- |
 | Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
-|  Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
+| Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
 
