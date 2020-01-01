@@ -20,14 +20,16 @@ You can download a [PDF version of the slides](https://docs.google.com/presentat
 
 I have not yet produced a video for this topic myself. I can recommend the following videos from other authors:
 
-* [Number Systems Introduction - Decimal, Binary, Octal, Hexadecimal](https://www.youtube.com/watch?v=L2zsmYaI5ww)
+* [Number Systems Introduction - Decimal, Binary, Octal, Hexadecimal \(30:04\)](https://www.youtube.com/watch?v=L2zsmYaI5ww)
 
 ### Texts
 
-As additional read on the topic, please read the two excerpts below. All texts are available through [OSCA](http://osca.hs-osnabrueck.de/):
+As additional read on the topic, please read the two excerpts below from \[1\]. All texts are available through [OSCA](http://osca.hs-osnabrueck.de/):
 
-| Title | Pages |
-| :--- | :--- |
-| Code - Charles Petzold - Chapter 7 - Our Ten Digits | 8 |
-| Code - Charles Petzold - Chapter 8 - Alternatives to Ten | 18 |
+* Chapter 7 - Our Ten Digits \(8 pages\)
+* Chapter 8 - Alternatives to Ten \(18 pages\)
+
+## References
+
+\[1\]  Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. Paperback ed, Microsoft Press, 2000.
 
