@@ -188,7 +188,7 @@
   * [Einführung in Markdown](self-learning/sql/einfuehrung-in-markdown.md)
   * [Cheatsheet SQL](self-learning/sql/cheatsheet-sql.md)
   * [Cheatsheet Spark SQL](self-learning/sql/cheatsheet-spark-sql-scala-api.md)
-* [Working with Spreadsheets](self-learning/spreadsheets.md)
+* [Manage Data with Spreadsheets](self-learning/spreadsheets.md)
 * [Programming with Python](self-learning/programming-with-python.md)
 * [Building Internet of Things Applications](self-learning/internet-of-things/README.md)
   * [Coding with Tinkerforge Devices](self-learning/internet-of-things/connect-to-tinkerforge-devices.md)
