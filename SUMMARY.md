@@ -149,6 +149,7 @@
 
 * [Understanding Computers](self-learning/understanding-computers/README.md)
   * [The Binary System](self-learning/understanding-computers/the-binary-system.md)
+  * [Codes](self-learning/understanding-computers/codes.md)
 * [Programming with Python](self-learning/programming-with-python.md)
 * [Analyzing Data with SQL](self-learning/sql/README.md)
   * [Einführung SQL](self-learning/sql/einfuehrung-sql/README.md)
