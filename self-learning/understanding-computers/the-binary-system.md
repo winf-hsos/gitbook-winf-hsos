@@ -8,6 +8,12 @@ description: >-
 
 ## Key Points
 
+* The number system we use in our daily lives is the system to the base 10, or the _decimal system_ \(_decimus_ is Latin for "tenth"\).
+* The fact that we use the decimal system does not mean other systems do not exists. In fact, every other number system to other bases exists as well, and we can convert numbers between different systems.
+* The word "decimal" or base ten implies that in that system, we have 10 symbols to represent numbers \(0 - 9\). Accordingly, the number system to the base 8, which is the _octal system_, has only eight symbols \(0 - 7\).
+* Computers use the binary system \(_binarius_ is Latin for "consisting of two"\), which has only two digits: 0 and 1.
+* Regardless of how many symbols we have in a given system, representing numbers in a system follows the same approach.
+
 ## Material
 
 ### Slides
