@@ -14,8 +14,14 @@ Computers seem to be able to perform a large number of different tasks for us. T
 The bandwidth of tasks computers can perform is already astonishing by itself, but it becomes even more breathtaking when we consider that all a computer can actually do is turn simple switches on and off. 
 
 {% hint style="info" %}
-**How do we get from turning switches on and off to all these seemingly complex tasks?**
+**How do we get from turning switches on and off to performing all these seemingly complex tasks?**
 {% endhint %}
+
+## Learning Path
+
+To understand how computers work, we first must understand how a number system with only ones and zeroes works:
+
+{% page-ref page="the-binary-system.md" %}
 
 
 

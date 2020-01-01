@@ -17,7 +17,7 @@ You can download a [PDF version of the slides](https://docs.google.com/presentat
 
 ### 2⃣ Exercises \(⏲45 Min.\)
 
-Work on the following exercises with your neighbour. We'll work through them step by step and discuss the results for each afterwards. Please prepare to share your solution with the group.
+Work on the following exercises with your neighbor. We'll work through them step by step and discuss the results for each afterwards. Please prepare to share your solution with the group.
 
 * 🔗 [Link to exercise](https://docs.google.com/document/d/1M-Dp1CUhGsg6QEBPiPf8zn0btDBGupNZmEIe-6_N3tA/preview)
 * 🔗 [Link to PDF version](https://docs.google.com/document/d/1M-Dp1CUhGsg6QEBPiPf8zn0btDBGupNZmEIe-6_N3tA/export?format=pdf) ⬇ 
