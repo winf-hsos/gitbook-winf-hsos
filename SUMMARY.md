@@ -149,7 +149,7 @@
 
 * [Understanding Computers](self-learning/understanding-computers.md)
 * [Programming with Python](self-learning/programming-with-python.md)
-* [Querying Data with SQL](self-learning/sql/README.md)
+* [Analyzing Data with SQL](self-learning/sql/README.md)
   * [Einführung SQL](self-learning/sql/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](self-learning/sql/einfuehrung-sql/0-workspace-setup.md)
     * [\#1 Der SELECT Befehl](self-learning/sql/einfuehrung-sql/1-der-select-befehl/README.md)
