@@ -8,25 +8,13 @@
 
 ## Material
 
-### Slides
-
-{% embed url="https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/preview" %}
-
-You can also download a PDF version of the slides⬇: [Download PDF-Version](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf)
-
-### Videos
-
-I have not yet produced a video for this topic myself. I can recommend the following videos from other authors:
-
-* [Measuring Information](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12)
-
-### Texts
-
-As additional read on the topic, please read the two excerpts below from \[1\]. All texts are available through [OSCA](http://osca.hs-osnabrueck.de/):
-
-* Code - Charles Petzold - Chapter 2 - Codes and Combinations \(6 pages\)
-* Code - Charles Petzold - Chapter 9 - Bit by Bit by Bit \(19 pages\)
-* Hansen - Wirtschaftsinformatik - Information und Daten \(17 pages\)
+| Title | Type | PDF |
+| :--- | :--- | :--- |
+| [Wirtschaftsinformatik \#02 - Codes](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/preview) | Slides | [🔗](https://docs.google.com/presentation/d/1XcdMGmzX-D5byd140JNXZ56twkQgLRto5Wr7IvM3bBY/export/pdf) |
+| [Measuring Information](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12) 📹 | YouTube | - |
+| Chapter 2 - Codes and Combinations from \[1\] 📖 | Book Chapter | - |
+| Chapter 9 - Bit by Bit by Bit from \[1\] 📖 | Book Chapter | - |
+| [Exercise - Information & Codes](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/preview) | Exercise | [🔗](https://docs.google.com/document/d/1yuHOp94Ce_CTP6e5mCwLxKfgIctlUZgN44r6ZES8JC0/export?format=pdf) |
 
 ## References
 
