@@ -3,6 +3,7 @@
 | Recipe |
 | :--- |
 | [Webseiten-Elemente ein- oder ausblenden auf Basis von Ereignissen](recipes.md#elemente-ein-oder-ausblenden-auf-basis-von-ereignissen-oder-informationen-z-b-ueber-den-login-status) |
+| [Unterschied zwischen `textContent` und `innerHTML`](recipes.md#unterschied-zwischen-textcontent-und-innerhtml)\`\` |
 
 ## Elemente ein- oder ausblenden auf Basis von Ereignissen oder Informationen z.B. über den Login-Status
 
@@ -35,5 +36,5 @@ Der Ansatz ist auf andere Elemente oder Aktionen übertragbar. Das Vorgehen ist 
 2. Herausfinden, wie wir dieses Ereignis _mitbekommen_ \(im Code, z.B. über `onLoginChanged()`\).
 3. Mit entsprechender WENN-DANN Logik die Funktionalität umsetzen. Wenn es um ein- oder ausblenden geht eignet sich das Attribute `hidden` sehr gut. Dieses können wir mit den beiden Funktionen `setAttribute()` bzw. `removeAttribute()` hinzufügen oder entfernen.
 
-
+## Unterschied zwischen `textContent` und `innerHTML`
 
