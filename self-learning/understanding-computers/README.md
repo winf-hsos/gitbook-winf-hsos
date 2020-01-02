@@ -9,7 +9,7 @@ description: >-
 
 ## Problem
 
-Computers seem to be able to perform a large number of different tasks for us. To name only a few: We can use them to perform almost any calculation very fast, we can use them to process text, we can use them to listen to music or stream videos, we can chat with other people anywhere in the world, and they can even recognize faces or understand voice commands.
+Computers can perform a large number of different tasks for us. To name only a few: We can use them to perform almost any calculation very fast, we can use them to process text, we can use them to listen to music or stream videos, we can chat with other people anywhere in the world, and they can even recognize faces or understand voice commands.
 
 The bandwidth of tasks computers can perform is already astonishing by itself, but it becomes even more breathtaking when we consider that all a computer can actually do is turn simple switches on and off. 
 
