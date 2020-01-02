@@ -27,3 +27,11 @@ Understanding code systems gives us an idea how computers represent other things
 
 {% page-ref page="codes.md" %}
 
+Now that we know how computers represent different things, let's learn how they can process information. For that, we need a few very small and simple devices:
+
+{% page-ref page="logic-gates.md" %}
+
+How can computers perform arithmetic with only simple logic gates?
+
+{% page-ref page="addition-with-bits.md" %}
+
