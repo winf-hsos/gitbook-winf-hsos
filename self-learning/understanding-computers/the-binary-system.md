@@ -38,5 +38,7 @@ As additional read on the topic, please read the two excerpts below from \[1\]. 
 
 ## References
 
-\[1\]  Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. Paperback ed, Microsoft Press, 2000.
+\[1\]  Petzold, Charles. _Code: The Hidden Language of Computer Hardware and Software_. Paperback ed, Microsoft Press, 2000.
+
+\[2\]  Scott, J. Clark. _But How Do It Know?: The Basic Principles of Computers for Everyone_. John C. Scott, 2009.
 
