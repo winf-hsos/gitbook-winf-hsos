@@ -23,7 +23,7 @@ To understand how computers work, we first must understand how a number system w
 
 {% page-ref page="the-binary-system.md" %}
 
-Understand code systems gives us an idea how computers represent other things than 0 and 1:
+Understanding code systems gives us an idea how computers represent other things than 0 and 1:
 
 {% page-ref page="codes.md" %}
 
