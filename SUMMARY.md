@@ -209,6 +209,7 @@
   * [Bootstrap](self-learning/web-development/bootstrap.md)
   * [Datenbanken](self-learning/web-development/datenbanken.md)
   * [Web-Rezepte](self-learning/web-development/recipes/README.md)
+    * [Seiten dynamisch gestalten mit Javascript](self-learning/web-development/recipes/seiten-dynamisch-gestalten-mit-javascript.md)
     * [Arbeiten mit dem Firestore](self-learning/web-development/recipes/arbeiten-mit-dem-firestore.md)
 * [Logical Structuring](self-learning/logical-structuring/README.md)
   * [Die Pyramide](self-learning/logical-structuring/die-pyramide.md)
