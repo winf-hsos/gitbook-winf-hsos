@@ -3,7 +3,7 @@
 | Rezept |
 | :--- |
 | [Webseiten-Elemente ein- oder ausblenden auf Basis von Ereignissen](./#elemente-ein-oder-ausblenden-auf-basis-von-ereignissen-oder-informationen-z-b-ueber-den-login-status) |
-| [Unterschied zwischen `textContent` und `innerHTML`](./#unterschied-zwischen-textcontent-und-innerhtml)\`\` |
+| [Unterschied zwischen `textContent` und `innerHTML`](seiten-dynamisch-gestalten-mit-javascript.md#unterschied-zwischen-textcontent-und-innerhtml)\`\` |
 
 ## Elemente ein- oder ausblenden auf Basis von Ereignissen oder Informationen z.B. über den Login-Status
 
