@@ -35,7 +35,7 @@ Der Ansatz ist auf andere Elemente oder Aktionen übertragbar. Das Vorgehen ist 
 
 1. Ereignis bestimmen, dass dazu führen soll, etwas ein- oder auszublenden \(z.B. User hat sich eingeloggt\).
 2. Herausfinden, wie wir dieses Ereignis _mitbekommen_ \(im Code, z.B. über `onLoginChanged()`\).
-3. Mit entsprechender WENN-DANN Logik die Funktionalität umsetzen. Wenn es um ein- oder ausblenden geht eignet sich das Attribute `hidden` sehr gut. Dieses können wir mit den beiden Funktionen `setAttribute()` bzw. `removeAttribute()` hinzufügen oder entfernen.
+3. Mit entsprechender WENN-DANN Logik die Funktionalität umsetzen. Wenn es um ein- oder ausblenden geht, können wir das Attribute `hidden` verwenden. Dieses können wir mit den beiden Funktionen `setAttribute()` bzw. `removeAttribute()` hinzufügen oder entfernen. Elemente mit dem Attribut werden im Browser nicht angezeigt und sind versteckt.
 
 ## Unterschied zwischen `textContent` und `innerHTML`
 
