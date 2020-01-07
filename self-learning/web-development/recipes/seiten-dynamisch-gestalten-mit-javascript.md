@@ -18,7 +18,7 @@ firebasetools.onLoginChanged(loginChanged);
 function loginChanged(user) {
 
     // Get a reference to the logout button
-    btnLogout = document.querySelector('btnLogout');
+    btnLogout = document.querySelector('#btnLogout');
     
     if(user) {
         // Remove the hidden attribute if a user is present
@@ -38,6 +38,14 @@ Der Ansatz ist auf andere Elemente oder Aktionen übertragbar. Das Vorgehen ist 
 3. Mit entsprechender WENN-DANN Logik die Funktionalität umsetzen. Wenn es um ein- oder ausblenden geht, können wir das Attribute `hidden` verwenden. Dieses können wir mit den beiden Funktionen `setAttribute()` bzw. `removeAttribute()` hinzufügen oder entfernen. Elemente mit dem Attribut werden im Browser nicht angezeigt und sind versteckt.
 
 ## Unterschied zwischen `textContent` und `innerHTML`
+
+```javascript
+var p1 = document.querySelector('#paragraphText');
+p1.textContent = "This is simple text, no rendering of <b>HTML</b>";
+
+var p2 = document.querySelector('#paragraphHTML');
+p2.innerHTML = "This is text with <b>HTML</b>.";
+```
 
 ## Abhängige Drop-Down Menüs
 
