@@ -1,6 +1,6 @@
 # Empirisches Arbeiten
 
-## 📢 Infos <a id="learning-objectives"></a>
+## Informationen <a id="learning-objectives"></a>
 
 Die Veranstaltung _Empirisches Arbeiten_ ist ein Pflichtmodul im Master Agrar/Lebensmittel und wird zusammen von den Kollegen Prof. Dr. Ulrich Enneking, Prof. Dr. Matthias Kussin und mir begleitet.
 
