@@ -199,6 +199,7 @@
   * [Cheatsheet Tinkerforge](self-learning/internet-of-things/cheatsheet-tinkerforge.md)
 * [Applying Machine Learning to Real World Problems](self-learning/applying-machine-learning-to-real-world-problems/README.md)
   * [How to get started with Machine Learning](self-learning/applying-machine-learning-to-real-world-problems/how-to-get-started-with-machine-learning.md)
+  * [Natural Language Processing \(NLP\) with Python](self-learning/applying-machine-learning-to-real-world-problems/natural-language-processing-nlp-with-python.md)
 * [Creating Websites with HTML, CSS and Javascript](self-learning/web-development/README.md)
   * [Workspace Setup](self-learning/web-development/workspace-setup.md)
   * [Das Ziel](self-learning/web-development/die-task-management-app.md)
