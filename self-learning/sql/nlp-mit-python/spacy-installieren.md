@@ -20,7 +20,7 @@ pip install spacy
 
 Um spaCy mit einer bestimmten Sprache wie Deutsch oder Englisch verwenden zu können - also um Texte in dieser Sprache analysieren zu können - müssen wir noch die entsprechenden Modelle herunterladen. Die Modelle beinhalten u.a. Listen für Stopwörter. Aber auch statistische Modelle in Form von neuronalen Netzen, die auf genau eine bestimmte Sprache mit einem sehr großen Trainingsdatensatz trainiert wurden. Mit diesen Modellen können wir z.B. Entitäten erkennen, POS-Tagging vornehmen, syntaktische Analysen durchführen oder Ähnlichkeiten zwischen Wörtern oder Texten bestimmen.
 
-spaCy bietet für sehr viele Sprachen Modelle an, die wir herunterladen und verwenden können. Im Folgenden sind die Modelle für Deutsch und Englisch aufgeführt. Für jede der beiden Sprachen gibt es Modell unterschiedlicher Größe. Der Unterschied zwischen den Modellen ist die Information und die zugrunde liegenden Trainingsdaten - kleinere Modelle sind schneller und verwenden weniger Speicherplatz, sind dafür aber tendenziell ungenauer.
+spaCy bietet für sehr viele Sprachen Modelle an, die wir herunterladen und verwenden können. Im Folgenden sind die Modelle für Deutsch und Englisch aufgeführt. Für jede der beiden Sprachen gibt es Modelle unterschiedlicher Größe. Der Unterschied zwischen den Modellen ist die Information und die zugrunde liegenden Trainingsdaten - kleinere Modelle sind schneller und verwenden weniger Speicherplatz, sind dafür aber tendenziell ungenauer.
 
 ### Modelle für Englische Texte
 
