@@ -26,6 +26,10 @@ Zuerst installieren wir das Pyton-Modul [spaCy](https://spacy.io/), um es in uns
 
 {% page-ref page="spacy-installieren.md" %}
 
+Anschließend können wir NLP auf Texte anwenden und die Teilergebnisse begutachten:
+
+{% page-ref page="nlp-auf-texte-anwenden.md" %}
+
 
 
 ## Links
