@@ -189,6 +189,7 @@
     * [\#1 Arbeiten mit Mappingtabellen](self-learning/sql/themen-in-texten-mittels-sql-identifizieren/1-arbeiten-mit-mappingstabellen.md)
     * [\#2 Deduktive Themenanalyse](self-learning/sql/themen-in-texten-mittels-sql-identifizieren/2-deduktive-themenanalyse.md)
     * [\#3 Induktive Themenanalyse](self-learning/sql/themen-in-texten-mittels-sql-identifizieren/3-induktive-themenanalyse.md)
+  * [NLP mit Python](self-learning/sql/nlp-mit-python.md)
   * [Netzwerke](self-learning/sql/twitter-netzwerke-mit-sql-auswerten.md)
   * [Einführung in Markdown](self-learning/sql/einfuehrung-in-markdown.md)
   * [Cheatsheet SQL](self-learning/sql/cheatsheet-sql.md)
