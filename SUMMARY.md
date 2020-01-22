@@ -191,7 +191,7 @@
     * [\#3 Induktive Themenanalyse](self-learning/sql/themen-in-texten-mittels-sql-identifizieren/3-induktive-themenanalyse.md)
   * [NLP mit Python](self-learning/sql/nlp-mit-python/README.md)
     * [spaCy installieren](self-learning/sql/nlp-mit-python/spacy-installieren.md)
-    * [Texte in Token zerlegen](self-learning/sql/nlp-mit-python/texte-in-token-zerlegen.md)
+    * [NLP auf Texte anwenden](self-learning/sql/nlp-mit-python/nlp-auf-texte-anwenden.md)
   * [Netzwerke](self-learning/sql/twitter-netzwerke-mit-sql-auswerten.md)
   * [Einführung in Markdown](self-learning/sql/einfuehrung-in-markdown.md)
   * [Cheatsheet SQL](self-learning/sql/cheatsheet-sql.md)

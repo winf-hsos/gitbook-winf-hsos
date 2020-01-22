@@ -2,7 +2,7 @@
 description: >-
   Natural Language Processing - oder NLP - beschreibt den Versuch, mittels
   Algorithmen den Inhalt von Sprache und speziell Texten zu verstehen. Wir
-  lernen im spaCy kennen, ein Python-Modul für NLP.
+  lernen spaCy kennen, ein Python-Modul für NLP.
 ---
 
 # NLP mit Python
