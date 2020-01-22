@@ -30,3 +30,9 @@ Zunächst müssen wir das Modul mit dem `import` Befehl in unserem Programm beka
 
 ## Zugriff auf die Ergebnisse
 
+### Token
+
+### POS-Tags
+
+### Benannte Entitäten
+
