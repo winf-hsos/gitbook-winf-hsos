@@ -13,7 +13,7 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 
 * Wichtige Objekte wie Marken, Produkte, Personen, Ereignisse oder Orte, über die gesprochen wird.
 * Stimmungen \(_sentiments_\) in einem Text: Ist ein Text positiv oder negativ in Bezug auf den Sachverhalt oder Gegenstand?
-* Themen, über die gesprochen wird und wie darüber gesprochen wird.
+* Themen, über die gesprochen wird und _wie_ darüber gesprochen wird.
 * Klassifizierung von Texten: Handelt es sich um einen Newsbeitrag oder einen wissenschaftlichen Aufsatz? Ist der Text eher pro oder contra in Bezug einer bestimmten These?
 
 {% hint style="info" %}
