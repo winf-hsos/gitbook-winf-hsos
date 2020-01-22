@@ -2,7 +2,7 @@
 description: >-
   Natural Language Processing - oder NLP - beschreibt den Versuch, mittels
   Algorithmen den Inhalt von Sprache und speziell Texten zu verstehen. Wir
-  lernen im spaCy kennen, ein Python-Modul für NLP.
+  lernen spaCy kennen, ein Python-Modul für NLP.
 ---
 
 # NLP mit Python
@@ -13,7 +13,7 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 
 * Wichtige Objekte wie Marken, Produkte, Personen, Ereignisse oder Orte, über die gesprochen wird.
 * Stimmungen \(_sentiments_\) in einem Text: Ist ein Text positiv oder negativ in Bezug auf den Sachverhalt oder Gegenstand?
-* Themen, über die gesprochen wird und wie darüber gesprochen wird.
+* Themen, über die gesprochen wird und _wie_ darüber gesprochen wird.
 * Klassifizierung von Texten: Handelt es sich um einen Newsbeitrag oder einen wissenschaftlichen Aufsatz? Ist der Text eher pro oder contra in Bezug einer bestimmten These?
 
 {% hint style="info" %}
@@ -25,6 +25,10 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 Zuerst installieren wir das Pyton-Modul [spaCy](https://spacy.io/), um es in unserer gewohnten Databricks-Umgebung verwenden zu können:
 
 {% page-ref page="spacy-installieren.md" %}
+
+Anschließend können wir NLP auf Texte anwenden und die Teilergebnisse begutachten:
+
+{% page-ref page="nlp-auf-texte-anwenden.md" %}
 
 
 
