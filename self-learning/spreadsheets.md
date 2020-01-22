@@ -1,4 +1,4 @@
-# Working with Spreadsheets
+# Managing Data with Spreadsheets
 
 ## Tidy Data
 

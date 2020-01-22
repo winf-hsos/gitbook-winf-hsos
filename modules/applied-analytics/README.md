@@ -13,9 +13,9 @@ Die Sprache in diesem Modul ist Deutsch. Das verwendete Material \(Folien, Texte
 Der inhaltliche Ablauf des Moduls orientiert sich an einer Fallstudie, die in 5 Phasen untergliedert ist.
 
 * 1⃣ **Exploration** der Daten
-* 2⃣ **Retrospective** Analyse der Daten
-* 3⃣ **Hypothesen** aufstellen und überprüfen
-* 4⃣ **Prediction** - auf Basis der Daten Vorhersagemodelle entwickeln
+* \*\*\*\*2⃣ **Retrospective** Analyse der Daten
+* \*\*\*\*3⃣ **Hypothesen** aufstellen und überprüfen
+* \*\*\*\*4⃣ **Prediction** - auf Basis der Daten Vorhersagemodelle entwickeln
 * 5⃣ **Presentation** der Ergebnisse
 
 Zwischen den Arbeitsphasen gibt es geblockte Präsenztermine 📆 \(ca. alle 3 Wochen\), in denen Input und Material zur nächsten Phase bereitgestellt wird.

@@ -14,7 +14,7 @@ description: In diesem Block geht es die Erkundung neuer Datensätze mit SQL.
 * 🎯 Ihr erzeugt neue Datensätze und analysiert diese neuen Daten systematisch für die Beantwortung eurer Fragestellungen.
 * 🎯 Ihr identifiziert aus einer großen, unstrukturierten Masse an Daten die für eine Fragestellung relevanten Datensätze.
 
-## ❓ **Fragen**
+## \*\*\*\*❓ **Fragen**
 
 * ❓ Welche Arten von Datensätzen \(Format, Inhalt, Struktur\) kann man unterscheiden?
 * ❓ Welche Informationen zu einem neuen Datensatz sind hilfreich für die weitere Analyse?
