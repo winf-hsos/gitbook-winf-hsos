@@ -32,6 +32,21 @@ Zunächst müssen wir das Modul mit dem `import` Befehl in unserem Programm beka
 
 ### Token
 
+```python
+import spacy
+
+# Load English model
+nlp = spacy.load("en_core_web_sm")
+
+# Define the text and store it on a variable
+text = "I am looking forward to learning about NLP with spaCy!"
+
+# Iterate over the tokens
+for token in doc:
+    # Print the text for each token
+    print(token.text)
+```
+
 ### POS-Tags
 
 ### Benannte Entitäten
