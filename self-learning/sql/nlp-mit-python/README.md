@@ -15,6 +15,7 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 * Stimmungen \(_sentiments_\) in einem Text: Ist ein Text positiv oder negativ in Bezug auf den Sachverhalt oder Gegenstand?
 * Themen, über die gesprochen wird und _wie_ darüber gesprochen wird.
 * Klassifizierung von Texten: Handelt es sich um einen Newsbeitrag oder einen wissenschaftlichen Aufsatz? Ist der Text eher pro oder contra in Bezug einer bestimmten These?
+* Viele Anwendungen, die wir täglich nutzen, basieren auf Techniken des NLP: Suchmaschinen, Sprachassistenten, Chatbots, Übersetzungssoftware \(Quelle: [Recent Advancements in NLP](https://medium.com/swlh/recent-advancements-in-nlp-1-2-192ac7eefe3c)\).
 
 {% hint style="info" %}
 **Wie können wir Texte aufbereiten oder vorbereiten, um sie automatisch und quantifizierbar analysieren zu können? Welche Verfahren können wir anwenden, um Informationen aus Texten zu extrahieren?**
