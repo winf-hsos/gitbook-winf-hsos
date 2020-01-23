@@ -36,3 +36,5 @@ Zunächst müssen wir das Modul mit dem `import` Befehl in unserem Programm beka
 
 ### Benannte Entitäten
 
+### Syntaktische Abhängigkeiten
+
