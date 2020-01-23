@@ -21,6 +21,10 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 **Wie können wir Texte aufbereiten oder vorbereiten, um sie automatisch und quantifizierbar analysieren zu können? Welche Verfahren können wir anwenden, um Informationen aus Texten zu extrahieren?**
 {% endhint %}
 
+Bedeutung in Texten zu erkennen ist keine leichte Aufgabe für Maschinen:
+
+> _“John saw the man on the mountain with a telescope”_ Who is on the mountain? John, the man, or both? Who has the telescope? John, the man, or the mountain?
+
 ## Lernpfad
 
 Zuerst installieren wir das Pyton-Modul [spaCy](https://spacy.io/), um es in unserer gewohnten Databricks-Umgebung verwenden zu können:
