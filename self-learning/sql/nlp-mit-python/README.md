@@ -23,7 +23,7 @@ Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren könne
 
 Bedeutung in Texten zu erkennen ist keine leichte Aufgabe für Maschinen:
 
-> _“John saw the man on the mountain with a telescope”_ Who is on the mountain? John, the man, or both? Who has the telescope? John, the man, or the mountain?
+> _“John saw the man on the mountain with a telescope”_ Who is on the mountain? John, the man, or both? Who has the telescope? John, the man, or the mountain? \([Recent Advancements in NLP](https://medium.com/swlh/recent-advancements-in-nlp-1-2-192ac7eefe3c)\)
 
 ## Lernpfad
 
