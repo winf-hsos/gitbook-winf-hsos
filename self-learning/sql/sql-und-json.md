@@ -1,4 +1,4 @@
-# JSON
+# SQL und JSON
 
 ## 🎯 Lernziele
 
@@ -18,9 +18,9 @@ Für dieses Tutorial verwenden wir den Amazon Reviews Datensatz für _Grocery an
 
 Als erstes müssen wir lernen, wie wir Spalten mit JSON-Daten überhaupt erkennen? Dazu können wir den `describe` Befehl nutzen. Unten im Screenshot seht ihr das Ergebnis für die Tabelle `meta_Grocery_and_Gourmet_Food` . Die rot markierten Zeilen sind Spalten mit JSON-Datentypen.
 
-Immer wenn wir den Begriff `array<...>` als Datentyp einer Spalte sehen wissen wir, dass es sich um **eine Liste von Werten** handelt, in der jeder Wert einen Index \(Position\) innerhalb der Liste hat. Es handelt sich also um eine sortierte Liste. Im Beispiel unten handelt es sich sogar um ein verschachteltes Array: Eine Liste von Listen von Strings. Wie man mit Array und verschachtelten Array in SQL umgehen kann schauen wir uns [weiter unten](json-felder-mit-sql-verarbeiten.md#arrays-abfragen) an.
+Immer wenn wir den Begriff `array<...>` als Datentyp einer Spalte sehen wissen wir, dass es sich um **eine Liste von Werten** handelt, in der jeder Wert einen Index \(Position\) innerhalb der Liste hat. Es handelt sich also um eine sortierte Liste. Im Beispiel unten handelt es sich sogar um ein verschachteltes Array: Eine Liste von Listen von Strings. Wie man mit Array und verschachtelten Array in SQL umgehen kann schauen wir uns [weiter unten](sql-und-json.md#arrays-abfragen) an.
 
-Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct<...>`. Hierbei handelt sich nicht um ein Array, sondern **um ein Objekt**. Ein Objekt ist ein strukturierter Datentyp, der selbst weitere Felder \(oder Attribute\) hat, die wir über ihre Namen ansprechen können. Im Beispiel unten hat ein Wert in der Spalte `related` die Felder `also_bought`, `also_viewed`, `bought_together` und `buy_after_viewing`. Alle diese Felder sind wiederum vom Typ `array<string>`, was eine Liste von Strings bedeutet. Ihr seht schon, die Struktur einer JSON-Spalte kann beliebig tief geschachtelt sein. Wie man mit Objekten umgeht [schauen wir uns ebenfalls gleich an](json-felder-mit-sql-verarbeiten.md#objekte-und-deren-attribute-abfragen).
+Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct<...>`. Hierbei handelt sich nicht um ein Array, sondern **um ein Objekt**. Ein Objekt ist ein strukturierter Datentyp, der selbst weitere Felder \(oder Attribute\) hat, die wir über ihre Namen ansprechen können. Im Beispiel unten hat ein Wert in der Spalte `related` die Felder `also_bought`, `also_viewed`, `bought_together` und `buy_after_viewing`. Alle diese Felder sind wiederum vom Typ `array<string>`, was eine Liste von Strings bedeutet. Ihr seht schon, die Struktur einer JSON-Spalte kann beliebig tief geschachtelt sein. Wie man mit Objekten umgeht [schauen wir uns ebenfalls gleich an](sql-und-json.md#objekte-und-deren-attribute-abfragen).
 
 ![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2842%29.png)
 

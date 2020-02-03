@@ -57,5 +57,5 @@ Um mit JSON-Daten umgehen zu lernen, schaut euch diese beiden Tutorials an:
 
 {% page-ref page="../../../self-learning/web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../self-learning/sql/json-felder-mit-sql-verarbeiten.md" %}
+{% page-ref page="../../../self-learning/sql/sql-und-json.md" %}
 
