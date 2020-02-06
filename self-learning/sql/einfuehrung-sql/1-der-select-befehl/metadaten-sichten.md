@@ -2,7 +2,7 @@
 
 ## Metadaten sichten - so geht’s
 
-Bevor wir mit dem `SELECT` Befehl Daten abfragen, stellen wir uns zunächst die Frage, welche Daten uns überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl `describe` hilft uns dabei:
+Bevor wir mit dem `SELECT` Befehl Daten abfragen, stellen wir uns zunächst die Frage, welche Daten uns überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der `DESCRIBE` Befehl hilft uns dabei:
 
 ```sql
 describe ted_meta
