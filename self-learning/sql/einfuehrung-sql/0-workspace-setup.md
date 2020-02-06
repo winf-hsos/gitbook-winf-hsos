@@ -1,6 +1,6 @@
 # \#0 Workspace Setup
 
-## 💡 Databricks-Account erstellen
+## Databricks-Account erstellen
 
 Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis von SQL. Databricks bietet einen kostenlosen Zugang über die so genannte Community Edition. Für die Teilnahme an diesem Tutorial müsst ihr euch ein kostenloses Databricks-Konto erstellen:
 
@@ -17,7 +17,7 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
 
 Wenn ihr eingeloggt wurdet und die Databricks Startseite seht, ist die Anmeldung erfolgreich abgeschlossen.
 
-## 💡 Notebook-Templates importieren
+## Notebook-Templates importieren
 
 ### Vorgehen
 
@@ -45,7 +45,7 @@ Für das Importieren von Notebooks habe ich auch ein kurzes Video erstellt:
 Hier die Links zu den Notebooks:
 
 * 🗒 [\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html)
-* 🗒 \#2 Mehrere Tabellen
+* 🗒 \#2 Mehrere Tabellen mit Joins
 * 🗒 \#3 Mengenoperationen
 * 🗒 \#4 Unterabfragen
 * 🗒 \#5 Window-Funktionen
@@ -53,15 +53,15 @@ Hier die Links zu den Notebooks:
 * 🗒 \#7 Statistische Funktionen
 * 🗒 \#8 Datum und Zeit
 
-## 💡 Daten anlegen
+## Daten anlegen
 
 ### Vorgehen
 
-Das erste Notebook 🗒\#1 Der SELECT Befehl enthält zu Beginn einen Block für das vollautomatische Anlegen der benötigten Tabellen. Diesen Block müsst ihr einmalig ausführen. Anschließend habt ihr alle für dieses Tutorial benötigte Tabellen und Datensätze als Kopie in eurem Databricks Account. Auch nach einem erneuten Login sind die Daten und Arbeitsstände eurer Notebooks weiterhin vorhanden.
+Das erste Notebook 🗒\*\*\*\*[\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html) enthält zu Beginn einen Block für das vollautomatische Anlegen der benötigten Tabellen. Diesen Block müsst ihr einmalig ausführen. Anschließend habt ihr alle für dieses Tutorial benötigte Tabellen und Datensätze als Kopie in eurem Databricks Account. Auch nach einem erneuten Login sind die Daten und Arbeitsstände eurer Notebooks weiterhin vorhanden.
 
 * ✅ Loggt euch in eurem Databricks-Account ein und klickt links im Menü auf "Cluster". 
 * ✅ Klickt auf "Create Cluster". Vergebt einen beliebigen Namen für das Cluster und belasst alle anderen Einstellungen wie sie sind \(Runtime Version: 5.2, Python Version: 3\). Klickt auf den Button "Create Cluster". Es wird nun im Hintergrund ein Server für euch bereitgestellt, der die benötigte Software u.a. für das Ausführen von SQL Abfragen mitbringt. Die Bereitstellung dauert ca. 2-3 Minuten. Ihr erkennt an dem grünen Punkt vor dem Cluster-Namen, dass der Server bereitsteht.  
-* ✅ Sobald das Cluster bereitsteht, öffnet das Notebook 🗒\#1 Der SELECT Befehl. Klickt in den Code-Block unterhalb der Überschrift "1. Daten laden" und drückt anschließend ⌨ _Strg+Enter._ Alternativ könnt ihr auch auf den kleinen Play-Button im oberen Rechten Menü des Blocks klicken. Beides führt den Code innerhalb des Block aus.
+* ✅ Sobald das Cluster bereitsteht, öffnet das Notebook 🗒[\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Klickt in den Code-Block unterhalb der Überschrift "1. Daten laden" und drückt anschließend _**Strg+Enter.**_ Alternativ könnt ihr auch auf den kleinen Play-Button im oberen Rechten Menü des Blocks klicken. Beides führt den Code innerhalb des Block aus.
 
 Nachdem der Block ausgeführt wurde stehen euch die 4 Tabellen für dieses Tutorial bereit:
 

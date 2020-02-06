@@ -9,30 +9,30 @@ Aktuell sind nur die Teile \#0 und \#1 fertig. Der Rest folgt bald 👷♀.
 ## Übersicht
 
 * 0⃣ [Workspace Setup](0-workspace-setup.md) 💻 
-  * 💡 [Databricks-Account erstellen](0-workspace-setup.md#databricks-account-erstellen)
-  * 💡 [Notebook-Templates importieren](0-workspace-setup.md#notebook-templates-importieren)
-  * 💡 [Daten anlegen](0-workspace-setup.md#daten-anlegen) 
+  * [Databricks-Account erstellen](0-workspace-setup.md#databricks-account-erstellen)
+  * [Notebook-Templates importieren](0-workspace-setup.md#notebook-templates-importieren)
+  * [Daten anlegen](0-workspace-setup.md#daten-anlegen) 
 * 1⃣ [Der SELECT Befehl](1-der-select-befehl/)
-  * 💡 [Metadaten sichten](1-der-select-befehl/metadaten-sichten.md) \(`DESCRIBE`\)
-  * 💡 [Spalten auswählen](1-der-select-befehl/spalten-auswaehlen.md) \(`SELECT` / `FROM`\)
-  * 💡 [Zeilen filtern](1-der-select-befehl/zeilen-filtern.md) \(`WHERE`\)
-  * 💡 [Ergebnisse sortieren](1-der-select-befehl/ergebnisse-sortieren.md) \(`ORDER BY`\)
-  * 💡 [Einfache Aggregationen](1-der-select-befehl/einfache-aggregationen.md) \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
-  * 💡 [Gruppierungen](1-der-select-befehl/gruppierungen.md) \(`GROUP BY`\)
-  * 💡 [Gruppierte Daten filtern](1-der-select-befehl/gruppierte-daten-filtern.md) \(`HAVING`\) 
+  * [Metadaten sichten](1-der-select-befehl/metadaten-sichten.md) \(`DESCRIBE`\)
+  * [Spalten auswählen](1-der-select-befehl/spalten-auswaehlen.md) \(`SELECT` / `FROM`\)
+  * [Zeilen filtern](1-der-select-befehl/zeilen-filtern.md) \(`WHERE`\)
+  * [Ergebnisse sortieren](1-der-select-befehl/ergebnisse-sortieren.md) \(`ORDER BY`\)
+  * [Einfache Aggregationen](1-der-select-befehl/einfache-aggregationen.md) \(`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`\)
+  * [Gruppierungen](1-der-select-befehl/gruppierungen.md) \(`GROUP BY`\)
+  * [Gruppierte Daten filtern](1-der-select-befehl/gruppierte-daten-filtern.md) \(`HAVING`\) 
 * 2⃣ Mehrere Tabellen
-  * 💡 `INNER`-Join
-  * 💡 `LEFT` und `RIGHT`-Join
-  * 💡 `OUTER`-Join 
+  * `INNER`-Join
+  * `LEFT` und `RIGHT`-Join
+  * `OUTER`-Join 
 * 3⃣ Mengenoperationen
 
-  * 💡 Vereinigungsmengen bilden \(`UNION`\)
-  * 💡 Schnittmengen bilden \(`INTERSECT`\)
-  * 💡 Mengen subtrahieren \(`EXCEPT`\)
+  * Vereinigungsmengen bilden \(`UNION`\)
+  * Schnittmengen bilden \(`INTERSECT`\)
+  * Mengen subtrahieren \(`EXCEPT`\)
 
 * 4⃣ Unterabfragen
-  * 💡 Einwertige Unterabfragen
-  * 💡 Unterabfragen als Mengen 
+  * Einwertige Unterabfragen
+  * Unterabfragen als Mengen 
 * 5⃣ Window-Funktionen
 * 6⃣ Texte
 * 7⃣ Statistische Funktionen
