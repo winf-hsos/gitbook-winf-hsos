@@ -1,8 +1,8 @@
 # Metadaten sichten
 
-## Metadaten sichten - so geht’s
+## 💡 Metadaten sichten - so geht’s
 
-Bevor wir mit dem `SELECT` Befehl Daten abfragen, stellen wir uns zunächst die Frage, welche Daten uns überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der `DESCRIBE` Befehl hilft uns dabei:
+Bevor wir mit dem `SELECT` Befehl Daten abfragen, stellen wir uns zunächst die Frage, welche Daten uns überhaupt vorliegen? Für die Verwendung von SQL müssen wir nämlich die 🏷**Struktur der Daten** - und damit sind die 🏷**Tabellen**, 🏷**Spalten** und 🏷**Datentypen** gemeint - möglichst gut kennen. Wie verschaffen wir uns also ein Bild darüber? Der Befehl `describe` hilft uns dabei:
 
 ```sql
 describe ted_meta
@@ -14,7 +14,7 @@ Das Ergebnis ist eine Tabelle mit 3 Spalten und in diesem Fall 14 Zeilen. Pro Sp
 
 Diese Art von Informationen nennen wir 🏷**Metainformationen** \(oder Metadaten\). Sie beschreiben die Daten selbst, sind also Daten über Daten.
 
-## Datentypen
+## 🏷 Datentypen
 
 Eine Metainformation, die wir mit `describe` ermitteln können, ist der 🏷**Datentyp** einer Spalte. Der Datentyp gibt uns einen Hinweis, um welche Art von Information es sich bei der Spalte handelt. Genauer gesagt schränkt der Datentyp den 🏷**Wertebereich** \(oder Domäne\) ****der Spalte ein. Was heißt das konkret?
 
@@ -31,9 +31,11 @@ Jeder Datentyp in SQL sagt etwas darüber aus, welche Werte in einer Spalte steh
 | `timestamp` | Zeitstempel \(Sekunden seit dem 01.01.1970\) | 1549470029 |
 | `boolean` | Wahrheitswert | true, false |
 
-## Übungsaufgaben
+## 🧪 Übungsaufgaben
 
-Wechselt zu Databricks und öffnet das Notebook 🗒[\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
+Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
+
+#### Aufgabe 1.1
 
 {% tabs %}
 {% tab title="Aufgabe 1.1" %}
