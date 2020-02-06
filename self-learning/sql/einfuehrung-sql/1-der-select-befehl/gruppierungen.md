@@ -1,6 +1,6 @@
 # Gruppierungen
 
-## Gruppieren - so geht’s
+## 💡 Gruppieren - so geht’s
 
 Ihr habt gerade gesehen, wie man einfache Aggregationen, wie das Zählen oder Summieren einer Spalte, auf alle Datensätze in der Tabelle anwenden kann. Oftmals möchte man aber **einen Wert pro Gruppe** innerhalb der Daten ermitteln. Das funktioniert mit der `GROUP BY` Klausel.
 
@@ -29,13 +29,13 @@ Unsere Gruppen sind nun etwas feiner, d.h. wir bekommen im Ergebnis mehr Spalten
 
 ## Achtung: Beliebte Fehlerquelle
 
-Ein häufiger Fehler beim Erstellen von SQL-Abfragen ist das Vergessen von Spalten in der Gruppierung. In diesem Fall bekommt man die folgende Fehlermeldung, die immer die gleiche Lösung hat:
+⚠ Ein häufiger Fehler beim Erstellen von SQL-Abfragen ist das Vergessen von Spalten in der Gruppierung. In diesem Fall bekommt man die folgende Fehlermeldung, die immer die gleiche Lösung hat:
 
 ![Beliebter Fehler: Vergessen zu gruppieren.](../../../../.gitbook/assets/image%20%2812%29.png)
 
 Im Screenshot oben wurde die Spalte `speaker_occupation` nicht in der Gruppierung aufgeführt, was zu diesem Fehler führt. ☝Als Faustregel gilt: Alle Spalten, auf die keine Aggregationsfunktion angewendet werden, müssen in der `GROUP BY` Klausel auftauchen.
 
-## Übungsaufgaben
+## 🧪 Übungsaufgaben
 
 #### Aufgabe 1.10
 

@@ -1,6 +1,6 @@
 # Einfache Aggregationen
 
-## Einfache Aggregationen - so geht’s
+## 💡 Einfache Aggregationen - so geht’s
 
 Bisher entsprach jede Zeile im Ergebnis eines SQL Statements auch immer einer Zeile im Datensatz. Die Daten wurden bisher nicht verdichtet. Das wollen wir jetzt ändern.
 
@@ -21,7 +21,7 @@ Nehmen wir an, wir wollen alle TED Talks zählen:
 select count(*) as `Anzahl Talks` from ted_meta
 ```
 
-### Spalten im Ergebnis umbenennen
+### 💡 Spalten im Ergebnis umbenennen
 
 Im obigen Beispiel wird ein Ergebnis mit einer Spalte zurückgeliefert, das die Anzahl der Datensätze in der Tabelle `ted_meta` enthält. Wie ihr dem Screenshot unten entnehmen könnt, hat die Spalte den Namen 'Anzahl Talks'. Diesen Namen haben wir oben im SQL Statement mithilfe des `as` Schlüsselwortes definiert. Bei genauem Hinschauen sieht man, dass der Name in _accents graves_ gesetzt wurde. Das ist nur dann zwingend notwendig, wenn der Name Leerzeichen enthält oder selbst ein SQL Schlüsselwort ist. Um Fehler zu vermeiden ist es eine gute Angewohnheit, diese Konvention von Anfang an beizubehalten.
 
@@ -68,7 +68,7 @@ select count(distinct main_speaker) as `Anzahl unterschiedliche Speaker`
 from ted_meta
 ```
 
-## Übungsaufgaben
+## 🧪 Übungsaufgaben
 
 #### Aufgabe 1.8
 
