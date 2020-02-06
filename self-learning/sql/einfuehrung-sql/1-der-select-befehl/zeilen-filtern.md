@@ -1,6 +1,6 @@
 # Zeilen filtern
 
-## 💡 Zeilen Filtern - so geht’s
+## Zeilen Filtern - so geht’s
 
 ### Strings \(oder Zeichenketten\)
 
@@ -174,9 +174,9 @@ Der Vergleich von Datums- 🗓 und Zeitwerten 🕓 funktioniert rudimentär übe
 
 Für solche komplexere Anwendungen verweise ich auf den Abschnitt [\#8 Datum und Zeit](../8-datum-und-zeit.md), in dem spezielle Funktionen für den Umgang mit Datums- und Zeitwerten eingeführt werden.
 
-## 🧪 Übungsaufgaben
+## Übungsaufgaben
 
-Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
+Wechselt zu Databricks und öffnet das Notebook 🗒[\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
 
 #### Aufgabe 1.4
 
