@@ -33,9 +33,7 @@ Jeder Datentyp in SQL sagt etwas darüber aus, welche Werte in einer Spalte steh
 
 ## 🧪 Übungsaufgaben
 
-Wechselt zu Databricks und öffnet das Notebook 🗒\#1 Der SELECT Befehl. Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
-
-#### Aufgabe 1.1
+Wechselt zu Databricks und öffnet das Notebook 🗒[\#1 Der SELECT Befehl](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Versucht dort die unten stehenden Aufgaben mit passenden SQL Statements zu lösen.
 
 {% tabs %}
 {% tab title="Aufgabe 1.1" %}
