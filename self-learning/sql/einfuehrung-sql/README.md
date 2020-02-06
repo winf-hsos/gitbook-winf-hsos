@@ -48,7 +48,7 @@ Unter dem folgenden Link findet ihr eine 2-seitige Zusammenfassung der wichtigst
 
 ### Online-Kurse
 
-Auf der Plattform Datacamp gibt es sehr gute kostenlose Kurse zur Einführung in SQL:
+Auf der Plattform Datacamp gibt es gute kostenlose Kurse zur Einführung in SQL:
 
 * [SQL for Data Science](https://campus.datacamp.com/courses/intro-to-sql-for-data-science)
 * [SQL for Exploratory Analysis](https://campus.datacamp.com/courses/sql-for-exploratory-data-analysis/)
