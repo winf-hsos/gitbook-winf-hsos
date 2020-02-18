@@ -7,6 +7,8 @@ description: >-
 
 # Programming with Python
 
+## Links
+
 {% embed url="https://automatetheboringstuff.com/" caption="Link to free online book about automating things with Python." %}
 
 
