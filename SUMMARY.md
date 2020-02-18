@@ -133,7 +133,7 @@
 
 * [Bayesian Optimization and Simulation](research/bayesian-optimization-and-simulation.md)
 
-## MISC
+## Misc
 
 * [Appendix](misc/appendix/README.md)
   * [Slides](misc/appendix/slides.md)
