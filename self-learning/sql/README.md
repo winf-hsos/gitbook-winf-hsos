@@ -5,7 +5,7 @@ description: >-
   Funktionen kennen.
 ---
 
-# Datenanalyse mit SQL
+# Datenanalyse
 
 Das vorliegende Online-Tutorial soll es euch ermöglichen, SQL im Selbststudium zu erlernen. Das Tutorial ist in mehrere Blöcke unterteilt. Im ersten Block [Einführung in SQL](einfuehrung-sql/) lernt ihr die Grundlagen des SELECT-Befehls, der die Basis für sämtliche Analysen darstellt. Wenn ihr überhaupt keine Vorkenntnisse habt solltet ihr diesen Block unbedingt durcharbeiten und erst danach in die spezielleren Tutorials eintauchen.
 

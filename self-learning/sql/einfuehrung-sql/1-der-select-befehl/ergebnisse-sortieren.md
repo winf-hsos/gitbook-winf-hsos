@@ -1,6 +1,6 @@
 # Ergebnisse sortieren
 
-## 💡 Sortieren - so geht’s
+## Sortieren - so geht’s
 
 Einfach, aber sehr mächtig: Das 🔤Sortieren der Ergebnisse erlaubt es uns, Ranglisten zu erstellen und durch Auf- oder Abwärtssortierung schnell den kleinsten oder größten Wert in einer Liste zu identifizieren.
 
@@ -11,7 +11,7 @@ select * from ted_meta
 order by views
 ```
 
-### 💡 Aufsteigend oder absteigend?
+### Aufsteigend oder absteigend?
 
 Wollen wir lieber den Talk mit den meisten Views oben, drehen wir das Ergebnis einfach um, indem wir die Sortierungsrichtung ändern:
 
@@ -24,7 +24,7 @@ order by views desc
 
 ⚠ Die Zusatzangabe `DESC` steht für _descending_ und bedeutet übersetzt absteigend. Das bedeutet, größere Werte erscheinen oben. Ohne das Schlüsselwort `DESC` wird standardmäßig aufsteigend sortiert, was explizit auch mit dem Schlüsselwortpendant `ASC` erreicht werden kann.
 
-### 💡 Sortieren nach mehreren Spalten
+### Sortieren nach mehreren Spalten
 
 Wir haben die Möglichkeit, mehr als ein Sortierungskriterium anzugeben. Die Reihenfolge ist entscheidend: Es wird zuerst nach dem ersten und dann nach den nachfolgenden Kriterien sortiert. Wir wollen als Beispiel alle TED Talks nach ihrem Event sortieren, und innerhalb eines Events nach der Dauer. Dabei sollen die längeren Talks oben stehen \(absteigende Sortierung\):
 
@@ -35,7 +35,7 @@ order by event asc, duration desc
 
 ⚠ Das Schlüsselwort `ASC` wäre hier nicht notwendig, da auch standardmäßig aufsteigend sortiert würde.
 
-## 🧪 Übungsaufgaben
+## Übungsaufgaben
 
 #### Aufgabe 1.6
 

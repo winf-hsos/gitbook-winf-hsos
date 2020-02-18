@@ -2,7 +2,7 @@
 description: Nützliche SQL Abfragen für die Arbeit mit Twitter-Daten.
 ---
 
-# Twitter
+# Twitter mit SQL analysieren
 
 ## 💡 Datenqualität erhöhen
 
@@ -87,9 +87,9 @@ or size(photos) > 0
 
 ## Verwandte Themen
 
-{% page-ref page="../texte-mit-sql-auswerten/" %}
+{% page-ref page="../natural-language-processing-nlp/nlp-mit-sql/texte-mit-sql-auswerten/" %}
 
 {% page-ref page="../sql-und-json.md" %}
 
-{% page-ref page="../twitter-netzwerke-mit-sql-auswerten.md" %}
+{% page-ref page="twitter-netzwerke-mit-sql-auswerten.md" %}
 

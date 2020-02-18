@@ -30,7 +30,7 @@ Die Prüfungsleistung besteht aus einer semesterübergreifenden Projektarbeit in
 
 ## 👩💻 Software & Accounts <a id="software-and-accounts"></a>
 
-Für die Umsetzung eines Shops arbeitet ihr mit dem Cloudanbieter [Shopify](https://shopify.de). Zugänge werden bereitgestellt und anfallende Kosten werden für die Dauer des Moduls von der Hochschule übernommen:
+Für die Umsetzung eines Shops arbeitet ihr mit dem Cloudanbieter [Shopify](https://shopify.de). Zugänge werden bereitgestellt:
 
 * [Shopify](https://shopify.de)
 

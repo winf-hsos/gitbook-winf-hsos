@@ -43,5 +43,5 @@ Anschließend können wir NLP auf Texte anwenden und die Teilergebnisse begutach
 
 {% embed url="https://course.spacy.io/" %}
 
-{% file src="../../../.gitbook/assets/spacy-cheatsheet.pdf" caption="spaCy Cheatsheet" %}
+{% file src="../../../../.gitbook/assets/spacy-cheatsheet.pdf" caption="spaCy Cheatsheet" %}
 

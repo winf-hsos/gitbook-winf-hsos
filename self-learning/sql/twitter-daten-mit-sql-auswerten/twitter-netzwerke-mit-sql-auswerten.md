@@ -4,7 +4,7 @@
 
 Eine Möglichkeit, Themen in Twitter-Daten zu identifizieren, besteht darin, die Verwendung von Hashtags systematisch zu analysieren. Um speziell zusammenhängende Themen zu finden, bietet es sich an, die Hashtags zu zählen, die häufig paarweise auftreten. Visualisiert man anschließend die gefundenen Hashtag-Paare und deren Häufigkeiten in geeigneter Weise, so bekommt man eine **Themenlandkarte** der Twitter-Hashtags.
 
-![Beispiel f&#xFC;r eine Themenlandkarte auf Basis von Hashtags.](../../.gitbook/assets/hashtag_network.png)
+![Beispiel f&#xFC;r eine Themenlandkarte auf Basis von Hashtags.](../../../.gitbook/assets/hashtag_network.png)
 
 ### View für Hashtags erstellen 👓 
 

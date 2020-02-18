@@ -4,7 +4,7 @@ description: >-
   erstellen und in Databricks zu verwenden.
 ---
 
-# \#1 Arbeiten mit Mappingtabellen
+# Arbeiten mit Mappingtabellen
 
 ## 💡 Erstellung einer einfachen Mapping-Tabelle mit Scala
 
@@ -84,15 +84,15 @@ Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten 
 
 **Schritt 1:** Ihr klickt auf "Datei" und dann "Im Web veröffentlichen"
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../../.gitbook/assets/image%20%2837%29.png)
 
 **Schritt 2:** "Gesamtes Dokument" auswählen und im rechten Dropdown-Menü "Kommagetrennte Werte \(CSV\)" auswählen.
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](../../../../.gitbook/assets/image%20%2823%29.png)
 
 **Schritt 3:** Link kopieren und in Databricks einfügen \(Wert in Zeile 6 ersetzen\).
 
-![Diesen Link in die Zwischenablage kopieren.](../../../.gitbook/assets/image%20%2819%29.png)
+![Diesen Link in die Zwischenablage kopieren.](../../../../.gitbook/assets/image%20%2819%29.png)
 
 Nun müsst ihr nur noch den Code-Block ausführen und anschließend sollte die neue Tabelle verfügbar sein. Wenn ihr anschließend Änderungen im Spreadsheet durchführt und den Code zum Laden der Tabelle erneut ausführt, habt ihr alle Änderungen auch in Databricks verfügbar. Das erleichtert den Prozess, gerade wenn man iterativ Tabellen erstellt, die man sehr häufig in Databricks aktualisieren muss.
 

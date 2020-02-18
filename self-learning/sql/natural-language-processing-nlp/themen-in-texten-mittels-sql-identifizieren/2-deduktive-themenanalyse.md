@@ -1,4 +1,4 @@
-# \#2 Deduktive Themenanalyse
+# Deduktive Themenanalyse
 
 ## Codebuch anlegen und erstes Thema einpflegen
 
@@ -6,7 +6,7 @@ Bei der **deduktiven Variante** der Themenidentifikation ist die Ausgangsbasis e
 
 Um einen Startpunkt zu bekommen erstellt ihr im ersten Schritt ein neues Google Sheet mit 2 Spalten: Die erste beinhaltet das Keyword, und die zweite ordnet das Keyword einem Thema zu. Achtet darauf, dass das Keyword in Kleinbuchstaben geschrieben wird, weil wir auch die Wörter der zerlegten Texte allesamt klein geschrieben haben. Das erleichtert uns den Vergleich mit SQL, weil wir uns nicht um Groß- und Kleinschreibung kümmern müssen.
 
-![So k&#xF6;nnte eine Codebuch in Google Sheets initial aussehen.](../../../.gitbook/assets/image%20%284%29.png)
+![So k&#xF6;nnte eine Codebuch in Google Sheets initial aussehen.](../../../../.gitbook/assets/image%20%284%29.png)
 
 ## Codebuch veröffentlichen und in Databricks laden
 
@@ -32,7 +32,7 @@ order by id, topic
 
 Die letzte Zeile sorgt dafür, dass im Ergebnis nur Tweets mit einem Keyword aus unserem Codebuch enthalten sind. Je nachdem welche Daten in eurem Account geladen sind kann das Ergebnis so oder so ähnlich aussehen:
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../../.gitbook/assets/image%20%2839%29.png)
 
 In der letzten Spalte `topic` steht das zugeordnete Thema, in den beiden Spalten davor das Schlüsselwort, dessen Vorhandensein zu der Zuordnung des Themas geführt hat.
 
@@ -60,5 +60,5 @@ order by number_hits desc
 
 Die Funktion `collect_list` in Zeile 4 aggregiert die gefundenen Keywords, die zuvor in einer oder mehreren Zeilen standen, in ein Array. Das `count(1)` in Zeile 6 zählt die Zeilen, also die gefundenen Keywords. Durch das Gruppieren der restlichen Spalten erhalten wir im Ergebnis jeden Tweet und identifiziertes Thema jetzt genau einmal. Durch die neue Sortierung nach der Anzahl gefundener Keywords stehen nun die Themen mit den meisten Treffern oben.
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](../../../../.gitbook/assets/image%20%2824%29.png)
 

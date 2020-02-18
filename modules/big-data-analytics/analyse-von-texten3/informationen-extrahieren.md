@@ -12,7 +12,7 @@
 
 Für die Analyse von Emotionen via Emojis gibt es einen Abschnitt im folgenden Tutorial:
 
-{% page-ref page="../../../self-learning/sql/twitter-daten-mit-sql-auswerten/emotionen-analysieren.md" %}
+{% page-ref page="../../../self-learning/sql/natural-language-processing-nlp/nlp-mit-sql/emotionen-analysieren.md" %}
 
 ### 2⃣ Daten aus JSON Objekten extrahieren
 
