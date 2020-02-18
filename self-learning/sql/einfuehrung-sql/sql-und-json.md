@@ -1,10 +1,10 @@
-# SQL und JSON
+# \#9 JSON
 
 ## 🎯 Lernziele
 
-In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSON-Datenformat. JSON ist kurz für _Javascript Object Notation_ und ist ein gängiges Format für den Austausch von Daten, speziell im Umfeld des Internet. Wenn ihr das Format selbst noch nicht kennt, solltet ihr zuerst das Tutorial [Einführung in JSON](../web-development/javascript-fuers-web/einfuehrung-in-json.md) absolvieren:
+In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSON-Datenformat. JSON ist kurz für _Javascript Object Notation_ und ist ein gängiges Format für den Austausch von Daten, speziell im Umfeld des Internet. Wenn ihr das Format selbst noch nicht kennt, solltet ihr zuerst das Tutorial [Einführung in JSON](../../web-development/javascript-fuers-web/einfuehrung-in-json.md) absolvieren:
 
-{% page-ref page="../web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
+{% page-ref page="../../web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
 
 Im Gegensatz zu herkömmlichen Spalten mit atomaren Werten können die Daten in einer Spalte im JSON-Format eine eigene Struktur besitzen. So kann innerhalb einer Spalte eine ganze Liste oder eine Hierarchie an Informationen gespeichert werden. SQL ist ursprünglich nicht für dieses Datenformat entwickelt worden. Es gibt aber in den meisten SQL-Implementierungen und speziell in dem von uns eingesetzten Spark SQL mittlerweile Funktionen für dieses spezielle Datenformat. Ziel dieses Tutorials ist es, die wichtigsten davon anhand von Beispielen kennenzulernen.
 
@@ -22,7 +22,7 @@ Immer wenn wir den Begriff `array<...>` als Datentyp einer Spalte sehen wissen w
 
 Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct<...>`. Hierbei handelt sich nicht um ein Array, sondern **um ein Objekt**. Ein Objekt ist ein strukturierter Datentyp, der selbst weitere Felder \(oder Attribute\) hat, die wir über ihre Namen ansprechen können. Im Beispiel unten hat ein Wert in der Spalte `related` die Felder `also_bought`, `also_viewed`, `bought_together` und `buy_after_viewing`. Alle diese Felder sind wiederum vom Typ `array<string>`, was eine Liste von Strings bedeutet. Ihr seht schon, die Struktur einer JSON-Spalte kann beliebig tief geschachtelt sein. Wie man mit Objekten umgeht [schauen wir uns ebenfalls gleich an](sql-und-json.md#objekte-und-deren-attribute-abfragen).
 
-![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2842%29.png)
+![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../../.gitbook/assets/image%20%2842%29.png)
 
 ## 💡 Arrays abfragen
 
@@ -38,7 +38,7 @@ Um die Daten genauer zu untersuchen haben wir die Möglichkeit, über den kleine
 
 Wie aber können wir diese Spalte mit SQL abfragen?
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
 ### Arrays mit SQL abfragen
 
@@ -81,7 +81,7 @@ where size(categories) > 1
 
 Das Ergebnis seht ihr unten im Screenshot:
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 
 ### Numerische Arrays summieren \(ohne `explode()`\)
 

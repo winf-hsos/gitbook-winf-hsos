@@ -55,7 +55,7 @@ Das Ergebnis der Funktion ist eine neue Spalte als Liste \(Array\) von Emojis:
 
 ![](../../../../.gitbook/assets/image%20%2814%29.png)
 
-Wie wir mit Arrays in SQL umgehen ist bekannt bzw. könnt ihr im [dafür vorgesehenen Tutorial](../../sql-und-json.md#arrays-abfragen) nachlesen. Wir können z.B. `explode` anwenden, um pro Zeile ein Emojis zu erhalten:
+Wie wir mit Arrays in SQL umgehen ist bekannt bzw. könnt ihr im [dafür vorgesehenen Tutorial](../../einfuehrung-sql/sql-und-json.md#arrays-abfragen) nachlesen. Wir können z.B. `explode` anwenden, um pro Zeile ein Emojis zu erhalten:
 
 ```sql
 select text, explode(emojis) as emoji

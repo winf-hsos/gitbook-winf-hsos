@@ -136,9 +136,9 @@ order by `Anzahl Kommentare` desc
 
 ## Wie extrahiert man Strings aus einem Array?
 
-Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../self-learning/sql/sql-und-json.md#arrays-mit-sql-abfragen) beantwortet:
+Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../self-learning/sql/einfuehrung-sql/sql-und-json.md#arrays-mit-sql-abfragen) beantwortet:
 
-{% page-ref page="../../../self-learning/sql/sql-und-json.md" %}
+{% page-ref page="../../../self-learning/sql/einfuehrung-sql/sql-und-json.md" %}
 
 ## Wie entfernt man doppelte Tweets aus dem Datensatz?
 

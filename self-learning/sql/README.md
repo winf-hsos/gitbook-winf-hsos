@@ -13,7 +13,7 @@ Das vorliegende Online-Tutorial soll es euch ermöglichen, SQL im Selbststudium 
 
 Sollte euch ein neuer unbekannter Datensatz vorliegen so schaut in das Tutorial, um mithilfe von SQL den Datensatz kennenzulernen:
 
-{% page-ref page="daten-mit-sql-erkunden.md" %}
+{% page-ref page="einfuehrung-sql/daten-mit-sql-erkunden.md" %}
 
 
 

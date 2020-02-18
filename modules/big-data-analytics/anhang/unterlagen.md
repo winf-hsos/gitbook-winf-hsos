@@ -36,11 +36,11 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 {% page-ref page="../../../self-learning/sql/einfuehrung-sql/" %}
 
-{% page-ref page="../../../self-learning/sql/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../self-learning/sql/einfuehrung-sql/daten-mit-sql-erkunden.md" %}
 
 {% page-ref page="../../../self-learning/web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../self-learning/sql/sql-und-json.md" %}
+{% page-ref page="../../../self-learning/sql/einfuehrung-sql/sql-und-json.md" %}
 
 {% page-ref page="../../../self-learning/sql/twitter-daten-mit-sql-auswerten/" %}
 

@@ -1,8 +1,8 @@
-# Daten mit SQL erkunden
+# \#10 Datensätze erkunden
 
 ## 🎯 Lernziele
 
-In diesem Tutorial bekommt ihr einen Überblick, mit welchen SQL-Abfragen ihr euch schnell einen Überblick über einen unbekannten Datensatz verschaffen könnt. Die Konzepte sind allesamt auch im Tutorial [Einführung SQL](einfuehrung-sql/) enthalten, es geht hier um eine gezielte Bündelung der Abfragen, die bei dem **Erkunden von Daten** relevant sind.
+In diesem Tutorial bekommt ihr einen Überblick, mit welchen SQL-Abfragen ihr euch schnell einen Überblick über einen unbekannten Datensatz verschaffen könnt. Die Konzepte sind allesamt auch im Tutorial [Einführung SQL](./) enthalten, es geht hier um eine gezielte Bündelung der Abfragen, die bei dem **Erkunden von neuen Daten** relevant sind.
 
 ## 💡 Datensätze zählen
 
@@ -43,7 +43,7 @@ Die häufigsten Werte werden im Ergebnis oben angezeigt.
 
 Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick in eine visuelle Form zu bringen. Dazu nutzt ihr die Buttonleiste unter der Ergebnisanzeige. Mit Klick auf Chartsymbol bekommt ihr sofort eine Anzeige als Balkendiagramm. Über die den Button "Plot Options..." könnt ihr auch andere Charts auswählen und die Achsen konfigurieren.
 
-![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2825%29.png)
+![Die Anzahl Talks pro Event als Area-Chart.](../../../.gitbook/assets/image%20%2825%29.png)
 
 ## 💡 Die zeitliche Verteilung der Daten ermitteln
 
@@ -64,10 +64,10 @@ order by year(film_date)
 Auch hier ist eine Visualisierung sinnvoll:
 
 {% hint style="info" %}
-Neben dem Jahr oder Monat könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](einfuehrung-sql/8-datum-und-zeit.md) des einführenden SQL Tutorials.
+Neben dem Jahr oder Monat könnt ihr auch andere Datumsbestandteile extrahieren. Schaut dazu in den Teil [\#8 Datum und Zeit](8-datum-und-zeit.md) des einführenden SQL Tutorials.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 
 ### Anfangs- und Enddatum
 

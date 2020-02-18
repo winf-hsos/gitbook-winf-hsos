@@ -75,7 +75,7 @@ where coordinates is not null
 
 ### 💡 Extrahieren von URLs oder Foto-URLs
 
-Die URLs und Fotos sind in den Feldern `urls` und `photos` gespeichert. Beide Spalten sind vom Typ Array, was bedeutet, dass ein Tweet mehrere URLs bzw. mehrere Fotos haben kann. Der generelle Umgang mit Array wird im Tutorial [JSON-Felder mit SQL verarbeiten](../sql-und-json.md#arrays-abfragen) erklärt. Hier eine Abfrage, die jeweils die erste URL / Foto eines Tweets in einer eigenen Spalte anzeigt:
+Die URLs und Fotos sind in den Feldern `urls` und `photos` gespeichert. Beide Spalten sind vom Typ Array, was bedeutet, dass ein Tweet mehrere URLs bzw. mehrere Fotos haben kann. Der generelle Umgang mit Array wird im Tutorial [JSON-Felder mit SQL verarbeiten](../einfuehrung-sql/sql-und-json.md#arrays-abfragen) erklärt. Hier eine Abfrage, die jeweils die erste URL / Foto eines Tweets in einer eigenen Spalte anzeigt:
 
 ```sql
 select urls[0].clean_url as `First URL in Tweet`
@@ -89,7 +89,7 @@ or size(photos) > 0
 
 {% page-ref page="../natural-language-processing-nlp/nlp-mit-sql/texte-mit-sql-auswerten/" %}
 
-{% page-ref page="../sql-und-json.md" %}
+{% page-ref page="../einfuehrung-sql/sql-und-json.md" %}
 
 {% page-ref page="twitter-netzwerke-mit-sql-auswerten.md" %}
 
