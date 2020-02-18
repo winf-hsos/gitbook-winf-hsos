@@ -48,7 +48,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 {% page-ref page="../../../self-learning/sql/twitter-daten-mit-sql-auswerten/twitter-netzwerke-mit-sql-auswerten.md" %}
 
-{% page-ref page="../../../self-learning/sql/cheatsheet-sql.md" %}
+{% page-ref page="../../../self-learning/sql/einfuehrung-sql/11-anhang/cheatsheet-sql.md" %}
 
 ## Videos
 

@@ -1,3 +1,10 @@
+---
+description: >-
+  Beim NLP geht es um die Analyse von Texten und deren Inhalt. In den folgenden
+  Tutorials lernt ihr verschiedene Möglichkeiten mittels SQL und Python NLP
+  selbst auf Texte anzuwenden.
+---
+
 # Natural Language Processing \(NLP\)
 
 ## Literatur
