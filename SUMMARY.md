@@ -4,6 +4,7 @@
 
 ## Self Learning
 
+* [Informationssysteme verstehen](self-learning/informationssysteme-verstehen.md)
 * [Understanding Computers](self-learning/understanding-computers/README.md)
   * [The Binary System](self-learning/understanding-computers/the-binary-system.md)
   * [Codes](self-learning/understanding-computers/codes.md)
