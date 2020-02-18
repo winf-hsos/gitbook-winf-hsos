@@ -5,6 +5,8 @@
 ## Self Learning
 
 * [Anwendungssysteme](self-learning/anwendungssysteme/README.md)
+  * [Beispiel E-Commerce](self-learning/anwendungssysteme/beispiel-e-commerce.md)
+  * [Merkmale von Anwendungssystemen](self-learning/anwendungssysteme/merkmale-von-anwendungssystemen.md)
   * [Web-basierte Anwendungen](self-learning/anwendungssysteme/web-basierte-anwendungen.md)
   * [Programmlogik](self-learning/anwendungssysteme/programmlogik.md)
   * [Datenverwaltung](self-learning/anwendungssysteme/datenverwaltung.md)
