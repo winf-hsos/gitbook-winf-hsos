@@ -49,6 +49,21 @@ Es sind auch Mischformen der beiden Lösungen denkbar und sinnvoll. Gerade für 
 
 ### Proprietäre vs. offene Software
 
+Mit proprietär ist gemeint, dass Teile einer Software für Dritte nicht zugänglich ist und die Details der Software sozusagen das Geheimnis oder Intellectual Property der Herstellerfirma sind und bleiben sollen. 
+
+In der Regel bezieht sich das auf den Quellcode der Software. Im Gegensatz zu quelloffener oder freier Software \(vgl. Open Source\) ist es bei proprietärer Software nicht möglich oder erlaubt, den Programmcode der Software einzusehen oder zu manipulieren. Als Motivation für proprietäre Software können folgende Punkte genannt werden:
+
+* Kommerzielle Interessen stehen im Vordergrund. Eine quelloffene Software kann schwierig vor unerlaubter Weiterverbreitung und Manipulation geschützt werden.
+* Details zur Umsetzung sollen nicht veröffentlicht werden. Wenn die Software beispielsweise ein bestimmtes Verfahren zur Optimierung eines bestimmten Prozesses implementiert, so ist es im Interesse des Herstellers dieses Verfahren zu schützen, damit es nicht \(unerlaubt\) kopiert werden kann.
+
+Open Source Software dagegen zeichnet sich durch die Möglichkeit der offenen Einsichtnahme in den Quellcode und gar zur freien Weiterentwicklung aus. Dies kann entweder im Rahmen eigener Projekte oder im Rahmen eines Community-Beitrags \(Bugfix, neues Feature\) zur originären Software geschehen.
+
+Bei Open Source Software steht der kommerzielle Gedanke im Hintergrund. Stattdessen werden die folgenden Ziele verfolgt:
+
+* Durch den Beitrag einer möglichst breiten Community erhofft man sich eine schnelle Weiterentwicklung der Software, wovon auch der ursprüngliche Initiator des freien Software profitiert.
+* Durch den kostenlosen Zugang sollen möglichst viele Nutzer akquiriert werden, die dann durch intensive Nutzung Fehler identifizieren, die dann durch die Community behoben werden. Das kann sehr schnell zu einer robusten Version der Software führen.
+* Möglicherweise stehen auch Reputationsaspekte hinter einer freien Software. Oft wird eine vorher proprietäre Software eines großen Herstellers der Community frei zugänglich gemacht. So war beispielsweise es bei Visual Studio der Fall, das Microsoft im Jahr 2015 als Visual Studio Code in einer Open Source Version bereitgestellt hat. Seitdem erfreut sich VS Code einer sehr großen Beliebtheit, was sich auch auf die Firma Microsoft überträgt.
+
 ### Desktop vs. Webanwendung
 
 ### Online vs. Offline
