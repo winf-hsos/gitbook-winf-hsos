@@ -4,7 +4,12 @@
 
 ## Self Learning
 
-* [Anwendungssysteme verstehen](self-learning/informationssysteme-verstehen.md)
+* [Anwendungssysteme](self-learning/anwendungssysteme/README.md)
+  * [Web-basierte Anwendungen](self-learning/anwendungssysteme/web-basierte-anwendungen.md)
+  * [Programmlogik](self-learning/anwendungssysteme/programmlogik.md)
+  * [Datenverwaltung](self-learning/anwendungssysteme/datenverwaltung.md)
+  * [Schnittstellen](self-learning/anwendungssysteme/schnittstellen.md)
+  * [Cloud-Dienste](self-learning/anwendungssysteme/cloud-dienste.md)
 * [Understanding Computers](self-learning/understanding-computers/README.md)
   * [The Binary System](self-learning/understanding-computers/the-binary-system.md)
   * [Codes](self-learning/understanding-computers/codes.md)
