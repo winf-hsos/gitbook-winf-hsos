@@ -40,7 +40,7 @@ Im Gegensatz dazu wird eine Individualsoftware per Definition für ein Unternehm
 Im Zusammenhang mit Individual vs. Standardsoftware wird auch oft die Frage **Make or Buy?** genannt. Hat sich das Unternehmen für **Make** entschieden stellt sich anschließend noch die Frage, ob ein Systemhaus beauftragt wird oder ob die Software selbst entwickelt werden soll.
 {% endhint %}
 
-#### Entwicklung outsourcen oder inhouse?
+#### Erstellung outsourcen oder inhouse entwickeln?
 
 Nach der Entscheidung für eine Individualsoftware gibt es grundsätzlich 2 Optionen für die Erstellung: 
 
