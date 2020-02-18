@@ -31,7 +31,7 @@ Standardsoftware kann in der Regel günstiger angeboten werden, weil der Herstel
 Digitale Güter weisen im Vergleich zu physischen Güten keine Grenzkosten auf. Das bedeutet, dass nach der initialen Erstellung eines digitalen Guts jedes weitere Exemplar ohne Kosten erzeugt werden kann. Das ist ein Grund warum Standardsoftware meistens günstiger ist als Individualsoftware.
 {% endhint %}
 
-Im Gegensatz dazu wird eine Individualsoftware per Definition für ein Unternehmen individuell erstellt. Es können somit keine Skaleneffekte erzeugt werden, und der Auftraggeber muss die vollen Herstellungskosten tragen. Dennoch gibt es in bestimmten Situationen gute Gründe für Individualsoftware:
+Im Gegensatz dazu wird eine Individualsoftware per Definition für ein Unternehmen individuell erstellt. Es können somit keine Skaleneffekte erzeugt werden und der Auftraggeber muss die vollen Herstellungskosten tragen. Dennoch gibt es in bestimmten Situationen gute Gründe für Individualsoftware:
 
 * Es gibt keine Standardsoftware, die den Bedarf des Unternehmens decken kann. Der Prozess ist zu speziell und es gibt kein anderes Unternehmen mit diesem Bedarf.
 * Das Unternehmen versucht sich über eine individuelle Lösung von der Konkurrenz zu differenzieren. Vielleicht hat es eine Prozessverbesserung entwickelt, die in der Form nicht von Standardsoftware abgedeckt wird. 
