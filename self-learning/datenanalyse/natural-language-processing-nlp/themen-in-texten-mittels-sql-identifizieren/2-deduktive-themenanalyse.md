@@ -32,7 +32,7 @@ order by id, topic
 
 Die letzte Zeile sorgt dafür, dass im Ergebnis nur Tweets mit einem Keyword aus unserem Codebuch enthalten sind. Je nachdem welche Daten in eurem Account geladen sind kann das Ergebnis so oder so ähnlich aussehen:
 
-![](../../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../../.gitbook/assets/image%20%2841%29.png)
 
 In der letzten Spalte `topic` steht das zugeordnete Thema, in den beiden Spalten davor das Schlüsselwort, dessen Vorhandensein zu der Zuordnung des Themas geführt hat.
 

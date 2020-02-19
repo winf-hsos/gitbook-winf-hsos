@@ -84,7 +84,7 @@ Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten 
 
 **Schritt 1:** Ihr klickt auf "Datei" und dann "Im Web veröffentlichen"
 
-![](../../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../../.gitbook/assets/image%20%2839%29.png)
 
 **Schritt 2:** "Gesamtes Dokument" auswählen und im rechten Dropdown-Menü "Kommagetrennte Werte \(CSV\)" auswählen.
 

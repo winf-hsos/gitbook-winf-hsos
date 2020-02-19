@@ -10,7 +10,7 @@ describe ted_meta
 
 Das Ergebnis ist eine Tabelle mit 3 Spalten und in diesem Fall 14 Zeilen. Pro Spalte in der Zieltabelle eine Zeile. Die erste Spalte `col_name` beinhaltet den Namen der Spalte in der Tabelle `ted_meta`. Die zweite Spalte `data_type` gibt den 🏷**Datentyp** der Spalte an. Die letzte Spalte enthält einen Kommentar zu der Spalte, wenn dieser gepflegt wäre \(in diesem Fall gibt es keine Kommentare\).
 
-![Das Ergebnis des DESCRIBE Befehls hat 3 Spalten.](../../../../.gitbook/assets/image%20%2836%29.png)
+![Das Ergebnis des DESCRIBE Befehls hat 3 Spalten.](../../../../.gitbook/assets/image%20%2837%29.png)
 
 Diese Art von Informationen nennen wir 🏷**Metainformationen** \(oder Metadaten\). Sie beschreiben die Daten selbst, sind also Daten über Daten.
 
