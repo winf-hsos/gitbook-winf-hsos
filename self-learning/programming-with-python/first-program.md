@@ -41,3 +41,7 @@ In the following, we will dissect each line of the program to get an grasp of wh
 You are completely free with the file names you choose for your programs. But if you name them as suggested in this tutorial, it will be easier to reference different files later on.
 {% endhint %}
 
+When you copied the code into your own file, run it and make sure everything works. This is how the output looks for me today:
+
+![](../../.gitbook/assets/image%20%2814%29.png)
+

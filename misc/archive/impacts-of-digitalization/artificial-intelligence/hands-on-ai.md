@@ -29,5 +29,5 @@ You can download RapidMiner Studio and signup for Azure ML Studio if you want to
 I'll post a one or two videos on these experiments soon, so everyone can follow through step by step at home.
 {% endhint %}
 
-![The Gartner Magic Quadrant for Data Science an ML Platforms for 2019. The tools we use are highlighted.](../../../../.gitbook/assets/image%20%2823%29.png)
+![The Gartner Magic Quadrant for Data Science an ML Platforms for 2019. The tools we use are highlighted.](../../../../.gitbook/assets/image%20%2824%29.png)
 

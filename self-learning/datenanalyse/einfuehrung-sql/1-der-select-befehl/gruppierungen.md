@@ -31,7 +31,7 @@ Unsere Gruppen sind nun etwas feiner, d.h. wir bekommen im Ergebnis mehr Spalten
 
 Ein häufiger Fehler beim Erstellen von SQL-Abfragen ist das Vergessen von Spalten in der Gruppierung. In diesem Fall bekommt man die folgende Fehlermeldung, die immer die gleiche Lösung hat:
 
-![Beliebter Fehler: Vergessen zu gruppieren.](../../../../.gitbook/assets/image%20%2814%29.png)
+![Beliebter Fehler: Vergessen zu gruppieren.](../../../../.gitbook/assets/image%20%2815%29.png)
 
 Im Screenshot oben wurde die Spalte `speaker_occupation` nicht in der Gruppierung aufgeführt, was zu diesem Fehler führt. ☝Als Faustregel gilt: Alle Spalten, auf die keine Aggregationsfunktion angewendet werden, müssen in der `GROUP BY` Klausel auftauchen.
 
