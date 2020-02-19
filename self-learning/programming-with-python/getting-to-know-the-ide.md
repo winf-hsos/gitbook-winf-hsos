@@ -8,11 +8,32 @@ For this tutorial, I am assuming that you use [PythonAnywhere](https://www.pytho
 
 The dashboard is the place to get an overview of your PythonAnywhere \(PA\) account and activities. Below is a screenshot of my dashboard.
 
-![Screenshot of the PythonAnywhere dashboard.](../../.gitbook/assets/image%20%2827%29.png)
+![Screenshot of the PythonAnywhere dashboard.](../../.gitbook/assets/image%20%2829%29.png)
 
 The dashboard is divided into 4 different sections. In the screenshot, I highlighted the "Files" section, which is the most important section for us in this tutorial. By default, you will see your recently edited files, as well as two buttons to open an \(or create\) another file and to browse all existing files.
 
+For now, we don't have to deal with the other three sections. We will introduce them later when we need them.
+
 ## Editing Files
 
+In order to write a program \(or change an existing one\) or to run a program, you need to find that file using the "Files" section. There are two ways to open a file in the editor:
+
+1. If the file is listed under the recent files, just click on the link and the editor will open
+2. If the file is not in the recent files list, click on "Browse files". This opens a new view with a list of the directories on the left and the contained files on the right hand side. You can navigate your directories by clicking on them to list the files they contain. Once you found the file you want to edit, click on it and it'll open.
+
+![Screenshot of the file browser in PythonAnywhere.](../../.gitbook/assets/image%20%285%29.png)
+
+When you open a file, you should see the content in the editor, ready for you to start coding:
+
+![](../../.gitbook/assets/image%20%2821%29.png)
+
 ## Running Programs
+
+When you're done editing, it's time to run your program to see if it does what you expect it to. Running your program is as simple as clicking the "&gt;&gt;&gt; Run" button in the upper right corner of the editor. You can also use the shortcut **Ctrl + R** to save and run your program.
+
+After you clicked the button, a new console will open that shows the output of your program. You can create an output on the console using the `print()` command, as shown in the screenshot above.
+
+{% hint style="warning" %}
+In the free version of PythonAnywhere, you can only have two consoles open at the same time. If you have already two consoles open and you try to run another program, which would open a third console, you get an error message. In this case, navigate to the consoles overview using the burger menu in the upper right corner of the editor. In this view, you see all your open consoles, and you can kill them from there as well.
+{% endhint %}
 

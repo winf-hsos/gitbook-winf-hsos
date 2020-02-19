@@ -23,7 +23,7 @@ Das Ergebnis des Views sieht so aus:
 select * from tweet_word_pairs
 ```
 
-![](../../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../../.gitbook/assets/image%20%2824%29.png)
 
 Um nun z.B. herauszufinden, welche Wörter häufig auf das Wort "not" folgen, kann folgendes SQL verwendet werden:
 
