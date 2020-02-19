@@ -29,7 +29,7 @@ When you open a file, you should see the content in the editor, ready for you to
 
 ## Running Programs
 
-When you're done editing, it's time to run your program to see if it does what you expect it to. Running your program is as simple as clicking the "&gt;&gt;&gt; Run" button in the upper right corner of the editor. You can also use the shortcut **Ctrl + R** to save and run your program.
+When you're done editing, it's time to run your program to see if it does what you expect it to do. Running your program is as simple as clicking the "&gt;&gt;&gt; Run" button in the upper right corner of the editor. You can also use the shortcut **Ctrl + R** to save and run your program.
 
 After you clicked the button, a new console will open that shows the output of your program. You can create an output on the console using the `print()` command, as shown in the screenshot above.
 
