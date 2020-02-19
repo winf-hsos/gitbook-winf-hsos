@@ -7,6 +7,8 @@ description: >-
 
 # Programming with Python
 
+![](../../.gitbook/assets/python-tutorial-visually-2x.png)
+
 ## Learning Path
 
 At first, you need to setup your workspace and install Python and Visual Studio Code:
