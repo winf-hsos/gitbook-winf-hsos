@@ -20,7 +20,7 @@
 * [Programming with Python](self-learning/programming-with-python/README.md)
   * [Workspace Setup](self-learning/programming-with-python/workspace-setup.md)
   * [Getting to know the IDE](self-learning/programming-with-python/getting-to-know-the-ide.md)
-  * [First Program](self-learning/programming-with-python/first-program.md)
+  * [Our First Program](self-learning/programming-with-python/first-program.md)
   * [What is a Program?](self-learning/programming-with-python/what-is-a-program.md)
 * [Datenanalyse](self-learning/datenanalyse/README.md)
   * [Einführung SQL](self-learning/datenanalyse/einfuehrung-sql/README.md)

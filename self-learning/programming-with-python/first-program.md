@@ -1,2 +1,2 @@
-# First Program
+# Our First Program
 
