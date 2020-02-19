@@ -6,7 +6,7 @@ For this tutorial, I am assuming that you use [PythonAnywhere](https://www.pytho
 
 ## The Dashboard
 
-The dashboard is the place to get an overview of your PythonAnywhere \(PA\) account and activities. Below is a screenshot of my dashboard.
+The dashboard gives you an overview of your PythonAnywhere \(PA\) account and your activities. Below is a screenshot of my dashboard.
 
 ![Screenshot of the PythonAnywhere dashboard.](../../.gitbook/assets/image%20%2829%29.png)
 
