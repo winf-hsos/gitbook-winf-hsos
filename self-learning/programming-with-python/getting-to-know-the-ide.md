@@ -27,6 +27,12 @@ When you open a file, you should see the content in the editor, ready for you to
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
+PA's code editor is quite simplistic, but it comes with the most important features you need to code in Python:
+
+* Syntax highlighting: Python commands are shown in blue, strings in green, etc. This makes the code much better readable
+* Auto indent: When you open a new block \(we'll learn later what that means\), the editor will automatically indent the following commands to make them part of that new block.
+* Code completion: When you type a letter \(or two or more\) and hit Ctrl + Space, the editor gives you suggestions of commands and variables. Hitting enter will complete the text for you.
+
 ## Running Programs
 
 When you're done editing, it's time to run your program to see if it does what you expect it to do. Running your program is as simple as clicking the "&gt;&gt;&gt; Run" button in the upper right corner of the editor. You can also use the shortcut **Ctrl + R** to save and run your program.
