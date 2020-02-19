@@ -6,6 +6,10 @@ For this tutorial, the easiest way to get started is to use PythonAnywhere, a de
 
 {% embed url="https://www.pythonanywhere.com/" %}
 
+{% hint style="success" %}
+For this tutorial, I am assuming that you use [PythonAnywhere](https://www.pythonanywhere.com/). All descriptions and screenshots will be made for and from this environment.
+{% endhint %}
+
 ## Use a local Python installation
 
 While not required for this beginner's tutorial, running a local installation of Python has some benefits. One major benefit is that you can access local USB ports and hardware that is connected to your computer. We need this feature when we program with IoT devices in the tutorial [Building IoT Applications](../internet-of-things/). As mentioned, for this tutorial you can use [PythonAnywhere](https://www.pythonanywhere.com/) and I'll assume that you do for the rest of this tutorial.
