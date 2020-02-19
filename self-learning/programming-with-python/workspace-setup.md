@@ -25,5 +25,3 @@ While not required for this beginner's tutorial, running a local installation of
 
 {% embed url="https://www.youtube.com/watch?v=06I63\_p-2A4" %}
 
-
-
