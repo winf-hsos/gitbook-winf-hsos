@@ -10,13 +10,19 @@ The dashboard gives you an overview of your PythonAnywhere \(PA\) account and yo
 
 ![Screenshot of the PythonAnywhere dashboard.](../../.gitbook/assets/image%20%2829%29.png)
 
-The dashboard is divided into 4 different sections. In the screenshot, I highlighted the "Files" section, which is the most important section for us in this tutorial. By default, you will see your recently edited files, as well as two buttons to open an \(or create\) another file and to browse all existing files.
+The dashboard is divided into 4 different sections. In the screenshot, I highlighted the "Files" section, which is the most important section for us in this tutorial. By default, you will see your recently edited files, as well as two buttons to open \(or create\) another file and to browse all existing files.
 
 For now, we don't have to deal with the other three sections. We will introduce them later when we need them.
 
+## Creating Files
+
+When you just signed up the first thing you need to do is to create a new file. To do that, navigate to the "Files" view. You'll see all your directories on the left hand side and the files in the current directory on the right hand side. From here, you can create a new directory by entering a name and then clicking "New directory". Once the directory is created, click on it to create a new file in it. You can do that by entering the file name and then clicking "New file".
+
+As an example, create a new folder called "workbench" and a new file with the name "hello.py" within that folder.
+
 ## Editing Files
 
-In order to write a program \(or change an existing one\) or to run a program, you need to find that file using the "Files" section. There are two ways to open a file in the editor:
+In order to edit or run an existing program, you need to find the file using the "Files" section. There are two ways to open a file in the editor:
 
 1. If the file is listed under the recent files, just click on the link and the editor will open
 2. If the file is not in the recent files list, click on "Browse files". This opens a new view with a list of the directories on the left and the contained files on the right hand side. You can navigate your directories by clicking on them to list the files they contain. Once you found the file you want to edit, click on it and it'll open.
