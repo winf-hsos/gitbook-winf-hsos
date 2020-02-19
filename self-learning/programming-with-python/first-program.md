@@ -35,7 +35,7 @@ elif weather_code.startswith('8'):
 ```
 {% endcode %}
 
-In the following, we will dissect each line of the program to get an grasp of what is happening here. Before  we do that, make a copy of the code on your PythonAnywhere account and put the code in a file named `first_program.py`.
+In the following, we will dissect each line of the program to get a grasp of what is happening here. Before  we do that, make a copy of the code \(use the copy icon in the upper right corner of the code block\) on your [PythonAnywhere](https://www.pythonanywhere.com/) account and put the code in a file named `first_program.py`.
 
 {% hint style="info" %}
 You are completely free with the file names you choose for your programs. But if you name them as suggested in this tutorial, it will be easier to reference different files later on.
