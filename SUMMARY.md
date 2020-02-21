@@ -22,6 +22,7 @@
   * [Getting to know the IDE](self-learning/programming-with-python/getting-to-know-the-ide.md)
   * [Our First Program](self-learning/programming-with-python/first-program.md)
   * [What is a Program?](self-learning/programming-with-python/what-is-a-program.md)
+  * [Calling APIs](self-learning/programming-with-python/calling-apis.md)
 * [Datenanalyse](self-learning/datenanalyse/README.md)
   * [Einführung SQL](self-learning/datenanalyse/einfuehrung-sql/README.md)
     * [\#0 Workspace Setup](self-learning/datenanalyse/einfuehrung-sql/0-workspace-setup.md)
