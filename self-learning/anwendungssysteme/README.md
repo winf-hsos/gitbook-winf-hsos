@@ -6,7 +6,7 @@
 
 Wir nutzen jeden Tag eine Reihe von Softwareanwendungen, ob in unserem privaten Umfeld, im Studium oder im Beruf. Allerdings verstehen wir über die reine Anwendung hinaus wenig von der Funktionsweise einer Softwareanwendung. 
 
-Schon heute werden viele Prozesse durch digitale Softwareanwendungen unterstützt oder gar automatisiert. Dieser Trend wird sich zukünftig weiter verstärken. Um bei diesem Prozess nicht den Anschluss zu verlieren und selbst mitgestalten zu können brauchen wir ein Verständnis der dahinter liegenden Konzepte sowie grundlegende Handlungskompetenzen in der digitalen Welt.
+Schon heute werden viele Prozesse durch digitale Softwareanwendungen unterstützt oder gar automatisiert. Dieser Trend wird sich zukünftig weiter verstärken. Um bei diesem Prozess nicht den Anschluss zu verlieren und ihn selbst mitgestalten zu können brauchen wir ein Verständnis der dahinter liegenden Konzepte sowie grundlegende Handlungskompetenzen in der digitalen Welt.
 
 {% hint style="info" %}
 **Wir sehen meistens nur die grafische Oberfläche einer Software. Aber was passiert im Hintergrund, damit eine Software funktionieren kann? Was ist ein Anwendungssystem und welche Komponenten hat es? Wie funktioniert ein Programm?**

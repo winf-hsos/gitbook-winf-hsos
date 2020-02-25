@@ -15,7 +15,7 @@ description: >-
 
 ### 1⃣ Install Visual Studio Code
 
-Visual Studio Code is a popular code editor created by Microsoft. Visual Studio Code is open source and free to use. To work on the upcoming tasks, you'll need to install Visual Studio Code on your computer. Follow these steps:
+Visual Studio Code is a popular code editor created by Microsoft. Visual Studio Code is open source and free to use. To work on the upcoming tasks, you'll need to install Visual Studio Code on your computer 👩💻. Follow these steps:
 
 * ✅ Download ⬇ Visual Studio Code from [the official website](https://code.visualstudio.com/). It should recognize your operating system \(Windows, MacOS etc.\) automatically and provide you with the right version. 
 * ✅ Locate the file on your computer and run the installation 🏃♂  
