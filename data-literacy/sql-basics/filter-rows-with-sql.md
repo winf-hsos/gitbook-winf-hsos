@@ -1,10 +1,8 @@
 # Filter Rows
 
-## Zeilen Filtern - so geht’s
+## Strings \(oder Zeichenketten\)
 
-### Strings \(oder Zeichenketten\)
-
-#### Der `=` Operator
+### Der `=` Operator
 
 Im vorigen Schritt haben wir gesehen, wie wir die Menge der **Spalten** im Ergebnis einschränken können. Häufig müssen wir für die Beantwortung einer Frage auch nur bestimmte die **Zeilen** auswählen. Auch das geht mit SQL, und zwar mit der `WHERE` Klausel. Das folgende SQL Statement gibt nur Zeilen zurück, in denen die Spalte `main_speaker` dem Wert "Al Gore" entspricht:
 
@@ -15,9 +13,9 @@ where main_speaker = 'Al Gore'
 
 Im Beispiel oben verwenden wir die `WHERE` Klausel, um ein Feld vom Datentyp `string` zu filtern. Genauer gesagt wird für alle Datensätze der Wert in der Spalte `main_speaker` mit dem Wert 'Al Gore' verglichen. Es werden nur die Datensätze im Ergebnis behalten, bei denen der Vergleich _wahr_ \(`true`\) zurückliefert. 
 
-💡 Bei Vergleichen zweier Zeichenketten \(oder _Strings_\) müssen wir immer **einfache Anführungszeichen** verwenden. Weil Strings auch Leerzeichen oder andere Sonderzeichen enthalten können, wäre sonst nicht klar, wo das Ende des Strings ist.
+⚠ Bei Vergleichen zweier Zeichenketten \(oder _Strings_\) müssen wir immer **einfache Anführungszeichen** verwenden. Weil Strings auch Leerzeichen oder andere Sonderzeichen enthalten können, wäre sonst nicht klar, wo das Ende des Strings ist.
 
-#### Der `LIKE` Operator
+### Der `LIKE` Operator
 
 Neben dem `=` Operator für Stringvergleiche gibt es mit dem `LIKE` Operator eine weitere wirkungsvolle Weise, um Vergleiche von Zeichenketten durchzuführen. Der `LIKE` Operator erlaubt es uns, Strings mit Teilstrings zu vergleichen. Das folgende SQL Statement liefert alle TED Talks zurück, bei denen im Titel das Wort 'food' vorkommt:
 
@@ -69,7 +67,7 @@ where lower(title) like '% food'
 or lower(title) like 'food%'
 ```
 
-### Verknüpfung mehrerer Bedingungen \(`AND` / `OR`\)
+## Verknüpfung mehrerer Bedingungen \(`AND` / `OR`\)
 
 Wie oben gezeigt können wir mit `WHERE` die erste Filterbedingung definieren und anschließend weitere mit den logischen Verknüpfungen `OR` oder `AND` hinzufügen. Auf diese Weise können wir beliebig viele Bedingungen definieren. Dabei können sich Bedingungen auf jede beliebige Spalte beziehen:
 
@@ -81,7 +79,7 @@ and event = 'TED2010'
 
 Bei der Anwendung der Bedingungen gelten grundsätzlich die Regeln der Logik. Das bedeutet, wir können auch Klammern verwenden, um Gruppen von Bedingungen zu bilden und diese miteinander zu verknüpfen.
 
-### Zahlenwerte
+## Zahlenwerte
 
 Beim Filtern von numerischen Spalten haben wir sämtliche Möglichkeiten, die uns die Arithmetik bereitstellt, um Zahlen miteinander zu vergleichen:
 
@@ -97,7 +95,7 @@ select * from ted_meta
 where id = 1
 ```
 
-#### Der `IN` Operator
+### Der `IN` Operator
 
 Angenommen wir wollen nun nicht nur den Talk mit der ID = 1, sondern auch den mit der ID = 100 selektieren. Wir können hier auf die bereits bekannte Verknüpfung von Bedingungen zurückgreifen:
 
@@ -116,7 +114,7 @@ where id IN (1, 100, 101, 102, 200)
 
 Mit dem IN Operator können wir den Wert einer Spalte auf die Zugehörigkeit zu einer Menge, die wir mit Kommata getrennt in Klammern definieren, überprüfen. Wenn der Wert sich in der Menge befindet wird die Bedingung wahr.
 
-#### Größer \(gleich\) und kleiner \(gleich\)
+### Größer \(gleich\) und kleiner \(gleich\)
 
 Das nächste Beispiel fragt nach allen TED Talks, die länger als 20 Minuten sind \(das Feld `duration` enthält die Länge in Sekunden\):
 
@@ -135,7 +133,7 @@ where duration >= 5 * 60
 and duration <= 10 * 60
 ```
 
-#### Der `BETWEEN` Operator
+### Der `BETWEEN` Operator
 
 Das selbe Ergebnis kann in diesem Fall mit dem `BETWEEN` Operator erzielt werden:
 
@@ -146,16 +144,16 @@ where duration between 5 * 60 and 10 * 60
 
 ⚠ Der `BETWEEN` Operator schließt immer die angegebenen Grenzen mit in das Ergebnis ein \(_inclusive_\).
 
-#### Der `NOT` Operator
+### Der `NOT` Operator
 
-Um das Ergebnis des letzten Beispiels umzukehren, also alle Talks zu finden, deren Länge außerhalb der Spanne 5 - 10 Minuten liegen, können wir den `NOT` Operator verwenden. Dieser negiert eine Bedingung in ihr Gegenteil ✋:
+Um das Ergebnis des letzten Beispiels umzukehren, also alle Talks zu finden, deren Länge außerhalb der Spanne 5 - 10 Minuten liegen, können wir den `NOT` Operator verwenden. Dieser negiert eine Bedingung in ihr Gegenteil:
 
 ```sql
 select * from ted_meta
 where duration not between 5 * 60 and 10 * 60
 ```
 
-### Bool'sche Werte
+## Bool'sche Werte
 
 Für Spalten vom Datentyp `boolean` kommen in den meisten fällen nur die Operatoren `=` und `<>` in Frage. Angenommen die Tabelle `ted_meta` hätte Spalte `best_talk` vom Typ `boolean`, dann könnten wir alle Talks, die für ihre jeweiliges Event zum besten Talk gewählt wurden, mit folgenden SQL Statement ermitteln:
 
@@ -164,7 +162,7 @@ select * from ted_meta
 where best_talk = true
 ```
 
-### Datums- und Zeitwerte
+## Datums- und Zeitwerte
 
 Der Vergleich von Datums- 🗓 und Zeitwerten 🕓 funktioniert rudimentär über die arithmetischen Vergleichsoperatoren `<`, `<=`, `>`, `>=`, `=` und `<>`. Häufig brauchen wir aber Vergleiche, die über diese einfachen Operationen hinaus gehen, wie z.B.:
 

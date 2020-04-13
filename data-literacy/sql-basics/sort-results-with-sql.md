@@ -2,7 +2,7 @@
 
 ## Sortieren - so geht’s
 
-Einfach, aber sehr mächtig: Das 🔤Sortieren der Ergebnisse erlaubt es uns, Ranglisten zu erstellen und durch Auf- oder Abwärtssortierung schnell den kleinsten oder größten Wert in einer Liste zu identifizieren.
+Einfach, aber sehr mächtig: Das Sortieren der Ergebnisse erlaubt es uns, Ranglisten zu erstellen und durch Auf- oder Abwärtssortierung schnell den kleinsten oder größten Wert in einer Liste zu identifizieren.
 
 Das erste Beispiel erzeugt eine Liste der TED Talks sortiert nach der Anzahl Views, wobei der Talk mit den wenigsten Views oben in der Ergebnisliste erscheint:
 
