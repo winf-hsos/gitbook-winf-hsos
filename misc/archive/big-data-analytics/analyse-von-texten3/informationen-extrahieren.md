@@ -12,13 +12,13 @@
 
 Für die Analyse von Emotionen via Emojis gibt es einen Abschnitt im folgenden Tutorial:
 
-{% page-ref page="../../../../self-learning/datenanalyse/natural-language-processing-nlp/nlp-mit-sql/emotionen-analysieren.md" %}
+{% page-ref page="../../../../nlp-mit-sql/emotionen-analysieren.md" %}
 
 ### 2⃣ Daten aus JSON Objekten extrahieren
 
 #### URLs und Bilder
 
-In diesem Tutorial findet ihr [hier](../../../../self-learning/datenanalyse/twitter-daten-mit-sql-auswerten/#extrahieren-von-urls-oder-foto-urls) die Information, wie URLs und Bilder-URLs aus den Tweets extrahiert werden können:
+In diesem Tutorial findet ihr [hier](../../../../twitter-daten-mit-sql-auswerten/#extrahieren-von-urls-oder-foto-urls) die Information, wie URLs und Bilder-URLs aus den Tweets extrahiert werden können:
 
-{% page-ref page="../../../../self-learning/datenanalyse/twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../../twitter-daten-mit-sql-auswerten/" %}
 

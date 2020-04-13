@@ -47,15 +47,13 @@ description: In diesem Block geht es die Erkundung neuer Datensätze mit SQL.
 
 Diese Tutorial bietet euch den Einstieg in SQL. Wenn ihr SQL-Neulinge seid müsst ihr mit diesem Tutorial starten:
 
-{% page-ref page="../../../../self-learning/datenanalyse/einfuehrung-sql/" %}
-
 In diesem Tutorial bekommt ihr einen Überblick, welche Möglichkeiten SQL bietet, um einen neuen Datensatz zu erkunden:
 
-{% page-ref page="../../../../self-learning/datenanalyse/einfuehrung-sql/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../../introduction-to-sql/daten-mit-sql-erkunden.md" %}
 
 Um mit JSON-Daten umgehen zu lernen, schaut euch diese beiden Tutorials an:
 
 {% page-ref page="../../../../self-learning/web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../../self-learning/datenanalyse/einfuehrung-sql/sql-und-json.md" %}
+{% page-ref page="../../../../json-and-sql.md" %}
 

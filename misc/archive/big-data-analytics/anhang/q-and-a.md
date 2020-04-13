@@ -136,13 +136,13 @@ order by `Anzahl Kommentare` desc
 
 ## Wie extrahiert man Strings aus einem Array?
 
-Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../../self-learning/datenanalyse/einfuehrung-sql/sql-und-json.md#arrays-mit-sql-abfragen) beantwortet:
+Zu diesem Thema verweise ich auf das Tutorial unten. Diese Frage wird konkret an [dieser Stelle](../../../../json-and-sql.md#arrays-mit-sql-abfragen) beantwortet:
 
-{% page-ref page="../../../../self-learning/datenanalyse/einfuehrung-sql/sql-und-json.md" %}
+{% page-ref page="../../../../json-and-sql.md" %}
 
 ## Wie entfernt man doppelte Tweets aus dem Datensatz?
 
-Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../../self-learning/datenanalyse/twitter-daten-mit-sql-auswerten/#doppelte-tweets-herausfiltern) adressiert.
+Die Frage ist im Tutorial [Twitter-Daten mit SQL auswerten](../../../../twitter-daten-mit-sql-auswerten/#doppelte-tweets-herausfiltern) adressiert.
 
-{% page-ref page="../../../../self-learning/datenanalyse/twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../../twitter-daten-mit-sql-auswerten/" %}
 
