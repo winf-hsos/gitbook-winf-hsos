@@ -5,7 +5,7 @@ description: >-
   lernen spaCy kennen, ein Python-Modul für NLP.
 ---
 
-# NLP mit Python
+# NLP with Python
 
 ## Problem
 
@@ -29,11 +29,11 @@ Bedeutung in Texten zu erkennen ist keine leichte Aufgabe für Maschinen:
 
 Zuerst installieren wir das Pyton-Modul [spaCy](https://spacy.io/), um es in unserer gewohnten Databricks-Umgebung verwenden zu können:
 
-{% page-ref page="spacy-installieren.md" %}
+{% page-ref page="install-spacy.md" %}
 
 Anschließend können wir NLP auf Texte anwenden und die Teilergebnisse begutachten:
 
-{% page-ref page="nlp-auf-texte-anwenden.md" %}
+{% page-ref page="apply-nlp-to-text.md" %}
 
 
 
@@ -43,5 +43,5 @@ Anschließend können wir NLP auf Texte anwenden und die Teilergebnisse begutach
 
 {% embed url="https://course.spacy.io/" %}
 
-{% file src="../../../../.gitbook/assets/spacy-cheatsheet.pdf" caption="spaCy Cheatsheet" %}
+{% file src="../.gitbook/assets/spacy-cheatsheet.pdf" caption="spaCy Cheatsheet" %}
 

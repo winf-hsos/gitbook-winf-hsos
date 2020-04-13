@@ -12,7 +12,7 @@
 
 Für die Analyse von Emotionen via Emojis gibt es einen Abschnitt im folgenden Tutorial:
 
-{% page-ref page="../../../../nlp-mit-sql/emotionen-analysieren.md" %}
+{% page-ref page="../../../../nlp-with-sql/emotionen-analysieren.md" %}
 
 ### 2⃣ Daten aus JSON Objekten extrahieren
 

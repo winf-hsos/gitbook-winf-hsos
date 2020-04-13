@@ -87,7 +87,7 @@ or size(photos) > 0
 
 ## Verwandte Themen
 
-{% page-ref page="../nlp-mit-sql/texte-mit-sql-auswerten/" %}
+{% page-ref page="../nlp-with-sql/texte-mit-sql-auswerten/" %}
 
 {% page-ref page="../json-and-sql.md" %}
 

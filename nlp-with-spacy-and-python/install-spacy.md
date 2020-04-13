@@ -5,7 +5,7 @@ description: >-
   verwenden zu können.
 ---
 
-# spaCy installieren
+# Install spaCy
 
 ## Das Modul installieren
 
