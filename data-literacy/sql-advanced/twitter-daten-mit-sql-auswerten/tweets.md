@@ -115,5 +115,5 @@ order by retweet_count desc
 limit 10
 ```
 
-But careful: We filter out tweets that are already retweets using the condition `is_retweet = false`. We do this for good reason, because otherwise we would have a top ten full of tweets that are not originally from our data set's user base.
+But be careful: We filter out tweets that are already retweets using the condition `is_retweet = false`. We do this for good reason, because otherwise we would have a top ten full of tweets that are not originally from our data set's user base.
 
