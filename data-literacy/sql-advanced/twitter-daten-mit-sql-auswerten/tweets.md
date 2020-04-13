@@ -90,3 +90,30 @@ The result visualized in Databricks as a bar chart:
 
 ![Number of tweets in every hour of the day in the example data set.](../../../.gitbook/assets/image%20%2834%29.png)
 
+## What is the top 10 of the most popular tweets?
+
+When we assume that the number of times a tweet got liked \(or _favorited_ in twitter terms\) indicate its popularity, the following query gives us the top 10 in our data set:
+
+```sql
+select screen_name
+      ,text
+      , favorite_count
+from tweets
+order by favorite_count desc
+limit 10
+```
+
+Instead of `favorite_count`, we could do the same query using `retweet_count`, which contains the number of times a tweet was re-tweeted:
+
+```sql
+select screen_name
+      ,text
+      ,retweet_count
+from tweets
+where is_retweet = false
+order by retweet_count desc
+limit 10
+```
+
+But careful: We filter out tweets that are already retweets using the condition `is_retweet = false`. We do this for good reason, because otherwise we would have a top ten full of tweets that are not originally from our data set's user base.
+
