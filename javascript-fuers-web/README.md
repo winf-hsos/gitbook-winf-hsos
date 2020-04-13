@@ -5,7 +5,7 @@ description: >-
   nachdem sie geladen wurde.
 ---
 
-# Javascript \(fürs Web\)
+# Javascript
 
 ## HTML mit JavaScript verändern
 

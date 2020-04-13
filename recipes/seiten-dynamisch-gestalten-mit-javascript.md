@@ -1,4 +1,4 @@
-# Seiten dynamisch gestalten mit Javascript
+# Dynamic Content
 
 | Rezept |
 | :--- |

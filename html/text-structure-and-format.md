@@ -1,4 +1,4 @@
-# Text Structure and Format
+# Structure and Format
 
 Read the following parts of the MDN tutorial ["Introduction to HTML"](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) to learn how to structure and format text with HTML:
 

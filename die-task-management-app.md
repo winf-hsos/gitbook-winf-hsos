@@ -4,7 +4,7 @@ description: >-
   entwickeln.
 ---
 
-# Das Ziel
+# The Target
 
 ## Lernziele
 
