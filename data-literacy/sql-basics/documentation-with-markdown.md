@@ -1,10 +1,14 @@
-# Documentation with Markdown
+# Markdown
 
 Markdown ist eine einfache Möglichkeit, Dokumente zu strukturieren und zu formatieren. Der Fokus kann auf die Inhalte gelegt werden, statt auf das Aussehen des Dokuments. 
 
 Markdown kennt nur wenige Konstrukte und ist daher einfach zu erlernen. Eine gute Übersicht über die vorhandenen Syntaxelemente findet ihr hier:
 
 {% embed url="https://www.markdownguide.org/basic-syntax/" %}
+
+## Markdown in Databricks Notebooks
+
+Databricks Notebooks unterstützen Markdown als Sprache in Code-Blocks. Das erlaubt es uns strukturierte und formatierte Dokumentation für unseren Code \(z.B. SQL, Python\) zu erstellen und das in direkter Verbindung mit dem Code. Die Dokumentation ist also nicht getrennt von der Sache, die dokumentiert wird, was das Lesen und Verstehen deutlich erleichtert.
 
 ## 💡 Überschriften
 

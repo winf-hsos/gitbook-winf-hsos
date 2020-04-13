@@ -16,7 +16,7 @@
 * [SQL Basics](data-literacy/sql-basics/README.md)
   * [Why learn SQL?](data-literacy/sql-basics/why-learn-sql.md)
   * [Workspace Setup](data-literacy/sql-basics/workspace-setup-for-sql.md)
-  * [Documentation with Markdown](data-literacy/sql-basics/documentation-with-markdown.md)
+  * [Markdown](data-literacy/sql-basics/documentation-with-markdown.md)
   * [View Meta Data](data-literacy/sql-basics/view-metadata-with-sql.md)
   * [Explore Data](data-literacy/sql-basics/daten-mit-sql-erkunden.md)
   * [Select Columns](data-literacy/sql-basics/select-columns-with-sql.md)
