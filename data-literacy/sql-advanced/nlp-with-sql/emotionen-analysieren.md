@@ -110,7 +110,7 @@ left join emoji_meaning e
   on e.emoji = t.emoji
 ```
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 
 ### 💡 Fehlende Emojis pflegen
 

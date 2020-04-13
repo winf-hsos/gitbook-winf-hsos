@@ -64,8 +64,8 @@ order by count(*) desc
 To see if there any abnormalities or trends in our data, lets aggregate the number of tweets by time period. In the example below, we use months, and we add an extra field `Period` that contains the year and month value concatenated by a hyphen. This field proofs useful for visualization and sorting: 
 
 ```sql
-select month(created_at)
-      ,year(created_at)
+select month(created_at) as `Month`
+      ,year(created_at) as `Year`
       ,year(created_at) || '-' || month(created_at) as `Period`
       ,count(1)
 from tweets
@@ -73,4 +73,20 @@ where year(created_at) IN (2019, 2020)
 group by month(created_at), year(created_at)
 order by year(created_at), month(created_at)
 ```
+
+## How many tweets are there per hour of the day?
+
+It might be interesting to get a feeling for when the users tweet during the day. Let's create a query that groups by the hour of the day and visualize the result:
+
+```sql
+select hour(created_at) as `Hour`
+      ,count(*) as `Number Tweets`
+from tweets
+group by hour(created_at)
+order by hour(created_at) asc
+```
+
+The result visualized in Databricks as a bar chart:
+
+![Number of tweets in every hour of the day in the example data set.](../../../.gitbook/assets/image%20%2834%29.png)
 
