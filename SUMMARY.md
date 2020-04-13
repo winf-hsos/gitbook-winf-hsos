@@ -118,7 +118,7 @@
 
 * [Get Started](how-to-get-started-with-machine-learning.md)
 
-## Self Learning
+## Digitization <a id="self-learning"></a>
 
 * [Understanding Computers](self-learning/understanding-computers/README.md)
   * [The Binary System](self-learning/understanding-computers/the-binary-system.md)
