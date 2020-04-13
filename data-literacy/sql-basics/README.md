@@ -10,8 +10,6 @@ If you are just getting started with querying data, this is for you. The followi
 
 {% page-ref page="view-metadata-with-sql.md" %}
 
-{% page-ref page="daten-mit-sql-erkunden.md" %}
-
 {% page-ref page="select-columns-with-sql.md" %}
 
 {% page-ref page="filter-rows-with-sql.md" %}
@@ -24,7 +22,7 @@ If you are just getting started with querying data, this is for you. The followi
 
 {% page-ref page="filter-grouped-data-with-sql.md" %}
 
-
+{% page-ref page="daten-mit-sql-erkunden.md" %}
 
 
 

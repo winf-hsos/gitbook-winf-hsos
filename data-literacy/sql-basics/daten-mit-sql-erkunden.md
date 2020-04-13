@@ -2,7 +2,7 @@
 
 ## 🎯 Lernziele
 
-In diesem Tutorial bekommt ihr einen Überblick, mit welchen SQL-Abfragen ihr euch schnell einen Überblick über einen unbekannten Datensatz verschaffen könnt. Die Konzepte sind allesamt auch im Tutorial [Einführung SQL]() enthalten, es geht hier um eine gezielte Bündelung der Abfragen, die bei dem **Erkunden von neuen Daten** relevant sind.
+In diesem Tutorial bekommt ihr einen Überblick, mit welchen SQL-Abfragen ihr euch schnell einen Überblick über einen unbekannten Datensatz verschaffen könnt. Es geht hier um eine gezielte Bündelung der Abfragen, die bei dem **Erkunden von neuen Daten** relevant sind.
 
 ## 💡 Datensätze zählen
 

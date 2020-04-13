@@ -8,7 +8,7 @@ Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis vo
 * Klickt auf den "Get Started" Button auf der **rechten Seite** \(Community Edition\). 
 
 {% hint style="warning" %}
-Wählt **nicht** die Trial-Version aus! Die endet nach 14 Tagen und lässt sich nicht ohne Weiteres in die Community-Edition überführen.
+Wählt bitte **nicht** die Trial-Version aus! Die endet nach 14 Tagen und lässt sich nicht ohne Weiteres in die Community-Edition überführen.
 {% endhint %}
 
 * Gebt euren Namen ein und füllt die restlichen Felder aus:
@@ -33,10 +33,10 @@ Für dieses Tutorial stelle ich eine Reihe von Notebooks bereit, die ihr in eure
 
 Das Vorgehen zum Importieren eines Notebooks ist einfach:
 
-* ✅ Klickt auf den Link des Notebook-Templates, z.B. 🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Das Notebook öffnet sich als HTML-Seite in einem neuen Tab des Browsers. 
-* ✅ Klickt auf den "Import Notebook" Button in der oberen rechten Ecke des Notebooks. Es öffnet sich ein Pop-Up Fenster mit einer URL. Kopiert die URL in die Zwischenablage \(⌨_Strg+C_\). 
-* ✅ Öffnet [Databricks](https://community.cloud.databricks.com/login.html) und loggt euch ein. Klickt im Menü links auf "Home" und wählt einen Ort aus, an dem ihr das Notebook speichern wollt. Klickt dann auf den kleinen nach unten zeigenden Pfeil und wählt "Import".  
-* ✅ Im sich öffnenden Pop-Up Fenster wählt ihr den Radiobutton "URL" aus. Fügt nun die zuvor kopierte URL des Notebook-Templates in das Textfeld ein. Klickt anschließend auf "Import".
+* Klickt auf den Link des Notebook-Templates, z.B. 🔗[diesen Link](https://winf-hsos.github.io/databricks-notebooks/sql-tutorial/1_Der_SELECT_Befehl.html). Das Notebook öffnet sich als HTML-Seite in einem neuen Tab des Browsers. 
+* Klickt auf den "Import Notebook" Button in der oberen rechten Ecke des Notebooks. Es öffnet sich ein Pop-Up Fenster mit einer URL. Kopiert die URL in die Zwischenablage \(Strg+C\). 
+* Öffnet [Databricks](https://community.cloud.databricks.com/login.html) und loggt euch ein. Klickt im Menü links auf "Home" und wählt einen Ort aus, an dem ihr das Notebook speichern wollt. Klickt dann auf den kleinen nach unten zeigenden Pfeil und wählt "Import".  
+* Im sich öffnenden Pop-Up Fenster wählt ihr den Radiobutton "URL" aus. Fügt nun die zuvor kopierte URL des Notebook-Templates in das Textfeld ein. Klickt anschließend auf "Import".
 
 Wenn alles funktioniert hat ist das Notebook als Kopie in eurem Account gespeichert und ihr könnt damit arbeiten. Für jeden Abschnitt dieses Tutorials stelle ich ein separates Notebook bereit, das ihr importieren könnt.
 
