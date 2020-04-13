@@ -6,7 +6,7 @@ description: >-
 
 # Tweets
 
-## What columns does a Tweet have?
+## What columns does a tweet have?
 
 We can quickly get an overview of all available columns using the following SQL statement:
 
@@ -38,4 +38,12 @@ The result is a table with the name and data type of each column:
 | user\_mentions | Array of Strings |
 | source | String |
 | insert\_timestamp | Timestamp |
+
+## How many tweets are there?
+
+If we want to know how many tweets we have in our dataset, we can do a simple count of all rows:
+
+```sql
+select count(*) from tweets
+```
 
