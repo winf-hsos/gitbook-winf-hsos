@@ -111,15 +111,12 @@
 
 ## Tinkerforge
 
-* [Building IoT Applications](internet-of-things/README.md)
-  * [Coding with Tinkerforge Devices](internet-of-things/connect-to-tinkerforge-devices.md)
-  * [Cheatsheet Tinkerforge](internet-of-things/cheatsheet-tinkerforge.md)
+* [Tinkerforge Device Manager](tinkerforge-device-manager.md)
+* [Cheatsheet Tinkerforge](cheatsheet-tinkerforge.md)
 
 ## Machine Learning
 
-* [Applying Machine Learning](applying-machine-learning-to-real-world-problems/README.md)
-  * [How to get started with Machine Learning](applying-machine-learning-to-real-world-problems/how-to-get-started-with-machine-learning.md)
-  * [Natural Language Processing \(NLP\) with Python](applying-machine-learning-to-real-world-problems/natural-language-processing-nlp-with-python.md)
+* [Get Started](how-to-get-started-with-machine-learning.md)
 
 ## Self Learning
 

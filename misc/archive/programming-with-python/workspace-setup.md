@@ -12,7 +12,7 @@ For this tutorial, I am assuming that you use [PythonAnywhere](https://www.pytho
 
 ## Use a Local Python Installation
 
-While not required for this beginner's tutorial, running a local installation of Python has some benefits. One major benefit is that you can access local USB ports and hardware that is connected to your computer. We need this feature when we program with IoT devices in the tutorial [Building IoT Applications](../../../internet-of-things/). As mentioned, for this tutorial you can use [PythonAnywhere](https://www.pythonanywhere.com/) and I'll assume that you do for the rest of this tutorial.
+While not required for this beginner's tutorial, running a local installation of Python has some benefits. One major benefit is that you can access local USB ports and hardware that is connected to your computer. We need this feature when we program with IoT devices in the tutorial [Building IoT Applications](). As mentioned, for this tutorial you can use [PythonAnywhere](https://www.pythonanywhere.com/) and I'll assume that you do for the rest of this tutorial.
 
 ### Install Python \(Mac and Windows\)
 
