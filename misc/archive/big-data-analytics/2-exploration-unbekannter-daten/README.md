@@ -49,11 +49,11 @@ Diese Tutorial bietet euch den Einstieg in SQL. Wenn ihr SQL-Neulinge seid müss
 
 In diesem Tutorial bekommt ihr einen Überblick, welche Möglichkeiten SQL bietet, um einen neuen Datensatz zu erkunden:
 
-{% page-ref page="../../../../introduction-to-sql/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../../data-literacy/sql-basics/daten-mit-sql-erkunden.md" %}
 
 Um mit JSON-Daten umgehen zu lernen, schaut euch diese beiden Tutorials an:
 
-{% page-ref page="../../../../javascript-fuers-web/einfuehrung-in-json.md" %}
+{% page-ref page="../../../../web/javascript-fuers-web/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../../json-and-sql.md" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/json-and-sql.md" %}
 

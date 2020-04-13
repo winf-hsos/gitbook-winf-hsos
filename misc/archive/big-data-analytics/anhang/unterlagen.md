@@ -34,19 +34,19 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 ## Tutorials & Co.
 
-{% page-ref page="../../../../introduction-to-sql/daten-mit-sql-erkunden.md" %}
+{% page-ref page="../../../../data-literacy/sql-basics/daten-mit-sql-erkunden.md" %}
 
-{% page-ref page="../../../../javascript-fuers-web/einfuehrung-in-json.md" %}
+{% page-ref page="../../../../web/javascript-fuers-web/einfuehrung-in-json.md" %}
 
-{% page-ref page="../../../../json-and-sql.md" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/json-and-sql.md" %}
 
-{% page-ref page="../../../../twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/" %}
 
-{% page-ref page="../../../../nlp-with-sql/texte-mit-sql-auswerten/" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/" %}
 
-{% page-ref page="../../../../twitter-daten-mit-sql-auswerten/twitter-netzwerke-mit-sql-auswerten.md" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/twitter-netzwerke-mit-sql-auswerten.md" %}
 
-{% page-ref page="../../../../cheatsheet-sql.md" %}
+{% page-ref page="../../../../data-literacy/sql-advanced/cheatsheet-sql.md" %}
 
 ## Videos
 

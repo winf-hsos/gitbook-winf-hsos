@@ -18,7 +18,7 @@ git clone https://github.com/winf-hsos/iodi-coding.git
 
 I also provide the following tutorial on working with Tinkerforge devices. It includes a description of how to get and use the template:
 
-{% page-ref page="../../../../tinkerforge-device-manager.md" %}
+{% page-ref page="../../../../programming-with-internet-of-things/" %}
 
 ### 2⃣ First Coding Tasks
 
