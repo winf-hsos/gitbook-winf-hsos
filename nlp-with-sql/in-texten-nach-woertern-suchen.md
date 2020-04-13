@@ -24,7 +24,7 @@ val strContainsUDF = udf[Boolean, String, String](strContains)
 spark.udf.register("strContains", strContainsUDF)
 ```
 
-Diese UDF kann man nun innerhalb eines SQL Statements aufrufen. Die Tabelle `keywords` enthält dabei die gesuchten Suchbegriffe in der Spalte `word`. Die Tabelle kann beispielsweise in [Google Sheets gepflegt und anschließend geladen werden](../self-learning/datenanalyse/natural-language-processing-nlp/themen-in-texten-mittels-sql-identifizieren/1-arbeiten-mit-mappingstabellen.md#tabellen-ueber-google-sheets-pflegen-und-laden):
+Diese UDF kann man nun innerhalb eines SQL Statements aufrufen. Die Tabelle `keywords` enthält dabei die gesuchten Suchbegriffe in der Spalte `word`. Die Tabelle kann beispielsweise in [Google Sheets gepflegt und anschließend geladen werden](identify-topics-in-text/mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden):
 
 ```sql
 select t.text
