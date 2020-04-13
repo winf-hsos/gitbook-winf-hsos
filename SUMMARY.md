@@ -117,11 +117,11 @@
 
 ## Digitization <a id="self-learning"></a>
 
-* [Understanding Computers](self-learning/understanding-computers/README.md)
-  * [The Binary System](self-learning/understanding-computers/the-binary-system.md)
-  * [Codes](self-learning/understanding-computers/codes.md)
-  * [Logic Gates](self-learning/understanding-computers/logic-gates.md)
-  * [Addition with Bits](self-learning/understanding-computers/addition-with-bits.md)
+* [Understanding Computers](self-learning/understanding-computers.md)
+* [The Binary System](self-learning/the-binary-system.md)
+* [Codes](self-learning/codes.md)
+* [Logic Gates](self-learning/logic-gates.md)
+* [Addition with Bits](self-learning/addition-with-bits.md)
 
 ## Research
 
