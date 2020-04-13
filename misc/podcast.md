@@ -1,8 +1,10 @@
 # Podcast
 
-## Podcast
+## Podcast "Auf ein Haster Hell"
 
-{% embed url="https://aufeinhasterhell.podigee.io/1-andreas-schwartz-campusbier" %}
+{% embed url="https://fireside.fm/s/mvkr2CwB+NNhuC0xD" %}
+
+{% embed url="https://fireside.fm/s/mvkr2CwB+u-zXNr0U" %}
 
 
 

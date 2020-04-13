@@ -84,7 +84,7 @@ Bei Open Source Software steht der kommerzielle Gedanke im Hintergrund. Stattdes
 
 ### Branchen spezifische Systeme
 
-![](../../.gitbook/assets/wirtschaftsinformatik-informationssysteme.svg)
+![](../../../.gitbook/assets/wirtschaftsinformatik-informationssysteme.svg)
 
 ## Literatur
 

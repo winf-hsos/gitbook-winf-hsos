@@ -53,7 +53,7 @@ In diesem Tutorial bekommt ihr einen Überblick, welche Möglichkeiten SQL biete
 
 Um mit JSON-Daten umgehen zu lernen, schaut euch diese beiden Tutorials an:
 
-{% page-ref page="../../../../self-learning/web-development/javascript-fuers-web/einfuehrung-in-json.md" %}
+{% page-ref page="../../../../web-development-1/javascript-fuers-web/einfuehrung-in-json.md" %}
 
 {% page-ref page="../../../../json-and-sql.md" %}
 

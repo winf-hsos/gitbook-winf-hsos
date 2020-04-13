@@ -8,5 +8,5 @@ CSS takes care of the appearance of the website. Which fonts and colors does our
 
 Finally, JavaScript makes our website interactive and functional. Without JavaScript, there wouldn't be much to do for a user. What should a button do when clicked? What dynamic content should be loaded from a server and when?
 
-![](../../../.gitbook/assets/roles_html_css_js.png)
+![](../../.gitbook/assets/roles_html_css_js.png)
 

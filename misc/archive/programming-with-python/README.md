@@ -7,7 +7,7 @@ description: >-
 
 # Programming with Python
 
-![](../../.gitbook/assets/python-tutorial-visually-2x.png)
+![](../../../.gitbook/assets/python-tutorial-visually-2x.png)
 
 ## Learning Path
 
