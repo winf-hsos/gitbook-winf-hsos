@@ -115,6 +115,7 @@
   * [Appendix](web/anhang.md)
 * [Programming with IoT](programming-with-internet-of-things/README.md)
   * [Tinkerforge Device Manager](programming-with-internet-of-things/tinkerforge-device-manager.md)
+  * [Connect Devices](programming-with-internet-of-things/connect-devices.md)
   * [Cheatsheet Tinkerforge](programming-with-internet-of-things/cheatsheet-tinkerforge.md)
 
 ## Research
