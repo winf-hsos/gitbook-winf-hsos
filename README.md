@@ -2,7 +2,7 @@
 
 On this website you find the work in progress of three books \(or scripts\) that I am currently writing. These books are the foundation for all my courses an the [University of Applied Sciences on Osnabrück](https://www.hs-osnabrueck.de/en/), the school I work for as a Professor for Information Systems \(German: Wirtschaftsinformatik\).
 
-I focus my courses on relevant skills that have to do with digital computers and that become more and more important in almost any job or even our private lifes. These skills are sometimes summarized as 3 new types of literacy, based on the existing taxonomy of literacy everyone learns in school \(writing, reading, mathematics\).
+I focus my courses on relevant skills that have to do with digital computers and that become more and more important in almost any job or even our private lifes. These skills are sometimes summarized as 3 new types of literacy, based on the existing taxonomy of literacy everyone learns in school \(writing, reading, mathematics\): Digital Literacy, Data Literacy, and Technological Literacy.
 
 **Digital Literacy**
 
