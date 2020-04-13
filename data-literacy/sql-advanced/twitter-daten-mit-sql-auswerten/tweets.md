@@ -41,9 +41,36 @@ The result is a table with the name and data type of each column:
 
 ## How many tweets are there?
 
-If we want to know how many tweets we have in our dataset, we can do a simple count of all rows:
+If we want to know how many tweets we have in our data set, we can do a simple count of all rows:
 
 ```sql
 select count(*) from tweets
+```
+
+## How many tweets are there by user?
+
+The same question, but now we want to know the number per user. For that, we apply grouping tweets by `screen_name`. In addition, we sort the result by the number of tweets in descending order \(`desc`\) so that the user with the most tweets shows on top:
+
+```sql
+select count(*) as `Number Tweets`
+      ,screen_name as `User`
+from tweets
+group by screen_name
+order by count(*) desc
+```
+
+## How many tweets are there over time?
+
+To see if there any abnormalities or trends in our data, lets aggregate the number of tweets by time period. In the example below, we use months, and we add an extra field `Period` that contains the year and month value concatenated by a hyphen. This field proofs useful for visualization and sorting: 
+
+```sql
+select month(created_at)
+      ,year(created_at)
+      ,year(created_at) || '-' || month(created_at) as `Period`
+      ,count(1)
+from tweets
+where year(created_at) IN (2019, 2020)
+group by month(created_at), year(created_at)
+order by year(created_at), month(created_at)
 ```
 
