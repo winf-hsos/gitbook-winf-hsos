@@ -16,7 +16,7 @@ We live in world of abundant data. Digital processes create data that we can ana
 
 Technological mega trends such Artificial Intelligence, the Internet of Things, or Virtual Reality are driving much of the economic growth and everyone's life better. We use technology because it saves us time or lets us do things we couldn't do without it. But do we have any idea how these technologies achieve what they do? The book on Technological Literacy tries to open up the world of digital technologies for anyone to understand at a sufficient level.
 
-## Emphasis on Doing
+## Application over Theory
 
 In all courses and books, I put emphasis on the **doing** and prioritize it over theoretical concepts. I try introduce as much theoretical background as necessary \(but no more\) to acquire and understand the hands-on skills that enable us to **do something meaningful with data** and **create something useful with digital technologies**.
 
