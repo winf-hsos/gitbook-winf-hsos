@@ -2,7 +2,7 @@
 
 On this website you find the work in progress of three books \(or scripts\) that I am currently writing. These books are the foundation for all my courses an the [University of Applied Sciences on Osnabrück](https://www.hs-osnabrueck.de/en/), the school I work for as a Professor for Information Systems \(German: Wirtschaftsinformatik\).
 
-I focus my courses on relevant skills that have to do with digital computers and that become more and more important in almost any job or even our private lifes. These skills are sometimes summarized as 3 new types of literacy, based on the existing taxonomy of literacy everyone learns in school \(writing, reading, mathematics\): Digital Literacy, Data Literacy, and Technological Literacy.
+I focus my courses on relevant skills that have to do with digital computers and that become more and more important in almost any job and even our private lifes. These skills are sometimes summarized as 3 new types of literacy, based on the existing taxonomy of literacy everyone learns in school \(writing, reading, mathematics\): Digital Literacy, Data Literacy, and Technological Literacy.
 
 **Digital Literacy**
 
@@ -16,5 +16,7 @@ We live in world of abundant data. Digital processes create data that we can ana
 
 Technological mega trends such Artificial Intelligence, the Internet of Things, or Virtual Reality are driving much of the economic growth and everyone's life better. We use technology because it saves us time or lets us do things we couldn't do without it. But do we have any idea how these technologies achieve what they do? The book on Technological Literacy tries to open up the world of digital technologies for anyone to understand at a sufficient level.
 
+## Emphasis on Doing
 
+In all courses and books, I put emphasis on the **doing** and prioritize it over theoretical concepts. I try introduce as much theoretical background as necessary \(but no more\) to acquire and understand the hands-on skills that enable us to **do something meaningful with data** and **create something useful with digital technologies**.
 
