@@ -2,6 +2,18 @@
 
 * [Home](README.md)
 
+## Introduction to SQL
+
+* [Why learn SQL?](introduction-to-sql/why-learn-sql.md)
+* [Workspace Setup](introduction-to-sql/workspace-setup-for-sql.md)
+* [Metadaten sichten](introduction-to-sql/metadaten-sichten.md)
+* [Spalten auswählen](introduction-to-sql/spalten-auswaehlen.md)
+* [Zeilen filtern](introduction-to-sql/zeilen-filtern.md)
+* [Ergebnisse sortieren](introduction-to-sql/ergebnisse-sortieren.md)
+* [Einfache Aggregationen](introduction-to-sql/einfache-aggregationen.md)
+* [Gruppierungen](introduction-to-sql/gruppierungen.md)
+* [Gruppierte Daten filtern](introduction-to-sql/gruppierte-daten-filtern.md)
+
 ## Self Learning
 
 * [Anwendungssysteme](self-learning/anwendungssysteme/README.md)
@@ -25,15 +37,7 @@
   * [Calling APIs](self-learning/programming-with-python/calling-apis.md)
 * [Datenanalyse](self-learning/datenanalyse/README.md)
   * [Einführung SQL](self-learning/datenanalyse/einfuehrung-sql/README.md)
-    * [\#0 Workspace Setup](self-learning/datenanalyse/einfuehrung-sql/0-workspace-setup.md)
-    * [\#1 Der SELECT Befehl](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/README.md)
-      * [Metadaten sichten](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/metadaten-sichten.md)
-      * [Spalten auswählen](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/spalten-auswaehlen.md)
-      * [Zeilen filtern](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/zeilen-filtern.md)
-      * [Ergebnisse sortieren](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/ergebnisse-sortieren.md)
-      * [Einfache Aggregationen](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/einfache-aggregationen.md)
-      * [Gruppierungen](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/gruppierungen.md)
-      * [Gruppierte Daten filtern](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl/gruppierte-daten-filtern.md)
+    * [\#1 Der SELECT Befehl](self-learning/datenanalyse/einfuehrung-sql/1-der-select-befehl.md)
     * [\#2 Mehrere Tabellen](self-learning/datenanalyse/einfuehrung-sql/2-mehrere-tabellen.md)
     * [\#3 Mengenoperationen](self-learning/datenanalyse/einfuehrung-sql/3-mengenoperationen.md)
     * [\#4 Unterabfragen](self-learning/datenanalyse/einfuehrung-sql/4-unterabfragen.md)

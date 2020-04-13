@@ -8,7 +8,7 @@ In this tutorial, we'll go through the steps necessary to start using Tinkerforg
 
 To start programming, we need some pieces of software. You can find detailed instructions on the setup of these tools here:
 
-{% page-ref page="../../modules/impacts-of-digitalization/coding/install-your-ide.md" %}
+{% page-ref page="../../misc/archive/impacts-of-digitalization/coding/install-your-ide.md" %}
 
 Return to this tutorial after you have everything installed and running. If something doesn't work, please contact me via Slack.
 

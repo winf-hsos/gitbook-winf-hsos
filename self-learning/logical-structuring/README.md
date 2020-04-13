@@ -5,7 +5,7 @@ description: >-
   Prinzip der Pyramide.
 ---
 
-# Strukturieren nach dem Pyramidenprinzip
+# Strukturieren
 
 Es gibt bessere und schlechtere Wege, mit anderen Menschen zu kommunizieren. Wenn es um die verständliche und überzeugende Vermittlung von Informationen geht spielt eine gute Strukturierung eine wichtige Rolle. Das hat mehrere Gründe:
 

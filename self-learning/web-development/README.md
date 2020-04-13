@@ -1,4 +1,4 @@
-# Creating Websites with HTML, CSS and Javascript
+# Creating Web Applications
 
 ```javascript
 var web = learningByDoing(effort);

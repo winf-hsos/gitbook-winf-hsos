@@ -1,2 +1,2 @@
-# Building Internet of Things Applications
+# Building IoT Applications
 
