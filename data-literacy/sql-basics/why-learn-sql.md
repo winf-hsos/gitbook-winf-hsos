@@ -2,7 +2,7 @@
 
 ## SQL Skills are Door Openers
 
-SQL is _the_ standard for querying data. Good knowledge opens doors for you in many projects and areas of a company.
+SQL is the standard language for querying data. Good knowledge opens doors for you in many projects and areas of a company.
 
 ## SQL is Problem Solving
 

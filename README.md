@@ -18,5 +18,5 @@ Technological mega trends such Artificial Intelligence, the Internet of Things, 
 
 ## Application over Theory
 
-In all courses and books, I put emphasis on the **doing** and prioritize it over theoretical concepts. I try introduce as much theoretical background as necessary \(but no more\) to acquire and understand the hands-on skills that enable us to **do something meaningful with data** and **create something useful with digital technologies**.
+In all courses and books, I put emphasis on the **doing** and prioritize it over theoretical concepts. I introduce as much theoretical background as necessary \(but no more\) to acquire and understand the hands-on skills that enable us to **do something meaningful with data** and **create something useful with digital technologies**.
 
