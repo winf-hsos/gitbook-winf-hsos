@@ -14,6 +14,8 @@ For the following queries, you can import the template linked below. It contains
 
 ## What columns does a tweet have?
 
+![](../../.gitbook/assets/tweet_erm-1.png)
+
 We can quickly get an overview of all available columns using the following SQL statement:
 
 ```sql
