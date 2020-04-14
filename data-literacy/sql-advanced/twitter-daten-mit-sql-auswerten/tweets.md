@@ -4,7 +4,13 @@ description: >-
   using SQL.
 ---
 
-# Tweets
+# Explore Tweets
+
+## Databricks Notebook
+
+For the following queries, you can import the template linked below. It contains all the queries in this section:
+
+🔗 [Databricks Notebook: Explore Tweets](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Explore%20Tweets.html)
 
 ## What columns does a tweet have?
 

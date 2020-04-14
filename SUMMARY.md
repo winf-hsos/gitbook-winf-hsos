@@ -52,7 +52,7 @@
     * [Install spaCy](data-literacy/sql-advanced/nlp-with-spacy-and-python/install-spacy.md)
     * [Apply NLP](data-literacy/sql-advanced/nlp-with-spacy-and-python/apply-nlp-to-text.md)
   * [Twitter Data](data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/README.md)
-    * [Tweets](data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/tweets.md)
+    * [Explore Tweets](data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/tweets.md)
     * [Analyze Networks](data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/twitter-netzwerke-mit-sql-auswerten.md)
     * [Extract Profile Images](data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/fotos-auswerten.md)
   * [Cheatsheet SQL](data-literacy/sql-advanced/cheatsheet-sql.md)
