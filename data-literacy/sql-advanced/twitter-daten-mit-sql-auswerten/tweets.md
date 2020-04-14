@@ -156,7 +156,13 @@ from tweets
 where array_contains(hashtags, 'covid19')
 ```
 
-The query above fetches all tweets with the hashtag **\#covid19** from our data set.
+The query above fetches all tweets with the hashtag **\#covid19** from our data set. To count them, we can use this query:
+
+```sql
+select count(*) as `Number Tweets`
+from tweets
+where array_contains(hashtags, 'covid19')
+```
 
 ## How long is the average tweet?
 
