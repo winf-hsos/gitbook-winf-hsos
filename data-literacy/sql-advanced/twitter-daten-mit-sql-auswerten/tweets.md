@@ -117,3 +117,27 @@ limit 10
 
 But be careful: We filter out tweets that are already retweets using the condition `is_retweet = false`. We do this for good reason, because otherwise we would have a top ten full of tweets that are not originally from our data set's user base.
 
+## How many hashtags does a tweet have on average?
+
+We can put a label on a tweet so that people can easily find tweets regarding specific topics. Theses labels are called hashtags, and in our data set they are stored in the field `hashtags`. 
+
+When we look closer at this field, we see that the data type is somewhat different than from the other fields we have explored so far. Twitter stores hashtags in a data structure called an _array_, which is simply list of values. These single values are of the type string, so we say that the hashtags are stored in an _array of strings_.
+
+But how do we access an array and its elements? We'll learn this later, but for now let's look at how we can count the elements in an array:
+
+```sql
+select size(hashtags) as `Number Hashtags`
+      ,hashtags
+from tweets
+order by size(hashtags) desc
+```
+
+We can apply the function `size()` to an array, and it returns the number of elements in that list. The query above sorts the result by the number of hashtags a tweet has, which means we'll see the tweet with the most hashtags on top.
+
+Now that we can count elements in an array, calculating the average across all tweets is a breeze:
+
+```sql
+select avg(size(hashtags))
+from tweets
+```
+
