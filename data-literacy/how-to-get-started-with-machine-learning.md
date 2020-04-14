@@ -1,5 +1,9 @@
 # Machine Learning
 
+{% hint style="info" %}
+This site is just a placeholder until the section is being written. That may take some time.
+{% endhint %}
+
 ## General
 
 The OCDevel Podcast on machine learning gives you an easy to consume and insightful start:

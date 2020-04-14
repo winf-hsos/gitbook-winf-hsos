@@ -6,7 +6,8 @@ Durch die Twitter API kann es vorkommen, dass einige Tweets doppelt in den Daten
 
 ```sql
 -- Auf doppelte Tweets prüfen
-select id, count(1) 
+select id
+      ,count(1) 
 from tweets
 group by id 
 order by count(1) desc
@@ -17,8 +18,8 @@ Wir sehen im Ergebnis, dass manche IDs zwei Mal vorkommen. Wir können mit der W
 ```sql
 -- Zeilenummern generieren innerhalb einer ID-Gruppe
 select id
-,count(1) over(partition by id) as `occ`
-,row_number() over(partition by id order by id) as `row_num`
+      ,count(1) over(partition by id) as `occ`
+      ,row_number() over(partition by id order by id) as `row_num`
 from tweets
 order by `occ` desc, id
 ```

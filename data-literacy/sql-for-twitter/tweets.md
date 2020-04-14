@@ -47,7 +47,7 @@ The result is a table with the name and data type of each column:
 | source | String |
 | insert\_timestamp | Timestamp |
 
-You will also find an official documentation on all fields in a tweet on the Twitter developer website:
+You will also find an official documentation on all fields of a tweet on the Twitter developer website:
 
 {% embed url="https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html" %}
 

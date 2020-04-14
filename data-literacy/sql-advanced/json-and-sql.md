@@ -1,6 +1,10 @@
 # JSON and SQL
 
-## 🎯 Lernziele
+{% hint style="info" %}
+This section is outdated and will updated soon.
+{% endhint %}
+
+## Lernziele
 
 In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSON-Datenformat. JSON ist kurz für _Javascript Object Notation_ und ist ein gängiges Format für den Austausch von Daten, speziell im Umfeld des Internet. Wenn ihr das Format selbst noch nicht kennt, solltet ihr zuerst das Tutorial [Einführung in JSON](../../web/javascript-fuers-web/einfuehrung-in-json.md) absolvieren:
 
@@ -8,13 +12,13 @@ In diesem Tutorial geht es um die Verwendung von SQL im Zusammenhang mit dem JSO
 
 Im Gegensatz zu herkömmlichen Spalten mit atomaren Werten können die Daten in einer Spalte im JSON-Format eine eigene Struktur besitzen. So kann innerhalb einer Spalte eine ganze Liste oder eine Hierarchie an Informationen gespeichert werden. SQL ist ursprünglich nicht für dieses Datenformat entwickelt worden. Es gibt aber in den meisten SQL-Implementierungen und speziell in dem von uns eingesetzten Spark SQL mittlerweile Funktionen für dieses spezielle Datenformat. Ziel dieses Tutorials ist es, die wichtigsten davon anhand von Beispielen kennenzulernen.
 
-## 🌟 Daten für das Tutorial
+## Daten für das Tutorial
 
 Für dieses Tutorial verwenden wir den Amazon Reviews Datensatz für _Grocery and Gourmet Food_. Damit ihr die Daten möglichst einfach in euren Databricks Account laden könnt, stelle ich ein Template für dieses Tutorial bereit:
 
 * JSON-Felder mit SQL verarbeiten - Template 
 
-## 💡 Welche Spalten sind betroffen?
+## Welche Spalten sind betroffen?
 
 Als erstes müssen wir lernen, wie wir Spalten mit JSON-Daten überhaupt erkennen? Dazu können wir den `describe` Befehl nutzen. Unten im Screenshot seht ihr das Ergebnis für die Tabelle `meta_Grocery_and_Gourmet_Food` . Die rot markierten Zeilen sind Spalten mit JSON-Datentypen.
 
@@ -24,7 +28,7 @@ Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct
 
 ![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2849%29.png)
 
-## 💡 Arrays abfragen
+## Arrays abfragen
 
 ### Array-Spalten anzeigen und verstehen
 
@@ -105,7 +109,7 @@ from arraySumTest
 
 Es ist bei der Anwendung der Funktion wichtig zu beachten, dass die ersten beiden Argumente vom gleichen Typ sind. Das Array `myArray` wird daher in ein Array vom Type `double` umgewandelt und auch der Startwert für die Aggregation als `0.0D` angegeben. Das bedeutet, die 0.0 soll ebenfalls als Zahl vom Typ `double` interpretiert werden.
 
-## 💡 Objekte und deren Attribute abfragen
+## Objekte und deren Attribute abfragen
 
 Folgt bald.
 

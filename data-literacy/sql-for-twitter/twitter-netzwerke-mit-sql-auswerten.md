@@ -1,6 +1,6 @@
 # Analyze Networks
 
-## 💡 Aus Hashtags eine Themenlandkarte erstellen
+## Aus Hashtags eine Themenlandkarte erstellen
 
 Eine Möglichkeit, Themen in Twitter-Daten zu identifizieren, besteht darin, die Verwendung von Hashtags systematisch zu analysieren. Um speziell zusammenhängende Themen zu finden, bietet es sich an, die Hashtags zu zählen, die häufig paarweise auftreten. Visualisiert man anschließend die gefundenen Hashtag-Paare und deren Häufigkeiten in geeigneter Weise, so bekommt man eine **Themenlandkarte** der Twitter-Hashtags.
 
@@ -18,7 +18,7 @@ create or replace view hashtags as
         ,created_at
   from (
     select id, explode(hashtags) as hashtag, created_at
-    from twitter_timelines
+    from tweets
   )
 ```
 

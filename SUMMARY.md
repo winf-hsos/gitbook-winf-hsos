@@ -58,8 +58,6 @@
   * [Complex Fields](data-literacy/sql-for-twitter/complex-fields.md)
   * [Clean Twitter Data](data-literacy/sql-for-twitter/clean-twitter-data.md)
   * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
-  * [Extract Profile Images](data-literacy/sql-for-twitter/fotos-auswerten.md)
-  * [Twitter Data](data-literacy/sql-for-twitter/twitter-daten-mit-sql-auswerten.md)
 * [Data Visualization](data-literacy/data-visualization.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning.md)
