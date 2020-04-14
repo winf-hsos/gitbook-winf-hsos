@@ -1,12 +1,12 @@
 # Multiple Tables
 
-## 🎯 Lernziele
+## Lernziele
 
 * Ihr kennt die Möglichkeit, mittels Joins zwei oder mehrere Tabellen in einer SQL-Abfrage miteinander zu verknüpfen.
 * Ihr kennt die unterschiedlichen Typen von Joins und versteht, wann ihr welchen benötigt.
 * Ihr könnt SQL-Abfragen über mehrere Tabellen formulieren und so komplexere Analysen durchführen.
 
-## 🔑 **Key Points**
+## **Key Points**
 
 * Im relationalen Modell werden Informationen zu Objekten in separaten Tabellen gespeichert. So werden Stammdaten der Kunden z.B. in der Tabelle `customers` abgelegt, die Verkäufe in der Tabelle `sales`, und die Produkte wiederum in der Tabelle `products`. Das hat Vorteile bei der _Verwaltung_ dieser Informationen, weil wir einen Kunden so nur einmal und nicht redundant mehrfach speichern müssen. Genauso die Produkte.  
 * Wollen wir jedoch Analysen durchführen, die Informationen zu allen 3 Objekten benötigen, erhöht sich durch diese Aufteilung in 3 Tabellen die Komplexität: Wir müssen die Tabellen in der Abfrage mittels SQL zuerst verknüpfen. Beispiel: Wie ist die Top 5 der Produkte nach Umsatz in jedem PLZ-Gebiet? Um diese Frage zu beantworten benötigen wir Stammdaten der Kunden \(PLZ\), die Verkäufe \(Summe Umsatz\) sowie die Produkte \(Produktbezeichnung\). 
