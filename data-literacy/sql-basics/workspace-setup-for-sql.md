@@ -5,17 +5,19 @@
 Databricks ist ein Cloud-Anbieter für Datenanalysen, unter anderem auf Basis von SQL. Databricks bietet einen kostenlosen Zugang über die so genannte Community Edition. Für die Teilnahme an diesem Tutorial müsst ihr euch ein kostenloses Databricks-Konto erstellen:
 
 * Klickt auf [diesen Link](https://databricks.com/try-databricks), um auf die Anmeldeseite zu gelangen. 
-* Klickt auf den "Get Started" Button auf der **rechten Seite** \(Community Edition\). 
+* Gebt euren Namen ein und füllt die restlichen Felder aus:
+
+  * Company Name = University of Applied Sciences Osnabrück
+  * Work Email = deine HS-Email-Adresse
+  * Intended Use Case = Education - Teaching 
+  * Your Role = Student
+
+* Klickt auf den "Get Started" Button auf der **rechten Seite** \(Community Edition\).
 
 {% hint style="warning" %}
 Wählt bitte **nicht** die Trial-Version aus! Die endet nach 14 Tagen und lässt sich nicht ohne Weiteres in die Community-Edition überführen.
 {% endhint %}
 
-* Gebt euren Namen ein und füllt die restlichen Felder aus:
-  * Company Name = University of Applied Sciences Osnabrück
-  * Work Email = deine HS-Email-Adresse
-  * Intended Use Case = Education - Teaching 
-  * Your Role = Student 
 * Ihr erhaltet eine Bestätigungsmail an eure angegebene Email-Adresse. Darin ist ein Link enthalten, mit dem ihr eure Anmeldung bestätigt und ein Passwort festlegt. Das Passwort muss mindestens ein Sonderzeichen enthalten. 
 * Nachdem ihr euer Passwort festgelegt habt, werdet ihr automatisch eingeloggt und zu Databricks weitergeleitet. 
 
