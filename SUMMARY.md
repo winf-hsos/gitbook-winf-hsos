@@ -55,6 +55,7 @@
   * [Cheatsheet Spark SQL](data-literacy/sql-advanced/cheatsheet-spark-sql-scala-api.md)
 * [SQL for Twitter](data-literacy/sql-for-twitter/README.md)
   * [Explore Tweets](data-literacy/sql-for-twitter/tweets.md)
+  * [Complex Fields](data-literacy/sql-for-twitter/complex-fields.md)
   * [Clean Twitter Data](data-literacy/sql-for-twitter/clean-twitter-data.md)
   * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
   * [Extract Profile Images](data-literacy/sql-for-twitter/fotos-auswerten.md)
