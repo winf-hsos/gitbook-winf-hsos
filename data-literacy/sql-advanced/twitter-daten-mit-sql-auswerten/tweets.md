@@ -188,3 +188,32 @@ select avg(length(text))
 from tweets
 ```
 
+## Who is most often retweeted by users in our data set?
+
+To identify relevant accounts, it can be useful to find those who are retweeted very often. As we have seen above, we can check if a tweet is actually a retweet by looking at the field `is_retweet`. If we now select the field `retweeted_user`, group by this field, and count the number of occurrences for each user, we are close to what we want. Finally, let's sort the result by the number of occurrences in descending order:
+
+```sql
+select retweeted_user
+      ,count(*) as `Number Retweeted`
+from tweets
+where is_retweet = true
+group by retweeted_user
+order by count(*) desc
+```
+
+What does the result tell us exactly? The row on top of our result is the screen name \(or user\) that was most often retweeted by users in our data set. But be cautious: This doesn't mean that the user with the most retweets is actually part of our data set - it is even rather unlikely. 
+
+If we want to limit the result to users who are also part of our data set, we can tweak the query a little bit:
+
+```sql
+select retweeted_user
+      ,count(*) as `Number Retweeted`
+from tweets
+where is_retweet = true
+and retweeted_user in (select distinct screen_name from tweets)
+group by retweeted_user
+order by count(*) desc
+```
+
+We added line 5 to our statement. Here, we narrow down the result to users in our data set using a subquery. This subquery is a query on its own, and it returns the list of distinct users in our data set. \(You can copy and run the subquery in a separate code block to convince yourself\). We then require that the field `retweeted_user` must be part of that list.
+
