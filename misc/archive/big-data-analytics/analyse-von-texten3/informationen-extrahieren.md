@@ -18,7 +18,7 @@ Für die Analyse von Emotionen via Emojis gibt es einen Abschnitt im folgenden T
 
 #### URLs und Bilder
 
-In diesem Tutorial findet ihr [hier](../../../../data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/#extrahieren-von-urls-oder-foto-urls) die Information, wie URLs und Bilder-URLs aus den Tweets extrahiert werden können:
+In diesem Tutorial findet ihr [hier](../../../../data-literacy/sql-for-twitter/twitter-daten-mit-sql-auswerten.md#extrahieren-von-urls-oder-foto-urls) die Information, wie URLs und Bilder-URLs aus den Tweets extrahiert werden können:
 
-{% page-ref page="../../../../data-literacy/sql-advanced/twitter-daten-mit-sql-auswerten/" %}
+{% page-ref page="../../../../data-literacy/sql-for-twitter/twitter-daten-mit-sql-auswerten.md" %}
 
