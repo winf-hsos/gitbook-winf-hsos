@@ -123,6 +123,8 @@ We can put a label on a tweet so that people can easily find tweets regarding sp
 
 When we look closer at this field, we see that the data type is somewhat different than from the other fields we have explored so far. Twitter stores hashtags in a data structure called an _array_, which is simply list of values. These single values are of the type string, so we say that the hashtags are stored in an _array of strings_.
 
+### Counting elements in an array
+
 But how do we access an array and its elements? We'll learn this later, but for now let's look at how we can count the elements in an array:
 
 ```sql
@@ -134,10 +136,34 @@ order by size(hashtags) desc
 
 We can apply the function `size()` to an array, and it returns the number of elements in that list. The query above sorts the result by the number of hashtags a tweet has, which means we'll see the tweet with the most hashtags on top.
 
+### Calculating the average
+
 Now that we can count elements in an array, calculating the average across all tweets is a breeze:
 
 ```sql
 select avg(size(hashtags))
+from tweets
+```
+
+## How long is the average tweet?
+
+Staying at count things - let's count the number of character in our tweets and from there calculate the average length of a tweet. 
+
+### Determine the length of a string
+
+We can get the length of text \(string\) with the `length()` function:
+
+```sql
+select length(text)
+      ,text
+from tweets
+order by length(text) desc
+```
+
+As before, calculating the average is straightforward:
+
+```sql
+select avg(length(text))
 from tweets
 ```
 
