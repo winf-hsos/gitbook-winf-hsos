@@ -145,6 +145,19 @@ select avg(size(hashtags))
 from tweets
 ```
 
+## How many tweets contain a specific hashtag?
+
+Usually we are interested in the specific hashtags a tweet has, not just the sheer number. So how can we check whether a tweet contains a certain hashtag? In technical terms: How can we check if an array contains a certain element? The function `array_contains()` can help us:
+
+```sql
+select text
+      ,hashtags
+from tweets
+where array_contains(hashtags, 'covid19')
+```
+
+The query above fetches all tweets with the hashtag **\#covid19** from our data set.
+
 ## How long is the average tweet?
 
 Staying at count things - let's count the number of character in our tweets and from there calculate the average length of a tweet. 
