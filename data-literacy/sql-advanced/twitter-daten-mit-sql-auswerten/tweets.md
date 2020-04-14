@@ -147,7 +147,9 @@ from tweets
 
 ## How many tweets contain a specific hashtag?
 
-Usually we are interested in the specific hashtags a tweet has, not just the sheer number. So how can we check whether a tweet contains a certain hashtag? In technical terms: How can we check if an array contains a certain element? The function `array_contains()` can help us:
+### Check whether a list contains an element
+
+Usually, we are interested in the specific hashtags a tweet has, not just the sheer number. So how can we check whether a tweet contains a certain hashtag? In technical terms: How can we check if an array contains a certain element? The function `array_contains()` can help us:
 
 ```sql
 select text
