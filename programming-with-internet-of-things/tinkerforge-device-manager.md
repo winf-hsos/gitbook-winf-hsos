@@ -4,7 +4,7 @@ In some of my modules and related projects, we work with electronic devices, suc
 
 The devices we use are from a German company called [Tinkerforge](https://www.tinkerforge.com/en/). Tinkerforge offers a variety of parts that we can assemble and program to build our application prototypes. To glue the parts together, we program a piece of software using their Javascript Application Programming Interface \(API\).
 
-On top of their native Javascript API, I built an additional layer of abstraction, which makes it even easier for us to connect to and handle the different devices. In this tutorial, you'll learn how to use the [Tinkerforge Device Manager](https://github.com/winf-hsos/tinkerforge-device-manager-web).
+On top of their native Javascript API, I built an additional layer of abstraction, which makes it easier for us to connect to and handle the different devices. In this tutorial, you'll learn how to use the [Tinkerforge Device Manager](https://github.com/winf-hsos/tinkerforge-device-manager-web).
 
 ### Use the Template
 
