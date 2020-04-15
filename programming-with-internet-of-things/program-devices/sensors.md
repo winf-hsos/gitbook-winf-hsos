@@ -107,8 +107,44 @@ We can add an additional line of code and tell the sensor in which frequency we 
 
 ```javascript
 // We only want to be informed every 5 seconds
-  humiditySensor.setCallbackInterval(5000);
+humiditySensor.setCallbackInterval(5000);
 ```
 
 In the example above, we set the **callback interval** to 5000 milliseconds or 5 seconds. This means our callback function will only be called every 5 seconds if there was a new value in that time interval.
+
+## Finished code
+
+Here is the complete code from this article:
+
+```javascript
+// A global variable to store all devices
+var devices;
+
+// A global variable to store the sensor
+var humiditySensor;
+
+// This initializes the connections
+tf.initDevices(initDone);
+
+// Call this when all connections are established
+function initDone(connectedDevices) {
+    // Store the devices on the global variable
+    devices = connectedDevices;
+    
+    // Get one specific device via its UID
+    humiditySensor = devices.getDeviceByIdentifier(283);
+    
+    // We want to be informed when a new sensor value arrives
+    humiditySensor.registerListener(humidityChanged);
+    
+    // We only want to be informed every 5 seconds
+    humiditySensor.setCallbackInterval(5000);
+}
+
+function humidityChanged(val) {
+  log(val.getValue());
+}
+```
+
+
 
