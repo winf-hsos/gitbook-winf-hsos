@@ -25,7 +25,7 @@ You can manually include all necessary libraries to use the TDM in your web proj
 <script src="lib/Tinkerforge.js" type="text/javascript"></script>
 <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js" type="text/javascript"></script>
 <script
-    src="https://cdn.jsdelivr.net/gh/winf-hsos/tinkerforge-device-manager-web@0.1.4/index.js"
+    src="https://cdn.jsdelivr.net/gh/winf-hsos/tinkerforge-device-manager-web@0.1.8/index.js"
     type="module">
 </script>
 ```

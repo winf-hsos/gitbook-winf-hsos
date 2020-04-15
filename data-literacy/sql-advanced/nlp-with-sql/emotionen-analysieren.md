@@ -53,7 +53,7 @@ where size(findEmoticons(text)) > 0
 
 Das Ergebnis der Funktion ist eine neue Spalte als Liste \(Array\) von Emojis:
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2819%29.png)
 
 Wie wir mit Arrays in SQL umgehen ist bekannt bzw. könnt ihr im [dafür vorgesehenen Tutorial](../json-and-sql.md#arrays-abfragen) nachlesen. Wir können z.B. `explode` anwenden, um pro Zeile ein Emojis zu erhalten:
 
@@ -95,7 +95,7 @@ Nach dem Ausführen des obigen Blocks habt ihr die neue Tabelle `emoji_meaning` 
 select * from emoji_meaning
 ```
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
 
 Jetzt müssen wir die beiden Tabellen nur noch zusammenbringen:
 
@@ -110,7 +110,7 @@ left join emoji_meaning e
   on e.emoji = t.emoji
 ```
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 ### 💡 Fehlende Emojis pflegen
 

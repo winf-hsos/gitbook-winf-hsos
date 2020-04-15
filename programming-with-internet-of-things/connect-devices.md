@@ -13,7 +13,7 @@ tf.initDevices(initDone);
 function initDone(connectedDevices) {
     // Store the devices on the global variable
     devices = connectedDevices;
-}jav
+}
 ```
 
 ### Global Variable To Store Devices
