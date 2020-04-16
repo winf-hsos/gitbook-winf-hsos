@@ -2,7 +2,7 @@
 
 ## Steps in data analytics
 
-![The data analytics process in schematic form.](../.gitbook/assets/data_analytics_process.png)
+![Typical steps in a data analytics process \(schematically\).](../.gitbook/assets/data_analytics_process%20%281%29.png)
 
 ## Videos
 
