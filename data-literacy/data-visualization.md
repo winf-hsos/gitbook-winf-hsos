@@ -10,5 +10,9 @@ This site is just a placeholder until the section is being written. That may tak
 
 {% embed url="https://serialmentor.com/dataviz/index.html" %}
 
+## Videos
+
+{% embed url="https://youtu.be/j6ClFJhnG18" %}
+
 
 
