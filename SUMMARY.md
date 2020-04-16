@@ -61,8 +61,6 @@
 * [Data Visualization](data-literacy/data-visualization.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning.md)
-* [Projects](data-literacy/projects/README.md)
-  * [Twitter Analytics](data-literacy/projects/twitter-analytics.md)
 
 ## Technological Literacy
 
