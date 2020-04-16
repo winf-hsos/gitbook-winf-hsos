@@ -60,8 +60,8 @@
   * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
 * [Data Analytics](data-literacy/data-analytics.md)
 * [Data Visualization](data-literacy/data-visualization.md)
-* [Spreadsheets](data-literacy/spreadsheets.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning.md)
+* [Spreadsheets](data-literacy/spreadsheets.md)
 
 ## Technological Literacy
 
