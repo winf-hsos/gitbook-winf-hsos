@@ -121,6 +121,7 @@
   * [Program Devices](programming-with-internet-of-things/program-devices/README.md)
     * [Sensors](programming-with-internet-of-things/program-devices/sensors/README.md)
       * [Humidity Sensor](programming-with-internet-of-things/program-devices/sensors/humidity-sensor.md)
+      * [Ambient Light Sensor](programming-with-internet-of-things/program-devices/sensors/ambient-light-sensor.md)
       * [NFC Reader](programming-with-internet-of-things/program-devices/sensors/nfc-reader.md)
     * [RGB LED](programming-with-internet-of-things/program-devices/rgb-led.md)
     * [RGB LED Button](programming-with-internet-of-things/program-devices/rgb-led-button.md)
