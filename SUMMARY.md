@@ -66,6 +66,11 @@
 ## Technological Literacy
 
 * [Coding with Javascript](coding-with-javascript/README.md)
+  * [Variables](coding-with-javascript/variables.md)
+  * [Data Structures](coding-with-javascript/data-structures.md)
+  * [Functions](coding-with-javascript/functions.md)
+  * [Control Structures](coding-with-javascript/control-structures.md)
+  * [Loops](coding-with-javascript/loops.md)
   * [The JSON Format](coding-with-javascript/einfuehrung-in-json.md)
 * [Web](web/README.md)
   * [Workspace Setup](web/workspace-setup.md)
@@ -79,7 +84,7 @@
     * [Images](web/html/images.md)
   * [CSS](web/css.md)
   * [Bootstrap](web/bootstrap.md)
-  * [Javascript](web/javascript-fuers-web.md)
+  * [Websites & Javascript](web/javascript-fuers-web.md)
   * [Web Applications](web/web-applications/README.md)
     * [\#1 Deine erste Webseite](web/web-applications/part-a-your-first-website/README.md)
       * [First CSS](web/web-applications/part-a-your-first-website/04-introduction-to-css/README.md)
