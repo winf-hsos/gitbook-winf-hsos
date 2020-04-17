@@ -17,7 +17,7 @@ Once we have a reference to the NFC reader, we can use the `scan()` function to 
 
 ```javascript
 // We want to be informed when a new sensor value arrives
-nfc.scan(readingDone, readingFailed);
+nfcReader.scan(readingDone, readingFailed);
 
 function readingDone(val) {
     // Do something with the data from the NFC tag
@@ -66,24 +66,24 @@ When a tag was read, whether that was successful or not, the NFC reader goes int
 
 ```javascript
 // We want to be informed when a new sensor value arrives
-nfc.scan(readingDone, readingFailed);
+nfcReader.scan(readingDone, readingFailed);
 
 function readingDone(val) {
     // Do something with the data...
     
     // Set the reader back to scan mode
-    nfc.scan(readingDone, readingFailed);
+    nfcReader.scan(readingDone, readingFailed);
 }
 
 function readingFailed(error) {
     // Handle reading errors...
     
     // In case of an error, also go back to scanning mode
-    nfc.scan(readingDone, readingFailed);
+    nfcReader.scan(readingDone, readingFailed);
 }
 ```
 
-In the callback function `readingDone()`, we simply use `nfc.scan()` directly after we processed the data from the current tag. This puts the NFC reader back to scan mode. We must do the same in the `readingFailed()` function if we want to make sure the reader will always stay in scan mode.
+In the callback function `readingDone()`, we simply use `nfcReader.scan()` directly after we processed the data from the current tag. This puts the NFC reader back to scan mode. We must do the same in the `readingFailed()` function if we want to make sure the reader will always stay in scan mode.
 
 {% hint style="info" %}
 The `readingFailed()` callback is called when the NFC reader times out. This happens a few seconds after the `scan()` function was called and no tag was found. Therefore, in the above code example, it is quite normal that the `readingFailed()` function is called every so many seconds.
@@ -95,7 +95,7 @@ In the example above, we put the NFC reader back to scan mode _directly_ after w
 
 ```javascript
 // We want to be informed when a new sensor value arrives
-nfc.scan(readingDone, readingFailed);
+nfcReader.scan(readingDone, readingFailed);
 
 function readingDone(val) {
     // Do something with the data...
@@ -112,7 +112,7 @@ function readingFailed(error) {
 }
 
 function setScanning() {
-    nfc.scan(readingDone, readingFailed);
+    nfcReader.scan(readingDone, readingFailed);
 }
 ```
 

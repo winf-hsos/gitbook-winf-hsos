@@ -125,6 +125,7 @@
       * [NFC Reader](programming-with-internet-of-things/program-devices/sensors/nfc-reader.md)
     * [RGB LED](programming-with-internet-of-things/program-devices/rgb-led.md)
     * [RGB LED Button](programming-with-internet-of-things/program-devices/rgb-led-button.md)
+    * [OLED Display](programming-with-internet-of-things/program-devices/oled-display.md)
   * [Cheatsheet Tinkerforge](programming-with-internet-of-things/cheatsheet-tinkerforge.md)
 * [Programming with Python](programming-with-python/README.md)
   * [Workspace Setup](programming-with-python/workspace-setup.md)

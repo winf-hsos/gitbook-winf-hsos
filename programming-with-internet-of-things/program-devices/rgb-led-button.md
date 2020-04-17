@@ -9,7 +9,7 @@ Next, we need to know the device identifier of the RGB LED Button, which is **28
 button = devices.getDeviceByIdentifier(282);
 ```
 
-Now that we have a reference to the button on the variable button, we can use that variable to call the button's LED functions. These are the same as for the [RGB LED](rgb-led.md).
+Now that we have a reference to the button on the variable `button`, we can use that variable to call the button's LED functions. These are the same as for the [RGB LED](rgb-led.md).
 
 ## Set the color of the button's LED
 
