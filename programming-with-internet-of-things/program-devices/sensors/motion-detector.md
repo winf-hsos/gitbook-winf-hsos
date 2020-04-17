@@ -43,6 +43,6 @@ function motionDetected(val) {
 
 The motion detector sends to types of events:
 
-1. One of type motion\_detected, when the sensor detects a new motion
+1. One of type `motion_detected`, when the sensor detects a new motion
 2. Following after a few seconds a motion was detected, we get an event `detection_cycle_ended`, that signals that the sensor is now ready to detect another motion.
 
