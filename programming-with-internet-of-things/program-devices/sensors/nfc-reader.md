@@ -36,6 +36,30 @@ When calling the `scan()` function, you must provide two callback functions as a
 
 ## Accessing the data
 
+In the function `readingDone()` we have access to the data stored on the NFC tag via the parameter `val`. In the current version of the Tinkerforge Device Manager, the tag's information must be a simple JSON object with two fields. For example this could be stored on a NFC sticker:
+
+```javascript
+{
+    "id": 1,
+    "type": 2
+}
+```
+
+We can obtain this JSON object from the `val` parameter:
+
+```javascript
+function readingDone(val) {
+    var id = val.id;
+    var type = val.type;
+    
+    log("Read tag with ID " + id + " and type " + type;
+}
+```
+
+{% hint style="info" %}
+Writing data to an NFC tag is currently not supported by the Tinkerforge Device Manager. You can only work with the NFC tags and their current data stored on them.
+{% endhint %}
+
 ## What to do when a tag was read?
 
 When a tag was read, whether that was successful or not, the NFC reader goes into an idle status. To keep the reader in state where it can detect and read tags, we can take the following measurements:
@@ -48,14 +72,14 @@ function readingDone(val) {
     // Do something with the data...
     
     // Set the reader back to scan mode
-    nfc.scan();
+    nfc.scan(readingDone, readingFailed);
 }
 
 function readingFailed(error) {
     // Handle reading errors...
     
     // In case of an error, also go back to scanning mode
-    nfc.scan();
+    nfc.scan(readingDone, readingFailed);
 }
 ```
 
@@ -64,4 +88,33 @@ In the callback function `readingDone()`, we simply use `nfc.scan()` directly af
 {% hint style="info" %}
 The `readingFailed()` callback is called when the NFC reader times out. This happens a few seconds after the `scan()` function was called and no tag was found. Therefore, in the above code example, it is quite normal that the `readingFailed()` function is called every so many seconds.
 {% endhint %}
+
+## Tweak: Wait a second before scanning again
+
+In the example above, we put the NFC reader back to scan mode _directly_ after we received the data from the current tag. As a consequence, we will see the same tag and its data many times, because we can't remove the tag fast enough \(and the reader is really fast\). To prevent this issue, we can set a timeout of 1 second before we start scanning again:
+
+```javascript
+// We want to be informed when a new sensor value arrives
+nfc.scan(readingDone, readingFailed);
+
+function readingDone(val) {
+    // Do something with the data...
+    
+    // Set the reader back to scan mode after 1000 ms
+    setTimeout(setScanning, 1000);
+}
+
+function readingFailed(error) {
+    // Handle reading errors...
+    
+    // In case of an error, also go back to scanning mode
+    setTimeout(setScanning, 1000);
+}
+
+function setScanning() {
+    nfc.scan(readingDone, readingFailed);
+}
+```
+
+
 
