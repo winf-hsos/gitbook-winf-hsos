@@ -1,8 +1,12 @@
-# Motion Detector 2.0
+# Motion Detector
 
-Working with an [Motion Detector 2.0](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Motion_Detector_V2.html) sensor works as described in the general article on [how to use sensors](./). In this article, we assume you have successfully initialized the devices with the [Tinkerforge Device Manager](../../tinkerforge-device-manager.md), and you stored all connected devices on a global variable `devices`. We also declared a global variable called `motionDetector`. 
+Working with an [Motion Detector 2.0](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Motion_Detector_V2.html) sensor  or [Motion Detector 1.0](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Motion_Detector.html) sensor works as described in the general article on [how to use sensors](./). In this article, we assume you have successfully initialized the devices with the [Tinkerforge Device Manager](../../tinkerforge-device-manager.md), and you stored all connected devices on a global variable `devices`. We also declared a global variable called `motionDetector`. 
 
-Next, we need to know the device identifier, which **292**:
+{% hint style="info" %}
+The following tutorial works for both motion detectors 1.0 and 2.0. The only thing that is different is the device identifier.
+{% endhint %}
+
+Next, we need to know the device identifier, which **292** \(Motion Detector 2.0\) or **233** \(Motion Detector 1.0\):
 
 ```javascript
 // Get the motion detector sensor via its device identifer
