@@ -1,4 +1,4 @@
-# Motion Detector
+# Motion Detector 2.0
 
 Working with an [Motion Detector 2.0](https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Motion_Detector_V2.html) sensor works as described in the general article on [how to use sensors](./). In this article, we assume you have successfully initialized the devices with the [Tinkerforge Device Manager](../../tinkerforge-device-manager.md), and you stored all connected devices on a global variable `devices`. We also declared a global variable called `motionDetector`. 
 
