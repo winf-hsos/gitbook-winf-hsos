@@ -13,7 +13,7 @@ nfcReader = devices.getDeviceByIdentifier(286);
 
 ## Scan and read tags
 
-Once we have a reference to the NFC reader, we can use the `scan()` function to tell the reader to start scanning. Once an NFC tag is placed on the reader, it will detect it and read the information that is stored on it:
+Once we have a reference to the NFC reader, we can use the `scan()` function to tell the reader to start scanning. When an NFC tag is placed on the reader, it will detect it and read the information that is stored on it:
 
 ```javascript
 // We want to be informed when a new sensor value arrives
