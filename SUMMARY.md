@@ -65,6 +65,8 @@
 
 ## Technological Literacy
 
+* [Coding with Javascript](coding-with-javascript/README.md)
+  * [The JSON Format](coding-with-javascript/einfuehrung-in-json.md)
 * [Web](web/README.md)
   * [Workspace Setup](web/workspace-setup.md)
   * [The Target](web/die-task-management-app.md)
@@ -77,8 +79,7 @@
     * [Images](web/html/images.md)
   * [CSS](web/css.md)
   * [Bootstrap](web/bootstrap.md)
-  * [Javascript](web/javascript-fuers-web/README.md)
-    * [Einführung in JSON](web/javascript-fuers-web/einfuehrung-in-json.md)
+  * [Javascript](web/javascript-fuers-web.md)
   * [Web Applications](web/web-applications/README.md)
     * [\#1 Deine erste Webseite](web/web-applications/part-a-your-first-website/README.md)
       * [First CSS](web/web-applications/part-a-your-first-website/04-introduction-to-css/README.md)
@@ -128,7 +129,7 @@
     * [RGB LED Button](programming-with-internet-of-things/program-devices/rgb-led-button.md)
     * [OLED Display](programming-with-internet-of-things/program-devices/oled-display.md)
   * [Cheatsheet Tinkerforge](programming-with-internet-of-things/cheatsheet-tinkerforge.md)
-* [Programming with Python](programming-with-python/README.md)
+* [Coding with Python](programming-with-python/README.md)
   * [Workspace Setup](programming-with-python/workspace-setup.md)
   * [Getting to know the IDE](programming-with-python/getting-to-know-the-ide.md)
   * [Our First Program](programming-with-python/first-program.md)

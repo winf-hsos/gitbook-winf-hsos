@@ -5,7 +5,7 @@ description: >-
   possibilities of coding with Python.
 ---
 
-# Programming with Python
+# Coding with Python
 
 ![](../.gitbook/assets/python-tutorial-visually-2x.png)
 

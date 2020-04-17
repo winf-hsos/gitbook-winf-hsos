@@ -36,7 +36,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 {% page-ref page="../../../../data-literacy/sql-basics/daten-mit-sql-erkunden.md" %}
 
-{% page-ref page="../../../../web/javascript-fuers-web/einfuehrung-in-json.md" %}
+{% page-ref page="../../../../coding-with-javascript/einfuehrung-in-json.md" %}
 
 {% page-ref page="../../../../data-literacy/sql-advanced/json-and-sql.md" %}
 
