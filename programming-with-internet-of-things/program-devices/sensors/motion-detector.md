@@ -39,7 +39,7 @@ function motionDetected(val) {
     if(motion.type === "motion_detected") {
         log("Motion detected");    
     }
-    else if(motion.type == = "detection_cycle_ended") {
+    else if(motion.type === "detection_cycle_ended") {
         log("Ready to detect another motion");
     }
 }
