@@ -11,5 +11,5 @@ In our research, we use Facebook's open source platform Ax to apply Bayesian Opt
 
 ## Publications
 
-Zmijewski, P., Meseth, N., 2020: Evaluation of Bayesian Optimization applied to Discrete-Event Simulation, Proceedings of the Simulation Innovation Workshop 2020, Orlando, FL.
+Zmijewski, P., Meseth, N., 2020: Evaluation of Bayesian Optimization applied to Discrete-Event Simulation, Proceedings of the Simulation Innovation Workshop 2020, Orlando, FL. [Online available at OPUS](https://opus.hs-osnabrueck.de/frontdoor/deliver/index/docId/1564/file/SIW2020_Paper23_ZmijewskiMeseth.pdf).
 
