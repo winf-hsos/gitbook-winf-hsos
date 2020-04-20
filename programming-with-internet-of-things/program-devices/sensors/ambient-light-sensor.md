@@ -31,7 +31,7 @@ The sensor delivers only one value, which we can access via the `val` object. Th
 ```javascript
 function ambientLightChanged(val) {
     // Get the value
-    var value = val.getValue():
+    var value = val.getValue();
     log(value.value / 100.0 + " lx");
 }
 ```
