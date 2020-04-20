@@ -5,7 +5,7 @@ description: >-
   means to learn from data.
 ---
 
-# Learning from Data
+# Rules vs. Data
 
 ## Example 1: Greenhouse Control
 

@@ -62,8 +62,14 @@
 * [Data Visualization](data-literacy/data-visualization.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
   * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
-  * [Learning from Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
+  * [Rules vs. Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
   * [Different Learners](data-literacy/how-to-get-started-with-machine-learning/different-learners.md)
+  * [ML Algorithms](data-literacy/how-to-get-started-with-machine-learning/ml-algorithms/README.md)
+    * [Linear Regression](data-literacy/how-to-get-started-with-machine-learning/ml-algorithms/linear-regression.md)
+    * [Decision Trees](data-literacy/how-to-get-started-with-machine-learning/ml-algorithms/decision-trees.md)
+    * [Artificial Neural Networks](data-literacy/how-to-get-started-with-machine-learning/ml-algorithms/artificial-neural-networks.md)
+  * [Applications](data-literacy/how-to-get-started-with-machine-learning/applications/README.md)
+    * [Hand Writing Recognition](data-literacy/how-to-get-started-with-machine-learning/applications/hand-writing-recognition.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 
 ## Technological Literacy
