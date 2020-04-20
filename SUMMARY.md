@@ -13,6 +13,14 @@
 
 ## Data Literacy
 
+* [Data Analytics](data-literacy/data-analytics/README.md)
+  * [Collect Data](data-literacy/data-analytics/collect-data.md)
+  * [Clean & Process Data](data-literacy/data-analytics/clean-and-process-data.md)
+  * [Explore Data](data-literacy/data-analytics/explore-data.md)
+  * [Questions & Hypotheses](data-literacy/data-analytics/questions-and-hypotheses.md)
+  * [Find Answers](data-literacy/data-analytics/find-answers.md)
+  * [Document & Present Results](data-literacy/data-analytics/document-and-present-results.md)
+  * [Visualize](data-literacy/data-analytics/visualize.md)
 * [SQL Basics](data-literacy/sql-basics/README.md)
   * [Why learn SQL?](data-literacy/sql-basics/why-learn-sql.md)
   * [Workspace Setup](data-literacy/sql-basics/workspace-setup-for-sql.md)
@@ -59,13 +67,6 @@
   * [Complex Fields](data-literacy/sql-for-twitter/complex-fields.md)
   * [Clean Twitter Data](data-literacy/sql-for-twitter/clean-twitter-data.md)
   * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
-* [Data Analytics](data-literacy/data-analytics/README.md)
-  * [Collect Data](data-literacy/data-analytics/collect-data.md)
-  * [Clean & Process Data](data-literacy/data-analytics/clean-and-process-data.md)
-  * [Explore Data](data-literacy/data-analytics/explore-data.md)
-  * [Questions & Hypotheses](data-literacy/data-analytics/questions-and-hypotheses.md)
-  * [Find Answers](data-literacy/data-analytics/find-answers.md)
-  * [Document & Present Results](data-literacy/data-analytics/document-and-present-results.md)
 * [Data Visualization](data-literacy/data-visualization/README.md)
   * [Visualization with Databricks](data-literacy/data-visualization/visualization-with-databricks.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
