@@ -61,6 +61,7 @@
 * [Data Analytics](data-literacy/data-analytics.md)
 * [Data Visualization](data-literacy/data-visualization.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
+  * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
   * [Learning from Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 
