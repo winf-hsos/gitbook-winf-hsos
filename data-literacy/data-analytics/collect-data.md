@@ -2,7 +2,7 @@
 
 To start a data analytics project, you obviously need data. There are different sources from which you can obtain data. If you are just playing around and want to learn, you can go to websites such as [Kaggle.com](https://www.kaggle.com/data) and download free and interesting data sets.
 
-## Why Twitter Data?
+## Why Twitter data?
 
 In real life, however, the data doesn't just sit on a server, ready for you to download. More often than not, you must take care of collecting the data in the first place. In the project we are going to take as an example in the following sections, this data comes from the social media platform [Twitter](https://twitter.com/). Twitter lends itself well to being used in learning scenarios, for various reasons:
 
