@@ -26,6 +26,7 @@
   * [Filter Grouped Data](data-literacy/sql-basics/filter-grouped-data-with-sql.md)
   * [Explore Data](data-literacy/sql-basics/daten-mit-sql-erkunden.md)
 * [SQL Advanced](data-literacy/sql-advanced/README.md)
+  * [Views](data-literacy/sql-advanced/views.md)
   * [Multiple Tables](data-literacy/sql-advanced/query-multiple-tables-with-sql-joins.md)
   * [Set Operations](data-literacy/sql-advanced/set-operations-with-sql.md)
   * [Subqueries](data-literacy/sql-advanced/subqueries-with-sql.md)
