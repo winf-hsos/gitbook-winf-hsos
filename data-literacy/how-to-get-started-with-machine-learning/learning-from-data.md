@@ -7,6 +7,10 @@ description: >-
 
 # Rules vs. Data
 
+{% hint style="info" %}
+This site is a placeholder for until I get to write the article.
+{% endhint %}
+
 ## Example 1: Greenhouse Control
 
 ## Example 2: Image Recognition
