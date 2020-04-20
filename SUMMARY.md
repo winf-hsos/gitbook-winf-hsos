@@ -95,7 +95,7 @@
   * [Control Structures](coding-with-javascript/control-structures.md)
   * [Loops](coding-with-javascript/loops.md)
   * [The JSON Format](coding-with-javascript/einfuehrung-in-json.md)
-* [Web](web/README.md)
+* [Web Development](web/README.md)
   * [Workspace Setup](web/workspace-setup.md)
   * [The Target](web/die-task-management-app.md)
   * [HTML](web/html/README.md)
