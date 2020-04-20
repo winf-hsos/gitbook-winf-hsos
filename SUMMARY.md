@@ -63,6 +63,7 @@
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
   * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
   * [Learning from Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
+  * [Different Learners](data-literacy/how-to-get-started-with-machine-learning/different-learners.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 
 ## Technological Literacy
