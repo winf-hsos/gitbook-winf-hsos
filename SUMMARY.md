@@ -32,7 +32,7 @@
   * [Simple Aggregations](data-literacy/sql-basics/simple-aggregations-with-sql.md)
   * [Group Data](data-literacy/sql-basics/grouping-data-with-sql.md)
   * [Filter Grouped Data](data-literacy/sql-basics/filter-grouped-data-with-sql.md)
-  * [Explore Data](data-literacy/sql-basics/daten-mit-sql-erkunden.md)
+  * [Explore Data with SQL](data-literacy/sql-basics/daten-mit-sql-erkunden.md)
 * [SQL Advanced](data-literacy/sql-advanced/README.md)
   * [Views](data-literacy/sql-advanced/views.md)
   * [Multiple Tables](data-literacy/sql-advanced/query-multiple-tables-with-sql-joins.md)

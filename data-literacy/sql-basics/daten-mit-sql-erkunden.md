@@ -1,10 +1,10 @@
-# Explore Data
+# Explore Data with SQL
 
-## 🎯 Lernziele
+## Lernziele
 
 In diesem Tutorial bekommt ihr einen Überblick, mit welchen SQL-Abfragen ihr euch schnell einen Überblick über einen unbekannten Datensatz verschaffen könnt. Es geht hier um eine gezielte Bündelung der Abfragen, die bei dem **Erkunden von neuen Daten** relevant sind.
 
-## 💡 Datensätze zählen
+## Datensätze zählen
 
 Meistens interessiert im ersten Schritt der Umfang des Datensatzes, also die Anzahl der Zeilen. Das bekommen wir ganz einfach heraus:
 
@@ -12,7 +12,7 @@ Meistens interessiert im ersten Schritt der Umfang des Datensatzes, also die Anz
 select count(*) from ted_meta
 ```
 
-## 💡 Überblick über den Wertebereich einer Spalte bekommen
+## Überblick über den Wertebereich einer Spalte bekommen
 
 Der erste Hinweis auf den Wertebereich gibt euch bereits der `describe` Befehl. Er liefert neben dem Namen auch den Datentyp einer Spalte zurück. Um aber ein besseres Bild zu bekommen, welche Werte in einer Spalte enthalten sind, kann man sich z.B. alle eindeutigen Werte sortiert ausgeben lassen:
 
@@ -31,13 +31,13 @@ order by `Number Occurences` desc
 
 Die häufigsten Werte werden im Ergebnis oben angezeigt.
 
-### 💡 Schnelle Visualisierungen
+### Schnelle Visualisierungen
 
 Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick in eine visuelle Form zu bringen. Dazu nutzt ihr die Buttonleiste unter der Ergebnisanzeige. Mit Klick auf Chartsymbol bekommt ihr sofort eine Anzeige als Balkendiagramm. Über die den Button "Plot Options..." könnt ihr auch andere Charts auswählen und die Achsen konfigurieren.
 
 ![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2831%29.png)
 
-## 💡 Die zeitliche Verteilung der Daten ermitteln
+## Die zeitliche Verteilung der Daten ermitteln
 
 Die meisten Datensätze, die wir in der Praxis analysieren, haben einen Zeitbezug. Konkret heißt das, es gibt mindestens eine Spalte mit dem Datentyp `timestamp` oder `date`.
 
@@ -71,7 +71,7 @@ select max(film_date) as `Aktuellstes Datum`
 from ted_meta
 ```
 
-## 💡 Statistische Größen berechnen
+## Statistische Größen berechnen
 
 Das arithmetische Mittel \(Durchschnitt\) lässt sich in SQL sehr einfach berechnen:
 
