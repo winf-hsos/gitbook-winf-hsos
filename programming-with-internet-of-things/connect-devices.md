@@ -26,7 +26,7 @@ The difference between a global and a local variable is their visibility. While 
 
 When we import the Tinkerforge Device Manager in our web project, we automatically get access to a global variable called `tf` \(short for _Tinkerforge_\). This variable stores a reference to the Tinkerforge Device Manager \(TDM\) and all its functionality. One of the functions is `initDevices()`, which - as the name suggest - tells the TDM to start the initialization process and get a connection to all devices at the computer's USB port. We call this function in line 5. As an argument, we pass a reference to a function `initDone()`. We define this function starting in line 8. This function serves as a so called _callback function_, and it will be called by the TDM when the initialization process finishes.
 
-To hand as the result, which are all references to the connected devices, the TDM uses the single argument `connectedDevices` of the callback function. Via this variable, we get access to all devices and their functions. To make sure we can access the devices from anyhwere in our program, and not just from the `initDone()` function, we store the argument on the global variable `devices` that we defined earlier \(line 10\).
+To hand as the result, which are all references to the connected devices, the TDM uses the single argument `connectedDevices` of the callback function. Via this variable, we get access to all devices and their functions. To make sure we can access the devices from anywhere in our program, and not just from the `initDone()` function, we store the argument on the global variable `devices` that we defined earlier \(line 10\).
 
 ## Change the default port
 
