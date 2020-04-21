@@ -37,9 +37,11 @@ or text like '%virus%'
 
 ## A user defined function `str_contains()`
 
-Eine Alternative ist das Zerlegen der Texte in einzelne Wörter. Das bietet sich an, wenn man tiefer gehende Analysen der Texte durchführen möchte. 
+Eine Alternative zum `like`-Operator ist das Zerlegen der Texte in einzelne Wörter. Das bietet sich an, wenn man tiefer gehende Analysen der Texte durchführen möchte. Dazu findet ihr in dem unten verlinkten Abschnitt weitere Informationen:
 
-Will man lediglich auf die Schnelle nach mehr als einem Wort suchen gibt es dennoch eine Möglichkeit. Über eine **User Defined Function \(UDF\)** kann zunächst die Funktion abgebildet werden, innerhalb einer Spalte nach einer anderen Spalte \(enthält gesuchtes Wort\) oder einem Wort zu suchen:
+{% page-ref page="texte-mit-sql-auswerten/" %}
+
+Will man lediglich auf die Schnelle nach mehr als einem Wort suchen, gibt es dennoch eine einfache Möglichkeit. Über eine **User Defined Function \(UDF\)** kann zunächst die Funktion abgebildet werden, innerhalb einer Spalte nach einer anderen Spalte \(enthält gesuchtes Wort\) oder einem Wort zu suchen:
 
 ```scala
 def strContains(s: String, k: String): Boolean = {
@@ -52,7 +54,7 @@ val strContainsUDF = udf[Boolean, String, String](strContains)
 spark.udf.register("str_contains", strContainsUDF)
 ```
 
-Diese UDF kann man nun innerhalb eines SQL Statements aufrufen. Die Tabelle `keywords` enthält dabei die gesuchten Suchbegriffe in der Spalte `word`. Die Tabelle kann beispielsweise in [Google Sheets gepflegt und anschließend geladen werden](identify-topics-in-text/mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden):
+Diese UDF kann man nun innerhalb eines SQL-Statements aufrufen. Die Tabelle `keywords` enthält dabei die gesuchten Suchbegriffe in der Spalte `word`. Die Tabelle kann beispielsweise in [Google Sheets gepflegt und anschließend geladen werden](identify-topics-in-text/mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden), oder sie wird mittels SQL-DML erzeugt \(s. [Databricks Notebook Template](https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/Texte%20f%C3%BCr%20SQL%20Analysen%20vorbereiten.html)\):
 
 ```sql
 select t.text
