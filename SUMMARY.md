@@ -43,7 +43,7 @@
   * [Date and Time](data-literacy/sql-advanced/date-and-time-with-sql.md)
   * [JSON and SQL](data-literacy/sql-advanced/json-and-sql.md)
   * [NLP with SQL](data-literacy/sql-advanced/nlp-with-sql/README.md)
-    * [Prepare Texts](data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/README.md)
+    * [Prepare Text](data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/README.md)
       * [Prefilter Text](data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/1-zeilen-filtern.md)
       * [Clean and Normalize](data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/2-texte-bereinigen-und-normalisieren.md)
       * [Tokenize](data-literacy/sql-advanced/nlp-with-sql/texte-mit-sql-auswerten/3-texte-in-woerter-zerlegen.md)

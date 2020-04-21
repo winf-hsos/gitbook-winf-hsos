@@ -24,7 +24,7 @@ create or replace view tweets_prep_step_1 as
   select user
       ,text
       ,created_at
-  from twitter_timelines
+  from tweets
   where array_contains(hashtags, 'organic')
 ```
 

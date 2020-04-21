@@ -7,11 +7,21 @@ description: >-
 
 # Search Text
 
-Mit dem like Operator kann man in Texten nach einzelnen Wörtern suchen. Möchte man einen Text nach mehr als nur einem Wort durchsuchen, können wir mehrere like Operatoren mit dem OR-Operator verknüpfen. Diese Vorgehensweise wird aber schnell unübersichtlich.
+## Notebook Template
+
+You find all queries from below in this notebook template:
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Twitter%20Data%20Import%20Template.html" %}
+
+## The `like`-operator
+
+Mit dem `like-`Operator können wir in Texten nach einzelnen Wörtern suchen. Möchte man einen Text nach mehr als nur einem Wort durchsuchen, können wir mehrere `like-`Operatoren mit dem `or`-Operator verknüpfen. Diese Vorgehensweise wird schnell unübersichtlich.
+
+## A user defined function `str_contains()`
 
 Eine Alternative ist das Zerlegen der Texte in einzelne Wörter. Das bietet sich an, wenn man tiefer gehende Analysen der Texte durchführen möchte. 
 
-Will man lediglich auf die Schnelle nach mehr als einem Wort suchen gibt es dennoch eine Möglichkeit. Über eine **User Defined Function \(UDF\)** kann zunächst die Funktion abgebildet werden, innerhalb einer Spalte nach einer anderen Spalte \(enthält gesuchtes Wort\) zu suchen:
+Will man lediglich auf die Schnelle nach mehr als einem Wort suchen gibt es dennoch eine Möglichkeit. Über eine **User Defined Function \(UDF\)** kann zunächst die Funktion abgebildet werden, innerhalb einer Spalte nach einer anderen Spalte \(enthält gesuchtes Wort\) oder einem Wort zu suchen:
 
 ```scala
 def strContains(s: String, k: String): Boolean = {
@@ -21,7 +31,7 @@ def strContains(s: String, k: String): Boolean = {
 }
 
 val strContainsUDF = udf[Boolean, String, String](strContains)
-spark.udf.register("strContains", strContainsUDF)
+spark.udf.register("str_contains", strContainsUDF)
 ```
 
 Diese UDF kann man nun innerhalb eines SQL Statements aufrufen. Die Tabelle `keywords` enthält dabei die gesuchten Suchbegriffe in der Spalte `word`. Die Tabelle kann beispielsweise in [Google Sheets gepflegt und anschließend geladen werden](identify-topics-in-text/mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden):
@@ -29,23 +39,25 @@ Diese UDF kann man nun innerhalb eines SQL Statements aufrufen. Die Tabelle `key
 ```sql
 select t.text
       ,k.keyword
-from twitter_timelines t
+from tweets t
 left join keywords k
-      on strContains(t.text, k.keyword)
+      on str_contains(t.text, k.keyword)
 -- Nur Treffer im Ergebnis behalten
 where k.keyword is not null
 ```
 
-Wollt ihr nun jeden Text nur einmal im Ergebnis haben, sortiert nach der Anzahl gefundener Schlüsselwörter, dann verwendet das folgende SQL:
+## `collect_list()` and `collect_set()`
+
+Wollt ihr nun jeden Tweet nur einmal im Ergebnis haben, sortiert nach der Anzahl gefundener Schlüsselwörter, dann verwendet das folgende SQL:
 
 ```sql
 select id
       ,text
       ,collect_list(word) as hits
       ,count(word) as num_hits
-from twitter_timelines
+from tweets
 left join test 
-  on strContains(lower(text), word)
+  on str_contains(lower(text), word)
 where word is not null
 group by id, text
 order by num_hits desc

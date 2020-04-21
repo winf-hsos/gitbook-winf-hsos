@@ -1,4 +1,4 @@
-# Prepare Texts
+# Prepare Text
 
 ## Lernziele
 
