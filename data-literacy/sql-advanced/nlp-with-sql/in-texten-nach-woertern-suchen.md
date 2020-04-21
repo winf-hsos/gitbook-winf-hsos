@@ -11,11 +11,29 @@ description: >-
 
 You find all queries from below in this notebook template:
 
-{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Twitter%20Data%20Import%20Template.html" %}
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Search%20in%20Text%20with%20SQL.html" %}
 
 ## The `like`-operator
 
-Mit dem `like-`Operator können wir in Texten nach einzelnen Wörtern suchen. Möchte man einen Text nach mehr als nur einem Wort durchsuchen, können wir mehrere `like-`Operatoren mit dem `or`-Operator verknüpfen. Diese Vorgehensweise wird schnell unübersichtlich.
+Mit dem `like-`Operator können wir in Texten nach einzelnen Wörtern bzw. Mustern suchen. Wir nutzen dafür einen Suchbegriff und können nach diesen in Kombination mit dem Wildcard-Symbols `%` in Texten suchen. Das `%`-Zeichen steht stellvertretend für eine beliebige Folge von Zeichen, die vor oder nach dem gesuchten Begriff stehen kann. 
+
+```sql
+select screen_name
+      ,text
+from tweets
+where text like '%covid%'
+```
+
+Möchte man einen Text nach mehr als nur einem Wort durchsuchen, können wir mehrere `like-`Operatoren mit dem `or`-Operator verknüpfen. Diese Vorgehensweise wird schnell unübersichtlich.
+
+```sql
+select screen_name
+      ,text
+from tweets
+where text like '%covid%'
+or text like '%corona%'
+or text like '%virus%'
+```
 
 ## A user defined function `str_contains()`
 
