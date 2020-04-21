@@ -1,6 +1,12 @@
 # Variables
 
-## Control Questions
+## Defining a variable
+
+```javascript
+var radius = 3;
+```
+
+## Questions
 
 ## \#1 What keyword do we use in Javascript to declare a variable?
 
