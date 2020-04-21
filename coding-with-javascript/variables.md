@@ -32,3 +32,12 @@ var radius = 3;
 * [ ] boolean values
 * [ ] all of the above
 
+## \#4 - Which are valid names for variables?
+
+* [ ] 1\_circle\_radius
+* [ ] circle\_radius\_1
+* [ ] circleRadiusOne
+* [ ] circleRadius\#1
+* [ ] circle-radius\_1
+* [ ] none of the above
+
