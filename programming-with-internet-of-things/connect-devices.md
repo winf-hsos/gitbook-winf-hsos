@@ -16,13 +16,13 @@ function initDone(connectedDevices) {
 }
 ```
 
-### Global Variable To Store Devices
+## Global variable to store the devices
 
 In line 2, we define the _global variable_ `devices`. A global variable is defined outside of any function, and it's good practice to declare them at the top of your program, so we can easily find them.
 
 The difference between a global and a local variable is their visibility. While we can access global variables from anywhere in our program, a local variable can only be used in the block where we defined it. This could be a function, for example. If you know we need a variable only within a function, it is good practice to define it locally within that function.
 
-### Call the Init Function
+## Initialize the devices
 
 When we import the Tinkerforge Device Manager in our web project, we automatically get access to a global variable called `tf` \(short for _Tinkerforge_\). This variable stores a reference to the Tinkerforge Device Manager \(TDM\) and all its functionality. One of the functions is `initDevices()`, which - as the name suggest - tells the TDM to start the initialization process and get a connection to all devices at the computer's USB port. We call this function in line 5. As an argument, we pass a reference to a function `initDone()`. We define this function starting in line 8. This function serves as a so called _callback function_, and it will be called by the TDM when the initialization process finishes.
 
