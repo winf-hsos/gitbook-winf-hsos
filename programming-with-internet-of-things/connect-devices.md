@@ -44,3 +44,9 @@ tf.initDevices(initDone);
 Make sure you also change the port in the Brick Daemon's config file and restart the service.
 {% endhint %}
 
+Additionally, you can also change the host:
+
+```javascript
+tf.setHost("http://192.68.0.1");
+```
+
