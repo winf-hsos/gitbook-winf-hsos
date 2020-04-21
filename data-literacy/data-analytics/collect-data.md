@@ -4,7 +4,7 @@ To start a data analytics project, you obviously need data. There are different 
 
 ## Why Twitter data?
 
-In real life, however, the data doesn't just sit on a server, ready for you to download. More often than not, you must take care of collecting the data in the first place. In the project we are going to take as an example in the following sections, this data comes from the social media platform [Twitter](https://twitter.com/). Twitter lends itself well to being used in learning scenarios, for various reasons:
+In real life, however, the data doesn't just sit on a server, ready for you to download. More often than not, you must take care of collecting the data yourself. In the project we are going to take as an example in the following sections, this data comes from the social media platform [Twitter](https://twitter.com/). Twitter lends itself well to learning scenarios, for various reasons:
 
 * The data is open and free.
 * The data contains structured and unstructured elements \(text, images, videos\).
@@ -18,11 +18,11 @@ In real life, however, the data doesn't just sit on a server, ready for you to d
 
 ## The Twitter Collector Tool \(TDC\)
 
-Collecting data from Twitter can be a difficult task. You would have to use their developer API and write your own program, which is a bit too much for a tutorial on data analytics. Therefore, I developed a little helper tool called **Twitter Collector Tool**, which you can use to create your own individual Twitter data set:
+Collecting data from Twitter can be a difficult task. You can use the [Twitter Developer API](https://developer.twitter.com/en) and write your own program, but this is a bit too much for a tutorial on data analytics. Therefore, I developed a little helper tool called **Twitter Collector Tool**, which you can use to create your own individual Twitter data set:
 
 {% embed url="https://big-data-analytics-helper.web.app/" %}
 
 {% hint style="info" %}
-If you don't habe an account yet, you'll need to register and wait until I assign you a group. Let Notify me know on Slack to speed up the process.
+If you don't have an account yet, you'll need to register and wait until I assign you to a group. Notify me know on Slack to speed up the process.
 {% endhint %}
 
