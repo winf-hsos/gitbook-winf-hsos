@@ -24,3 +24,11 @@ var radius = 3;
 * [ ] ==
 * [ ] none of the above
 
+## \#3 - What types of data can we store on variables?
+
+* [ ] functions
+* [ ] numbers
+* [ ] strings
+* [ ] boolean values
+* [ ] all of the above
+
