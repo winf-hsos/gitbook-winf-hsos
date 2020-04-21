@@ -28,3 +28,19 @@ When we import the Tinkerforge Device Manager in our web project, we automatical
 
 To hand as the result, which are all references to the connected devices, the TDM uses the single argument `connectedDevices` of the callback function. Via this variable, we get access to all devices and their functions. To make sure we can access the devices from anyhwere in our program, and not just from the `initDone()` function, we store the argument on the global variable `devices` that we defined earlier \(line 10\).
 
+## Change the default port
+
+If you want to use a different port to connect to the Tinkerforge devices, you can use the `setPort()` function:
+
+```javascript
+// Set to your favorite port
+tf.setPort(4281);
+
+// This initializes the connections
+tf.initDevices(initDone);
+```
+
+{% hint style="success" %}
+Make sure you also change the port in the Brick Daemon's config file and restart the service.
+{% endhint %}
+
