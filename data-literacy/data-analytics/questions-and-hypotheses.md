@@ -17,6 +17,15 @@ In contrast, open questions cannot be answered by a single number or a yes or no
 
 Because there is no single answer to an open question, we cannot answer it with a single SQL statement \(in contrast to a closed question\). To answer an open question, we need think about a strategy how to tackle the question. This strategy will contain different areas and sub-questions in theses areas that we have to find answers to. Once we answered all sub-questions, we can put the puzzle together, interpret the results, and hopefully give a satisfying answer to the open question.
 
+## Hypotheses
+
+A hypothesis is a factual statement about the world that we can test. In our case, we can test it using our data set and the tools we acquired to analyze that data. Notice that we can easily transform a closed question into a statement or hypothesis:
+
+* Question: Do we see fewer tweets on weekends?
+* Hypothesis: There are fewer tweets on weekends!
+
+So whether we express our hypothesis as a statement or a closed question is secondary.
+
 ## Example
 
 
