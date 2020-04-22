@@ -13,7 +13,11 @@ In contrast, open questions cannot be answered by a single number or a yes or no
 
 * How did the corona crisis change the perception of Angela Merkel in the Twitter community?
 * How do people on Twitter perceive the lock down measurements?
-* How is the scientific community communicating about the corona crisis? 
+* How is the scientific community communicating about the corona crisis?
+
+Because there is no single answer to an open question, we cannot answer it with a single SQL statement \(in contrast to a closed question\). To answer an open question, we need think about a strategy how to tackle the question. This strategy will contain different areas and sub-questions in theses areas that we have to find answers to. Once we answered all sub-questions, we can put the puzzle together, interpret the results, and hopefully give a satisfying answer to the open question.
+
+## Example
 
 
 
