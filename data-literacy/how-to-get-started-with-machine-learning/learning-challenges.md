@@ -9,3 +9,7 @@
 * A particular AI had problems recognizing sheep when they weren't in their typical environment of a green landscape. It turned out the AI has learned to label this green landscape in the background with the word "sheep". When a sheep was inside a house, it was likely detected as being a dog or a cat.
 * AI was trained on images with healthy skin and skin that had cancer. The AI eventually learned to recognize rulers in pictures: Many of the cancer tumors had been photographed with a ruler next to them.
 
+## References
+
+* Shane, Janelle. You look like a thing and I love you: how artificial intelligence works and why it’s making the world a weirder place. First edition, Voracious/Little, Brown and Company, 2019.
+
