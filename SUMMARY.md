@@ -68,6 +68,8 @@
   * [Clean Twitter Data](data-literacy/sql-for-twitter/clean-twitter-data.md)
   * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
 * [Data Visualization](data-literacy/data-visualization/README.md)
+  * [Tableau](data-literacy/data-visualization/tableau/README.md)
+    * [Workspace Setup](data-literacy/data-visualization/tableau/workspace-setup.md)
   * [Visualization with Databricks](data-literacy/data-visualization/visualization-with-databricks.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
   * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
