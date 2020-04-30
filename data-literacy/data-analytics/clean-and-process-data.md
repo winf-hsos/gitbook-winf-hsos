@@ -42,11 +42,11 @@ To work with **hashtags**, you need to understand how to access an array with SQ
 
 If you want to search in texts for the occurrences of words, there are numerous ways to achieve that:
 
-{% page-ref page="../sql-advanced/nlp-with-sql/in-texten-nach-woertern-suchen.md" %}
+{% page-ref page="../nlp-with-sql/in-texten-nach-woertern-suchen.md" %}
 
 Identifying topics in text is a bit more advanced. There are different techniques available:
 
-{% page-ref page="../sql-advanced/nlp-with-sql/identify-topics-in-text/" %}
+{% page-ref page="../nlp-with-sql/identify-topics-in-text/" %}
 
 ## Use views to access processed data
 

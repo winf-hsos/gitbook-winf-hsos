@@ -49,7 +49,7 @@ Es ist nicht möglich, nach einem Array zu suchen. Ihr könnt aber die Texte in 
 
 **Anlegen einer Hilfstabelle mit Schlagwörtern:**
 
-Alternativ auch über Google Sheets. Dazu siehe auch [das passende Tutorial](../../../../data-literacy/sql-advanced/nlp-with-sql/identify-topics-in-text/mapping-tables-with-sql.md):
+Alternativ auch über Google Sheets. Dazu siehe auch [das passende Tutorial](../../../../data-literacy/nlp-with-sql/identify-topics-in-text/mapping-tables-with-sql.md):
 
 ```scala
 // Hier einfach in die Wörter durch eure ersetzen
