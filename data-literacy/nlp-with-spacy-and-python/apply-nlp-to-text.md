@@ -54,7 +54,21 @@ for token in doc:
     print(token.text)
 ```
 
-Im Codebeispiel oben wird ab Zeile 13 in einer Schleife Schritt für Schritt der Wert jedes Tokens ausgegeben. Wir können auf den Wert \(oder den Text\) des Tokens über `token.text` zugreifen.  
+Im Codebeispiel oben wird ab Zeile 13 in einer Schleife Schritt für Schritt der Wert jedes Tokens ausgegeben. Wir können auf den Wert \(oder den Text\) des Tokens über `token.text` zugreifen. Die Ausgabe sieht wie folgt aus:
+
+```text
+I
+am
+looking
+forward
+to
+learning
+about
+NLP
+with
+spaCy
+!
+```
 
 ### POS-Tags
 
@@ -63,14 +77,24 @@ Ein Token hält neben dem reinen Text noch weitere Informationen für uns bereit
 ```python
 # Iterate over the tokens
 for token in doc:
-    # Print the text for each token
-    print(token.text)
-    
-    # Print the POS tag for each token
-    print(token.pos_)
-    
-    # Print an emptpy line to separate tokens visually
-    print()
+    # Print the text and POS tag for each token
+    print(token.text, token.pos_)
+```
+
+Die Ausgabe ist folgende:
+
+```text
+I PRON
+am AUX
+looking VERB
+forward ADV
+to ADP
+learning VERB
+about ADP
+NLP PROPN
+with ADP
+spaCy PROPN
+! PUNCT
 ```
 
 Wir ihr seht enthält as `pos_` Attribut Abkürzungen für die Art des Tokens, den spaCy erkannt hat. Hier die wichtigsten davon:
@@ -99,7 +123,37 @@ Solltet ihr detailliertere Infos zur Rolle eines Tokens benötigen, schaut euch 
 
 ### Benannte Entitäten
 
+Neben POS-Informationen können die spaCy Modelle auch benannte Entitäten erkennen und uns die Information zur Verfügung stellen. Eine benannte Entität kann zum Beispiel eine Person, Organisation, Firma oder ein Land sein.
 
+```python
+import spacy
+
+# Load English model
+nlp = spacy.load("en_core_web_sm")
+
+# Define the text and store it on a variable
+text = "With Michael Jordan on the team, the Chicago Bulls won 6 NBA championship titles during the 1990s."
+
+# Run the NLP process pipeline and save result on variable 'doc'
+doc = nlp(text)
+
+# Iterate over the predicted entities
+for ent in doc.ents:
+    # Print the entity text and its label
+    print(ent.text, ent.label_)
+```
+
+Das Script oben erzeugt folgende Ausgabe:
+
+```text
+Michael Jordan PERSON
+the Chicago Bulls ORG
+6 CARDINAL
+NBA ORG
+the 1990s DATE
+```
 
 ### Syntaktische Abhängigkeiten
+
+
 
