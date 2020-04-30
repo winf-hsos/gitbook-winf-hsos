@@ -60,6 +60,41 @@ Im Codebeispiel oben wird ab Zeile 13 in einer Schleife Schritt für Schritt der
 
 ### POS-Tags
 
+Ein Token hält neben dem reinen Text noch weitere Informationen für uns bereit. Dazu gehören die so genannten Part-of-Speech \(POS\) Informationen. Diese geben ab, welche Rolle ein Token \(oder Wort\) in dem Text spielt. Also ob es ein Verb, Adjektiv, Nomen oder vielleicht eine Zahl oder ein Satzzeichen ist. Auf diese Information können wir wie folgt zugreifen:
+
+```python
+# Iterate over the tokens
+for token in doc:
+    # Print the text for each token
+    print(token.text)
+    
+    # Print the POS tag for each token
+    print(token.pos_)
+    
+    # Print an emptpy line to separate tokens visually
+    print()
+```
+
+Wir ihr seht enthält as `pos_` Attribut Abkürzungen für die Art des Tokens, den spaCy erkannt hat. Hier die wichtigsten davon:
+
+| Abkürzung | Bedeutung |
+| :--- | :--- |
+| ADJ | Adjektiv |
+| ADV | Adverb |
+| AUX | Hilfsverb |
+| NOUN | Nomen |
+| PRON | Pronomen |
+| PUNCT | Satzzeichen |
+| VERB | Verb |
+
+Eine umfassende Liste mit den verwendeten Tags und Kürzeln erhaltet ihr hier:
+
+{% embed url="https://spacy.io/api/annotation" %}
+
+{% hint style="info" %}
+Für jedes Kürzel existiert auch eine Codierung als Zahl, die ihr über das Attribut `pos` \(ohne Underscore am Ende\) abrufen könnt.
+{% endhint %}
+
 ### Benannte Entitäten
 
 ### Syntaktische Abhängigkeiten
