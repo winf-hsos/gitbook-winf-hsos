@@ -95,6 +95,10 @@ Eine umfassende Liste mit den verwendeten Tags und Kürzeln erhaltet ihr hier:
 Für jedes Kürzel existiert auch eine Codierung als Zahl, die ihr über das Attribut `pos` \(ohne Underscore am Ende\) abrufen könnt.
 {% endhint %}
 
+{% hint style="info" %}
+Solltet ihr detailliertere Infos zur Rolle eines Tokens benötigen, schaut euch die Attribute `tag_` bzw `tag` an. Die Bedeutung der Werte in diesen Feldern könnt ihr auch dem obigen Link entnehmen.
+{% endhint %}
+
 ### Benannte Entitäten
 
 ### Syntaktische Abhängigkeiten
