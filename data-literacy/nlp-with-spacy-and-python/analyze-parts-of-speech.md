@@ -5,5 +5,5 @@ description: >-
   how spaCy helps us with POS tagging.
 ---
 
-# Analyze Parts of Speech
+# Parts of Speech
 

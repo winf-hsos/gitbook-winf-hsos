@@ -20,7 +20,7 @@ nlp = spacy.load("en_core_web_sm")
 # Define the text and store it on a variable
 text = "I am looking forward to learning about NLP with spaCy!"
 
-# Run NLP pipeline
+# Run the NLP pipeline and save result on variable 'doc'
 doc = nlp(text)
 ```
 
@@ -45,7 +45,7 @@ nlp = spacy.load("en_core_web_sm")
 # Define the text and store it on a variable
 text = "I am looking forward to learning about NLP with spaCy!"
 
-# Run the NLP process pipeline and save result on variable 'doc'
+# Run the NLP pipeline and save result on variable 'doc'
 doc = nlp(text)
 
 # Iterate over the tokens
@@ -55,8 +55,6 @@ for token in doc:
 ```
 
 Im Codebeispiel oben wird ab Zeile 13 in einer Schleife Schritt für Schritt der Wert jedes Tokens ausgegeben. Wir können auf den Wert \(oder den Text\) des Tokens über `token.text` zugreifen.  
-
-![Ausgabe des Codebeispiels oben in einem Databricks Python Notebook.](../../.gitbook/assets/image%20%2821%29.png)
 
 ### POS-Tags
 
@@ -87,19 +85,21 @@ Wir ihr seht enthält as `pos_` Attribut Abkürzungen für die Art des Tokens, d
 | PUNCT | Satzzeichen |
 | VERB | Verb |
 
-Eine umfassende Liste mit den verwendeten Tags und Kürzeln erhaltet ihr hier:
-
-{% embed url="https://spacy.io/api/annotation" %}
-
 {% hint style="info" %}
 Für jedes Kürzel existiert auch eine Codierung als Zahl, die ihr über das Attribut `pos` \(ohne Underscore am Ende\) abrufen könnt.
 {% endhint %}
+
+Eine umfassende Liste mit den verwendeten Tags und Kürzeln erhaltet ihr hier:
+
+{% embed url="https://spacy.io/api/annotation" %}
 
 {% hint style="info" %}
 Solltet ihr detailliertere Infos zur Rolle eines Tokens benötigen, schaut euch die Attribute `tag_` bzw `tag` an. Die Bedeutung der Werte in diesen Feldern könnt ihr auch dem obigen Link entnehmen.
 {% endhint %}
 
 ### Benannte Entitäten
+
+
 
 ### Syntaktische Abhängigkeiten
 
