@@ -21,6 +21,10 @@ description: >-
   * Velocity
 * Structured and unstructured data
 
+## Unstructured Data
+
+![Unstructured data and what we can derive from it.](../../.gitbook/assets/unstructured_data_examples.png)
+
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/16IASPSzF1lomsqm84KOUZK7slZhU3VwfrHbO2tqIYUQ/preview" %}
@@ -33,13 +37,7 @@ The video below contains the presentation of the slides above:
 
 
 
-## Reading
-
-| Seiten |  |
-| :--- | :--- |
-| BDA-01 - Skalierbare Datenspeicherung und Big Data - Wirtschaftsinformatik 🇩🇪  | 7 |
-
-## 🔑 Key Points
+## Key Points
 
 * Wir können Big Data über die 3 Vs von herkömmlichen Daten abgrenzen. Jedes V steht für eine Eigenschaft, die auf Big Data zutreffen _kann_, aber nicht muss. Es reicht tendenziell aus, wenn eines der 3 Vs erfüllt ist, um von Big Data zu sprechen. 
   * **Volume** = Das Datenvolumen gemessen in Bytes überschreitet eine Zahl, die einzelne Rechner bei der Speicherung und Verarbeitung vor Probleme stellen. Typischerweise spricht man hier ab dem hohen Gigabyte oder Terabyte-Bereich von Big Data. 
