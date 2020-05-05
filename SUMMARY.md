@@ -69,6 +69,7 @@
   * [Apply NLP](data-literacy/nlp-with-spacy-and-python/apply-nlp-to-text.md)
   * [Tokens](data-literacy/nlp-with-spacy-and-python/tokens.md)
   * [Parts of Speech](data-literacy/nlp-with-spacy-and-python/analyze-parts-of-speech.md)
+  * [Named Entities](data-literacy/nlp-with-spacy-and-python/named-entities.md)
   * [Similarity](data-literacy/nlp-with-spacy-and-python/similarity.md)
 * [SQL for Twitter](data-literacy/sql-for-twitter/README.md)
   * [Explore Tweets](data-literacy/sql-for-twitter/tweets.md)

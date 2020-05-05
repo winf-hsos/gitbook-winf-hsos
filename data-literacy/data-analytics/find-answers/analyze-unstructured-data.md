@@ -13,11 +13,25 @@ The figure below contains some typical examples for unstructured data and what k
 
 ## Project structures on text data
 
-### Words
+### Words \(Tokens\)
 
 {% page-ref page="../../nlp-with-sql/texte-mit-sql-auswerten/" %}
 
 {% page-ref page="../../nlp-with-spacy-and-python/tokens.md" %}
+
+### Parts of speech
+
+{% page-ref page="../../nlp-with-spacy-and-python/analyze-parts-of-speech.md" %}
+
+### Named Entities
+
+{% page-ref page="../../nlp-with-spacy-and-python/named-entities.md" %}
+
+### Topics
+
+{% page-ref page="../../nlp-with-sql/identify-topics-in-text/" %}
+
+
 
 
 
