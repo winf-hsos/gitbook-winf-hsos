@@ -1,6 +1,6 @@
 # Tokenize
 
-## 💡 Aus einem Text werden mehrere Zeilen
+## Aus einem Text werden mehrere Zeilen
 
 Der View aus dem [Schritt 2](2-texte-bereinigen-und-normalisieren.md) gibt uns eine bereinigte und normalisierte Form des Ursprungs-Tweets. Aus:
 
