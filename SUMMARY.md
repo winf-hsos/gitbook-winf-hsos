@@ -42,6 +42,7 @@
   * [Statistical Functions](data-literacy/sql-advanced/statistical-functions-with-sql.md)
   * [Date and Time](data-literacy/sql-advanced/date-and-time-with-sql.md)
   * [JSON and SQL](data-literacy/sql-advanced/json-and-sql.md)
+  * [Arrays with SQL](data-literacy/sql-advanced/arrays-with-sql.md)
   * [Cheatsheet SQL](data-literacy/sql-advanced/cheatsheet-sql.md)
   * [Cheatsheet Spark SQL](data-literacy/sql-advanced/cheatsheet-spark-sql-scala-api.md)
 * [NLP with SQL](data-literacy/nlp-with-sql/README.md)
