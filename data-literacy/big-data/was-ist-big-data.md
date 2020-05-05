@@ -23,7 +23,7 @@ description: >-
 
 ## Unstructured Data
 
-![Unstructured data and what we can derive from it.](../../.gitbook/assets/unstructured_data_examples.png)
+![Unstructured data and what we can derive from it.](../../.gitbook/assets/unstructured_data_examples%20%281%29.png)
 
 ## Slides
 
