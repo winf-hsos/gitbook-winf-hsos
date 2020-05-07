@@ -1,6 +1,12 @@
 # Complex Fields
 
-## Extrahieren von URLs oder Foto-URLs
+## Array of hashtags
+
+The `hashtags` field of a tweet contains a list of hashtags. In technical terms, a list is often called an array. To access the data in this field, there are some SQL functions we should know about. The linked section below gives an overview of the most important functions:
+
+{% page-ref page="../sql-advanced/arrays-with-sql.md" %}
+
+## Array of URLs
 
 Die URLs und Fotos sind in den Feldern `urls` und `photos` gespeichert. Beide Spalten sind vom Typ Array, was bedeutet, dass ein Tweet mehrere URLs bzw. mehrere Fotos haben kann. Der generelle Umgang mit Array wird im Tutorial [JSON-Felder mit SQL verarbeiten](../sql-advanced/json-and-sql.md#arrays-abfragen) erklärt. Hier eine Abfrage, die jeweils die erste URL / Foto eines Tweets in einer eigenen Spalte anzeigt:
 
