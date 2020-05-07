@@ -1,4 +1,4 @@
-# Analyze Networks
+# Networks
 
 ## Aus Hashtags eine Themenlandkarte erstellen
 

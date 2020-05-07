@@ -75,7 +75,7 @@
   * [Explore Tweets](data-literacy/sql-for-twitter/tweets.md)
   * [Complex Fields](data-literacy/sql-for-twitter/complex-fields.md)
   * [Clean Twitter Data](data-literacy/sql-for-twitter/clean-twitter-data.md)
-  * [Analyze Networks](data-literacy/sql-for-twitter/twitter-netzwerke-mit-sql-auswerten.md)
+  * [Networks](data-literacy/sql-for-twitter/twitter-networks.md)
 * [Data Visualization](data-literacy/data-visualization/README.md)
   * [Tableau](data-literacy/data-visualization/tableau/README.md)
     * [Workspace Setup](data-literacy/data-visualization/tableau/workspace-setup.md)
