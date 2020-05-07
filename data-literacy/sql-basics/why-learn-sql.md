@@ -1,14 +1,14 @@
 # Why learn SQL?
 
-## SQL Skills are Door Openers
+## SQL skills are door openers
 
 SQL is the standard language for querying data. Good knowledge opens doors for you in many projects and areas of a company.
 
-## SQL is Problem Solving
+## SQL is problem solving
 
 By learning SQL, you train your brain in handling data - regardless of the actual use of SQL. At the same time, you will train your problem solving skills: How do I break down a complex problem into smaller, manageable tasks and which tools do I use?
 
-## SQL is an Indispensable Tool in Data Analysis
+## SQL is an indispensable tool in data analysis
 
 With SQL, we can reduce large and complex data to its essentials with little effort. We can transform data from one form to another. With SQL, we can overcome the limits of tools like Excel and independently take care of our personal information needs.
 
@@ -28,7 +28,7 @@ Another exciting video that shows visualizations based on very large amounts of 
 
 {% embed url="https://youtu.be/QqVFEP3\_BtY" %}
 
-## More Links
+## More links
 
 * [Why you should learn SQL.](https://www.linkedin.com/pulse/why-you-should-learn-sql-brewster-knowlton)
 
