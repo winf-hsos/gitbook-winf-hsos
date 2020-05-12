@@ -76,7 +76,7 @@ var df = spark.read.option("header", "true").option("inferSchema", "true").csv("
 df.write.saveAsTable(tableName);
 ```
 
-In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure eigene Tabelle. In Zeile 6 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
+In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure eigene Tabelle. In Zeile 8 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
 
 ### Ein Google Sheet als CSV veröffentlichen
 
@@ -90,7 +90,7 @@ Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten 
 
 ![](../../../.gitbook/assets/image%20%2830%29.png)
 
-**Schritt 3:** Link kopieren und in Databricks einfügen \(Wert in Zeile 6 ersetzen\).
+**Schritt 3:** Link kopieren und in Databricks einfügen \(Wert in Zeile 8 ersetzen\).
 
 ![Diesen Link in die Zwischenablage kopieren.](../../../.gitbook/assets/image%20%2826%29.png)
 
