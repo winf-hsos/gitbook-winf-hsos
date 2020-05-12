@@ -35,8 +35,6 @@ The video below contains the presentation of the slides above:
 
 {% embed url="https://www.youtube.com/watch?v=\_dflzZgFtoo" %}
 
-
-
 ## Key Points
 
 * Wir können Big Data über die 3 Vs von herkömmlichen Daten abgrenzen. Jedes V steht für eine Eigenschaft, die auf Big Data zutreffen _kann_, aber nicht muss. Es reicht tendenziell aus, wenn eines der 3 Vs erfüllt ist, um von Big Data zu sprechen. 

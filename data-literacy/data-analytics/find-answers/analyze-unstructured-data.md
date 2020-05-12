@@ -15,7 +15,7 @@ The figure below contains some typical examples for unstructured data and what k
 
 ### Words \(Tokens\)
 
-{% page-ref page="../../nlp-with-sql/texte-mit-sql-auswerten/" %}
+{% page-ref page="../../nlp-with-sql/prepare-text-with-sql/" %}
 
 {% page-ref page="../../nlp-with-spacy-and-python/tokens.md" %}
 

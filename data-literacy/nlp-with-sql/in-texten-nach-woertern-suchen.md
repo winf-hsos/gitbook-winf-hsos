@@ -39,7 +39,7 @@ or text like '%virus%'
 
 Eine Alternative zum `like`-Operator ist das Zerlegen der Texte in einzelne Wörter. Das bietet sich an, wenn man tiefer gehende Analysen der Texte durchführen möchte. Dazu findet ihr in dem unten verlinkten Abschnitt weitere Informationen:
 
-{% page-ref page="texte-mit-sql-auswerten/" %}
+{% page-ref page="prepare-text-with-sql/" %}
 
 Will man lediglich auf die Schnelle nach mehr als einem Wort suchen, gibt es dennoch eine einfache Möglichkeit. Über eine **User Defined Function \(UDF\)** kann zunächst die Funktion abgebildet werden, innerhalb einer Spalte nach einer anderen Spalte \(enthält gesuchtes Wort\) oder einem Wort zu suchen:
 
@@ -101,7 +101,7 @@ order by num_hits desc
 Der Unterschied ist in den Zeilen 3 und 4 zu erkennen. Die Funktion `collect_set` erstellt eine Liste ohne doppelte Elemente \(im Gegensatz zu `collect_list`\), und `count(distinct word)` zählt jedes Wort nur einmal, egal wie häufig es vorkommt. 
 
 {% hint style="info" %}
-Bei größeren Tabellen kann die Verwendung der UDF langsamer sein, als wenn die Texte in einzelne Wörter zerlegt wurden. Daher sollte bei komplexen Textanalysen die Variante des [Tokenizing](texte-mit-sql-auswerten/3-texte-in-woerter-zerlegen.md) verwendet werden.
+Bei größeren Tabellen kann die Verwendung der UDF langsamer sein, als wenn die Texte in einzelne Wörter zerlegt wurden. Daher sollte bei komplexen Textanalysen die Variante des [Tokenizing](prepare-text-with-sql/3-texte-in-woerter-zerlegen.md) verwendet werden.
 {% endhint %}
 
 Beachtet dass ihr mit eigenen UDFs **keine persistenten Views** mittels `create or replace view` erstellen könnt. Verwendet stattdessen `create or replace temporary view`. Ihr müsst bei Verwendung eines neuen Clusters den View dann erst erneut erstellen.

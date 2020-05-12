@@ -40,7 +40,7 @@ description: Hier findest du alle Unterlagen zur Veranstaltung Big Data Analytic
 
 {% page-ref page="../../../../data-literacy/sql-advanced/json-and-sql.md" %}
 
-{% page-ref page="../../../../data-literacy/nlp-with-sql/texte-mit-sql-auswerten/" %}
+{% page-ref page="../../../../data-literacy/nlp-with-sql/prepare-text-with-sql/" %}
 
 {% page-ref page="../../../../data-literacy/sql-for-twitter/twitter-networks.md" %}
 
