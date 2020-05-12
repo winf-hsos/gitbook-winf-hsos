@@ -71,12 +71,12 @@ from (
 )
 ```
 
-Der Vorteil wenn wir genau einen Emoji in einer Spalte haben liegt auf der Hand: Wir können z.B. die neue Spalte emoji nutzen, um die Daten mit einer Liste von bekannten Emojis und deren Bedeutung zu joinen. Diese Liste können wir uns z.B. selbst als Google Spreadsheet aufbauen, oder wir suchen nach einer solchen Liste im Internet. 
+Der Vorteil, dass wir genau einen Emoji in einer Spalte haben, liegt auf der Hand: Wir können z.B. die neue Spalte `emoji` nutzen, um die Daten mit einer Liste von bekannten Emojis und deren Bedeutung zu verbinden. Diese Liste können wir uns z.B. selbst als Google Spreadsheet aufbauen, oder wir suchen nach einer solchen Liste im Internet. 
 
 Zur Demonstration habe ich eine Liste mit einigen Emojis und deren emotionaler Bedeutung in Google Spreadsheets angelegt, die ihr wie folgt laden könnt \(wie ihr generell eigene Google Spreadsheets als Tabelle laden könnt ist [hier](identify-topics-in-text/mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden) beschrieben\):
 
 ```scala
- Choose a name for your resulting table in Databricks
+// Choose a name for your resulting table in Databricks
 var tableName = "emoji_meaning"
 
 // Replace this URL with the one from your Google Spreadsheets
