@@ -82,6 +82,8 @@ In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure ei
 
 Ihr legt in eurem Google Account ein neues Spreadsheet an und pflegt eure Daten in Spalten und Zeilen ein. Eben wie ihr es auch in Excel machen würdet. Wenn ihr dann einen Stand habt, den ihr gerne in Databricks als Tabelle laden wollt, geht ihr wie folgt vor:
 
+![How to publish a Google Spreadsheet to web in CSV format.](../../../.gitbook/assets/publish_google_spreadsheets.gif)
+
 **Schritt 1:** Ihr klickt auf "Datei" und dann "Im Web veröffentlichen"
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
