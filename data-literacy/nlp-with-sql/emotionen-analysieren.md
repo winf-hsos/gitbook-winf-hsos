@@ -1,3 +1,9 @@
+---
+description: >-
+  In diesem Abschnitt schauen wir uns an, wie wir systematisch Emojis aus Tweets
+  auslesen und auswerten können.
+---
+
 # Emoticons
 
 ## 💡 Emotionen über Emojis identifizieren
