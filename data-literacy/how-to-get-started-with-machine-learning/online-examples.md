@@ -40,3 +40,7 @@ The following link takes you to the collection of all ml5.js examples:
 
 {% embed url="https://experiments.withgoogle.com/collection/ai" %}
 
+{% embed url="https://teachablemachine.withgoogle.com/" %}
+
+
+
