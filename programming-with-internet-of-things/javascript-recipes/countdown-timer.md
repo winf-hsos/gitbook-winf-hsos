@@ -133,3 +133,7 @@ In line 12 of the `decreaseTimer()` function, we transform the current progress 
 
 ![](../../.gitbook/assets/coffee_timer.gif)
 
+### Stop the timer
+
+To pause the timer, the user can click on "Stop" at any time. To resume the user can click "Start" again.
+
