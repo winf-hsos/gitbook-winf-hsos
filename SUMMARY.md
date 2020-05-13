@@ -171,6 +171,8 @@
     * [RGB LED Button](programming-with-internet-of-things/program-devices/rgb-led-button.md)
     * [OLED Display](programming-with-internet-of-things/program-devices/oled-display.md)
     * [Motorized Linear Poti](programming-with-internet-of-things/program-devices/motorized-linear-poti.md)
+  * [Javascript Recipes](programming-with-internet-of-things/javascript-recipes/README.md)
+    * [Countdown Timer](programming-with-internet-of-things/javascript-recipes/countdown-timer.md)
   * [Cheatsheet Tinkerforge](programming-with-internet-of-things/cheatsheet-tinkerforge.md)
 * [Coding with Python](programming-with-python/README.md)
   * [Workspace Setup](programming-with-python/workspace-setup.md)

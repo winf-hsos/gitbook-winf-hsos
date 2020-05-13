@@ -8,7 +8,7 @@ For this tutorial, I am assuming that you use [PythonAnywhere](https://www.pytho
 
 The dashboard gives you an overview of your PythonAnywhere \(PA\) account and your activities. Below is a screenshot of my dashboard.
 
-![Screenshot of the PythonAnywhere dashboard.](../.gitbook/assets/image%20%2833%29.png)
+![Screenshot of the PythonAnywhere dashboard.](../.gitbook/assets/image%20%2834%29.png)
 
 The dashboard is divided into 4 different sections. In the screenshot, I highlighted the "Files" section, which is the most important section for us in this tutorial. By default, you will see your recently edited files, as well as two buttons to open \(or create\) another file and to browse all existing files.
 
@@ -27,11 +27,11 @@ In order to edit or run an existing program, you need to find the file using the
 1. If the file is listed under the recent files, just click on the link and the editor will open
 2. If the file is not in the recent files list, click on "Browse files". This opens a new view with a list of the directories on the left and the contained files on the right hand side. You can navigate your directories by clicking on them to list the files they contain. Once you found the file you want to edit, click on it and it'll open.
 
-![Screenshot of the file browser in PythonAnywhere.](../.gitbook/assets/image%20%285%29.png)
+![Screenshot of the file browser in PythonAnywhere.](../.gitbook/assets/image%20%286%29.png)
 
 When you open a file, you should see the content in the editor, ready for you to start coding:
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 PA's code editor is quite simplistic, but it comes with the most important features you need to code in Python:
 

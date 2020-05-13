@@ -43,5 +43,5 @@ You are completely free with the file names you choose for your programs. But if
 
 Once you copied the code into your own file, run it and make sure everything works. This is how the output looks for me today:
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 

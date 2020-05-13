@@ -58,7 +58,7 @@ function initDone(connectedDevices) {
 
 The function `getDevicesByIdentifier()` is part of the `devices` object that we get back from the initialization process. We need to know the device identifier of the sensor and pass it to the function. You can [look up the identifiers here](https://www.tinkerforge.com/en/doc/Software/Device_Identifier.html), or you can simply take a look at the console, where all connected devices are listed:
 
-![](../../../.gitbook/assets/image%20%286%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
 The humidity sensor has the device identifier 283, and if the sensor is actually connected, line 16 in the code above will return a reference to that sensor. We then store that reference on our global variable `humiditySensor`, so that we can access the sensor from anywhere in our code.
 
