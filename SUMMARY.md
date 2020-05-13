@@ -97,6 +97,7 @@
     * [K-Means Clustering](data-literacy/how-to-get-started-with-machine-learning/ml-algorithms/k-means-clustering.md)
   * [Applications](data-literacy/how-to-get-started-with-machine-learning/applications/README.md)
     * [Hand Writing Recognition](data-literacy/how-to-get-started-with-machine-learning/applications/hand-writing-recognition.md)
+  * [Online Examples](data-literacy/how-to-get-started-with-machine-learning/online-examples.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
 
 ## Technological Literacy
