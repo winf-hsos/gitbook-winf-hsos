@@ -101,7 +101,7 @@ Nach dem Ausführen des obigen Blocks habt ihr die neue Tabelle `emoji_meaning` 
 select * from emoji_meaning
 ```
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Jetzt müssen wir die beiden Tabellen nur noch zusammenbringen:
 
@@ -116,7 +116,7 @@ left join emoji_meaning e
   on e.emoji = t.emoji
 ```
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### 💡 Fehlende Emojis pflegen
 

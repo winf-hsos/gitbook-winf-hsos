@@ -7,12 +7,6 @@ description: >-
 
 # Workspace Setup
 
-## Lernziele
-
-* 🎯 Ihr kennt die Software, mit der wir in diesem Modul arbeiten.
-* 🎯 Ihr verfügt über einen Glitch-Account, der für dieses Modul notwendig ist.
-* 🎯 Ihr habt einen voll funktionalen Code-Editor lokal auf eurem Rechner installiert.
-
 ## Glitch
 
 In diesem Modul geht es um das Entwickeln moderner Webanwendungen. Wir wollen auf möglichst einfache Weise verstehen, wie Webanwendungen funktionieren und was wir benötigen, um eigene zu erstellen. Eine Sache benötigen wir in jedem Softwareprojekt zu allererst: Einen geeignete Entwicklungsumgebung, die wir auch IDE \(_Integrated Development Environment_\) nennen.
@@ -47,11 +41,11 @@ Um VS Code zusammen mit euren Glitch-Projekten nutzen zu können, müsst ihr noc
 
 Nach ein paar Minuten ist die Erweiterung fertig installiert. Ihr könnt nun mit dem Shortcut _Strg + Shift + P_  das Suchfeld für Kommandos aufrufen und dort _glitch_ eingeben. Es werden alle Kommandos für die Glitch-Erweiterung aufgeführt. 
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 Zuerst müsst ihr euch anmelden, am einfachsten geht das über den Browser. Nachdem ihr euch angemeldet habt, könnt ihr mit dem Befehl _Glitch: Open Project_ ein Projekt aus eurem Glitch-Account direkt in VS Code öffnen und editieren.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 Das war es schon! Nachdem wir den Glitch-Account haben und mit Visual Studio Code zusätzlich einen lokalen Editor installiert haben können wir loslegen. Schauen wir uns im ersten Schritt an, was wir erreichen wollen.
 
