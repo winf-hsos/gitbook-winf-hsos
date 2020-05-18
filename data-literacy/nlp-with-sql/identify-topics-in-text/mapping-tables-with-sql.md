@@ -6,7 +6,13 @@ description: >-
 
 # Mapping Tables
 
-## 💡 Erstellung einer einfachen Mapping-Tabelle mit Scala
+## Databricks Notebook Template
+
+You can import the following notebook to get started with mapping tables:
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Load%20data%20from%20Google%20Spreadsheets.html" %}
+
+## Erstellung einer einfachen Mapping-Tabelle mit Scala
 
 ### Einfache Listen mit Wörtern oder Zahlen
 
@@ -48,7 +54,7 @@ Wenn wir diesen View abfragen erhalten wir im Ergebnis 2 Spalten.
 
 Das Beispiel ist beliebig erweiterbar. Ab einer zu großen Anzahl Spalten und Zeilen wird aber auch dieses Vorgehen schnell unübersichtlich. Dann ergibt es mehr Sinn, die Daten auszulagern, z.B. in ein Google Spreadsheet, und dieses dann automatisiert in Databricks zu importieren.
 
-## 💡 Tabellen über Google Sheets pflegen und laden
+## Tabellen über Google Sheets pflegen und laden
 
 ###  Ein Google Sheet in Databricks laden
 
@@ -76,7 +82,7 @@ var df = spark.read.option("header", "true").option("inferSchema", "true").csv("
 df.write.saveAsTable(tableName);
 ```
 
-In Zeile 2 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure eigene Tabelle. In Zeile 8 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
+In Zeile 4 ersetzt ihr einfach den Wert `"stopwords"` mit dem Namen für eure eigene Tabelle. In Zeile 8 müsst ihr nun noch die öffentliche URL eures Google Sheets einfügen. Wie das geht erkläre ich im Folgenden.
 
 ### Ein Google Sheet als CSV veröffentlichen
 

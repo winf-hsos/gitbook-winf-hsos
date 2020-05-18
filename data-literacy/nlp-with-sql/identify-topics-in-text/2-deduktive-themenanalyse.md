@@ -10,7 +10,7 @@ Um einen Startpunkt zu bekommen erstellt ihr im ersten Schritt ein neues Google 
 
 ## Codebuch veröffentlichen und in Databricks laden
 
-Nachdem ihr euer Codebuch angelegt habt müsst ihr es zuerst im Web veröffentlichen, damit ihr die Tabelle in Databricks laden könnt. Eine Beschreibung wie beides genau funktioniert findet ihr im [vorigen Abschnitt](mapping-tables-with-sql.md#tabellen-ueber-google-sheets-pflegen-und-laden).
+Nachdem ihr euer Codebuch angelegt habt müsst ihr es zuerst im Web veröffentlichen, damit ihr die Tabelle in Databricks laden könnt. Eine Beschreibung wie beides genau funktioniert findet ihr im [vorigen Abschnitt](mapping-tables-with-sql.md).
 
 ## Codebuch auf die Daten anwenden
 
@@ -23,7 +23,7 @@ select id
       ,word
       ,keyword    
       ,topic
-from tweets_prep_step_4 t
+from tweets_stop t
 left join codebook c
   on t.word = c.keyword
 where c.keyword is not null

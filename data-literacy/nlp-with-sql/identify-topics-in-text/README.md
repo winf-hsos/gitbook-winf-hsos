@@ -2,7 +2,7 @@
 
 ## 💡 Zwei Herangehensweisen: Deduktiv und induktiv
 
-Es gibt grundsätzlich zwei Möglichkeiten, Texte auf Inhalte hin zu analysieren. Der erste Weg ist die **deduktive Bildung von Themenkategorien** mit entsprechenden Schlagwörtern. Das bedeutet, wir überlegen uns **vor** der Betrachtung der Daten, welche Themen eine Rolle spielen könnten und welche Schlagwörter zu diesen Themen gehören könnten. Unsere Überlegungen können wir als Tabelle mit 2 Spalten dokumentieren: Ein Schlagwort, wie z.B. "glyphosat", und ein von uns zugeordnetes Thema, wie z.B. "Insektensterben".
+Es gibt grundsätzlich zwei Möglichkeiten, Themen in Texten zu identifizieren. Der erste Weg ist die **deduktive Bildung von Themenkategorien** mit entsprechenden Schlagwörtern. Das bedeutet, wir überlegen uns **vor der Betrachtung der Daten**, welche Themen eine Rolle spielen könnten und welche Schlagwörter zu diesen Themen gehören könnten. Unsere Überlegungen können wir als Tabelle mit 2 Spalten dokumentieren: Ein Schlagwort, wie z.B. "glyphosat", und ein von uns zugeordnetes Thema, wie z.B. "Insektensterben".
 
 {% hint style="info" %}
 Das Schlagwort "glyphosat" wurde bewusst klein geschrieben, weil wir in der [Vorbereitung der Texte](../prepare-text-with-sql/2-texte-bereinigen-und-normalisieren.md) alle Wörter in Kleinschreibung überführt haben. So können wir einfache nach Schlagwörtern suchen und müssen uns um Groß- und Kleinschreibung keine Gedanken machen.
