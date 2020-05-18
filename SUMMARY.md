@@ -80,6 +80,8 @@
   * [Tableau](data-literacy/data-visualization/tableau/README.md)
     * [Workspace Setup](data-literacy/data-visualization/tableau/workspace-setup.md)
   * [Visualization with Databricks](data-literacy/data-visualization/visualization-with-databricks.md)
+  * [Visualization with Python](data-literacy/data-visualization/visualization-with-python/README.md)
+    * [Word Clouds with Python](data-literacy/data-visualization/visualization-with-python/word-clouds-with-python.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
   * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
   * [Rules vs. Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
