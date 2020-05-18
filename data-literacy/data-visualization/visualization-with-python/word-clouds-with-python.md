@@ -1,7 +1,7 @@
 ---
 description: >-
-  Word clouds are effective to summarize the most frequent word in a text. Learn
-  here how to create them using your own data.
+  Word clouds are effective to summarize the most frequent words in a text.
+  Learn here how to create them using your own data.
 ---
 
 # Word Clouds with Python
