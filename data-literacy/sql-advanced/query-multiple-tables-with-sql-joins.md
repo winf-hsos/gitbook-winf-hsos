@@ -1,5 +1,11 @@
 # Multiple Tables
 
+## Databricks Notebook
+
+In this notebook, you'll learn about the different types of joins operations using a simple and illustrative example data set:
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/information-management/Example%20Notebook%20-%20SQL%20Joins.html" %}
+
 ## Lernziele
 
 * Ihr kennt die Möglichkeit, mittels Joins zwei oder mehrere Tabellen in einer SQL-Abfrage miteinander zu verknüpfen.
