@@ -174,6 +174,7 @@
     * [OLED Display](programming-with-internet-of-things/program-devices/oled-display.md)
     * [Motorized Linear Poti](programming-with-internet-of-things/program-devices/motorized-linear-poti.md)
   * [Javascript Recipes](programming-with-internet-of-things/javascript-recipes/README.md)
+    * [Push Notifications](programming-with-internet-of-things/javascript-recipes/push-notifications.md)
     * [Charts for Sensors](programming-with-internet-of-things/javascript-recipes/charts-for-sensors.md)
     * [Countdown Timer](programming-with-internet-of-things/javascript-recipes/countdown-timer.md)
   * [Cheatsheet Tinkerforge](programming-with-internet-of-things/cheatsheet-tinkerforge.md)
