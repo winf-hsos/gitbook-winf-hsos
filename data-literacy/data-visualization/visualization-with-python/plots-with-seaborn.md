@@ -21,5 +21,9 @@ The official documentation website contains a number of tutorials for different 
 
 {% embed url="https://seaborn.pydata.org/tutorial.html" %}
 
+I highly recommend the free online book "Fundamentals of Data Visualizations". Especially chapter 5, which gives you a quick introduction on when to use which type of plot:
+
+{% embed url="https://serialmentor.com/dataviz/directory-of-visualizations.html" %}
+
 
 
