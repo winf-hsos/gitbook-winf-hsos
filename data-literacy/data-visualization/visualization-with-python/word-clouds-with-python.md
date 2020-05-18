@@ -12,7 +12,7 @@ Import the following notebook to get started with word clouds in Python with you
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Word%20Clouds%20with%20Python.html" %}
 
-![A word cloud generated with the Python library by Andreas M&#xFC;ller.](../../../.gitbook/assets/image%20%2813%29.png)
+![A word cloud generated with the Python library by Andreas M&#xFC;ller.](../../../.gitbook/assets/image%20%2854%29.png)
 
 ## Links
 

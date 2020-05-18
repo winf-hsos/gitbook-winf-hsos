@@ -26,7 +26,7 @@ Immer wenn wir den Begriff `array<...>` als Datentyp einer Spalte sehen wissen w
 
 Im zweiten Beispiel mit der Spate `related` sehen wir das Schlüsselwort `struct<...>`. Hierbei handelt sich nicht um ein Array, sondern **um ein Objekt**. Ein Objekt ist ein strukturierter Datentyp, der selbst weitere Felder \(oder Attribute\) hat, die wir über ihre Namen ansprechen können. Im Beispiel unten hat ein Wert in der Spalte `related` die Felder `also_bought`, `also_viewed`, `bought_together` und `buy_after_viewing`. Alle diese Felder sind wiederum vom Typ `array<string>`, was eine Liste von Strings bedeutet. Ihr seht schon, die Struktur einer JSON-Spalte kann beliebig tief geschachtelt sein. Wie man mit Objekten umgeht [schauen wir uns ebenfalls gleich an](json-and-sql.md#objekte-und-deren-attribute-abfragen).
 
-![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2854%29.png)
+![Beispiele f&#xFC;r Felder mit Strukturen bzw. JSON-Datentyp](../../.gitbook/assets/image%20%2852%29.png)
 
 ## Arrays abfragen
 
@@ -42,7 +42,7 @@ Um die Daten genauer zu untersuchen haben wir die Möglichkeit, über den kleine
 
 Wie aber können wir diese Spalte mit SQL abfragen?
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 ### Arrays mit SQL abfragen
 
@@ -85,7 +85,7 @@ where size(categories) > 1
 
 Das Ergebnis seht ihr unten im Screenshot:
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### Numerische Arrays summieren \(ohne `explode()`\)
 

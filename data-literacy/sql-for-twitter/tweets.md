@@ -100,7 +100,7 @@ order by hour(created_at) asc
 
 The result visualized in Databricks as a bar chart:
 
-![Number of tweets in every hour of the day in the example data set.](../../.gitbook/assets/image%20%2839%29.png)
+![Number of tweets in every hour of the day in the example data set.](../../.gitbook/assets/image%20%2837%29.png)
 
 ## What is the top 10 of the most popular tweets?
 

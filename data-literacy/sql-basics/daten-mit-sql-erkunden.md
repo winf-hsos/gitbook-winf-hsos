@@ -35,7 +35,7 @@ Die häufigsten Werte werden im Ergebnis oben angezeigt.
 
 Databricks bietet die Möglichkeit, tabellarische Ergebnisse mit einem Mausklick in eine visuelle Form zu bringen. Dazu nutzt ihr die Buttonleiste unter der Ergebnisanzeige. Mit Klick auf Chartsymbol bekommt ihr sofort eine Anzeige als Balkendiagramm. Über die den Button "Plot Options..." könnt ihr auch andere Charts auswählen und die Achsen konfigurieren.
 
-![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2835%29.png)
+![Die Anzahl Talks pro Event als Area-Chart.](../../.gitbook/assets/image%20%2833%29.png)
 
 ## Die zeitliche Verteilung der Daten ermitteln
 

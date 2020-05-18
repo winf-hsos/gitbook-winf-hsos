@@ -14,5 +14,5 @@ Sign up for Glitch to create a free account. Glitch works fully in the web brows
 
 Glitch is all you need to get coding with HTML, CSS and Javascript. It is the code editor we'll be using throughout all tutorials that involve theses 3 languages.
 
-![The sign up page for Glitch \(accessed: 05/2020\).](../.gitbook/assets/image%20%2823%29.png)
+![The sign up page for Glitch \(accessed: 05/2020\).](../.gitbook/assets/image%20%2855%29.png)
 
