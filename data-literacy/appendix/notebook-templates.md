@@ -8,6 +8,10 @@ description: >-
 
 ## Data Sets
 
+### Twitter Data from TDC
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Twitter%20Data%20Import%20Template.html" %}
+
 ### Covid-19 Data from Our World in Data
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Load%20Covid-19%20Data%20from%20Our%20World%20in%20Data.html" %}
@@ -19,6 +23,10 @@ description: >-
 ### Simpsons data
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/information-management/Template%20-%20Simpsons.html" %}
+
+## Tools in Data Analysis
+
+
 
 ## Utilities
 
