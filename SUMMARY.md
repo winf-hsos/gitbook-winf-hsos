@@ -103,6 +103,8 @@
     * [Hand Writing Recognition](data-literacy/how-to-get-started-with-machine-learning/applications/hand-writing-recognition.md)
   * [Online Examples](data-literacy/how-to-get-started-with-machine-learning/online-examples.md)
 * [Spreadsheets](data-literacy/spreadsheets.md)
+* [Appendix](data-literacy/appendix/README.md)
+  * [Notebook Templates](data-literacy/appendix/notebook-templates.md)
 
 ## Technological Literacy
 
