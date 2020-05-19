@@ -46,6 +46,8 @@ description: A collection of all Databricks templates in this book.
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Visualizations%20with%20Python.html" %}
 
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/NLP%20with%20Python%20and%20spaCy%20-%20First%20Steps.html" %}
+
 ## Utilities
 
 The maximum quota for the Databricks Community Edition is either 10.000 files or 10 GB of storage. When exceeded, we cannot perform analysis anymore. It's time to clean up!

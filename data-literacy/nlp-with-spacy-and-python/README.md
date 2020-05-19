@@ -7,6 +7,10 @@ description: >-
 
 # NLP with Python and SQL
 
+## Notebook Template
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/NLP%20with%20Python%20and%20spaCy%20-%20First%20Steps.html" %}
+
 ## Problem
 
 Texte sind unstrukturierte Daten, die wir nicht ohne Weiteres analysieren können. In vielen Anwendungsfällen geht es aber gerade darum, automatisiert bestimmte Dinge aus Texten zu extrahieren:
