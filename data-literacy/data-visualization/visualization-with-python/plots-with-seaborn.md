@@ -13,7 +13,7 @@ Import the following notebook to get started with plotting data in Python:
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Visualizations%20with%20Python.html" %}
 
-![](../../../.gitbook/assets/image%20%2853%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
 ## Links
 
