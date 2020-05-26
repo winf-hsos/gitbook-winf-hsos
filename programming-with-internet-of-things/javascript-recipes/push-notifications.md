@@ -7,6 +7,10 @@ description: >-
 
 # Push Notifications
 
+## Video
+
+{% embed url="https://youtu.be/we0f7To3Aw8" %}
+
 ## Enable webhooks service
 
 Type "webhook" into the search field in the upper left corner and hit enter. In the results, click on the services tab and click on the box with the label "Webhooks".
