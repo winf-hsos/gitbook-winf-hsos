@@ -8,11 +8,14 @@ The `hashtags` field of a tweet contains a list of hashtags. In technical terms,
 
 ## Array of URLs
 
+Find an example notebook for working with the `urls` field in twitter data under the link below:
+
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Working%20with%20URLs.html" %}
+
 Die URLs und Fotos sind in den Feldern `urls` und `photos` gespeichert. Beide Spalten sind vom Typ Array, was bedeutet, dass ein Tweet mehrere URLs bzw. mehrere Fotos haben kann. Der generelle Umgang mit Array wird im Tutorial [JSON-Felder mit SQL verarbeiten](../sql-advanced/json-and-sql.md#arrays-abfragen) erklärt. Hier eine Abfrage, die jeweils die erste URL / Foto eines Tweets in einer eigenen Spalte anzeigt:
 
 ```sql
 select urls[0].clean_url as `First URL in Tweet`
-      ,photos[0].media_url_https as `First photo URL in Tweet`
 from tweets
 where size(urls) > 0
 or size(photos) > 0
