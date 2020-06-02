@@ -6,6 +6,8 @@
 
 ## Aus Hashtags eine Themenlandkarte erstellen
 
+{% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Export%20hashtag%20pairs%20for%20visualization%20with%20Gephi.html" %}
+
 Eine Möglichkeit, Themen in Twitter-Daten zu identifizieren, besteht darin, die Verwendung von Hashtags systematisch zu analysieren. Um speziell zusammenhängende Themen zu finden, bietet es sich an, die Hashtags zu zählen, die häufig paarweise auftreten. Visualisiert man anschließend die gefundenen Hashtag-Paare und deren Häufigkeiten in geeigneter Weise, so bekommt man eine **Themenlandkarte** der Twitter-Hashtags.
 
 ![Beispiel f&#xFC;r eine Themenlandkarte auf Basis von Hashtags.](../../.gitbook/assets/hashtag_network.png)
