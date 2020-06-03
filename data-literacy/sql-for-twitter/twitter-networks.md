@@ -4,6 +4,8 @@
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Network%20visualization%20with%20D3.js.html" %}
 
+![A network visualization using force layout with D3.js](../../.gitbook/assets/image%20%2858%29.png)
+
 ## Aus Hashtags eine Themenlandkarte erstellen
 
 {% embed url="https://winf-hsos.github.io/databricks-notebooks/big-data-analytics/ss-2020/Export%20hashtag%20pairs%20for%20visualization%20with%20Gephi.html" %}
