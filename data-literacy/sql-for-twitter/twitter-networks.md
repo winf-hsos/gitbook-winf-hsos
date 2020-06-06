@@ -111,5 +111,11 @@ order by count(1) desc
 
 ### Import der Knoten und Kanten in Gephi
 
-Folgt bald...
+\[VIDEO\]
+
+## Links
+
+{% embed url="https://gephi.org/users/install/" %}
+
+
 
