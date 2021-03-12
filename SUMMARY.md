@@ -108,6 +108,8 @@
 
 ## Technological Literacy
 
+---
+
 * [Coding with Javascript](coding-with-javascript/README.md)
   * [Workspace Setup](coding-with-javascript/workspace-setup.md)
   * [Variables](coding-with-javascript/variables.md)

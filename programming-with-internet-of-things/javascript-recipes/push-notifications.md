@@ -9,7 +9,7 @@ description: >-
 
 ## Video
 
-Watch this video where I walk you through the process of setting up IFTTT and integrate it with our Javascript code:
+Watch this video where I walk you through the process of setting up IFTTT and integrate it with our JavaScript code:
 
 {% embed url="https://youtu.be/we0f7To3Aw8" %}
 
