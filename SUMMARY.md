@@ -85,8 +85,6 @@
     * [Plots with Seaborn](data-literacy/data-visualization/visualization-with-python/plots-with-seaborn.md)
     * [Word Clouds with Python](data-literacy/data-visualization/visualization-with-python/word-clouds-with-python.md)
 * [Machine Learning](data-literacy/how-to-get-started-with-machine-learning/README.md)
-  * [ML = Prediction](data-literacy/how-to-get-started-with-machine-learning/ml-prediction.md)
-  * [Rules vs. Data](data-literacy/how-to-get-started-with-machine-learning/learning-from-data.md)
   * [Learning Challenges](data-literacy/how-to-get-started-with-machine-learning/learning-challenges.md)
   * [Different Learners](data-literacy/how-to-get-started-with-machine-learning/different-learners.md)
   * [ML Tasks](data-literacy/how-to-get-started-with-machine-learning/ml-tasks/README.md)
